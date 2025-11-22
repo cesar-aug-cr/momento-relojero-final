@@ -7,17 +7,18 @@ import { type Locale } from '@/i18n/config';
 export async function generateMetadata({ params }: { params: Promise<{ lang: Locale }> }): Promise<Metadata> {
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
+  const meta = (dict as any).meta;
   return {
-    title: dict.meta.watchTypes.field.title,
-    description: dict.meta.watchTypes.field.description,
-    openGraph: { title: dict.meta.watchTypes.field.title, description: dict.meta.watchTypes.field.description },
+    title: meta.watchTypes.field.title,
+    description: meta.watchTypes.field.description,
+    openGraph: { title: meta.watchTypes.field.title, description: meta.watchTypes.field.description },
   };
 }
 
 export default async function FieldPage({ params }: { params: Promise<{ lang: Locale }> }) {
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
-  const content = dict.pages.watchTypes.field;
+  const content = (dict.pages as any).watchTypes.field;
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-background to-secondary/20">
