@@ -1,0 +1,3431 @@
+{
+  "nav": {
+    "home": "Home",
+    "watch101": "Watch 101",
+    "watch101Short": "Beginner's Hub",
+    "howWatchesWork": "How Watches Work",
+    "howWatchesWorkShort": "Movements",
+    "watchTypes": "Watch Types",
+    "watchTypesShort": "Types & Styles",
+    "watchFeatures": "Complications",
+    "watchFeaturesShort": "Features",
+    "worldOfWatches": "World of Watches",
+    "worldOfWatchesShort": "Brands & History",
+    "collectorsCorner": "Collector's Corner",
+    "collectorsCornerShort": "Collecting",
+    "watchCare": "Watch Care",
+    "watchCareShort": "Maintenance",
+    "blog": "Blog & Reviews",
+    "blogShort": "Blog",
+    "newsletter": "Newsletter",
+    "languageSwitcher": "Language"
+  },
+  "megaMenu": {
+    "learn": {
+      "title": "Learn",
+      "fundamentals": {
+        "title": "Fundamentals",
+        "watch101": {
+          "title": "Watch 101",
+          "description": "Essential basics for beginners"
+        },
+        "anatomy": {
+          "title": "Anatomy of a Watch",
+          "description": "Parts and components explained"
+        },
+        "terminology": {
+          "title": "Terminology",
+          "description": "Essential watch vocabulary"
+        }
+      },
+      "movements": {
+        "title": "Movements",
+        "howWatchesWork": {
+          "title": "How Watches Work",
+          "description": "Understanding watch movements"
+        },
+        "quartz": {
+          "title": "Quartz",
+          "description": "Battery-powered precision"
+        },
+        "manual": {
+          "title": "Manual Wind",
+          "description": "Hand-wound mechanical"
+        },
+        "automatic": {
+          "title": "Automatic",
+          "description": "Self-winding mechanical"
+        },
+        "other": {
+          "title": "Solar & Others",
+          "description": "Solar, Kinetic, Spring Drive"
+        }
+      }
+    },
+    "watches": {
+      "title": "Watches",
+      "typesAndStyles": {
+        "title": "Types & Styles",
+        "watchTypes": {
+          "title": "Watch Types",
+          "description": "Explore all watch styles"
+        },
+        "dive": {
+          "title": "Dive Watches",
+          "description": "Built for underwater"
+        },
+        "dress": {
+          "title": "Dress Watches",
+          "description": "Elegant & formal"
+        },
+        "chronograph": {
+          "title": "Chronographs",
+          "description": "Stopwatch function"
+        },
+        "pilot": {
+          "title": "Pilot Watches",
+          "description": "Aviation timepieces"
+        },
+        "field": {
+          "title": "Field Watches",
+          "description": "Military-inspired"
+        },
+        "gmt": {
+          "title": "GMT Watches",
+          "description": "Travel & time zones"
+        },
+        "digital": {
+          "title": "Digital",
+          "description": "Digital & smartwatches"
+        }
+      },
+      "complications": {
+        "title": "Complications",
+        "watchFeatures": {
+          "title": "Watch Features",
+          "description": "Beyond basic timekeeping"
+        },
+        "popularComplications": {
+          "title": "Popular Complications",
+          "description": "GMT, Chronograph, Moonphase, Others"
+        }
+      }
+    },
+    "brands": {
+      "title": "Brands",
+      "worldOfWatches": {
+        "title": "World of Watches",
+        "brandOverview": {
+          "title": "Brand Overview",
+          "description": "Explore watch manufacturers"
+        },
+        "history": {
+          "title": "History of Horology",
+          "description": "Timeline of watchmaking"
+        },
+        "holyTrinity": {
+          "title": "The Holy Trinity",
+          "description": "Patek, AP, Vacheron Constantin"
+        },
+        "luxuryBrands": {
+          "title": "Luxury Brands",
+          "description": "Rolex, Omega, Cartier & more"
+        }
+      }
+    },
+    "collecting": {
+      "title": "Collecting",
+      "collectorsCorner": {
+        "title": "Collector's Corner",
+        "gettingStarted": {
+          "title": "Getting Started",
+          "description": "Begin your collection"
+        },
+        "buyingGuide": {
+          "title": "Buying Guide",
+          "description": "New, pre-owned, vintage"
+        },
+        "spottingFakes": {
+          "title": "Spotting Fakes",
+          "description": "Authentication tips"
+        }
+      },
+      "watchCare": {
+        "title": "Watch Care",
+        "maintenance": {
+          "title": "Maintenance",
+          "description": "Keep your watches running"
+        },
+        "servicing": {
+          "title": "Servicing",
+          "description": "When and why to service"
+        }
+      }
+    },
+    "blog": {
+      "title": "Blog"
+    }
+  },
+  "hero": {
+    "badge": "Your Complete Watch Education Hub",
+    "title": "Welcome to",
+    "subtitle": "Momento Relojero",
+    "description": "The ultimate resource for watch enthusiasts. Master the art of horology from beginner basics to advanced collecting. Explore movements, brands, complications, and care.",
+    "cta_start": "Start Learning",
+    "cta_collectors": "For Collectors",
+    "stats": {
+      "sections": "Educational Sections",
+      "brands": "Watch Brands Covered",
+      "movements": "Movement Types",
+      "styles": "Watch Styles"
+    }
+  },
+  "sections": {
+    "title": "Explore the World of Watches",
+    "subtitle": "Navigate through our comprehensive sections designed to take you from beginner to expert",
+    "watch101": {
+      "title": "Watch 101: The Beginner's Hub",
+      "description": "Start your horological journey here. Learn the anatomy of a watch, essential terminology, water resistance ratings, and why watches matter in the digital age.",
+      "highlights": [
+        "Anatomy Guide",
+        "Terminology",
+        "Water Resistance",
+        "Why Wear Watches"
+      ]
+    },
+    "howWatchesWork": {
+      "title": "How Watches Work: The Movements",
+      "description": "Understand the heart of every timepiece. Explore quartz, manual-wind, automatic, and exotic movements like Spring Drive and solar power.",
+      "highlights": [
+        "Quartz Movement",
+        "Mechanical Manual",
+        "Automatic",
+        "Spring Drive"
+      ]
+    },
+    "watchTypes": {
+      "title": "Types & Styles of Watches",
+      "description": "Discover your perfect watch style. From dive watches to dress watches, chronographs to field watches - explore every category with iconic examples.",
+      "highlights": [
+        "Dive Watches",
+        "Dress Watches",
+        "Chronographs",
+        "Pilot Watches"
+      ]
+    },
+    "watchFeatures": {
+      "title": "Watch Features & Complications",
+      "description": "Beyond telling time: explore simple to grand complications. From date displays to perpetual calendars and minute repeaters.",
+      "highlights": [
+        "Date Functions",
+        "Chronographs",
+        "Perpetual Calendar",
+        "Tourbillon"
+      ]
+    },
+    "worldOfWatches": {
+      "title": "The World of Watches: Brands & History",
+      "description": "Journey through horological history. Discover the Holy Trinity, iconic luxury brands, Swiss entry-level options, and Japanese giants.",
+      "highlights": [
+        "Holy Trinity",
+        "Rolex & Omega",
+        "Seiko & Grand Seiko",
+        "Watch History"
+      ]
+    },
+    "collectorsCorner": {
+      "title": "The Collector's Corner",
+      "description": "Start or refine your collection. Learn how to buy smart, spot fakes, understand reference numbers, and build a meaningful collection.",
+      "highlights": [
+        "Starting Guide",
+        "New vs. Vintage",
+        "Spotting Fakes",
+        "Reference Numbers"
+      ]
+    },
+    "watchCare": {
+      "title": "Watch Care & Maintenance",
+      "description": "Protect your investment. Master cleaning techniques, understand servicing needs, storage solutions, and how to change straps.",
+      "highlights": [
+        "Cleaning Guide",
+        "Servicing",
+        "Storage",
+        "Strap Changes"
+      ]
+    },
+    "blog": {
+      "title": "Blog, Reviews & News",
+      "description": "Stay current with the watch world. Read in-depth reviews, industry news, opinion pieces, and comprehensive buying guides.",
+      "highlights": [
+        "Watch Reviews",
+        "Industry News",
+        "Buying Guides",
+        "Opinion Pieces"
+      ]
+    },
+    "explore": "Explore Section",
+    "featuredMasterpiece": {
+      "badge": "Featured Masterpiece",
+      "title": "The Art of Precision",
+      "description": "Discover the intricate world of haute horlogerie. From the delicate balance spring to the mesmerizing tourbillon, every component tells a story of craftsmanship and engineering excellence.",
+      "cta": "Discover More"
+    },
+    "legacyOfTime": {
+      "title": "Legacy of Time",
+      "subtitle": "A journey through the milestones that defined modern watchmaking.",
+      "timeline": [
+        {
+          "year": "1500s",
+          "title": "The Beginning",
+          "desc": "First portable clocks invented."
+        },
+        {
+          "year": "1700s",
+          "title": "Golden Age",
+          "desc": "Invention of the tourbillon."
+        },
+        {
+          "year": "1900s",
+          "title": "Wristwatch Era",
+          "desc": "Shift from pocket to wrist."
+        },
+        {
+          "year": "1969",
+          "title": "Quartz Crisis",
+          "desc": "The electronic revolution."
+        }
+      ]
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Momento Relojero?",
+    "subtitle": "Your trusted companion in the fascinating world of horology",
+    "reasons": {
+      "comprehensive": {
+        "title": "Comprehensive Education",
+        "description": "From absolute beginner to seasoned collector, we cover every aspect of horology in depth."
+      },
+      "authoritative": {
+        "title": "Authoritative Content",
+        "description": "Carefully researched guides written by watch enthusiasts for watch enthusiasts."
+      },
+      "practical": {
+        "title": "Practical Advice",
+        "description": "Real-world tips on buying, collecting, caring for, and enjoying your watches."
+      },
+      "free": {
+        "title": "Always Free",
+        "description": "No paywalls, no gated content. All knowledge freely accessible to everyone."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Watch Enthusiasts Say",
+    "subtitle": "Join thousands of collectors who trust Momento Relojero",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "role": "Watch Collector",
+        "content": "Momento Relojero helped me understand mechanical movements and make my first smart purchase. Incredible resources!",
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Sophie Laurent",
+        "role": "Watch Enthusiast",
+        "content": "The most complete watch guide I've found. Perfect for beginners and experienced collectors alike.",
+        "location": "Paris, France"
+      },
+      {
+        "name": "James Wilson",
+        "role": "New Collector",
+        "content": "I went from knowing nothing about watches to building a 10-piece collection thanks to this amazing site.",
+        "location": "London, UK"
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Never Miss a Beat",
+    "description": "Subscribe to our newsletter for exclusive watch reviews, collecting tips, industry news, and special insights delivered to your inbox.",
+    "cta": "Subscribe Now"
+  },
+  "exitIntent": {
+    "title": "Wait! Don't Miss Our Exclusive Content",
+    "description": "Join thousands of watch enthusiasts and receive free guides, collecting tips, and exclusive offers.",
+    "incentive": "📚 Free Guide: \"The 10 Essential Watches to Start Your Collection\"",
+    "emailPlaceholder": "you@email.com",
+    "submitButton": "Get My Free Guide",
+    "submitting": "Sending...",
+    "thankYou": "Thank You!",
+    "checkEmail": "Check your email for your free guide.",
+    "instantDelivery": "Instant delivery",
+    "noSpam": "No spam, unsubscribe anytime"
+  },
+  "socialProof": {
+    "trustBadges": {
+      "verified": {
+        "title": "Verified Information",
+        "description": "Content reviewed by watch experts"
+      },
+      "awarded": {
+        "title": "Award-Winning Resources",
+        "description": "Recognized by the collector community"
+      },
+      "readers": {
+        "title": "50,000+ Readers",
+        "description": "Trusted by enthusiasts worldwide"
+      },
+      "updated": {
+        "title": "Constantly Updated",
+        "description": "New content every week"
+      }
+    },
+    "stats": {
+      "monthlyReaders": "Monthly Readers",
+      "detailedGuides": "Detailed Guides",
+      "brandsCovered": "Brands Covered",
+      "averageRating": "Average Rating"
+    }
+  },
+  "watchTypes": {
+    "dive": "Dive Watches",
+    "dress": "Dress Watches",
+    "chronograph": "Chronographs",
+    "pilot": "Pilot Watches",
+    "field": "Field Watches",
+    "gmt": "GMT Watches",
+    "digital": "Digital & Smartwatches"
+  },
+  "movements": {
+    "automatic": {
+      "hero": {
+        "title": "Automatic Watches",
+        "description": "Discover the magic of mechanical movements powered by the motion of your wrist"
+      },
+      "intro": "Automatic watches, also known as self-winding watches, represent the culmination of centuries of watchmaking innovation. These fascinating mechanisms are powered by the natural motion of your wrist through an oscillating rotor that winds the mainspring. With no batteries needed and no daily winding required, an automatic watch is the perfect companion that beats to the rhythm of your life.",
+      "advantages": {
+        "title": "Advantages of Automatic Watches",
+        "benefits": [
+          {
+            "title": "No Batteries",
+            "description": "You'll never have to change a battery. The movement of your wrist keeps the watch running continuously."
+          },
+          {
+            "title": "Traditional Craftsmanship",
+            "description": "Each automatic movement is a masterpiece of mechanical engineering with hundreds of components working in harmony."
+          },
+          {
+            "title": "Low Maintenance",
+            "description": "With regular wear, an automatic watch can run indefinitely with servicing every 3-5 years."
+          },
+          {
+            "title": "Investment Value",
+            "description": "Quality automatic watches maintain or increase in value over time, especially from prestigious brands."
+          }
+        ]
+      },
+      "famousExamples": {
+        "title": "Legendary Automatic Movements",
+        "models": [
+          {
+            "brand": "ETA",
+            "model": "2824-2",
+            "price": "25 jewels, 28,800 vph, 38h power reserve",
+            "highlight": "The workhorse of the industry, used by hundreds of brands and known for reliability."
+          },
+          {
+            "brand": "Seiko",
+            "model": "6R35",
+            "price": "23 jewels, 21,600 vph, 70h power reserve",
+            "highlight": "Robust Japanese movement with excellent power reserve and superior accuracy."
+          },
+          {
+            "brand": "Rolex",
+            "model": "3235",
+            "price": "31 jewels, 28,800 vph, 70h power reserve, Chronometer",
+            "highlight": "In-house movement with patented Chronergy escapement and certified accuracy of -2/+2 seconds per day."
+          },
+          {
+            "brand": "Omega",
+            "model": "8800",
+            "price": "35 jewels, 25,200 vph, 55h power reserve, Co-Axial",
+            "highlight": "Master Chronometer movement resistant to magnetic fields up to 15,000 gauss."
+          }
+        ]
+      },
+      "conclusion": {
+        "title": "The Art of Automatic Movement",
+        "content": "Automatic watches represent the perfect fusion of tradition and innovation. They are living machines that capture the essence of centuries of watchmaking mastery, offering a unique experience that no battery can replicate."
+      }
+    },
+    "manual": {
+      "hero": {
+        "title": "Manual Wind Watches",
+        "description": "Experience the intimate connection with traditional watchmaking through the daily ritual of winding"
+      },
+      "intro": "Manual wind watches represent the purest form of mechanical watchmaking. Each day, you connect with your watch through the ritual of winding, feeling the tension of the mainspring as you coil it. This direct interaction with the mechanism creates a special bond between the watch and its owner, a tradition dating back to the origins of horology.",
+      "advantages": {
+        "title": "Why Choose Manual Wind",
+        "benefits": [
+          {
+            "title": "Slimmer Design",
+            "description": "Without the automatic rotor, manual wind watches can be significantly thinner and more elegant."
+          },
+          {
+            "title": "Daily Ritual",
+            "description": "The act of winding creates a personal connection with your watch, a moment of mindfulness in your daily routine."
+          },
+          {
+            "title": "Movement Visibility",
+            "description": "Many manual wind watches have transparent casebacks that allow full appreciation of the movement without obstructions."
+          },
+          {
+            "title": "Watchmaking Tradition",
+            "description": "Collectors appreciate the purity and historical lineage of manual wind movements."
+          }
+        ]
+      },
+      "famousExamples": {
+        "title": "Iconic Manual Wind Movements",
+        "models": [
+          {
+            "brand": "Unitas/ETA",
+            "model": "6497/6498",
+            "price": "17 jewels, 18,000 vph, 46h power reserve",
+            "highlight": "Classic pocket watch movement adapted for wristwatches, with customizable finishing."
+          },
+          {
+            "brand": "Patek Philippe",
+            "model": "215 PS",
+            "price": "18 jewels, 28,800 vph, 44h power reserve",
+            "highlight": "Ultra-thin movement at only 2.55mm thick, hand-finished to Geneva Seal standards."
+          },
+          {
+            "brand": "A. Lange & Söhne",
+            "model": "L051.1",
+            "price": "45 jewels, 21,600 vph, 72h power reserve",
+            "highlight": "German masterpiece with three-quarter plate and hand-engraved balance cock."
+          },
+          {
+            "brand": "Valjoux",
+            "model": "7750",
+            "price": "25 jewels, 28,800 vph, 48h power reserve",
+            "highlight": "Robust automatic chronograph used in thousands of luxury and sports watches."
+          }
+        ]
+      },
+      "howToWind": {
+        "title": "How to Wind a Manual Watch",
+        "instructions": [
+          {
+            "step": "Unscrew the crown (if applicable)",
+            "detail": "If your watch has a screw-down crown for water resistance, gently unscrew it counterclockwise until it pops out slightly."
+          },
+          {
+            "step": "Pull the crown to position 1",
+            "detail": "The crown typically has multiple positions. Position 1 is the winding position, closest to the case."
+          },
+          {
+            "step": "Wind clockwise",
+            "detail": "Turn the crown clockwise (away from you) in smooth, gentle motions. You should feel slight resistance."
+          },
+          {
+            "step": "Stop when you feel resistance",
+            "detail": "Never force it. Stop winding when you feel consistent resistance. Overwinding can damage the mainspring."
+          },
+          {
+            "step": "Push the crown back in",
+            "detail": "Push the crown gently back to its normal position. If it is a screw-down crown, screw it back in clockwise."
+          },
+          {
+            "step": "Wind daily",
+            "detail": "For best performance, wind your manual watch at the same time each day, preferably in the morning."
+          }
+        ]
+      },
+      "conclusion": {
+        "title": "The Purity of Manual Winding",
+        "content": "Manual wind watches offer the most authentic mechanical watchmaking experience. The daily ritual of winding creates an intimate connection with your watch that transcends simple timekeeping."
+      }
+    },
+    "quartz": {
+      "hero": {
+        "title": "Quartz Watches",
+        "description": "Unparalleled precision and minimal maintenance through quartz crystal technology"
+      },
+      "intro": "Quartz watches revolutionized the watch industry in the 1970s with the 'Quartz Crisis'. Using the piezoelectric properties of a quartz crystal, these watches achieve extraordinary precision that mechanical movements simply cannot match. A typical quartz watch is accurate to within 15 seconds per month, compared to 15 seconds per day for a quality mechanical watch.",
+      "advantages": {
+        "title": "Benefits of Quartz Watches",
+        "benefits": [
+          {
+            "title": "Superior Precision",
+            "description": "Quartz watches are typically 10 times more accurate than mechanical ones, losing only seconds per month."
+          },
+          {
+            "title": "Low Maintenance",
+            "description": "Only require a battery change every 2-3 years, with no need for regular servicing."
+          },
+          {
+            "title": "Affordable Price",
+            "description": "Mass production makes quartz watches significantly more affordable than mechanical ones."
+          },
+          {
+            "title": "Durability",
+            "description": "With fewer moving parts, quartz watches are more resistant to shocks and vibrations."
+          }
+        ]
+      },
+      "famousExamples": {
+        "title": "Notable Quartz Movements",
+        "models": [
+          {
+            "brand": "Seiko",
+            "model": "9F",
+            "price": "Accuracy ±10 sec/year, 3-year battery",
+            "highlight": "Grand Seiko movement with instant date change and finishing similar to luxury mechanicals."
+          },
+          {
+            "brand": "ETA",
+            "model": "F06.111",
+            "price": "Accuracy ±15 sec/month, 4-year battery",
+            "highlight": "Standard Swiss movement used in brands like Tissot, Hamilton, and Certina."
+          },
+          {
+            "brand": "Citizen",
+            "model": "0100",
+            "price": "Accuracy ±1 sec/year, AT-Cut technology",
+            "highlight": "The world's most accurate quartz movement, with special AT-Cut crystal."
+          },
+          {
+            "brand": "Breitling",
+            "model": "SuperQuartz",
+            "price": "Accuracy ±10 sec/year, COSC Chronometer",
+            "highlight": "Thermocompensated quartz with COSC certification, 10 times more precise than standard quartz."
+          }
+        ]
+      },
+      "conclusion": {
+        "title": "Precision Without Compromise",
+        "content": "Quartz watches democratized chronometric precision. They offer exceptional reliability with minimal maintenance, proving that modern technology can coexist perfectly with watchmaking tradition."
+      }
+    },
+    "other": {
+      "hero": {
+        "title": "Alternative Movements",
+        "description": "Explore innovative technologies: Solar, Kinetic, and Spring Drive"
+      },
+      "intro": "Beyond traditional mechanical and quartz movements, there are innovative technologies that combine the best of both worlds. Solar movements harness light to eliminate battery changes, Kinetic generates electricity from your wrist motion, and Seiko's revolutionary Spring Drive fuses quartz precision with the soul of a mechanical movement.",
+      "technologies": {
+        "solar": {
+          "title": "Solar Technology",
+          "howItWorks": "Solar watches use photovoltaic cells to convert any light source into electrical energy, storing it in a rechargeable battery. Once fully charged, a solar watch can run for months in complete darkness. This technology eliminates the need for battery changes and provides an eco-friendly, low-maintenance solution.",
+          "models": [
+            {
+              "model": "Citizen Eco-Drive Promaster",
+              "price": "$300-600",
+              "highlight": "Up to 6 months power reserve, 200m water resistance"
+            },
+            {
+              "model": "Seiko Solar Diver SNE583",
+              "price": "$350-450",
+              "highlight": "V157 movement, 10-month reserve, 200m water resistance"
+            },
+            {
+              "model": "G-Shock Tough Solar GW-M5610",
+              "price": "$150-200",
+              "highlight": "Atomic timekeeping, extreme durability, 10-month reserve"
+            }
+          ]
+        },
+        "kinetic": {
+          "title": "Seiko Kinetic",
+          "description": "Kinetic technology combines an automatic rotor with an electrical generator and capacitor. Your wrist motion generates electricity that's stored, powering a quartz movement. It's like an automatic that never needs mechanical servicing, offering quartz precision without batteries, with capacitor life exceeding 15 years."
+        },
+        "springDrive": {
+          "title": "Seiko Spring Drive",
+          "description": "Spring Drive is the most revolutionary innovation in modern watchmaking. It combines a mechanical mainspring with an electronic quartz regulator, achieving quartz precision (+/- 1 second per day) with the continuous, silent sweep of hands that only a mechanical movement can offer. The result is a perfectly smooth glide motion without the characteristic tick.",
+          "models": [
+            {
+              "model": "Grand Seiko SBGA413 Spring",
+              "price": "$5,800-6,200",
+              "highlight": "Snowflake dial, 72-hour reserve, ±1 sec/day accuracy"
+            },
+            {
+              "model": "Grand Seiko SBGJ219 GMT",
+              "price": "$6,000-6,500",
+              "highlight": "GMT function, 9R66 caliber, Zaratsu finishing"
+            }
+          ]
+        }
+      },
+      "conclusion": {
+        "title": "The Future of Watchmaking",
+        "content": "These alternative technologies represent the cutting edge of horological innovation. Whether you seek the eco-friendly convenience of solar, the ingenious power generation of Kinetic, or the technical perfection of Spring Drive, each technology offers a unique proposition that transcends the traditional boundaries between mechanical and quartz movements."
+      }
+    }
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "backTo": "Back to",
+    "allTypes": "All Types",
+    "overview": "Overview",
+    "history": "History",
+    "brands": "Brands",
+    "luxury": "Luxury",
+    "characteristics": "Characteristics",
+    "pros": "Advantages",
+    "cons": "Disadvantages",
+    "examples": "Examples",
+    "perfectFor": "Perfect For"
+  },
+  "footer": {
+    "tagline": "Your Complete Watch Guide",
+    "rights": "All rights reserved",
+    "keepExploring": "Keep Exploring...",
+    "subscribe": "Subscribe to Newsletter",
+    "stayUpdated": "Stay Updated on the World of Watches",
+    "newsletterDesc": "Get exclusive watch reviews, collecting tips, industry news, and special offers delivered to your inbox.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "sections": {
+      "shop": "Shop",
+      "about": "About",
+      "journal": "Journal",
+      "support": "Support"
+    }
+  },
+  "meta": {
+    "home": {
+      "title": "Momento Relojero | The Ultimate Watch Enthusiast Resource",
+      "description": "Your complete educational resource for watch collecting. Learn about movements, brands, complications, care, and building your collection from beginner to expert."
+    },
+    "watchTypes": {
+      "dive": {
+        "title": "Dive Watches: Complete Guide | Momento Relojero",
+        "description": "Everything about dive watches: from Rolex Submariner to Seiko. Learn features, history, and how to choose the perfect dive watch."
+      },
+      "dress": {
+        "title": "Dress Watches: Guide to Elegance | Momento Relojero",
+        "description": "Master the art of dress watches. Learn about slim profiles, precious metals, and the timeless elegance of formal watches."
+      },
+      "chronograph": {
+        "title": "Chronographs: Complete Stopwatch Watch Guide | Momento Relojero",
+        "description": "Discover chronographs: from Omega Speedmaster to Rolex Daytona. History, functionality, and how to choose your first chronograph."
+      },
+      "pilot": {
+        "title": "Pilot Watches: Complete Aviation Watch Guide | Momento Relojero",
+        "description": "Explore aviation watches: IWC, Breitling, Zenith. Learn about military heritage, readability, and navigation complications."
+      },
+      "field": {
+        "title": "Field Watches: Military Watch Guide | Momento Relojero",
+        "description": "Field watches: military heritage, durability, and exceptional value. Hamilton, Seiko, Marathon and more."
+      },
+      "gmt": {
+        "title": "GMT Watches: Multi-Timezone Watch Guide | Momento Relojero",
+        "description": "Master GMT watches for travelers. Rolex GMT-Master, Tudor Black Bay GMT, and how to track multiple time zones."
+      },
+      "digital": {
+        "title": "Digital Watches & Smartwatches: Complete Guide | Momento Relojero",
+        "description": "From G-Shock to Apple Watch: explore digital watches, smartwatches, and the evolution of watch technology."
+      }
+    },
+    "movements": {
+      "quartz": {
+        "title": "Quartz Movements: How They Work | Momento Relojero",
+        "description": "Everything about quartz movements: precision, advantages, maintenance, and why they remain relevant in modern watchmaking."
+      },
+      "manual": {
+        "title": "Manual Wind Movements: Complete Guide | Momento Relojero",
+        "description": "Discover manual wind mechanical watches: history, advantages, how to wind, and why enthusiasts love them."
+      },
+      "automatic": {
+        "title": "Automatic Movements: Automatic Watch Guide | Momento Relojero",
+        "description": "Learn everything about automatic movements: how they work, maintenance, power reserve, and famous calibers."
+      },
+      "other": {
+        "title": "Solar, Kinetic & Spring Drive: Alternative Movements | Momento Relojero",
+        "description": "Explore alternative technologies: Citizen Solar, Seiko Kinetic, and the revolutionary Spring Drive."
+      }
+    }
+  },
+  "pages": {
+    "watchTypes": {
+      "dive": {
+        "hero": {
+          "title": "Dive Watches",
+          "subtitle": "The Most Versatile Sports Watch",
+          "description": "Originally designed for underwater exploration, dive watches combine robust engineering, tool functionality, and timeless style perfect for daily wear."
+        },
+        "intro": "The dive watch is arguably the most popular and versatile watch style that exists. Though originally created for professional SCUBA divers, modern dive watches are worn everywhere from boardrooms to beaches. Their robust construction, high water resistance, and sporty yet elegant design make them perfect companions that can handle whatever life throws at them.",
+        "whatMakes": {
+          "title": "What Defines a Dive Watch?",
+          "intro": "True dive watches must meet ISO 6425 standards, which specify rigorous requirements for underwater use. However, many watches adopt dive styling without full certification. Here are the essential features that define dive watches:",
+          "features": [
+            {
+              "title": "Water Resistance",
+              "description": "Minimum 200m, professional models 300m+",
+              "detail": "ISO 6425 certified dive watches must withstand 25% more than nominal depth"
+            },
+            {
+              "title": "Rotating Bezel",
+              "description": "Unidirectional timing bezel",
+              "detail": "Prevents accidentally increasing dive time, a critical safety feature"
+            },
+            {
+              "title": "High Legibility",
+              "description": "Clear markers and super-luminova",
+              "detail": "Readable at 25cm in total darkness per ISO standards"
+            },
+            {
+              "title": "Screw-Down Crown",
+              "description": "Enhanced water protection",
+              "detail": "Screws into the case to create a watertight seal"
+            }
+          ]
+        },
+        "history": {
+          "title": "History of Dive Watches",
+          "paragraphs": [
+            "The Rolex Submariner and Blancpain Fifty Fathoms, both released in 1953, are considered the first true dive watches. They solved a real problem: allowing divers to safely track bottom time using the rotating bezel. Before dive computers became ubiquitous in the 80s-90s, a dive watch was essential safety equipment.",
+            "Today, dive computers have largely replaced watches for actual diving, but dive watches remain immensely popular. Their tool heritage, versatile styling, and robust build quality make them ideal daily wearers. A Rolex Submariner is equally comfortable on a dive expedition, in a business meeting, or at a formal dinner."
+          ]
+        },
+        "popular": {
+          "title": "Popular Dive Watches by Price Range",
+          "models": [
+            {
+              "brand": "Rolex",
+              "model": "Submariner",
+              "price": "$9,000 - $40,000+",
+              "wr": "300m",
+              "highlight": "The iconic dive watch that defined the category"
+            },
+            {
+              "brand": "Omega",
+              "model": "Seamaster Professional",
+              "price": "$4,000 - $10,000",
+              "wr": "300m",
+              "highlight": "James Bond's choice, helium escape valve"
+            },
+            {
+              "brand": "Tudor",
+              "model": "Black Bay",
+              "price": "$3,000 - $5,000",
+              "wr": "200m",
+              "highlight": "Vintage-inspired, excellent value proposition"
+            },
+            {
+              "brand": "Seiko",
+              "model": "Prospex Diver",
+              "price": "$300 - $1,500",
+              "wr": "200m",
+              "highlight": "Best value in dive watches, legendary reliability"
+            },
+            {
+              "brand": "Blancpain",
+              "model": "Fifty Fathoms",
+              "price": "$15,000 - $100,000+",
+              "wr": "300m",
+              "highlight": "The original modern dive watch (1953)"
+            },
+            {
+              "brand": "Oris",
+              "model": "Aquis",
+              "price": "$2,000 - $5,000",
+              "wr": "300m",
+              "highlight": "Swiss quality at accessible prices"
+            }
+          ]
+        },
+        "choosing": {
+          "title": "Choosing Your First Dive Watch",
+          "intro": "Dive watches are often recommended as first luxury watch purchases, and with good reason. They're versatile, durable, and hold value well. Here's how to choose:",
+          "sections": [
+            {
+              "title": "Size Matters",
+              "content": "Modern dive watches range from 38mm to 45mm. Bigger isn't always better—ensure the lugs don't overhang your wrist. Most men with 6.5-7 inch wrists find 40-42mm ideal. Try watches on if possible, as lug-to-lug measurement matters more than diameter."
+            },
+            {
+              "title": "Bezel Material",
+              "content": "Aluminum inserts are traditional and develop character (scratches) over time. Ceramic bezels are virtually scratch-proof but more expensive. Both are legitimate choices depending on your preference for patina versus pristine condition."
+            },
+            {
+              "title": "Movement Choice",
+              "content": "Automatic movements are traditional and preferred by enthusiasts. Quartz offers superior accuracy and lower maintenance. For actual diving, quartz is arguably more practical. For collecting and enjoyment, automatic is more engaging."
+            },
+            {
+              "title": "Water Resistance: How Much Do You Need?",
+              "content": "200m is sufficient for recreational swimming and snorkeling. 300m is the professional standard for SCUBA diving. Ratings above 300m are overkill unless you're a commercial diver, but they provide peace of mind and often indicate superior build quality. Don't buy a dive watch with less than 200m water resistance."
+            }
+          ]
+        },
+        "paradox": {
+          "title": "The Dive Watch Paradox",
+          "content": "Here's the funny truth: most dive watch owners never dive. These watches were designed for underwater exploration, but they spend their lives in offices, golf courses, and dinner parties. The Rolex Submariner is more likely to see a boardroom than a coral reef. But that's perfectly fine. Dive watches have transcended their utilitarian origins to become style icons. Their robust construction, sporty aesthetic, and tool heritage make them perfect daily companions. Whether you're diving 100 feet underwater or diving into a spreadsheet, a dive watch is ready for action."
+        },
+        "proTips": {
+          "title": "Pro Tips for Dive Watch Owners",
+          "tips": [
+            {
+              "title": "Rinse after saltwater",
+              "content": "Always rinse with fresh water after ocean swimming. Salt crystals can corrode gaskets and damage the case."
+            },
+            {
+              "title": "Never operate crown underwater",
+              "content": "Even if your watch is rated for 300m, operating the crown when wet can allow water entry. Always ensure the screw-down crown is fully tightened before swimming."
+            },
+            {
+              "title": "Test water resistance annually",
+              "content": "Gaskets deteriorate over time. Have your watch pressure-tested annually, especially before dive season."
+            },
+            {
+              "title": "Rotate the bezel regularly",
+              "content": "This prevents lubricants from drying out and ensures smooth operation when you need it."
+            },
+            {
+              "title": "Switch to rubber for water sports",
+              "content": "Metal bracelets are durable but can pinch when wet. Rubber straps are more comfortable for swimming and diving."
+            }
+          ]
+        }
+      },
+      "dress": {
+        "hero": {
+          "title": "Dress Watches",
+          "subtitle": "The Epitome of Elegance",
+          "description": "Characterized by slim profiles, simple dials, and precious metal cases. Designed to slide under a shirt cuff, they prioritize aesthetics and formal appeal over functionality."
+        },
+        "intro": "The dress watch represents refinement and elegance in its purest form. Where other watches shout, the dress watch whispers. These timepieces are masterpieces of minimalist design, rejecting unnecessary complications in favor of perfect proportions and exquisite details. A true dress watch is slim enough to slide under a shirt cuff effortlessly, elegant enough to complement the finest formal wear, and timeless enough to pass from generation to generation.",
+        "whatMakes": {
+          "title": "Defining Features of Dress Watches",
+          "features": [
+            {
+              "title": "Slim Case Profile",
+              "description": "Typically under 10mm thick",
+              "detail": "Slimness allows the watch to slide under a shirt cuff without creating a bulge. The finest dress watches are often 6-8mm thick."
+            },
+            {
+              "title": "Clean, Uncluttered Dial",
+              "description": "Minimalist design",
+              "detail": "Focus on legibility and elegance over complications. Often just hours, minutes, and perhaps small seconds."
+            },
+            {
+              "title": "Leather Strap",
+              "description": "Usually black or brown",
+              "detail": "Leather is traditional for formal occasions. Crocodile, lizard, or calfskin are premium options."
+            },
+            {
+              "title": "Modest Case Size",
+              "description": "36-40mm typically",
+              "detail": "Classic dress watches trend toward smaller sizes. The Patek Philippe Calatrava is 39mm, considered perfect."
+            },
+            {
+              "title": "Precious Metals or Steel",
+              "description": "Gold, platinum, or fine steel",
+              "detail": "Yellow or white gold is traditional. Steel is acceptable but less formal."
+            }
+          ]
+        },
+        "history": {
+          "title": "History of Dress Watches",
+          "content": "Dress watches evolved from pocket watches in the early 20th century. When wristwatches became acceptable for men (popularized during World War I), elegant timepieces were created specifically for formal use. The Patek Philippe Calatrava (1932) remains the archetype of dress watch design: simple, slim, elegant, and timeless. Its Bauhaus design influenced generations of formal watches. The dress watch philosophy is 'less is more'. Every element must serve a purpose, and nothing should be superfluous."
+        },
+        "icons": {
+          "title": "Iconic Dress Watches",
+          "models": [
+            {
+              "brand": "Patek Philippe",
+              "model": "Calatrava",
+              "price": "$20,000 - $50,000+",
+              "highlight": "The definitive dress watch, timeless design since 1932"
+            },
+            {
+              "brand": "Jaeger-LeCoultre",
+              "model": "Master Ultra Thin",
+              "price": "$8,000 - $20,000",
+              "highlight": "Extraordinarily thin, refined elegance"
+            },
+            {
+              "brand": "Vacheron Constantin",
+              "model": "Patrimony",
+              "price": "$18,000 - $100,000+",
+              "highlight": "Haute horlogerie simplicity, finishing perfection"
+            },
+            {
+              "brand": "A. Lange & Söhne",
+              "model": "Saxonia Thin",
+              "price": "$20,000 - $40,000",
+              "highlight": "German precision, minimalist beauty"
+            },
+            {
+              "brand": "Cartier",
+              "model": "Tank",
+              "price": "$3,000 - $50,000+",
+              "highlight": "Design icon, perfect for formal occasions"
+            },
+            {
+              "brand": "Longines",
+              "model": "La Grande Classique",
+              "price": "$1,000 - $3,000",
+              "highlight": "Accessible elegance, exceptional slimness"
+            }
+          ]
+        },
+        "whenToWear": {
+          "title": "When to Wear a Dress Watch",
+          "occasions": [
+            {
+              "event": "Black Tie Events",
+              "description": "The traditional domain of the dress watch. Pair with tuxedo or formal suit."
+            },
+            {
+              "event": "Formal Weddings",
+              "description": "An elegant dress watch complements formal wedding attire without drawing attention."
+            },
+            {
+              "event": "Professional Business Settings",
+              "description": "In finance, law, and senior corporate roles, a dress watch projects sophistication."
+            },
+            {
+              "event": "Fine Dining",
+              "description": "Elegant restaurants appreciate the discretion of a fine dress watch."
+            },
+            {
+              "event": "Cultural Events",
+              "description": "Opera, ballet, charity galas: occasions where dress code matters."
+            }
+          ]
+        },
+        "rules": {
+          "title": "The Unwritten Rules of Dress Watches",
+          "rules": [
+            "Thinner is better: A dress watch should be invisible under your cuff",
+            "Match metals: Gold watch with gold belt buckle, steel with silver buckle",
+            "Black leather goes with black shoes, brown with brown shoes",
+            "Avoid unnecessary functions: Date is acceptable, chronographs are not",
+            "Size matters: A large dress watch (43mm+) defeats the purpose",
+            "Skip the bling: Polished finishes are appropriate, brushed is too casual",
+            "Roman numeral markers are most formal, followed by applied indices",
+            "Metal bracelets are less formal than leather for black tie occasions"
+          ]
+        },
+        "vs": {
+          "title": "Dress Watch vs. Dive Watch: The Eternal Question",
+          "content": "Enthusiasts debate this endlessly. Dive watches are versatile, durable, and can dress up. Dress watches are elegant, slim, and truly formal. The truth: you need both. A Submariner with a tuxedo is questionable at best. A Calatrava at the beach is equally inappropriate. The dive watch is your versatile daily tool. The dress watch is for when stakes are high and first impressions matter. If you can only afford one, choose based on your lifestyle. If you wear a suit daily, get a dress watch. If your life is more casual, the dive watch makes more sense."
+        }
+      },
+      "chronograph": {
+        "hero": {
+          "title": "Chronographs",
+          "subtitle": "When Time is of the Essence",
+          "description": "Watches with integrated stopwatch functionality, featuring sub-dials and pushers to start, stop, and reset time. Chronographs represent the perfect blend of functionality and mechanical complexity."
+        },
+        "intro": "The chronograph is where art meets engineering. These watches combine precise timekeeping with fascinating mechanical complexity, making them favorites among enthusiasts. Whether you're timing race laps, measuring cooking times, or simply admiring the dance of pushers and sub-dials, chronographs offer practical functionality wrapped in beautiful machinery. They're the Swiss army knives of the watch world: more complex than a simple watch, but significantly more useful.",
+        "whatMakes": {
+          "title": "Anatomy of a Chronograph",
+          "features": [
+            {
+              "title": "Sub-Dials",
+              "description": "Two or three counters for timing",
+              "detail": "Typically 30 minutes, 12 hours, and continuous seconds. Some add date and moon phases."
+            },
+            {
+              "title": "Pushers",
+              "description": "Two buttons (start/stop and reset)",
+              "detail": "The top pusher starts/stops. The bottom resets. Mono-pushers use a single button for all functions."
+            },
+            {
+              "title": "Chronograph Seconds Hand",
+              "description": "Central timing hand",
+              "detail": "Sweeps around the dial when the chronograph is active. Resets to zero when the bottom pusher is pressed."
+            },
+            {
+              "title": "Tachymeter Scale",
+              "description": "Often on the bezel or dial",
+              "detail": "Measures speed based on time and distance. Iconic on racing chronographs like the Daytona."
+            },
+            {
+              "title": "Sporty Aesthetics",
+              "description": "Busy but legible dials",
+              "detail": "Chronographs tend toward bolder designs than simple watches, reflecting their sporting roots."
+            }
+          ]
+        },
+        "history": {
+          "title": "History of Chronographs",
+          "content": "The chronograph was invented in 1816 by Louis Moinet, but wrist chronographs became popular in the 1960s with aviation and motorsports. The Omega Speedmaster became legendary as the first watch on the moon in 1969, earning the nickname 'Moonwatch'. The Rolex Daytona is synonymous with racing heritage, named after the Daytona circuit. The Heuer Monaco, worn by Steve McQueen in Le Mans (1971), cemented the chronograph as a style icon. Today, chronographs are loved by watch enthusiasts for their mechanical complexity and by practical people for their real utility."
+        },
+        "legends": {
+          "title": "Legendary Chronographs",
+          "models": [
+            {
+              "brand": "Omega",
+              "model": "Speedmaster Professional",
+              "price": "$6,000 - $10,000",
+              "highlight": "The moon watch, the only one certified by NASA for spacewalks"
+            },
+            {
+              "brand": "Rolex",
+              "model": "Cosmograph Daytona",
+              "price": "$14,000 - $200,000+",
+              "highlight": "The iconic racing chronograph, years-long waitlists"
+            },
+            {
+              "brand": "TAG Heuer",
+              "model": "Carrera",
+              "price": "$3,000 - $8,000",
+              "highlight": "Racing heritage, excellent value in Swiss chronographs"
+            },
+            {
+              "brand": "Zenith",
+              "model": "El Primero",
+              "price": "$7,000 - $15,000",
+              "highlight": "The first automatic chronograph (1969), 36,000 vph beat"
+            },
+            {
+              "brand": "Breitling",
+              "model": "Navitimer",
+              "price": "$5,000 - $12,000",
+              "highlight": "Aviation chronograph with slide rule, pilot's tool"
+            },
+            {
+              "brand": "Seiko",
+              "model": "Prospex Speedtimer",
+              "price": "$1,000 - $3,000",
+              "highlight": "Affordable Japanese mechanical chronograph, great value"
+            }
+          ]
+        },
+        "types": {
+          "title": "Types of Chronographs",
+          "categories": [
+            {
+              "type": "Racing Chronograph",
+              "description": "Designed for motorsports with tachymeter scales to measure speed. Examples: Rolex Daytona, TAG Heuer Carrera, Omega Speedmaster Racing."
+            },
+            {
+              "type": "Aviation Chronograph",
+              "description": "With slide rules and navigation functions for pilots. Examples: Breitling Navitimer, IWC Pilot's Chronograph."
+            },
+            {
+              "type": "Dive Chronograph",
+              "description": "Combines 200m+ water resistance with chronograph functionality. Examples: Omega Seamaster Planet Ocean Chrono, Tudor Black Bay Chrono."
+            },
+            {
+              "type": "Dress Chronograph",
+              "description": "Slimmer profiles with elegant dials for formal occasions. Examples: Zenith Elite Chronograph Classic, Jaeger-LeCoultre Master Chronograph."
+            }
+          ]
+        },
+        "using": {
+          "title": "How to Use a Chronograph",
+          "steps": [
+            "Press the top pusher to start the chronograph. The central hand begins to sweep.",
+            "Press the top pusher again to stop timing. Read the elapsed time.",
+            "Press the bottom pusher to reset all chronograph hands to zero.",
+            "For split timing (if available), stop and start without resetting to capture laps.",
+            "Some chronographs allow adding times (flyback or rattrapante function) - check your manual."
+          ],
+          "warning": "Never operate chronograph pushers underwater unless specifically rated for submarine operation. Water can enter through the pushers."
+        },
+        "tachymeter": {
+          "title": "Understanding the Tachymeter Scale",
+          "content": "That scale of numbers around the dial isn't just decoration. The tachymeter measures speed based on time and distance. To use: Start the chronograph when passing a mile marker (or kilometer). Stop when you pass the next marker. The chronograph hand points to your speed in MPH (or KPH). It only works for times under 60 seconds. For slower objects, use fractions (e.g., 1/10 mile). Racing chronographs made the tachymeter iconic, though modern GPS units have made it functionally obsolete. But it's cool, and that's what matters."
+        },
+        "pilot": {
+          "hero": {
+            "title": "Pilot Watches",
+            "subtitle": "Engineering for the Sky",
+            "description": "Born from the needs of military pilots, pilot watches combine exceptional legibility, navigation functions, and aviation heritage that make them icons both in the air and on the ground."
+          },
+          "intro": "Pilot watches represent one of the most romantic chapters in watchmaking history. Originally designed for military pilots who needed precise timekeeping at 30,000 feet, these watches had to be legible at a glance, resistant to magnetic fields, and reliable enough for aerial navigation. Today, pilot watches maintain that tool heritage while serving as style statements for enthusiasts who appreciate their bold aesthetics and connection to the golden age of aviation.",
+          "whatMakes": {
+            "title": "Defining Features of Pilot Watches",
+            "features": [
+              {
+                "title": "Extreme Legibility",
+                "description": "Large numbers and contrasting hands",
+                "detail": "Often with large Arabic numerals and abundant luminosity for reading in dark cockpits"
+              },
+              {
+                "title": "Large Cases",
+                "description": "40-46mm typically",
+                "detail": "Generous sizing for legibility with gloves and over flight suits"
+              },
+              {
+                "title": "Triangle at 12",
+                "description": "Orientation marker",
+                "detail": "Allows pilots to determine watch orientation at a glance"
+              },
+              {
+                "title": "Large Crown",
+                "description": "Easy to operate with gloves",
+                "detail": "Fluted or onion crowns for easy adjustment with flight gear"
+              },
+              {
+                "title": "Magnetic Resistance",
+                "description": "Protection against magnetic fields",
+                "detail": "Essential in cockpits filled with electronic instruments"
+              }
+            ]
+          },
+          "history": {
+            "title": "History of Pilot Watches",
+            "content": "The first true pilot watch was the Cartier Santos (1904), created for aviation pioneer Alberto Santos-Dumont. However, the genre exploded during the world wars when military pilots needed reliable timekeeping. The Breguet Type XX was used by French combat pilots. The IWC Big Pilot (Große Fliegeruhr) was developed for the Luftwaffe. The American A-11 became standard for Allied pilots. After the war, these military watches inspired civilian designs. The IWC Mark series, Breitling Navitimer with its slide rule, and the Zenith Pilot Type 20 all capture the golden age of aviation watches. Today, pilot watches are celebrated by both collectors and actual pilots, though modern avionics have largely replaced watches for navigation."
+          },
+          "icons": {
+            "title": "Iconic Pilot Watches",
+            "models": [
+              {
+                "brand": "IWC",
+                "model": "Big Pilot's Watch",
+                "price": "$12,000 - $20,000",
+                "highlight": "The definitive pilot watch, legendary legibility"
+              },
+              {
+                "brand": "Breitling",
+                "model": "Navitimer",
+                "price": "$5,000 - $12,000",
+                "highlight": "Slide rule for navigation, icon since 1952"
+              },
+              {
+                "brand": "Zenith",
+                "model": "Pilot Type 20 Extra Special",
+                "price": "$6,000 - $10,000",
+                "highlight": "Huge onion crown, vintage aesthetics"
+              },
+              {
+                "brand": "IWC",
+                "model": "Mark XVIII",
+                "price": "$4,500 - $6,500",
+                "highlight": "Refined classic pilot watch, soft-iron cage"
+              },
+              {
+                "brand": "Laco",
+                "model": "Flieger",
+                "price": "$400 - $1,500",
+                "highlight": "Authentic B-Uhr designs, exceptional value"
+              },
+              {
+                "brand": "Bell & Ross",
+                "model": "BR 03-92",
+                "price": "$3,500 - $5,000",
+                "highlight": "Cockpit instrument design, iconic square case"
+              }
+            ]
+          },
+          "types": {
+            "title": "Types of Pilot Watches",
+            "categories": [
+              {
+                "type": "B-Uhr (Beobachtungsuhr)",
+                "description": "German WWII observation watches. Features: black dial, large Arabic numerals, triangle at 12, large crown. Examples: Laco Flieger, Stowa Flieger, IWC Big Pilot."
+              },
+              {
+                "type": "Aviation Chronograph",
+                "description": "Combines chronograph functionality with aviation features. Often includes slide rules or tachymeter scales. Examples: Breitling Navitimer, Zenith El Primero Pilot."
+              },
+              {
+                "type": "Instrument Watch",
+                "description": "Designed to resemble cockpit instruments. Black dials with white markings, maximum legibility. Examples: Bell & Ross BR series, Sinn 556."
+              },
+              {
+                "type": "Aviation GMT Watch",
+                "description": "Multiple time zone functionality for international pilots. Examples: Breitling Aerospace, IWC Pilot's Watch UTC."
+              }
+            ]
+          },
+          "features": {
+            "title": "Special Aviation Features",
+            "items": [
+              {
+                "feature": "Slide Rule",
+                "description": "The Breitling Navitimer features a circular slide rule that allows pilots to calculate fuel consumption, climb/descent rates, conversions, and more without electronics."
+              },
+              {
+                "feature": "Soft-Iron Cage",
+                "description": "An inner soft-iron cage protects the movement from magnetic fields. IWC Mark series and many pilot watches use this for protection against cockpit instruments."
+              },
+              {
+                "feature": "Onion Crown",
+                "description": "Large fluted crowns (called 'onion crowns') allow easy operation with flight gloves. Classic on the Zenith Pilot Type 20."
+              },
+              {
+                "feature": "Navigation Triangle",
+                "description": "The triangle at 12 o'clock is a military design feature that aids in quick watch orientation."
+              }
+            ]
+          },
+          "whenToWear": {
+            "title": "When to Wear a Pilot Watch",
+            "occasions": [
+              {
+                "event": "Daily Casual",
+                "description": "Pilot watches are excellent daily watches for men who appreciate robust and utilitarian aesthetics."
+              },
+              {
+                "event": "Business Casual",
+                "description": "Works well with sport coats and chinos. Too casual for full suit."
+              },
+              {
+                "event": "Weekends and Travel",
+                "description": "GMT functionality and robust design make them perfect for traveling."
+              },
+              {
+                "event": "Outdoor Activities",
+                "description": "While not dive watches, most have decent water resistance and durable construction."
+              }
+            ]
+          },
+          "proTips": {
+            "title": "Expert Tips for Pilot Watches",
+            "tips": [
+              {
+                "title": "Size is authentic",
+                "content": "Pilot watches are meant to be large. A 42-46mm is historically accurate as pilots needed legibility over flight suits."
+              },
+              {
+                "title": "Strap over bracelet",
+                "content": "Historically, pilot watches came on leather straps for wear over flight jackets. Riveted straps are particularly authentic."
+              },
+              {
+                "title": "Functionality matters",
+                "content": "If you're drawn to slide rules or GMT functions, learn to use them. These aren't just decoration."
+              },
+              {
+                "title": "Understand the heritage",
+                "content": "Many pilot watches have fascinating military histories. Research your model's history to fully appreciate its significance."
+              }
+            ]
+          }
+        },
+        "field": {
+          "hero": {
+            "title": "Field Watches",
+            "subtitle": "Functional Military Timepieces",
+            "description": "Born in the trenches of war, field watches prioritize legibility, durability, and functionality above all. They are the simplest and most reliable tools in the watch world."
+          },
+          "intro": "The field watch is the workhorse of the watch world. No pretensions, no frills, just pure functional timekeeping. These watches were designed for soldiers who needed to know the time in the worst conditions: mud, rain, combat. The philosophy is simple: legible, durable, affordable. A field watch doesn't try to impress with gold or complications. Its beauty lies in its pure utility. It's the watch you choose when you need absolute reliability no matter what life throws at you.",
+          "whatMakes": {
+            "title": "Defining Features of Field Watches",
+            "features": [
+              {
+                "title": "Simple, Legible Dial",
+                "description": "Clear Arabic numerals on high-contrast dial",
+                "detail": "Usually white or cream dial with black numbers, or black dial with white markings"
+              },
+              {
+                "title": "Durable Construction",
+                "description": "Made to withstand abuse",
+                "detail": "Steel cases, scratch-resistant crystal, robust construction"
+              },
+              {
+                "title": "Modest Size",
+                "description": "36-40mm typically",
+                "detail": "Practical for wear under clothing sleeves and gloves without being bulky"
+              },
+              {
+                "title": "Canvas/NATO Strap",
+                "description": "Textile straps for durability",
+                "detail": "NATO straps allow the watch to remain on the wrist even if a spring bar fails"
+              },
+              {
+                "title": "Reliable Movement",
+                "description": "Quartz or simple mechanical",
+                "detail": "Easy to maintain and service, reliability over complication"
+              }
+            ]
+          },
+          "history": {
+            "title": "History of Field Watches",
+            "content": "Field watches evolved from WWI trench watches. When soldiers realized pocket watches were impractical in combat, they began soldering pocket watches to leather straps. Manufacturers soon created wristwatches designed specifically for military use. During WWII, the U.S. military standardized specifications for field watches (known as 'ord' watches after the Ordnance Department that specified them). Brands like Hamilton, Bulova, Elgin, and Waltham produced millions. The postwar MIL-W-46374 specification established standards for U.S. military watches: legibility at 12 inches in total darkness, durable construction, and water resistance. These vintage military watches inspired modern civilian designs. Today, brands like Hamilton continue the tradition with field watches that honor that utilitarian heritage while serving as excellent daily watches for civilians."
+          },
+          "icons": {
+            "title": "Iconic Field Watches",
+            "models": [
+              {
+                "brand": "Hamilton",
+                "model": "Khaki Field Mechanical",
+                "price": "$400 - $600",
+                "highlight": "The definitive modern field watch, military heritage"
+              },
+              {
+                "brand": "Seiko",
+                "model": "SNK809 (Seiko 5 Field)",
+                "price": "$80 - $150",
+                "highlight": "Incredible value, reliable automatic"
+              },
+              {
+                "brand": "Marathon",
+                "model": "General Purpose Quartz",
+                "price": "$200 - $300",
+                "highlight": "Issued to U.S. troops, extremely durable"
+              },
+              {
+                "brand": "Timex",
+                "model": "Expedition Scout",
+                "price": "$40 - $60",
+                "highlight": "Affordable entry point, Indiglo legibility"
+              },
+              {
+                "brand": "Vaer",
+                "model": "A5 Field",
+                "price": "$300 - $400",
+                "highlight": "Modern American field, sapphire, automatic"
+              },
+              {
+                "brand": "Tudor",
+                "model": "Ranger",
+                "price": "$3,000 - $3,500",
+                "highlight": "Luxury field, British expedition heritage"
+              }
+            ]
+          },
+          "choosing": {
+            "title": "Choosing Your Field Watch",
+            "sections": [
+              {
+                "title": "Quartz vs. Mechanical",
+                "content": "Field watches come in both. Quartz offers superior accuracy and low maintenance - probably what you'd want in actual combat. Mechanical (manual or automatic) offers romance and connection to history - no batteries to replace. Both are legitimate choices."
+              },
+              {
+                "title": "Dial Color",
+                "content": "White/cream dials are classic and more legible in low light (with lume). Black dials are more tactical and modern. Both are historically accurate."
+              },
+              {
+                "title": "Military Standards",
+                "content": "Some field watches (like Marathon) meet actual military specifications and are issued to troops. Others are military-inspired. Both are great, but mil-spec watches have added authenticity."
+              },
+              {
+                "title": "Strap Options",
+                "content": "NATO straps are classic and practical (the watch stays secure even if a spring bar breaks). Leather is traditional and looks great. Experiment - field watches look good on almost any strap."
+              }
+            ]
+          },
+          "philosophy": {
+            "title": "The Field Watch Philosophy",
+            "content": "Field watches represent an anti-luxury philosophy in watchmaking. While dress watches show wealth and dive watches project adventure, field watches simply work. No gold, no complications, no pretensions. Just a simple, reliable watch that tells the time. This honesty appeals to people who value function over form, tool over toy. A $500 field watch can bring you more daily joy than a $5,000 luxury watch because you don't need to worry about it. You wear it, you bang it up, you keep wearing it. That freedom is valuable."
+          },
+          "proTips": {
+            "title": "Expert Tips for Field Watches",
+            "tips": [
+              {
+                "title": "Embrace scratches",
+                "content": "Field watches are meant to be worn hard. Scratches tell stories. Don't avoid them; earn them."
+              },
+              {
+                "title": "Buy extra NATO straps",
+                "content": "NATO straps are cheap ($10-30) and transform the watch's look. Have several in different colors."
+              },
+              {
+                "title": "Smaller field watches work better",
+                "content": "Vintage 36-38mm sizes are authentic and wear comfortably. You don't need 44mm on a field watch."
+              },
+              {
+                "title": "Consider vintage",
+                "content": "Vintage military field watches (Hamilton, Bulova from the 40s-60s) are affordable and have real history."
+              }
+            ]
+          }
+        },
+        "gmt": {
+          "hero": {
+            "title": "GMT Watches",
+            "subtitle": "For the Global Citizen",
+            "description": "GMT watches track multiple time zones simultaneously, making them essential tools for international travelers, pilots, and anyone working across time zones."
+          },
+          "intro": "In an increasingly connected world, tracking multiple time zones has become essential. The GMT (Greenwich Mean Time) watch solves this problem elegantly using an additional 24-hour hand and a rotating bezel. Originally designed for Pan Am pilots flying transatlantic routes, the GMT has become the watch of choice for business travelers, expats, and anyone needing to stay connected across time zones. Whether tracking home time while traveling, coordinating with colleagues on different continents, or simply wanting to know when to call family abroad, a GMT watch makes time zone navigation effortless.",
+          "whatMakes": {
+            "title": "How GMT Watches Work",
+            "features": [
+              {
+                "title": "24-Hour GMT Hand",
+                "description": "Fourth hand rotating once every 24 hours",
+                "detail": "Usually in bright color (red, orange) to distinguish it from hour/minute hands"
+              },
+              {
+                "title": "24-Hour GMT Bezel",
+                "description": "Bidirectional or fixed bezel with 24-hour markings",
+                "detail": "Allows tracking a second or third time zone when combined with GMT hand"
+              },
+              {
+                "title": "True GMT vs. Caller Movement",
+                "description": "Two types of GMT functionality",
+                "detail": "True GMT: hour hand jumps in 1-hour increments. Caller: GMT hand is set independently"
+              },
+              {
+                "title": "Date Indication",
+                "description": "Usually included",
+                "detail": "Helps track dates when crossing time zones and the international date line"
+              }
+            ]
+          },
+          "history": {
+            "title": "History of GMT Watches",
+            "content": "The Rolex GMT-Master was created in 1954 in collaboration with Pan American World Airways. Pan Am pilots flying the new transatlantic route needed to track both local time and GMT (used in air navigation). Rolex responded with the GMT-Master, featuring its iconic red GMT hand and blue/red 'Pepsi' bezel representing day and night. The watch became standard issue to Pan Am crews and other airline pilots. GMT functionality quickly spread beyond aviation to business travelers, diplomats, and enthusiasts. Today, almost every major brand offers a GMT watch, from entry-level options like the Seiko 5 Sports GMT to luxury pieces like the Patek Philippe Aquanaut Travel Time. The GMT remains one of the most practical and sought-after watch complications."
+          },
+          "icons": {
+            "title": "Iconic GMT Watches",
+            "models": [
+              {
+                "brand": "Rolex",
+                "model": "GMT-Master II",
+                "price": "$10,000 - $40,000+",
+                "highlight": "The original and definitive GMT, iconic Pepsi bezel"
+              },
+              {
+                "brand": "Tudor",
+                "model": "Black Bay GMT",
+                "price": "$4,000 - $5,000",
+                "highlight": "Exceptional GMT value, Pepsi aesthetics"
+              },
+              {
+                "brand": "Grand Seiko",
+                "model": "Sport GMT",
+                "price": "$6,000 - $8,000",
+                "highlight": "Superior accuracy, exquisite finishing"
+              },
+              {
+                "brand": "Omega",
+                "model": "Seamaster Aqua Terra GMT",
+                "price": "$6,000 - $8,000",
+                "highlight": "Dress versatility, water resistant"
+              },
+              {
+                "brand": "Seiko",
+                "model": "5 Sports GMT",
+                "price": "$400 - $600",
+                "highlight": "Affordable GMT entry point, automatic"
+              },
+              {
+                "brand": "Ball",
+                "model": "Engineer Hydrocarbon GMT",
+                "price": "$2,000 - $3,000",
+                "highlight": "Tritium gas tubes for lume, great value"
+              }
+            ]
+          },
+          "types": {
+            "title": "True GMT vs. Caller GMT",
+            "content": "Understanding the difference is crucial when choosing a GMT:",
+            "comparison": [
+              {
+                "type": "True GMT (Flyer GMT)",
+                "description": "The hour hand jumps independently in 1-hour increments. The GMT hand and minute hand stay synchronized to your 'home time'. Perfect for: pilots and frequent travelers who change time zones often.",
+                "examples": "Rolex GMT-Master II, Grand Seiko GMT, Tudor Black Bay GMT"
+              },
+              {
+                "type": "Caller GMT (Office GMT)",
+                "description": "The GMT hand is set independently. Hour/minute hands move together. Perfect for: people staying in one time zone but needing to track another (home offices).",
+                "examples": "Rolex Explorer II, many entry-level GMTs"
+              }
+            ]
+          },
+          "using": {
+            "title": "How to Use a GMT Watch",
+            "steps": [
+              {
+                "step": "Initial Setup",
+                "instruction": "Set local time with hour/minute hands. Set GMT hand to your 'home time' or reference time zone."
+              },
+              {
+                "step": "Tracking Second Time Zone",
+                "instruction": "Read the GMT hand against the 24-hour markings on the bezel or dial."
+              },
+              {
+                "step": "Tracking Third Time Zone",
+                "instruction": "Rotate the GMT bezel to align the desired time zone with the GMT hand. Read hour hands against the bezel for the third time zone."
+              },
+              {
+                "step": "Changing Time Zones (True GMT)",
+                "instruction": "Pull crown out one position. Jump the hour hand forward or backward to the new local time. GMT hand stays on home time."
+              }
+            ]
+          },
+          "whenToWear": {
+            "title": "Who Should Choose a GMT",
+            "personas": [
+              {
+                "type": "Frequent International Travelers",
+                "description": "If you cross time zones regularly, a GMT (especially true GMT) is invaluable."
+              },
+              {
+                "type": "Business Professionals",
+                "description": "Track home office time while working with international clients/colleagues."
+              },
+              {
+                "type": "Expats",
+                "description": "Living in one country while maintaining connection to home/family time."
+              },
+              {
+                "type": "Pilots and Flight Crew",
+                "description": "The original purpose - tracking local and zulu (GMT) time for navigation."
+              },
+              {
+                "type": "Complication Lovers",
+                "description": "GMTs offer practical functionality without chronograph complexity."
+              }
+            ]
+          },
+          "proTips": {
+            "title": "Expert Tips for GMT Users",
+            "tips": [
+              {
+                "title": "Set GMT hand to UTC/GMT",
+                "content": "Many professionals set the GMT hand to Coordinated Universal Time (UTC/GMT) as it's the world's standard reference."
+              },
+              {
+                "title": "Pepsi bezel is functional",
+                "content": "Blue/red colors aren't just aesthetics: blue represents night (PM), red represents day (AM) on the 24-hour scale."
+              },
+              {
+                "title": "Choose based on your travel pattern",
+                "content": "If you stay mainly in one place: Caller GMT. If you travel constantly: True GMT with jumping hour hand."
+              },
+              {
+                "title": "Pair it with world clock apps",
+                "content": "A GMT watch is great, but for tracking multiple time zones, complement it with a smartphone app."
+              }
+            ]
+          }
+        },
+        "digital": {
+          "hero": {
+            "title": "Digital Watches & Smartwatches",
+            "subtitle": "Evolution of Timekeeping",
+            "description": "From the revolutionary G-Shock to modern smartwatches, digital watches represent technological innovation and practical functionality that complements and challenges traditional mechanical watchmaking."
+          },
+          "intro": "Digital watches have come a long way since the red LED displays of the 1970s. Today they span from the legendary practically-indestructible G-Shocks to sophisticated smartwatches that track your health, pay for your purchases, and keep you connected. While watch purists may scoff at digitals, they represent real innovation and solve problems mechanical watches can't. A smartwatch can track your heart rate, navigate you through unfamiliar cities, and let you take calls. A G-Shock can survive a fall from a building. Mechanical watches are beautiful, but digitals are practical. There's room in every collection for both.",
+          "whatMakes": {
+            "title": "Types of Digital Watches",
+            "categories": [
+              {
+                "type": "Classic LCD Digitals",
+                "description": "Liquid crystal displays showing time in numeric format",
+                "features": "Inexpensive, long battery life, multifunctional",
+                "examples": "Casio F-91W, Timex Ironman"
+              },
+              {
+                "type": "Rugged Digitals (G-Shock)",
+                "description": "Ultra-durable with shock protection",
+                "features": "Shock resistance, 200m WR, multiple alarms, stopwatch",
+                "examples": "Casio G-Shock DW series, Mudmaster, Rangeman"
+              },
+              {
+                "type": "Ana-Digi Digitals",
+                "description": "Hybrids combining analog hands with digital display",
+                "features": "Best of both worlds: traditional aesthetics with digital features",
+                "examples": "Casio G-Shock GA series, Seiko Arnie, Breitling Aerospace"
+              },
+              {
+                "type": "Smartwatches",
+                "description": "Wearable computers with smartphone connectivity",
+                "features": "Fitness tracking, notifications, payments, apps, health monitoring",
+                "examples": "Apple Watch, Samsung Galaxy Watch, Garmin Fenix"
+              },
+              {
+                "type": "Luxury Digitals",
+                "description": "Digital watches from luxury brands",
+                "features": "Premium materials, innovative technology, haute horology",
+                "examples": "TAG Heuer Connected, Urwerk EMC, MB&F HM5"
+              }
+            ]
+          },
+          "history": {
+            "title": "History of Digital Watches",
+            "content": "The first digital watch was the Hamilton Pulsar (1970), an LED watch that cost $2,100 ($14,000 today). You pressed a button and red numbers glowed. LEDs were replaced by LCD displays in the 70s, making digitals affordable. The Casio F-91W (1989) became one of the best-selling watches in history - still produced today at $10-20. The real game-changer came in 1983 when Casio launched the G-Shock DW-5000C. Designer Kikuo Ibe wanted to create a watch that would never break. After testing over 200 prototypes, he achieved shock resistance using modular construction and dual-layer case design. The G-Shock became legendary among military, emergency personnel, and anyone needing extreme durability. In 2015, Apple redefined the watch space with the Apple Watch, merging smartphone technology with wrist format. Today, smartwatches dominate global watch sales, though mechanicals maintain prestige and romance."
+          },
+          "gshock": {
+            "title": "The G-Shock Phenomenon",
+            "content": "No discussion of digital watches is complete without G-Shock. These practically indestructible Japanese watches have become cultural icons. The shock-protection construction means the floating module is suspended inside the case, protected from impacts. They're water resistant to 200m. Many models feature solar power, atomic radio synchronization, and Bluetooth connectivity. They're worn by military personnel, first responders, extreme athletes, and fashion enthusiasts alike. Popular models: DW-5600 (the classic 'square'), GA-2100 (the slim 'CasiOak'), Mudmaster, Rangeman, Frogman. G-Shocks range from $50 to $5,000+ for limited edition collaborations. A G-Shock is arguably the most practical watch you can own - you never need to worry about it.",
+            "icons": {
+              "title": "Iconic Digitals & Smartwatches",
+              "models": [
+                {
+                  "brand": "Casio",
+                  "model": "G-Shock DW-5600",
+                  "price": "$50 - $100",
+                  "highlight": "The original and definitive G-Shock, practically indestructible"
+                },
+                {
+                  "brand": "Casio",
+                  "model": "F-91W",
+                  "price": "$10 - $20",
+                  "highlight": "The best-selling digital in history, icon of functionality"
+                },
+                {
+                  "brand": "Apple",
+                  "model": "Apple Watch Ultra",
+                  "price": "$800 - $900",
+                  "highlight": "The most advanced smartwatch, comprehensive health tracking"
+                },
+                {
+                  "brand": "Garmin",
+                  "model": "Fenix 7",
+                  "price": "$700 - $900",
+                  "highlight": "Multi-sport smartwatch, long battery life"
+                },
+                {
+                  "brand": "Casio",
+                  "model": "Pro Trek",
+                  "price": "$200 - $500",
+                  "highlight": "ABC sensors (altimeter, barometer, compass), outdoor adventures"
+                },
+                {
+                  "brand": "Suunto",
+                  "model": "9 Peak Pro",
+                  "price": "$500 - $600",
+                  "highlight": "Athletic performance, ultra-long battery life"
+                }
+              ]
+            }
+          },
+          "smartwatches": {
+            "title": "Mechanical vs. Smartwatches: The Debate",
+            "content": "Watch enthusiasts often ask: should I buy a smartwatch or a mechanical watch? The answer: both serve different purposes. Smartwatches are tools - they track fitness, notifications, navigation. Mechanicals are objects - craftsmanship, heritage, art. An Apple Watch will tell you your heart rate and let you respond to texts. A Rolex Submariner will make you feel connected to decades of watchmaking history. Many enthusiasts wear a smartwatch during the week for functionality, then switch to a mechanical on weekends for enjoyment. You don't need to pick sides in this war. Own both. Use each when it makes sense."
+          },
+          "choosing": {
+            "title": "Choosing the Right Digital Watch",
+            "sections": [
+              {
+                "title": "For Extreme Durability",
+                "content": "G-Shock is unbeatable. If you work construction, military, first response, or are just hard on watches, nothing else can take the punishment."
+              },
+              {
+                "title": "For Fitness Tracking",
+                "content": "Apple Watch (iPhone users) or Samsung Galaxy Watch (Android) offer the best health tracking and app ecosystem. Garmin/Suunto for serious athletes."
+              },
+              {
+                "title": "For Outdoor Activities",
+                "content": "Casio Pro Trek or Garmin Fenix with ABC sensors (altimeter, barometer, compass) and GPS."
+              },
+              {
+                "title": "For Simplicity",
+                "content": "Casio F-91W. $15, does all the basics, battery lasts years, weighs nothing."
+              }
+            ]
+          },
+          "proTips": {
+            "title": "Expert Tips for Digital Watches",
+            "tips": [
+              {
+                "title": "Battery life matters",
+                "content": "Smartwatches typically last 1-2 days. Basic digitals last years. Solar G-Shocks never need batteries. Consider your lifestyle."
+              },
+              {
+                "title": "Digitals are perfect tool watches",
+                "content": "Use a digital for activities where you'd worry about damaging a mechanical watch: sports, construction, gardening."
+              },
+              {
+                "title": "Smartwatches depreciate fast",
+                "content": "An Apple Watch loses value quickly. Mechanical watches hold or appreciate in value. Buy smartwatches for functionality, not as an investment."
+              },
+              {
+                "title": "G-Shocks are collectible",
+                "content": "Limited edition G-Shock collaborations and vintage models have become collectible. The G-Shock market is active."
+              }
+            ]
+          }
+        }
+      },
+      "movements": {
+        "quartz": {
+          "hero": {
+            "title": "Quartz Movements",
+            "subtitle": "Electronic Precision",
+            "description": "Quartz movements revolutionized watchmaking in the 1970s, offering superior accuracy, low maintenance, and affordability that democratized quality timepieces."
+          },
+          "intro": "The quartz movement is often dismissed by purists, but it represents one of the most important innovations in watchmaking history. When Seiko launched the Astron in 1969, the first commercial quartz watch, it changed everything. Mechanical watches that drifted 5-10 seconds per day were suddenly less accurate than inexpensive quartz watches that drifted 15 seconds per month. The 'Quartz Crisis' nearly destroyed Swiss watchmaking in the 70s-80s. Today, quartz and mechanical coexist: quartz dominates global production, while mechanicals maintain prestige among collectors. Both have their place.",
+          "howItWorks": {
+            "title": "How a Quartz Movement Works",
+            "description": "Quartz uses the piezoelectric effect to keep time with incredible accuracy:",
+            "steps": [
+              {
+                "step": "Power Source",
+                "detail": "A battery provides electrical current to the watch circuit."
+              },
+              {
+                "step": "Quartz Crystal Oscillator",
+                "detail": "Electricity makes a quartz crystal vibrate at 32,768 Hz (32,768 times per second) - an incredibly stable frequency."
+              },
+              {
+                "step": "Integrated Circuit",
+                "detail": "A computer chip counts these vibrations and converts 32,768 oscillations into exactly one second."
+              },
+              {
+                "step": "Stepper Motor",
+                "detail": "The IC sends an electrical pulse once per second to a small motor that moves the hands."
+              }
+            ]
+          },
+          "advantages": {
+            "title": "Advantages of Quartz Movements",
+            "benefits": [
+              {
+                "title": "Superior Accuracy",
+                "description": "±15 seconds per month vs. ±5-10 seconds per day for mechanicals. High-precision quartz watches can achieve ±5 seconds per year."
+              },
+              {
+                "title": "Low Maintenance",
+                "description": "Battery change every 2-5 years is typically all the maintenance needed. No expensive servicing every 5-7 years."
+              },
+              {
+                "title": "Affordability",
+                "description": "Quartz movements are economical to produce, making quality watches accessible. A $50 quartz can outperform a $500 mechanical in accuracy."
+              },
+              {
+                "title": "Durability",
+                "description": "Fewer moving parts mean less to break. Quartz handles shocks better than delicate mechanicals."
+              },
+              {
+                "title": "Thinness",
+                "description": "Quartz movements can be extremely thin. Quartz dress watches can be 6-7mm thick."
+              }
+            ]
+          },
+          "disadvantages": {
+            "title": "Disadvantages of Quartz Movements",
+            "drawbacks": [
+              {
+                "title": "Less Prestige",
+                "description": "Quartz lacks the romance and craftsmanship of mechanical watchmaking. Collectors typically prefer mechanicals."
+              },
+              {
+                "title": "Battery Dependency",
+                "description": "Batteries need replacement. Mechanical watches can last generations without batteries."
+              },
+              {
+                "title": "Tick Movement",
+                "description": "Most quartz 'tick' once per second vs. the smooth sweep of mechanicals. (Exceptions: high-frequency quartz)"
+              },
+              {
+                "title": "Electronic Waste",
+                "description": "Electronic circuits eventually fail and are difficult to repair. Mechanicals can be rebuilt indefinitely."
+              },
+              {
+                "title": "Less Emotional Connection",
+                "description": "No visible craftsmanship, no mesmerizing movement. It's functional, not romantic."
+              }
+            ]
+          },
+          "types": {
+            "title": "Types of Quartz Movements",
+            "categories": [
+              {
+                "type": "Standard Quartz",
+                "description": "The most common quartz movement. ±15-30 seconds per month accuracy. 2-3 year battery life.",
+                "examples": "Most affordable quartz watches"
+              },
+              {
+                "type": "High-Precision Quartz",
+                "description": "Thermally-compensated quartz crystals. ±5-10 seconds per year. Grand Seiko 9F achieves ±10 seconds per year.",
+                "examples": "Grand Seiko 9F, Citizen Chronomaster, Breitling SuperQuartz"
+              },
+              {
+                "type": "Ana-Digi Quartz",
+                "description": "Combines analog hands with digital display. Offers versatile functionality.",
+                "examples": "Casio G-Shock GA series, Breitling Aerospace"
+              },
+              {
+                "type": "Solar Quartz",
+                "description": "Recharges using light (solar or artificial). No battery changes needed.",
+                "examples": "Citizen Eco-Drive, Seiko Solar, Casio Tough Solar"
+              },
+              {
+                "type": "Thermoelectric Quartz",
+                "description": "Powered by temperature difference (body heat). Rare technology.",
+                "examples": "Citizen Eco-Drive Thermo"
+              }
+            ]
+          },
+          "maintenance": {
+            "title": "Quartz Watch Maintenance",
+            "tasks": [
+              {
+                "task": "Battery Change (Every 2-5 Years)",
+                "description": "When the watch stops or the second hand jumps (low battery indicator), replace the battery. Cost: $10-30 at jeweler.",
+                "tip": "Have gaskets checked when replacing battery to maintain water resistance."
+              },
+              {
+                "task": "Gasket Inspection (Every Battery Change)",
+                "description": "Rubber gaskets deteriorate over time. If your watch is water resistant, have gaskets inspected/replaced when changing battery."
+              },
+              {
+                "task": "Regular Cleaning",
+                "description": "Clean case and crystal with microfiber cloth. For metal bracelets, use mild soap and soft brush."
+              }
+            ],
+            "warning": "Never open a quartz watch yourself unless you know what you're doing. Moisture and dust can ruin the movement."
+          },
+          "famousExamples": {
+            "title": "Famous Quartz Watches",
+            "models": [
+              {
+                "brand": "Grand Seiko",
+                "model": "9F Quartz",
+                "price": "$2,500 - $6,000",
+                "highlight": "The most prestigious quartz movement. ±10 seconds/year, exquisite craftsmanship"
+              },
+              {
+                "brand": "Omega",
+                "model": "Seamaster Quartz",
+                "price": "$3,000 - $5,000",
+                "highlight": "Luxury dive watch powered by quartz, ultra-accurate"
+              },
+              {
+                "brand": "Breitling",
+                "model": "Aerospace Evo",
+                "price": "$3,000 - $4,000",
+                "highlight": "Thermally compensated SuperQuartz, COSC certified"
+              },
+              {
+                "brand": "Cartier",
+                "model": "Tank Quartz",
+                "price": "$2,500 - $4,000",
+                "highlight": "Design icon, slim profile thanks to quartz"
+              },
+              {
+                "brand": "Citizen",
+                "model": "Eco-Drive",
+                "price": "$200 - $1,000",
+                "highlight": "Light-powered, never needs battery"
+              },
+              {
+                "brand": "Seiko",
+                "model": "Astron GPS Solar",
+                "price": "$1,500 - $3,000",
+                "highlight": "GPS + solar, automatic time zone adjustment"
+              }
+            ]
+          },
+          "conclusion": {
+            "title": "Quartz Deserves Respect",
+            "content": "Watch snobs dismiss quartz, but it's shortsighted. Quartz democratized accurate timekeeping. A $300 Citizen Eco-Drive will give you decades of perfect service without maintenance. A Grand Seiko 9F rivals any mechanical watch in craftsmanship while surpassing all in accuracy. Quartz isn't the enemy of mechanical - it's complementary. Own both. Use quartz when you need reliability and precision. Use mechanicals when you want art and connection to tradition."
+          }
+        },
+        "manual": {
+          "hero": {
+            "title": "Manual Winding Movements",
+            "subtitle": "Pure Mechanical Watchmaking",
+            "description": "Manual winding watches represent watchmaking in its purest form: no automatic rotors, no batteries, just springs, gears, and human craftsmanship winding time forward."
+          },
+          "intro": "The manual winding watch is where it all began. Before automatics made winding obsolete, every mechanical watch required daily winding. This 'chore' is viewed by enthusiasts not as a burden, but as a ritual: a moment of connection with your watch, a pause in the day to appreciate the mechanical engineering on your wrist. Manual watches are typically thinner than automatics (no bulky rotor), making them ideal for dress watches. They also allow collectors to see more of the movement through the caseback, as there's no rotor blocking the view.",
+          "howItWorks": {
+            "title": "How a Manual Movement Works",
+            "description": "Manual winding is beautifully simple in concept:",
+            "components": [
+              {
+                "part": "Mainspring",
+                "function": "A long metal spring coiled inside a barrel. Stores energy when wound."
+              },
+              {
+                "part": "Gear Train",
+                "function": "Series of connected gears that transmit energy from mainspring to hairspring, reducing speed from barrel to balance wheel."
+              },
+              {
+                "part": "Escapement",
+                "function": "Releases energy in controlled bursts, creating the 'tick-tock' sound. The escape wheel and pallet control energy flow."
+              },
+              {
+                "part": "Balance Wheel & Hairspring",
+                "function": "The balance wheel oscillates back and forth, regulated by the hairspring (thin spring). This determines the watch's accuracy."
+              },
+              {
+                "part": "Winding Mechanism",
+                "function": "Turning the crown winds the mainspring tighter, storing kinetic energy as potential energy."
+              }
+            ]
+          },
+          "advantages": {
+            "title": "Why Collectors Love Manual Winding",
+            "benefits": [
+              {
+                "title": "Thinner Profiles",
+                "description": "No automatic rotor means manual movements can be extremely thin. Perfect for elegant dress watches."
+              },
+              {
+                "title": "Better Movement Views",
+                "description": "Casebacks show the full movement without a rotor blocking the view. You see bridges, gears, escapement dancing."
+              },
+              {
+                "title": "Connection and Ritual",
+                "description": "Winding your watch each morning creates a relationship with it. It's meditative, intentional, satisfying."
+              },
+              {
+                "title": "Tradition and Heritage",
+                "description": "Manual movements are how watches were made for centuries. It's pure, uncompromising watchmaking."
+              },
+              {
+                "title": "Less Complexity",
+                "description": "Fewer parts than automatics (no automatic winding system) means potentially less to go wrong."
+              }
+            ]
+          },
+          "disadvantages": {
+            "title": "Manual Winding Considerations",
+            "drawbacks": [
+              {
+                "title": "Requires Daily Winding",
+                "description": "You must remember to wind your watch daily (or every 2-3 days depending on power reserve). Forget and it stops."
+              },
+              {
+                "title": "Not 'Set and Forget'",
+                "description": "You can't just wear a manual like you wear an automatic or quartz. It requires active participation."
+              },
+              {
+                "title": "Possible Over-Winding",
+                "description": "Though difficult with modern designs, you can technically over-wind and damage the mainspring if you force the crown."
+              },
+              {
+                "title": "Not Ideal for Forgetful Daily Wear",
+                "description": "If you tend to forget things, a manual will stop. Automatics wind with movement; quartz just works."
+              }
+            ]
+          },
+          "howToWind": {
+            "title": "How to Wind a Manual Watch",
+            "instructions": [
+              {
+                "step": "1. Remove the Watch",
+                "detail": "Take the watch off your wrist. Winding while worn can put strain on the crown and crown tube."
+              },
+              {
+                "step": "2. Unscrew the Crown (If Screw-Down)",
+                "detail": "If your watch has a screw-down crown (dive watches), turn it counter-clockwise until it pops out."
+              },
+              {
+                "step": "3. Turn Crown Clockwise",
+                "detail": "Gently turn the crown clockwise. You'll feel resistance - this is the mainspring coiling."
+              },
+              {
+                "step": "4. Stop When You Feel Resistance",
+                "detail": "When the crown no longer turns easily, the watch is fully wound. Don't force - modern watches have over-winding protection, but don't abuse it."
+              },
+              {
+                "step": "5. Screw Back Down (If Applicable)",
+                "detail": "If your watch has a screw-down crown, screw it back in by gently pressing inward while turning clockwise."
+              }
+            ],
+            "tips": [
+              "Wind at the same time each day for routine",
+              "Full daily winding is ideal, even if it has 48+ hour power reserve",
+              "Never wind while wearing the watch - you strain the mechanism"
+            ]
+          },
+          "famousCalibres": {
+            "title": "Legendary Manual Calibres",
+            "movements": [
+              {
+                "brand": "Patek Philippe",
+                "calibre": "Calibre 240",
+                "description": "Ultra-thin (only 2.53mm), micro-rotor, engineering masterpieces"
+              },
+              {
+                "brand": "A. Lange & Söhne",
+                "calibre": "Lange Calibres",
+                "description": "Exquisite German finishing, double assembly/disassembly"
+              },
+              {
+                "brand": "Omega",
+                "calibre": "Calibre 321",
+                "description": "The original Speedmaster movement, used on the moon"
+              },
+              {
+                "brand": "Vacheron Constantin",
+                "calibre": "Calibre 4400",
+                "description": "Thin, beautifully finished, in-house manufacture"
+              },
+              {
+                "brand": "Seiko",
+                "calibre": "6R15",
+                "description": "Affordable but reliable manual winding in Presage models"
+              }
+            ]
+          },
+          "whenToChoose": {
+            "title": "When to Choose a Manual Watch",
+            "scenarios": [
+              {
+                "situation": "Dress Watches",
+                "reason": "The thinness of manual movements makes them perfect for elegant dress watches that must slide under shirt cuffs."
+              },
+              {
+                "situation": "Movement Appreciation",
+                "reason": "If you love watching movements through casebacks, manuals offer the best unobstructed views without rotors."
+              },
+              {
+                "situation": "Ritual and Connection",
+                "reason": "If you value the daily ritual of winding and connecting with your watch, manual winding is deeply satisfying."
+              },
+              {
+                "situation": "Vintage Collecting",
+                "reason": "Vintage watches are predominantly manual. If you collect old pieces, you'll learn to love them."
+              }
+            ]
+          }
+        },
+        "automatic": {
+          "hero": {
+            "title": "Automatic Movements",
+            "subtitle": "Self-Winding Engineering",
+            "description": "Automatic watches combine the best of mechanical and convenience: the craftsmanship of traditional watchmaking with the magic of never needing to manually wind."
+          },
+          "intro": "The automatic movement (also called 'self-winding') is the ultimate expression of convenient mechanical watchmaking. Invented by Abraham-Louis Perrelet in 1770 but perfected in the 20th century, the automatic mechanism uses your wrist's natural motion to wind the mainspring. You wear the watch, the rotor spins, the watch stays wound. It's the elegant solution to 'I forgot to wind my watch' while maintaining all the mechanical craftsmanship collectors love. Automatics represent approximately 90% of modern mechanical watches - from entry-level Seiko 5 to Rolex, Omega, and Patek Philippe.",
+          "howItWorks": {
+            "title": "How an Automatic Movement Works",
+            "description": "Automatics are essentially manual movements with an added self-winding mechanism:",
+            "mechanism": [
+              {
+                "component": "Rotor (Oscillating Weight)",
+                "function": "A semi-circular weight mounted on bearings that spins freely. Your wrist movement makes the rotor spin."
+              },
+              {
+                "component": "Winding Transfer System",
+                "function": "Gears and clutches convert rotor rotation (in any direction) into unidirectional mainspring winding."
+              },
+              {
+                "component": "Anti-Reverse Mechanism",
+                "function": "Prevents the mainspring from unwinding when the rotor spins in reverse direction."
+              },
+              {
+                "component": "Mainspring",
+                "function": "Stores energy from automatic winding and manual winding (most automatics can also be wound manually)."
+              },
+              {
+                "component": "Base Movement",
+                "function": "The same gear train, escapement, and balance wheel as a manual. The automatic system just adds the self-winding mechanism."
+              }
+            ]
+          },
+          "powerReserve": {
+            "title": "Understanding Power Reserve",
+            "explanation": "Power reserve is how long an automatic watch runs after being fully wound without additional movement or manual winding:",
+            "ranges": [
+              {
+                "duration": "38-42 Hours",
+                "description": "Standard for most entry to mid-level automatics. Requires daily wear or watch winder.",
+                "examples": "Seiko 5, many ETA/Sellita movements"
+              },
+              {
+                "duration": "48-72 Hours",
+                "description": "Common in modern quality automatics. You can take it off overnight and through the next full day without stopping.",
+                "examples": "Rolex (70hr), Omega Co-Axial (60hr), Tudor"
+              },
+              {
+                "duration": "80-100+ Hours",
+                "description": "Extended power reserves using dual barrels or optimized mainspring design.",
+                "examples": "Omega Master Chronometer (60hr), Powermatic 80 (80hr)"
+              },
+              {
+                "duration": "7-10 Days",
+                "description": "Extra-long power reserves in haute horology pieces using multiple barrels.",
+                "examples": "IWC Big Pilot (7 days), Panerai 8 Days"
+              }
+            ]
+          },
+          "winding": {
+            "title": "Winding and Using Automatics",
+            "practices": [
+              {
+                "topic": "Initial Manual Winding",
+                "advice": "When setting a stopped automatic, give it 20-30 crown turns manually to start the movement. Then let it self-wind automatically."
+              },
+              {
+                "topic": "Daily Wear",
+                "advice": "Simply wear the watch normally. 8+ hours of wear will keep most automatics fully wound."
+              },
+              {
+                "topic": "Watch Winders",
+                "advice": "If you have multiple automatics, a watch winder keeps unworn ones wound and running. Useful for perpetual calendar watches that are difficult to reset."
+              },
+              {
+                "topic": "Letting It Stop",
+                "advice": "It's perfectly fine to let automatics stop. Just restart when you want to wear it again. Doesn't harm the movement."
+              }
+            ]
+          },
+          "advantages": {
+            "title": "Advantages of Automatic Movements",
+            "benefits": [
+              {
+                "title": "No Daily Manual Winding",
+                "description": "Wear the watch and it stays wound. Set and forget (as long as you wear it regularly)."
+              },
+              {
+                "title": "Mechanical Craftsmanship",
+                "description": "All the romance and craftsmanship of mechanical watchmaking without the manual winding chore."
+              },
+              {
+                "title": "Watching the Rotor",
+                "description": "Through casebacks, seeing the rotor spin with movement is mesmerizing and beautiful."
+              },
+              {
+                "title": "Value Retention",
+                "description": "Quality brand automatics hold/appreciate value better than quartz."
+              },
+              {
+                "title": "No Batteries Ever",
+                "description": "Like all mechanicals, automatics never need batteries. Just servicing every 5-7 years."
+              }
+            ]
+          },
+          "famousMovements": {
+            "title": "Legendary Automatic Calibres",
+            "movements": [
+              {
+                "brand": "Rolex",
+                "calibre": "Calibre 3235",
+                "specs": "70 hour power reserve, -2/+2 sec/day, Chronergy escapement",
+                "highlight": "The gold standard in production automatics"
+              },
+              {
+                "brand": "Omega",
+                "calibre": "Co-Axial Master Chronometer 8900",
+                "specs": "60 hours, 15,000 gauss resistant, METAS certified",
+                "highlight": "Anti-magnetic, extreme certified accuracy"
+              },
+              {
+                "brand": "Seiko",
+                "calibre": "6R35/4R36",
+                "specs": "70 hour power reserve, reliable, affordable",
+                "highlight": "Best value in in-house automatic movements"
+              },
+              {
+                "brand": "ETA",
+                "calibre": "2824-2",
+                "specs": "38 hours, industry workhorse",
+                "highlight": "Used in thousands of models, parts widely available"
+              },
+              {
+                "brand": "Miyota",
+                "calibre": "9015",
+                "specs": "42 hours, high-quality construction",
+                "highlight": "Affordable Japanese automatic, smooth winding"
+              }
+            ]
+          },
+          "maintenance": {
+            "title": "Automatic Maintenance",
+            "schedule": [
+              {
+                "interval": "Daily/Weekly",
+                "tasks": "Wear regularly or use watch winder. Clean with microfiber cloth."
+              },
+              {
+                "interval": "Every 5-7 Years",
+                "tasks": "Full service: disassembly, cleaning, lubrication, gasket replacement. Cost: $200-500 for standard brands, $500-1500+ for luxury."
+              },
+              {
+                "interval": "As Needed",
+                "tasks": "If accuracy drifts >+15 sec/day, service early. If stops unexpectedly, immediate service."
+              }
+            ]
+          }
+        },
+        "other": {
+          "hero": {
+            "title": "Solar, Kinetic, Spring Drive and Alternative Movements",
+            "subtitle": "Innovation Beyond Quartz and Mechanical",
+            "description": "Beyond traditional quartz and mechanical movements, innovative technologies exist that combine the best of both worlds or forge entirely new paths."
+          },
+          "intro": "Watchmaking isn't limited to quartz vs. mechanical. Several brands have developed hybrid and alternative technologies that offer unique advantages. Citizen's Solar eliminates battery changes. Seiko's Kinetic combines mechanical motion with quartz accuracy. Grand Seiko's Spring Drive achieved the impossible: a movement that is both mechanical and electronic simultaneously. These technologies represent real innovation, showing that watchmaking hasn't stopped evolving.",
+          "technologies": {
+            "solar": {
+              "title": "Solar-Powered Movements",
+              "brands": "Citizen Eco-Drive, Seiko Solar, Casio Tough Solar",
+              "howItWorks": "A solar panel beneath the dial converts light (solar or artificial) into electricity, stored in a rechargeable cell. No battery changes needed - just exposure to light.",
+              "advantages": [
+                "No battery changes ever (cell lasts 20+ years)",
+                "Eco-friendly - no disposable batteries",
+                "Quartz accuracy with mechanical-like convenience",
+                "Works with any light source, not just sun"
+              ],
+              "models": [
+                {
+                  "model": "Citizen Promaster Diver Eco-Drive",
+                  "price": "$300-500",
+                  "highlight": "Solar-powered dive watch, 200m WR, no batteries"
+                },
+                {
+                  "model": "Seiko Prospex Solar Diver",
+                  "price": "$400-600",
+                  "highlight": "Solar + water resistance, runs up to 10 months in darkness"
+                },
+                {
+                  "model": "Casio G-Shock Solar (GW-M5610)",
+                  "price": "$150",
+                  "highlight": "Solar + atomic radio-controlled, practically indestructible"
+                }
+              ]
+            },
+            "kinetic": {
+              "title": "Seiko Kinetic - Hybrid Movement",
+              "description": "Seiko's Kinetic (introduced 1988) is a unique technology combining an automatic rotor with quartz accuracy. Instead of winding a mainspring, the rotor generates electricity that charges a cell and powers a quartz movement.",
+              "howItWorks": "Your wrist movement spins a rotor like in an automatic. But instead of winding a spring, the rotor drives a generator that produces electricity. This charges a cell that powers a quartz movement.",
+              "advantages": [
+                "No battery changes - powered by movement",
+                "Quartz accuracy (±15 sec/month)",
+                "Satisfaction of 'self-winding'",
+                "6-month power reserve when fully charged"
+              ],
+              "models": [
+                {
+                  "model": "Seiko Kinetic Diver SKA",
+                  "price": "$300-500",
+                  "highlight": "Hybrid dive watch, best of mechanical + quartz"
+                },
+                {
+                  "model": "Seiko Kinetic GMT",
+                  "price": "$400-600",
+                  "highlight": "GMT functionality with Kinetic convenience"
+                }
+              ]
+            },
+            "springDrive": {
+              "title": "Grand Seiko Spring Drive - The Holy Grail",
+              "description": "Spring Drive is perhaps the most significant innovation in watchmaking since quartz. Developed by Seiko over 28 years (1977-2005), it's simultaneously mechanical and electronic - an impossible fusion.",
+              "howItWorks": "Powered by a traditional mainspring (mechanical) but regulated by an electronic quartz crystal (no balance wheel). The result: quartz accuracy (±1 sec/day) with perfectly smooth sweep (no tick) and no battery.",
+              "uniqueFeatures": [
+                "Perfectly smooth sweep - the seconds hand 'flows' without steps",
+                "±1 second per day accuracy (better than most mechanicals)",
+                "Fully mainspring-powered - no batteries",
+                "72-hour power reserve typical",
+                "Silent tick-tock (no escapement)"
+              ],
+              "philosophy": "Spring Drive represents Grand Seiko's philosophy of perfection: traditional mechanical craftsmanship meets modern technology to create something entirely new.",
+              "models": [
+                {
+                  "model": "Grand Seiko Spring Drive SBGA211 'Snowflake'",
+                  "price": "$5,800",
+                  "highlight": "Iconic textured dial, Spring Drive sweep, exquisite finishing"
+                },
+                {
+                  "model": "Grand Seiko Spring Drive GMT",
+                  "price": "$7,000-10,000",
+                  "highlight": "GMT functionality with Spring Drive accuracy"
+                },
+                {
+                  "model": "Grand Seiko Spring Drive Diver",
+                  "price": "$8,000-12,000",
+                  "highlight": "600m dive watch with Spring Drive technology"
+                }
+              ]
+            },
+            "other": {
+              "title": "Other Innovative Technologies",
+              "technologies": [
+                {
+                  "name": "Seiko Astron GPS Solar",
+                  "description": "Combines GPS with solar power. Automatically adjusts to time zones using GPS satellite signals. Never needs manual adjustment when traveling.",
+                  "price": "$1,500-3,000"
+                },
+                {
+                  "name": "Citizen Eco-Drive Satellite Wave",
+                  "description": "Receives time signals from GPS satellites, synchronizes anywhere. Solar-powered.",
+                  "price": "$600-1,500"
+                },
+                {
+                  "name": "Bulova Precisionist",
+                  "description": "High-frequency quartz movement (262 kHz vs. 32 kHz standard). Super-smooth sweep, ±10 sec/year accuracy.",
+                  "price": "$300-600"
+                },
+                {
+                  "name": "TAG Heuer Connected (Luxury Smartwatch)",
+                  "description": "Swiss-made smartwatch with luxury materials, interchangeable mechanical/digital movements.",
+                  "price": "$1,800-2,500"
+                }
+              ]
+            }
+          },
+          "conclusion": {
+            "title": "Innovation Continues",
+            "content": "These alternative movements prove that watchmaking isn't static. While purists may insist on mechanicals only, technologies like Spring Drive, Solar, and Kinetic offer real advantages. They demonstrate that you can respect tradition while embracing innovation. The best approach: appreciate all movement types for what they bring to watchmaking."
+          }
+        }
+      }
+    }
+  },
+  "watchAnatomy": {
+    "hero": {
+      "badge": "Beginner-Friendly Guide",
+      "title": "Watch 101",
+      "subtitle": "The Beginner's Hub",
+      "description": "Welcome to the world of horology. Start your journey here with essential knowledge every watch enthusiast should know.",
+      "anatomyLink": "Anatomy Guide",
+      "terminologyLink": "Terminology",
+      "waterResistanceLink": "Water Resistance"
+    },
+    "title": "Watch Anatomy",
+    "description": "Understanding the essential parts of a watch",
+    "parts": [
+      {
+        "name": "Case",
+        "description": "The outer shell that protects the movement and gives the watch its shape.",
+        "details": "Materials range from stainless steel to precious metals like gold and platinum."
+      },
+      {
+        "name": "Crystal",
+        "description": "The transparent cover protecting the dial.",
+        "details": "Modern watches use sapphire crystal (scratch-resistant), mineral glass, or acrylic."
+      },
+      {
+        "name": "Dial",
+        "description": "The face of the watch that displays the time.",
+        "details": "Can be simple or complex, featuring various subdials, indices, and decorations."
+      },
+      {
+        "name": "Hands",
+        "description": "The indicators that point to the time on the dial.",
+        "details": "Typically includes hour, minute, and seconds hands. Designs vary from simple to ornate."
+      },
+      {
+        "name": "Crown",
+        "description": "The knob used to set the time and date, and wind manual watches.",
+        "details": "Typically located at the 3 o'clock position. Some watches have screw-down crowns for water resistance."
+      },
+      {
+        "name": "Bezel",
+        "description": "The ring surrounding the crystal.",
+        "details": "Can be fixed or rotating. Dive watches have rotating bezels for tracking elapsed time."
+      },
+      {
+        "name": "Lugs",
+        "description": "The projections extending from the case to attach the strap or bracelet.",
+        "details": "Lug-to-lug measurement is crucial for determining if a watch will fit your wrist."
+      },
+      {
+        "name": "Strap/Bracelet",
+        "description": "What secures the watch to your wrist.",
+        "details": "Options include leather, NATO straps, rubber, and metal bracelets (oyster, jubilee, etc.)."
+      },
+      {
+        "name": "Case Back",
+        "description": "The back of the watch case.",
+        "details": "Can be solid (closed) or exhibition (transparent) to view the movement."
+      },
+      {
+        "name": "Movement",
+        "description": "The engine of the watch - the mechanism that makes it tick.",
+        "details": "Can be quartz, manual mechanical, or automatic mechanical."
+      }
+    ]
+  },
+  "watchTerminology": {
+    "title": "Essential Watch Terminology",
+    "subtitle": "Master the language of horology with these fundamental terms",
+    "exampleLabel": "Example",
+    "terms": [
+      {
+        "term": "Caliber",
+        "definition": "The specific model or design of a watch movement.",
+        "example": "Rolex Caliber 3235 or ETA 2824-2."
+      },
+      {
+        "term": "Lume",
+        "definition": "Luminescent material applied to hands and indices for low-light visibility.",
+        "example": "Swiss Super-LumiNova is a common modern luminous compound."
+      },
+      {
+        "term": "Water Resistance",
+        "definition": "A watch's ability to withstand water pressure, measured in meters, ATM, or bar.",
+        "example": "100m water resistance means suitable for swimming, not actual diving at 100 meters."
+      },
+      {
+        "term": "Complications",
+        "definition": "Any function beyond basic timekeeping (hours, minutes, seconds).",
+        "example": "Date display, chronograph, moon phase, perpetual calendar."
+      },
+      {
+        "term": "Power Reserve",
+        "definition": "How long a mechanical watch will run when fully wound.",
+        "example": "Typically 38-72 hours, though some modern movements exceed 7 days."
+      },
+      {
+        "term": "Frequency/BPH",
+        "definition": "Beats per hour - how many times the balance wheel oscillates.",
+        "example": "28,800 BPH (4Hz) is standard, resulting in 8 ticks per second."
+      },
+      {
+        "term": "Window",
+        "definition": "An aperture in the dial showing information like date or day.",
+        "example": "The date window at the 3 o'clock position."
+      },
+      {
+        "term": "Pushers",
+        "definition": "Buttons on the watch case that activate functions, typically on chronographs.",
+        "example": "Start, stop, and reset buttons for the stopwatch function."
+      },
+      {
+        "term": "Jewels",
+        "definition": "Synthetic rubies used as bearings to reduce friction in the movement.",
+        "example": "A typical automatic movement has 25-31 jewels."
+      },
+      {
+        "term": "Rotor",
+        "definition": "The semicircular weight in an automatic watch that winds the mainspring.",
+        "example": "Visible through exhibition case backs, often decorated with brand engravings."
+      }
+    ]
+  },
+  "waterResistance": {
+    "title": "Understanding Water Resistance Ratings",
+    "subtitle": "What the numbers really mean",
+    "critical": "Critical: Water resistance ratings are NOT depth ratings!",
+    "realityLabel": "Reality",
+    "importantNoteTitle": "Critical Maintenance Note",
+    "ratings": [
+      {
+        "rating": "30m / 3 ATM",
+        "suitableFor": "Splash-resistant only",
+        "notFor": "Swimming, showering, or any water contact",
+        "reality": "Can handle rain and handwashing, but nothing more. NOT waterproof."
+      },
+      {
+        "rating": "50m / 5 ATM",
+        "suitableFor": "Light swimming and showers",
+        "notFor": "Diving, high-impact water sports",
+        "reality": "Suitable for brief water immersion, not extended swimming."
+      },
+      {
+        "rating": "100m / 10 ATM",
+        "suitableFor": "Swimming, snorkeling",
+        "notFor": "Scuba diving",
+        "reality": "True swimming watch. Can handle recreational swimming and water sports."
+      },
+      {
+        "rating": "200m / 20 ATM",
+        "suitableFor": "Recreational scuba diving",
+        "notFor": "Professional diving beyond 200m",
+        "reality": "Proper dive watch with rotating bezel. ISO 6425 certified dive watches start here."
+      },
+      {
+        "rating": "300m+ / 30 ATM+",
+        "suitableFor": "Professional diving, saturation diving",
+        "notFor": "Nothing - these are serious dive watches",
+        "reality": "Professional-grade dive watches with helium escape valves and superior seals."
+      }
+    ],
+    "importantNote": "Water resistance can degrade over time. Gaskets dry out, seals fail. Have your watch tested and serviced every 2-3 years if you regularly expose it to water."
+  },
+  "movementTypes": {
+    "quartz": {
+      "name": "Quartz Movement",
+      "description": "Battery-powered watches using a quartz crystal oscillator",
+      "howItWorks": "A battery sends electrical current through a quartz crystal, causing it to vibrate exactly 32,768 times per second. This vibration is converted into pulses that drive the motor, moving the hands.",
+      "pros": [
+        "Extremely accurate (±15 seconds per month)",
+        "Very affordable",
+        "Low maintenance - only battery changes",
+        "Thin cases possible",
+        "No daily winding required"
+      ],
+      "cons": [
+        "Less 'soul' for collectors - no mechanical complexity",
+        "Battery needs replacement every 2-3 years",
+        "Not considered haute horology",
+        "Ticks once per second (not smooth sweep)"
+      ],
+      "famousExamples": [
+        "Grand Seiko 9F Quartz (ultra high accuracy)",
+        "Omega Seamaster Quartz",
+        "Citizen Eco-Drive (solar quartz)",
+        "Casio G-Shock series"
+      ],
+      "howItWorksTitle": "How It Works",
+      "prosTitle": "Pros",
+      "consTitle": "Cons",
+      "famousExamplesTitle": "Famous Examples",
+      "iconicModelsTitle": "Iconic Models"
+    },
+    "manual": {
+      "name": "Manual-Wind Mechanical",
+      "description": "Traditional mechanical watches requiring daily winding through the crown",
+      "howItWorks": "Turning the crown winds a mainspring, storing energy. As the mainspring unwinds, it releases energy through a series of gears and the escapement, regulating the power release to move the hands at a constant rate.",
+      "pros": [
+        "Historical significance - oldest type of watch movement",
+        "Thinner cases than automatics",
+        "Direct connection to watchmaking traditions",
+        "No rotor blocking the view of the movement",
+        "Appreciation for mechanical craftsmanship"
+      ],
+      "cons": [
+        "Requires daily winding (or when power reserve runs out)",
+        "Less accurate than quartz (±5-20 seconds per day)",
+        "More expensive than quartz",
+        "Requires regular servicing (every 3-5 years)"
+      ],
+      "famousExamples": [
+        "Patek Philippe Calatrava",
+        "A. Lange & Söhne 1815",
+        "Omega Speedmaster Professional (Moonwatch)",
+        "Panerai Luminor Manual Wind"
+      ],
+      "howItWorksTitle": "How It Works",
+      "prosTitle": "Pros",
+      "consTitle": "Cons",
+      "famousExamplesTitle": "Famous Examples",
+      "iconicModelsTitle": "Iconic Models"
+    },
+    "automatic": {
+      "name": "Automatic Mechanical (Self-Winding)",
+      "description": "Mechanical watches that wind themselves via a rotor driven by wrist movement",
+      "howItWorks": "A weighted rotor spins freely with your wrist movements. This rotor is connected to the winding mechanism, automatically winding the mainspring. If worn regularly, the watch never needs manual winding.",
+      "pros": [
+        "Convenience - winds itself while worn",
+        "Smooth sweeping seconds hand",
+        "Mechanical beauty and craftsmanship",
+        "No battery needed",
+        "Long lifespan with proper care"
+      ],
+      "cons": [
+        "Thicker than manual-wind (rotor adds height)",
+        "Stops when not worn (unless in a watch winder)",
+        "Expensive to service (every 3-5 years, $200-$1000+)",
+        "Less accurate than quartz",
+        "Higher initial cost"
+      ],
+      "famousExamples": [
+        "Rolex Submariner (Cal. 3235)",
+        "Omega Seamaster 300M (Cal. 8800)",
+        "Seiko SKX007 (Cal. 7S26)",
+        "Tudor Black Bay (Cal. MT5602)"
+      ],
+      "howItWorksTitle": "How It Works",
+      "prosTitle": "Pros",
+      "consTitle": "Cons",
+      "famousExamplesTitle": "Famous Examples",
+      "iconicModelsTitle": "Iconic Models",
+      "legendaryExamplesTitle": "Legendary Examples"
+    },
+    "other": {
+      "title": "Other Movement Technologies",
+      "subtitle": "Innovative hybrid and alternative movement types",
+      "exampleLabel": "Example",
+      "benefitLabel": "Benefit",
+      "types": {
+        "solar": {
+          "name": "Solar",
+          "description": "Quartz movements powered by light instead of traditional batteries",
+          "example": "Citizen Eco-Drive, Seiko Solar",
+          "benefit": "Never needs battery replacement - light keeps it charged for months in darkness"
+        },
+        "kinetic": {
+          "name": "Kinetic/Auto-Quartz",
+          "description": "Hybrid that uses automatic winding to charge a capacitor powering a quartz movement",
+          "example": "Seiko Kinetic",
+          "benefit": "Quartz accuracy without battery changes, powered by motion"
+        },
+        "springDrive": {
+          "name": "Spring Drive",
+          "description": "Mechanical movement with electronic regulation for quartz-level accuracy",
+          "example": "Grand Seiko Spring Drive",
+          "benefit": "Perfectly smooth sweeping seconds hand with incredible accuracy (±1 sec/day)"
+        }
+      }
+    },
+    "hero": {
+      "title": "How Watches Work",
+      "subtitle": "The Heart of Every Timepiece",
+      "description": "Discover the fascinating mechanisms that power watches, from battery-powered quartz to intricate mechanical movements"
+    },
+    "cta": {
+      "title": "Explore Watch Styles",
+      "description": "Now that you understand how watches work, explore different watch styles and find your perfect timepiece",
+      "button": "Browse Watch Styles"
+    },
+    "pageHero": {
+      "title": "How Watches Work",
+      "subtitle": "Understanding Movements",
+      "description": "Explore the mechanical and electronic hearts that power timepieces. From battery-powered quartz to intricate mechanical movements, discover how each type works and which suits your needs."
+    },
+    "intro": "The movement (or caliber) is the engine of a watch—the mechanism that keeps time and powers all complications. Understanding movement types is essential for choosing the right watch and appreciating the engineering inside.",
+    "movementTypesTitle": "Movement Types",
+    "movementTypesDescription": "Click any movement type to learn more about how it works, its advantages and disadvantages, and which watches use it.",
+    "learnMore": "Learn more",
+    "comparisonTitle": "Quick Comparison",
+    "comparisonDescription": "Here's how the three main movement types compare across key factors:",
+    "choosingTitle": "Choosing the Right Movement",
+    "chooseQuartzTitle": "Choose Quartz If:",
+    "chooseQuartz": [
+      "You prioritize accuracy and convenience",
+      "Low maintenance is important",
+      "You're on a tight budget",
+      "You don't wear watches daily"
+    ],
+    "chooseAutomaticTitle": "Choose Automatic If:",
+    "chooseAutomatic": [
+      "You appreciate mechanical craftsmanship",
+      "You wear your watch regularly",
+      "Long-term value matters",
+      "You enjoy the sweeping seconds hand"
+    ],
+    "chooseManualTitle": "Choose Manual If:",
+    "chooseManual": [
+      "You want a daily ritual",
+      "You prefer thinner watches",
+      "You appreciate tradition",
+      "You enjoy mechanical interaction"
+    ],
+    "hierarchyTitle": "The Movement Hierarchy",
+    "hierarchyParagraph1": "In the watch world, there's an unspoken hierarchy. Mechanical movements (manual and automatic) are generally more prestigious than quartz, despite being less accurate. Why? Because they represent traditional craftsmanship, complex engineering, and human artistry. A mechanical movement might have 200+ components assembled by hand, each playing a specific role in timekeeping.",
+    "hierarchyParagraph2": "That said, quartz movements revolutionized watchmaking and remain the most practical choice for most people. Grand Seiko has even elevated quartz to haute horlogerie status. The \"best\" movement is the one that fits your lifestyle, values, and budget.",
+    "ctaTitle": "Ready to Go Deeper?",
+    "ctaDescription": "Now that you understand movement types, explore individual movement pages for detailed technical information, animations, and recommendations.",
+    "automaticButton": "Automatic Movements",
+    "quartzButton": "Quartz Movements",
+    "comparison": {
+      "rows": [
+        "Accuracy",
+        "Maintenance",
+        "Power Source",
+        "Lifespan",
+        "Price Range",
+        "Prestige"
+      ],
+      "columns": [
+        {
+          "header": "Quartz",
+          "items": [
+            "±15 sec/month",
+            "Battery every 2-5 years",
+            "Battery",
+            "20-30 years",
+            "Low-Medium",
+            "Utilitarian"
+          ]
+        },
+        {
+          "header": "Automatic",
+          "items": [
+            "±5-15 sec/day",
+            "Service every 5-7 years",
+            "Wrist motion",
+            "Generations",
+            "Medium-Very High",
+            "High"
+          ],
+          "highlighted": true
+        },
+        {
+          "header": "Manual",
+          "items": [
+            "±5-15 sec/day",
+            "Service every 5-7 years",
+            "Hand winding",
+            "Generations",
+            "Medium-High",
+            "Traditional"
+          ]
+        }
+      ]
+    }
+  },
+  "watchStyles": [
+    {
+      "category": "Dive Watches",
+      "description": "Built for underwater exploration with exceptional water resistance",
+      "keyFeatures": [
+        "Unidirectional rotating bezel for tracking dive time",
+        "High water resistance (minimum 200m)",
+        "Excellent legibility with luminous markers",
+        "Screw-down crown for water protection",
+        "ISO 6425 certification for true dive watches"
+      ],
+      "iconicModels": [
+        {
+          "name": "Rolex Submariner",
+          "note": "The gold standard since 1953"
+        },
+        {
+          "name": "Omega Seamaster 300M",
+          "note": "James Bond choice"
+        },
+        {
+          "name": "Seiko SKX007",
+          "note": "Legendary affordable dive watch"
+        },
+        {
+          "name": "Tudor Black Bay",
+          "note": "Vintage-inspired modern diver"
+        }
+      ],
+      "priceRange": "$200 - $15,000+",
+      "idealFor": "Water sports enthusiasts, those seeking robust tool watches"
+    },
+    {
+      "category": "Dress Watches",
+      "description": "Elegant watches designed for formal occasions and refined style",
+      "keyFeatures": [
+        "Slim profile to fit under shirt cuff",
+        "Simple, uncluttered dial",
+        "Leather strap (typically)",
+        "Precious metal cases (gold, platinum) or polished steel",
+        "Minimal complications - focus on time only"
+      ],
+      "iconicModels": [
+        {
+          "name": "Patek Philippe Calatrava",
+          "note": "The ultimate dress watch"
+        },
+        {
+          "name": "Jaeger-LeCoultre Master Ultra Thin",
+          "note": "Exceptionally thin elegance"
+        },
+        {
+          "name": "Cartier Tank",
+          "note": "Art Deco icon since 1917"
+        },
+        {
+          "name": "Nomos Tangente",
+          "note": "Bauhaus-inspired German design"
+        }
+      ],
+      "priceRange": "$500 - $50,000+",
+      "idealFor": "Formal events, business professionals, minimalist aesthetic"
+    },
+    {
+      "category": "Chronograph Watches",
+      "description": "Watches with built-in stopwatch functionality via pushers",
+      "keyFeatures": [
+        "Two or three subdials for chronograph functions",
+        "Pushers at 2 and 4 o'clock (typically)",
+        "Can measure elapsed time, split times",
+        "Often sportier, larger case designs",
+        "Common tachymeter scale (measures speed)"
+      ],
+      "iconicModels": [
+        {
+          "name": "Omega Speedmaster Professional",
+          "note": "Moon watch - NASA-certified"
+        },
+        {
+          "name": "Rolex Daytona",
+          "note": "Racing legend, incredibly collectible"
+        },
+        {
+          "name": "TAG Heuer Carrera",
+          "note": "Motorsport heritage"
+        },
+        {
+          "name": "Breitling Navitimer",
+          "note": "Aviation chronograph with slide rule"
+        }
+      ],
+      "priceRange": "$300 - $40,000+",
+      "idealFor": "Motorsport fans, those appreciating complex functionality"
+    },
+    {
+      "category": "Pilot/Aviation Watches",
+      "description": "Originally designed for cockpit use, emphasizing legibility and accuracy",
+      "keyFeatures": [
+        "Large, highly legible dials",
+        "Oversized crown for glove operation",
+        "High-contrast markings",
+        "Often include GMT or second time zone",
+        "Historical military aviation aesthetic"
+      ],
+      "iconicModels": [
+        {
+          "name": "IWC Big Pilot",
+          "note": "Modern interpretation of B-Uhr watches"
+        },
+        {
+          "name": "Breitling Navitimer",
+          "note": "Slide rule for flight calculations"
+        },
+        {
+          "name": "Zenith Pilot Type 20",
+          "note": "Vintage military aesthetic"
+        },
+        {
+          "name": "Bell & Ross BR 01",
+          "note": "Inspired by cockpit instruments"
+        }
+      ],
+      "priceRange": "$500 - $20,000+",
+      "idealFor": "Aviation enthusiasts, vintage military style lovers"
+    },
+    {
+      "category": "Field Watches",
+      "description": "Rugged military-inspired watches built for outdoor use",
+      "keyFeatures": [
+        "Simple, easy-to-read dials",
+        "Arabic numerals",
+        "Durable construction",
+        "Often hacking seconds for sync",
+        "Moderate water resistance"
+      ],
+      "iconicModels": [
+        {
+          "name": "Hamilton Khaki Field",
+          "note": "American military heritage"
+        },
+        {
+          "name": "Seiko SNK809",
+          "note": "Affordable automatic field watch"
+        },
+        {
+          "name": "Timex Expedition",
+          "note": "Budget-friendly explorer"
+        },
+        {
+          "name": "Vaer A5",
+          "note": "Modern minimalist field watch"
+        }
+      ],
+      "priceRange": "$50 - $2,000",
+      "idealFor": "Outdoor adventurers, military style aficionados, daily wear"
+    },
+    {
+      "category": "GMT/Travel Watches",
+      "description": "Designed for frequent travelers with dual time zone capability",
+      "keyFeatures": [
+        "24-hour hand for tracking second time zone",
+        "24-hour rotating bezel",
+        "Independently adjustable hour hand",
+        "Common date complication",
+        "Larger cases to accommodate complexity"
+      ],
+      "iconicModels": [
+        {
+          "name": "Rolex GMT-Master II",
+          "note": "Created for Pan Am pilots, ceramic bezel"
+        },
+        {
+          "name": "Grand Seiko GMT",
+          "note": "Spring Drive precision for travelers"
+        },
+        {
+          "name": "Tudor Black Bay GMT",
+          "note": "Affordable alternative with Pepsi bezel"
+        },
+        {
+          "name": "Omega Seamaster Aqua Terra GMT",
+          "note": "Sporty dressy GMT"
+        }
+      ],
+      "priceRange": "$500 - $15,000+",
+      "idealFor": "Frequent travelers, international business professionals"
+    }
+  ],
+  "watchComplications": {
+    "simple": [
+      {
+        "name": "Date",
+        "description": "Displays the current day of the month via window or subdial",
+        "utility": "Practical for daily use",
+        "note": "Most common complication; needs manual correction on short months"
+      },
+      {
+        "name": "Day-Date",
+        "description": "Shows both day of the week and date",
+        "utility": "Enhanced daily information",
+        "note": "Made famous by Rolex Day-Date 'President'"
+      }
+    ],
+    "popular": [
+      {
+        "name": "Chronograph",
+        "description": "Stopwatch function with elapsed time measurement",
+        "subdials": "Typically 30-minute and 12-hour counters, running seconds",
+        "utility": "Timing events, sports activities",
+        "iconic": "Omega Speedmaster - first watch on the moon"
+      },
+      {
+        "name": "Moon Phase",
+        "description": "Visual indicator showing the current phase of the moon",
+        "utility": "Aesthetic beauty, astronomical interest",
+        "note": "Requires adjustment only once every 122 years on high-precision versions"
+      },
+      {
+        "name": "GMT / Dual Time",
+        "description": "Tracks a second time zone with 24-hour hand",
+        "utility": "Essential for travelers and international communication",
+        "note": "Originally designed for Pan Am pilots in the 1950s"
+      },
+      {
+        "name": "Power Reserve Indicator",
+        "description": "Shows how much energy is left in the mainspring",
+        "utility": "Know when your watch needs winding",
+        "note": "Particularly useful for manual-wind watches"
+      }
+    ],
+    "grand": [
+      {
+        "name": "Perpetual Calendar",
+        "description": "Automatically adjusts for different month lengths and leap years",
+        "complexity": "Incredibly complex - won't need date correction until 2100",
+        "maintenance": "Should never be allowed to stop - expensive to reset",
+        "priceRange": "$20,000 - $500,000+",
+        "example": "Patek Philippe Perpetual Calendar 5320G"
+      },
+      {
+        "name": "Minute Repeater",
+        "description": "Chimes the time on demand using hammers and gongs",
+        "complexity": "One of the most difficult complications to make",
+        "utility": "Originally for telling time in darkness, now pure craftsmanship",
+        "priceRange": "$100,000 - $1,000,000+",
+        "example": "Patek Philippe 5303R Minute Repeater"
+      },
+      {
+        "name": "Tourbillon",
+        "description": "Rotating cage containing the escapement to counter gravity effects",
+        "complexity": "Invented by Breguet in 1795",
+        "utility": "Theoretical accuracy improvement (debated), stunning visual display",
+        "priceRange": "$50,000 - $500,000+",
+        "example": "A. Lange & Söhne 1815 Tourbillon"
+      },
+      {
+        "name": "Equation of Time",
+        "description": "Shows the difference between solar time and mean time",
+        "complexity": "Astronomical complication for purists",
+        "utility": "Indicates when the sun is actually at its highest point",
+        "priceRange": "$100,000+",
+        "example": "Audemars Piguet Royal Oak Equation of Time"
+      }
+    ]
+  },
+  "watchBrands": {
+    "holyTrinity": [
+      {
+        "name": "Patek Philippe",
+        "founded": 1839,
+        "country": "Switzerland",
+        "specialty": "Grand complications, perpetual calendars",
+        "priceRange": "$20,000 - $5,000,000+",
+        "iconicModel": "Calatrava, Nautilus, Aquanaut",
+        "motto": "You never actually own a Patek Philippe. You merely look after it for the next generation.",
+        "notableAchievement": "Holds the record for most expensive watch sold at auction (Grandmaster Chime - $31 million)"
+      },
+      {
+        "name": "Audemars Piguet",
+        "founded": 1875,
+        "country": "Switzerland",
+        "specialty": "Royal Oak, innovative luxury sport watches",
+        "priceRange": "$20,000 - $1,000,000+",
+        "iconicModel": "Royal Oak (designed by Gerald Genta, 1972)",
+        "notableAchievement": "Pioneered the luxury steel sport watch with the Royal Oak",
+        "note": "Still family-owned, independent"
+      },
+      {
+        "name": "Vacheron Constantin",
+        "founded": 1755,
+        "country": "Switzerland",
+        "specialty": "Oldest continuously operating watchmaker",
+        "priceRange": "$15,000 - $2,000,000+",
+        "iconicModel": "Patrimony, Overseas",
+        "motto": "Do better if possible, and that is always possible",
+        "notableAchievement": "Uninterrupted production since 1755 - over 265 years"
+      }
+    ],
+    "iconicLuxury": [
+      {
+        "name": "Rolex",
+        "founded": 1905,
+        "country": "Switzerland",
+        "specialty": "Tool watches, sports watches, brand prestige",
+        "priceRange": "$6,000 - $100,000+",
+        "iconicModels": "Submariner, GMT-Master II, Daytona, Datejust, Day-Date",
+        "achievement": "Most recognized watch brand globally",
+        "innovations": "Oyster case (first waterproof case), Perpetual rotor (early automatic)",
+        "note": "Extremely difficult to obtain new models due to demand"
+      },
+      {
+        "name": "Omega",
+        "founded": 1848,
+        "country": "Switzerland",
+        "specialty": "Space exploration, official Olympics timekeeper",
+        "priceRange": "$3,000 - $50,000+",
+        "iconicModels": "Speedmaster Professional (Moonwatch), Seamaster 300M",
+        "achievement": "First and only watch worn on the moon (1969)",
+        "note": "James Bond watch since GoldenEye (1995)"
+      }
+    ],
+    "entrySwiss": [
+      {
+        "name": "Tissot",
+        "parent": "Swatch Group",
+        "priceRange": "$300 - $3,000",
+        "specialty": "Affordable Swiss quality, innovative materials",
+        "iconicModel": "PRX (popular modern reissue)",
+        "note": "Official timekeeper of MotoGP, NBA, more"
+      },
+      {
+        "name": "Hamilton",
+        "parent": "Swatch Group",
+        "priceRange": "$400 - $2,500",
+        "specialty": "American heritage, military/aviation watches",
+        "iconicModel": "Khaki Field, Ventura (Elvis watch)",
+        "note": "Founded in USA (1892), now Swiss-owned"
+      },
+      {
+        "name": "Longines",
+        "parent": "Swatch Group",
+        "priceRange": "$1,000 - $5,000",
+        "specialty": "Heritage re-issues, elegant dress watches",
+        "iconicModel": "Legend Diver, Heritage 1945",
+        "note": "Excellent value in Swiss watchmaking"
+      }
+    ],
+    "japanese": [
+      {
+        "name": "Seiko",
+        "founded": 1881,
+        "country": "Japan",
+        "specialty": "Innovation, vertical integration, value",
+        "priceRange": "$100 - $50,000+",
+        "achievements": [
+          "Invented the quartz watch (1969 - Astron)",
+          "Invented the Spring Drive movement",
+          "Grand Seiko sub-brand rivals Swiss haute horology"
+        ],
+        "iconicModels": "SKX007, Seiko 5 series, Grand Seiko",
+        "note": "Makes everything in-house from basic to ultra-luxury"
+      },
+      {
+        "name": "Casio",
+        "founded": 1946,
+        "country": "Japan",
+        "specialty": "Digital watches, extreme durability",
+        "priceRange": "$20 - $5,000",
+        "iconicModels": "G-Shock, F-91W, Casio Duro",
+        "achievement": "G-Shock virtually indestructible - 200M+ sold",
+        "note": "F-91W: the most affordable reliable watch on the planet (~$15)"
+      },
+      {
+        "name": "Citizen",
+        "founded": 1918,
+        "country": "Japan",
+        "specialty": "Eco-Drive solar technology",
+        "priceRange": "$100 - $3,000",
+        "achievement": "Never needs battery replacement - powered by light",
+        "note": "Excellent value for solar watches"
+      }
+    ]
+  },
+  "watchHistory": {
+    "pocketToWrist": {
+      "era": "Early 1900s",
+      "event": "The Birth of the Wristwatch",
+      "story": "In 1904, Brazilian aviator Alberto Santos-Dumont complained to his friend Louis Cartier that pocket watches were impractical while flying. Cartier created the 'Santos' wristwatch - one of the first men's wristwatches. WWI soldiers also adopted wristwatches for practicality in the trenches, accelerating their popularity.",
+      "significance": "Transformed watches from jewelry to essential tools"
+    },
+    "quartzCrisis": {
+      "era": "1970s-1980s",
+      "event": "The Quartz Crisis",
+      "story": "In 1969, Seiko released the Astron - the world's first quartz watch. Quartz watches were more accurate, cheaper to produce, and required no winding. The Swiss watch industry nearly collapsed - employment dropped from 90,000 to 30,000. Many historic brands went bankrupt.",
+      "resolution": "Swiss industry pivoted to luxury positioning, emphasizing craftsmanship over pure accuracy",
+      "significance": "Split the watch industry into two segments: tool/commodity (quartz) vs. luxury/art (mechanical)"
+    },
+    "mechanicalResurgence": {
+      "era": "1990s-Present",
+      "event": "The Mechanical Renaissance",
+      "story": "Despite smartphones making watches functionally obsolete, mechanical watches experienced a resurgence. Collectors appreciated them as art, engineering marvels, and status symbols. Independent brands emerged (F.P. Journe, MB&F, Richard Mille). Vintage watches became investment pieces.",
+      "drivers": [
+        "Digital fatigue - desire for analog, mechanical objects",
+        "Appreciation for craftsmanship",
+        "Status signaling in luxury goods",
+        "Investment potential of rare pieces"
+      ],
+      "significance": "Mechanical watches redefined as luxury goods, art pieces, and family heirlooms"
+    }
+  },
+  "collectorGuides": {
+    "startingCollection": {
+      "title": "How to Start Your Watch Collection",
+      "steps": [
+        {
+          "step": "Define Your Style",
+          "description": "Before buying, determine what resonates with you",
+          "questions": [
+            "Do you prefer sporty or dressy?",
+            "Large or small watches?",
+            "Modern or vintage aesthetic?",
+            "Specific use cases (diving, formal events, daily wear)?"
+          ],
+          "advice": "Visit watch boutiques, try different styles on your wrist, follow watch content creators"
+        },
+        {
+          "step": "Set a Realistic Budget",
+          "description": "Great watches exist at every price point",
+          "tiers": [
+            {
+              "range": "$50-$500",
+              "recommendation": "Seiko 5, Casio, Timex, Orient"
+            },
+            {
+              "range": "$500-$2,000",
+              "recommendation": "Hamilton, Tissot, Seiko Presage, Christopher Ward"
+            },
+            {
+              "range": "$2,000-$5,000",
+              "recommendation": "Longines, Oris, Tudor (used), Grand Seiko (used)"
+            },
+            {
+              "range": "$5,000-$10,000",
+              "recommendation": "Omega, Tudor, Zenith, Grand Seiko"
+            },
+            {
+              "range": "$10,000+",
+              "recommendation": "Rolex, Omega, luxury brands"
+            }
+          ]
+        },
+        {
+          "step": "Research Thoroughly",
+          "description": "Knowledge prevents costly mistakes",
+          "resources": [
+            "YouTube: Teddy Baldassarre, Hodinkee, WatchFinder & Co.",
+            "Forums: WatchUSeek, r/Watches",
+            "Books: \"A Man and His Watch\" by Matt Hranek",
+            "Websites: Hodinkee, Worn & Wound"
+          ]
+        },
+        {
+          "step": "Buy What You Love, Not the Hype",
+          "description": "Avoid investment thinking for first watches",
+          "warning": "Do not buy a watch just because it \"holds value\" - buy what brings you joy",
+          "note": "The best watch is one you will actually wear"
+        },
+        {
+          "step": "Consider the \"One-Watch Collection\"",
+          "description": "Start with one versatile daily wearer",
+          "ideal": "A watch that handles 80% of situations",
+          "examples": "Rolex Submariner, Omega Seamaster, Grand Seiko SBGA413, Tudor Black Bay"
+        }
+      ]
+    },
+    "buyingGuide": {
+      "title": "New vs. Used vs. Vintage",
+      "options": [
+        {
+          "type": "Buying New",
+          "pros": [
+            "Full manufacturer warranty",
+            "Latest technology and designs",
+            "No history of abuse or bad servicing",
+            "Satisfaction of being first owner"
+          ],
+          "cons": [
+            "Highest price",
+            "Immediate depreciation (except Rolex, Patek)",
+            "Long waitlists for popular models",
+            "Limited selection (what is currently in production)"
+          ],
+          "bestFor": "Those valuing warranty, latest models, and peace of mind"
+        },
+        {
+          "type": "Buying Used",
+          "pros": [
+            "Better value - avoids initial depreciation",
+            "Immediate availability (no waitlists)",
+            "Access to recently discontinued models",
+            "Often includes box and papers"
+          ],
+          "cons": [
+            "Limited or no warranty",
+            "Condition varies - inspection crucial",
+            "Risk of counterfeits (buy from reputable sellers)",
+            "May need immediate servicing"
+          ],
+          "bestFor": "Value-conscious buyers, those avoiding waitlists",
+          "trustedSources": "Chrono24 (with Trusted Checkout), Bob's Watches, Crown & Caliber, WatchBox"
+        },
+        {
+          "type": "Buying Vintage",
+          "pros": [
+            "Historical significance",
+            "Unique patina and character",
+            "Investment potential (rare models)",
+            "Models no longer in production"
+          ],
+          "cons": [
+            "No warranty",
+            "Higher risk of frankenwatches (swapped parts)",
+            "Expensive to service (scarce parts)",
+            "Requires expert knowledge",
+            "Water resistance compromised"
+          ],
+          "bestFor": "Experienced collectors, history enthusiasts, investors",
+          "warning": "Educate yourself extensively or work with trusted vintage dealers. Fakes and modified watches are common."
+        }
+      ]
+    },
+    "spotFakes": {
+      "title": "How to Spot a Fake Watch",
+      "redFlags": [
+        {
+          "indicator": "Price Too Good to Be True",
+          "detail": "If a Rolex Submariner costs $2,000 new, it is fake. Research typical market prices."
+        },
+        {
+          "indicator": "Spelling or Font Errors",
+          "detail": "Luxury brands have perfect printing. Check for inconsistent spacing, wrong fonts, errors."
+        },
+        {
+          "indicator": "Weight",
+          "detail": "Genuine luxury watches use quality materials. Fakes often feel lighter (cheaper metals)."
+        },
+        {
+          "indicator": "Movement Sound and Action",
+          "detail": "Most fakes use cheap quartz movements. A \"mechanical\" Rolex that ticks once per second is fake."
+        },
+        {
+          "indicator": "Cyclops Magnification",
+          "detail": "Rolex cyclops magnifies the date 2.5x. Fakes often have weak or no magnification."
+        },
+        {
+          "indicator": "Case Back Engravings",
+          "detail": "Most Rolex models have smooth case backs (no engravings). Exhibition backs are rare."
+        },
+        {
+          "indicator": "Serial and Model Numbers",
+          "detail": "Verify if the serial number matches the production year. Cross-check with manufacturer databases."
+        }
+      ],
+      "protectionTips": [
+        "Buy from authorized dealers or reputable gray market dealers",
+        "Request certificate of authenticity and service history",
+        "Have an independent watchmaker authenticate before purchase",
+        "Use escrow services for private sales",
+        "Trust your instincts - if something feels off, walk away"
+      ]
+    }
+  },
+  "watchCareFull": {
+    "cleaning": {
+      "title": "How to Safely Clean Your Watch",
+      "methods": [
+        {
+          "material": "Stainless Steel Bracelet",
+          "process": [
+            "Remove bracelet from watch case if possible",
+            "Use warm water with mild soap",
+            "Soft toothbrush to scrub between links",
+            "Rinse thoroughly",
+            "Dry completely with microfiber cloth",
+            "Air dry overnight before wearing"
+          ],
+          "frequency": "Monthly or when visibly dirty"
+        },
+        {
+          "material": "Leather Strap",
+          "process": [
+            "DO NOT submerge in water",
+            "Wipe with slightly damp cloth",
+            "Use leather cleaner/conditioner occasionally",
+            "Air dry away from direct heat"
+          ],
+          "warning": "Water damages leather - minimize exposure",
+          "lifespan": "1-2 years with regular wear"
+        },
+        {
+          "material": "NATO/Fabric Strap",
+          "process": [
+            "Remove from watch",
+            "Hand wash with mild detergent",
+            "Rinse thoroughly",
+            "Air dry completely (12-24 hours)"
+          ],
+          "frequency": "Every 2-3 weeks with regular wear"
+        },
+        {
+          "material": "Rubber/Silicone Strap",
+          "process": [
+            "Wash with warm soapy water",
+            "Gentle scrub",
+            "Rinse and dry"
+          ],
+          "note": "Most durable and water-resistant option"
+        }
+      ]
+    },
+    "servicing": {
+      "title": "Watch Servicing: What You Need to Know",
+      "whyService": [
+        "Lubricants dry out over time (3-5 years)",
+        "Gaskets deteriorate, compromising water resistance",
+        "Accumulated wear can damage components",
+        "Maintain accuracy and functionality",
+        "Preserve long-term value"
+      ],
+      "frequency": {
+        "quartz": "Battery replacement every 2-3 years. Full service every 10 years.",
+        "mechanical": "Full service every 3-5 years (depending on manufacturer recommendation)",
+        "vintage": "Often needs more frequent servicing (every 2-3 years)"
+      },
+      "whatHappens": [
+        "Complete disassembly of movement",
+        "Ultrasonic cleaning of all parts",
+        "Inspection of worn components",
+        "Replacement of worn parts and gaskets",
+        "Lubrication with specialized oils",
+        "Re-assembly and regulation",
+        "Water resistance testing",
+        "Timing accuracy verification"
+      ],
+      "cost": {
+        "basic": "$200-$400 (simple time-only movements)",
+        "standard": "$400-$800 (date, water-resistant sport watches)",
+        "complex": "$800-$2,000+ (chronographs, complications)",
+        "manufacture": "$1,000-$5,000+ (in-house brand service - Rolex, Omega, Patek)"
+      },
+      "tip": "Always use authorized service centers for luxury watches to maintain warranty and value"
+    },
+    "storage": {
+      "title": "Proper Watch Storage",
+      "options": [
+        {
+          "solution": "Watch Box",
+          "description": "Individual cushions protect watches when not worn",
+          "bestFor": "Manual-wind watches, dress watches worn occasionally",
+          "priceRange": "$30-$500+",
+          "features": "Look for soft interior, proper spacing, UV-protected glass (if display box)"
+        },
+        {
+          "solution": "Watch Winder",
+          "description": "Motorized device that rotates automatic watches to keep them wound",
+          "bestFor": "Complicated automatics (perpetual calendar), watches in rotation",
+          "priceRange": "$50-$1,000+",
+          "settings": "Turns Per Day (TPD) - typically 650-900 TPD for most watches",
+          "note": "Research specific TPD requirements for your watch"
+        },
+        {
+          "solution": "Watch Roll",
+          "description": "Portable fabric storage for travel",
+          "bestFor": "Traveling with multiple watches",
+          "priceRange": "$20-$200"
+        }
+      ],
+      "tips": [
+        "Store away from magnetic sources (speakers, laptops)",
+        "Avoid extreme temperature fluctuations",
+        "Keep out of direct sunlight (prevents dial fading)",
+        "Store in low-humidity environment (prevents moisture damage)",
+        "Wind manual watches before storing (maintains lubrication distribution)"
+      ]
+    },
+    "strapChange": {
+      "title": "How to Change a Watch Strap",
+      "tools": "Spring bar tool ($5-$15)",
+      "process": [
+        "Identify spring bar location (between lugs)",
+        "Use spring bar tool to compress spring bar",
+        "Slide strap off while keeping spring bar compressed",
+        "Insert new strap spring bar into lug hole",
+        "Compress spring bar and align with opposite lug hole",
+        "Release tool - spring bar should click into place",
+        "Test security by gently pulling on strap"
+      ],
+      "strapTypes": {
+        "quickRelease": "No tools needed - lever on spring bar",
+        "integrated": "Cannot be changed (Royal Oak, Nautilus) - bracelet links only",
+        "standard": "Requires spring bar tool"
+      },
+      "lugWidth": "Measure distance between lugs (common: 18mm, 20mm, 22mm)",
+      "tip": "Changing straps is the easiest way to completely transform your watch look for $20-$100"
+    }
+  }
+}

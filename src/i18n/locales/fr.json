@@ -1,0 +1,3266 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "watch101": "Horlogerie 101",
+    "watch101Short": "Guide de Base",
+    "howWatchesWork": "Comment Fonctionnent",
+    "howWatchesWorkShort": "Mouvements",
+    "watchTypes": "Types de Montres",
+    "watchTypesShort": "Types et Styles",
+    "watchFeatures": "Complications",
+    "watchFeaturesShort": "Caractéristiques",
+    "worldOfWatches": "Monde Horloger",
+    "worldOfWatchesShort": "Marques et Histoire",
+    "collectorsCorner": "Coin du Collectionneur",
+    "collectorsCornerShort": "Collection",
+    "watchCare": "Entretien des Montres",
+    "watchCareShort": "Maintenance",
+    "blog": "Blog et Critiques",
+    "blogShort": "Blog",
+    "newsletter": "Newsletter",
+    "languageSwitcher": "Langue"
+  },
+  "megaMenu": {
+    "learn": {
+      "title": "Apprendre",
+      "fundamentals": {
+        "title": "Fondamentaux",
+        "watch101": {
+          "title": "Horlogerie 101",
+          "description": "L'essentiel de base pour débutants"
+        },
+        "anatomy": {
+          "title": "Anatomie d'une Montre",
+          "description": "Pièces et composants expliqués"
+        },
+        "terminology": {
+          "title": "Terminologie",
+          "description": "Vocabulaire horloger essentiel"
+        }
+      },
+      "movements": {
+        "title": "Mouvements",
+        "howWatchesWork": {
+          "title": "Comment Fonctionnent les Montres",
+          "description": "Comprendre les mouvements"
+        },
+        "quartz": {
+          "title": "Quartz",
+          "description": "Précision à pile"
+        },
+        "manual": {
+          "title": "Remontage Manuel",
+          "description": "Mécanique à remontage manuel"
+        },
+        "automatic": {
+          "title": "Automatique",
+          "description": "Mécanique à remontage automatique"
+        },
+        "other": {
+          "title": "Solaire et Autres",
+          "description": "Solaire, Kinetic, Spring Drive"
+        }
+      }
+    },
+    "watches": {
+      "title": "Montres",
+      "typesAndStyles": {
+        "title": "Types et Styles",
+        "watchTypes": {
+          "title": "Types de Montres",
+          "description": "Explorez tous les styles"
+        },
+        "dive": {
+          "title": "Montres de Plongée",
+          "description": "Construites pour sous l'eau"
+        },
+        "dress": {
+          "title": "Montres Habillées",
+          "description": "Élégantes et formelles"
+        },
+        "chronograph": {
+          "title": "Chronographes",
+          "description": "Fonction chronomètre"
+        },
+        "pilot": {
+          "title": "Montres d'Aviateur",
+          "description": "Garde-temps d'aviation"
+        },
+        "field": {
+          "title": "Montres de Terrain",
+          "description": "Inspirées militaires"
+        },
+        "gmt": {
+          "title": "Montres GMT",
+          "description": "Voyage et fuseaux horaires"
+        },
+        "digital": {
+          "title": "Digital",
+          "description": "Digital et montres connectées"
+        }
+      },
+      "complications": {
+        "title": "Complications",
+        "watchFeatures": {
+          "title": "Caractéristiques des Montres",
+          "description": "Au-delà de donner l'heure"
+        },
+        "popularComplications": {
+          "title": "Complications Populaires",
+          "description": "GMT, Chronographe, Phases Lunaires, Autres"
+        }
+      }
+    },
+    "brands": {
+      "title": "Marques",
+      "worldOfWatches": {
+        "title": "Monde des Montres",
+        "brandOverview": {
+          "title": "Aperçu des Marques",
+          "description": "Explorez les fabricants de montres"
+        },
+        "history": {
+          "title": "Histoire de l'Horlogerie",
+          "description": "Chronologie de l'horlogerie"
+        },
+        "holyTrinity": {
+          "title": "La Sainte Trinité",
+          "description": "Patek, AP, Vacheron Constantin"
+        },
+        "luxuryBrands": {
+          "title": "Marques de Luxe",
+          "description": "Rolex, Omega, Cartier et plus"
+        }
+      }
+    },
+    "collecting": {
+      "title": "Collection",
+      "collectorsCorner": {
+        "title": "Coin du Collectionneur",
+        "gettingStarted": {
+          "title": "Commencer",
+          "description": "Commencez votre collection"
+        },
+        "buyingGuide": {
+          "title": "Guide d'Achat",
+          "description": "Neuf, d'occasion, vintage"
+        },
+        "spottingFakes": {
+          "title": "Repérer les Contrefaçons",
+          "description": "Conseils d'authentification"
+        }
+      },
+      "watchCare": {
+        "title": "Entretien des Montres",
+        "maintenance": {
+          "title": "Maintenance",
+          "description": "Gardez vos montres en marche"
+        },
+        "servicing": {
+          "title": "Entretien",
+          "description": "Quand et pourquoi entretenir"
+        }
+      }
+    },
+    "blog": {
+      "title": "Blog"
+    }
+  },
+  "hero": {
+    "badge": "Votre Centre d'Éducation Horlogère Complet",
+    "title": "Bienvenue à",
+    "subtitle": "Momento Relojero",
+    "description": "La ressource ultime pour les passionnés d'horlogerie. Maîtrisez l'art de l'horlogerie des bases aux collections avancées. Explorez mouvements, marques, complications et entretien.",
+    "cta_start": "Commencer à Apprendre",
+    "cta_collectors": "Pour les Collectionneurs",
+    "stats": {
+      "sections": "Sections Éducatives",
+      "brands": "Marques de Montres Couvertes",
+      "movements": "Types de Mouvements",
+      "styles": "Styles de Montres"
+    }
+  },
+  "sections": {
+    "title": "Explorez le Monde des Montres",
+    "subtitle": "Naviguez à travers nos sections complètes conçues pour vous faire passer de débutant à expert",
+    "watch101": {
+      "title": "Horlogerie 101 : Le Centre des Débutants",
+      "description": "Commencez votre voyage horloger ici. Apprenez l'anatomie d'une montre, la terminologie essentielle, les classifications d'étanchéité et pourquoi les montres importent à l'ère numérique.",
+      "highlights": [
+        "Guide d'Anatomie",
+        "Terminologie",
+        "Étanchéité",
+        "Pourquoi Porter des Montres"
+      ]
+    },
+    "howWatchesWork": {
+      "title": "Comment Fonctionnent les Montres : Les Mouvements",
+      "description": "Comprenez le cœur de chaque garde-temps. Explorez les mouvements à quartz, à remontage manuel, automatiques et exotiques comme Spring Drive et l'énergie solaire.",
+      "highlights": [
+        "Mouvement à Quartz",
+        "Mécanique Manuel",
+        "Automatique",
+        "Spring Drive"
+      ]
+    },
+    "watchTypes": {
+      "title": "Types et Styles de Montres",
+      "description": "Découvrez votre style de montre parfait. Des montres de plongée aux montres habillées, des chronographes aux montres de terrain - explorez chaque catégorie avec des exemples emblématiques.",
+      "highlights": [
+        "Montres de Plongée",
+        "Montres Habillées",
+        "Chronographes",
+        "Montres d'Aviateur"
+      ]
+    },
+    "watchFeatures": {
+      "title": "Caractéristiques et Complications des Montres",
+      "description": "Au-delà de donner l'heure : explorez les complications simples à grandioses. Des affichages de date aux calendriers perpétuels et répétitions minutes.",
+      "highlights": [
+        "Fonctions de Date",
+        "Chronographes",
+        "Calendrier Perpétuel",
+        "Tourbillon"
+      ]
+    },
+    "worldOfWatches": {
+      "title": "Le Monde des Montres : Marques et Histoire",
+      "description": "Voyagez à travers l'histoire horlogère. Découvrez la Sainte Trinité, les marques de luxe emblématiques, les options suisses d'entrée de gamme et les géants japonais.",
+      "highlights": [
+        "Sainte Trinité",
+        "Rolex et Omega",
+        "Seiko et Grand Seiko",
+        "Histoire Horlogère"
+      ]
+    },
+    "collectorsCorner": {
+      "title": "Le Coin du Collectionneur",
+      "description": "Commencez ou affinez votre collection. Apprenez à acheter intelligemment, à repérer les contrefaçons, à comprendre les numéros de référence et à construire une collection significative.",
+      "highlights": [
+        "Guide de Démarrage",
+        "Neuf vs. Vintage",
+        "Repérer les Contrefaçons",
+        "Numéros de Référence"
+      ]
+    },
+    "watchCare": {
+      "title": "Entretien et Maintenance des Montres",
+      "description": "Protégez votre investissement. Maîtrisez les techniques de nettoyage, comprenez les besoins d'entretien, les solutions de stockage et comment changer les bracelets.",
+      "highlights": [
+        "Guide de Nettoyage",
+        "Entretien",
+        "Stockage",
+        "Changements de Bracelets"
+      ]
+    },
+    "blog": {
+      "title": "Blog, Critiques et Actualités",
+      "description": "Restez à jour avec le monde de l'horlogerie. Lisez des critiques approfondies, des actualités de l'industrie, des articles d'opinion et des guides d'achat complets.",
+      "highlights": [
+        "Critiques de Montres",
+        "Actualités de l'Industrie",
+        "Guides d'Achat",
+        "Articles d'Opinion"
+      ]
+    },
+    "explore": "Explorer la Section",
+    "featuredMasterpiece": {
+      "badge": "Chef-d'œuvre en Vedette",
+      "title": "L'Art de la Précision",
+      "description": "Découvrez le monde complexe de la haute horlogerie. Du délicat ressort spiral au fascinant tourbillon, chaque composant raconte une histoire d'artisanat et d'excellence technique.",
+      "cta": "Découvrir Plus"
+    },
+    "legacyOfTime": {
+      "title": "Héritage du Temps",
+      "subtitle": "Un voyage à travers les jalons qui ont défini l'horlogerie moderne.",
+      "timeline": [
+        {
+          "year": "1500s",
+          "title": "Le Commencement",
+          "desc": "Premiers horloges portables inventées."
+        },
+        {
+          "year": "1700s",
+          "title": "Âge d'Or",
+          "desc": "Invention du tourbillon."
+        },
+        {
+          "year": "1900s",
+          "title": "Ère de la Montre-Bracelet",
+          "desc": "Passage de la poche au poignet."
+        },
+        {
+          "year": "1969",
+          "title": "Crise du Quartz",
+          "desc": "La révolution électronique."
+        }
+      ]
+    }
+  },
+  "whyChooseUs": {
+    "title": "Pourquoi Momento Relojero ?",
+    "subtitle": "Votre compagnon de confiance dans le monde fascinant de l'horlogerie",
+    "reasons": {
+      "comprehensive": {
+        "title": "Éducation Complète",
+        "description": "Du débutant absolu au collectionneur chevronné, nous couvrons chaque aspect de l'horlogerie en profondeur."
+      },
+      "authoritative": {
+        "title": "Contenu Autoritaire",
+        "description": "Guides soigneusement recherchés écrits par des passionnés de montres pour les passionnés de montres."
+      },
+      "practical": {
+        "title": "Conseils Pratiques",
+        "description": "Astuces concrètes sur l'achat, la collection, l'entretien et l'appréciation de vos montres."
+      },
+      "free": {
+        "title": "Toujours Gratuit",
+        "description": "Pas de murs payants, pas de contenu verrouillé. Toutes les connaissances librement accessibles à tous."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Ce Que Disent les Passionnés de Montres",
+    "subtitle": "Rejoignez des milliers de collectionneurs qui font confiance à Momento Relojero",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "role": "Collectionneur de Montres",
+        "content": "Momento Relojero m'a aidé à comprendre les mouvements mécaniques et à faire mon premier achat intelligent. Ressources incroyables !",
+        "location": "Madrid, Espagne"
+      },
+      {
+        "name": "Sophie Laurent",
+        "role": "Passionnée d'Horlogerie",
+        "content": "Le guide le plus complet sur les montres que j'ai trouvé. Parfait pour les débutants et les collectionneurs expérimentés.",
+        "location": "Paris, France"
+      },
+      {
+        "name": "James Wilson",
+        "role": "Nouveau Collectionneur",
+        "content": "Je suis passé de ne rien savoir sur les montres à construire une collection de 10 pièces grâce à ce site incroyable.",
+        "location": "Londres, Royaume-Uni"
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Ne Manquez Rien",
+    "description": "Abonnez-vous à notre newsletter pour recevoir des critiques exclusives de montres, des conseils de collection, des actualités de l'industrie et des perspectives spéciales dans votre boîte de réception.",
+    "cta": "S'abonner Maintenant"
+  },
+  "exitIntent": {
+    "title": "Attendez ! Ne manquez pas notre contenu exclusif",
+    "description": "Rejoignez des milliers de passionnés de montres et recevez des guides gratuits, des conseils de collection et des offres exclusives.",
+    "incentive": "📚 Guide Gratuit : \"Les 10 Montres Essentielles pour Commencer Votre Collection\"",
+    "emailPlaceholder": "votre@email.com",
+    "submitButton": "Obtenir mon Guide Gratuit",
+    "submitting": "Envoi...",
+    "thankYou": "Merci !",
+    "checkEmail": "Vérifiez votre e-mail pour votre guide gratuit.",
+    "instantDelivery": "Livraison instantanée",
+    "noSpam": "Pas de spam, désabonnez-vous à tout moment"
+  },
+  "socialProof": {
+    "trustBadges": {
+      "verified": {
+        "title": "Informations Vérifiées",
+        "description": "Contenu examiné par des experts en horlogerie"
+      },
+      "awarded": {
+        "title": "Ressources Primées",
+        "description": "Reconnu par la communauté de collectionneurs"
+      },
+      "readers": {
+        "title": "50 000+ Lecteurs",
+        "description": "Approuvé par des passionnés du monde entier"
+      },
+      "updated": {
+        "title": "Constamment Mis à Jour",
+        "description": "Nouveau contenu chaque semaine"
+      }
+    },
+    "stats": {
+      "monthlyReaders": "Lecteurs Mensuels",
+      "detailedGuides": "Guides Détaillés",
+      "brandsCovered": "Marques Couvertes",
+      "averageRating": "Note Moyenne"
+    }
+  },
+  "watchTypes": {
+    "dive": "Montres de Plongée",
+    "dress": "Montres Habillées",
+    "chronograph": "Chronographes",
+    "pilot": "Montres d'Aviateur",
+    "field": "Montres de Terrain",
+    "gmt": "Montres GMT",
+    "digital": "Digital et Montres Connectées"
+  },
+  "movements": {
+    "automatic": {
+      "hero": {
+        "title": "Montres Automatiques",
+        "description": "Découvrez la magie des mouvements mécaniques alimentés par le mouvement de votre poignet"
+      },
+      "intro": "Les montres automatiques, également connues sous le nom de montres à remontage automatique, représentent l'aboutissement de siècles d'innovation horlogère. Ces mécanismes fascinants sont alimentés par le mouvement naturel de votre poignet grâce à un rotor oscillant qui remonte le ressort moteur. Sans besoin de piles ni de remontage manuel quotidien, une montre automatique est le compagnon parfait qui bat au rythme de votre vie.",
+      "advantages": {
+        "title": "Avantages des Montres Automatiques",
+        "benefits": [
+          {
+            "title": "Pas de Piles",
+            "description": "Vous n'aurez jamais à changer une pile. Le mouvement de votre poignet maintient la montre en marche en continu."
+          },
+          {
+            "title": "Artisanat Traditionnel",
+            "description": "Chaque mouvement automatique est un chef-d'œuvre d'ingénierie mécanique avec des centaines de composants travaillant en harmonie."
+          },
+          {
+            "title": "Faible Entretien",
+            "description": "Avec un port régulier, une montre automatique peut fonctionner indéfiniment avec des révisions tous les 3 à 5 ans."
+          },
+          {
+            "title": "Valeur d'Investissement",
+            "description": "Les montres automatiques de qualité maintiennent ou augmentent leur valeur avec le temps, en particulier des marques prestigieuses."
+          }
+        ]
+      },
+      "famousExamples": {
+        "title": "Mouvements Automatiques Légendaires",
+        "models": [
+          {
+            "brand": "ETA",
+            "model": "2824-2",
+            "price": "25 rubis, 28 800 vph, 38h de réserve",
+            "highlight": "Le cheval de bataille de l'industrie, utilisé par des centaines de marques et connu pour sa fiabilité."
+          },
+          {
+            "brand": "Seiko",
+            "model": "6R35",
+            "price": "23 rubis, 21 600 vph, 70h de réserve",
+            "highlight": "Mouvement japonais robuste avec excellente réserve de marche et précision supérieure."
+          },
+          {
+            "brand": "Rolex",
+            "model": "3235",
+            "price": "31 rubis, 28 800 vph, 70h de réserve, Chronomètre",
+            "highlight": "Mouvement manufacture avec échappement Chronergy breveté et précision certifiée de -2/+2 secondes par jour."
+          },
+          {
+            "brand": "Omega",
+            "model": "8800",
+            "price": "35 rubis, 25 200 vph, 55h de réserve, Co-Axial",
+            "highlight": "Mouvement Master Chronometer résistant aux champs magnétiques jusqu'à 15 000 gauss."
+          }
+        ]
+      },
+      "conclusion": {
+        "title": "L'Art du Mouvement Automatique",
+        "content": "Les montres automatiques représentent la fusion parfaite entre tradition et innovation. Ce sont des machines vivantes qui capturent l'essence de siècles de maîtrise horlogère, offrant une expérience unique qu'aucune pile ne peut reproduire."
+      }
+    },
+    "manual": {
+      "hero": {
+        "title": "Montres à Remontage Manuel",
+        "description": "Vivez la connexion intime avec l'horlogerie traditionnelle à travers le rituel quotidien du remontage"
+      },
+      "intro": "Les montres à remontage manuel représentent la forme la plus pure de l'horlogerie mécanique. Chaque jour, vous vous connectez à votre montre par le rituel du remontage, sentant la tension du ressort moteur pendant que vous le remontez. Cette interaction directe avec le mécanisme crée un lien spécial entre la montre et son propriétaire, une tradition remontant aux origines de l'horlogerie.",
+      "advantages": {
+        "title": "Pourquoi Choisir le Remontage Manuel",
+        "benefits": [
+          {
+            "title": "Design Plus Fin",
+            "description": "Sans le rotor automatique, les montres à remontage manuel peuvent être sensiblement plus fines et élégantes."
+          },
+          {
+            "title": "Rituel Quotidien",
+            "description": "L'acte de remonter crée une connexion personnelle avec votre montre, un moment de conscience dans votre routine quotidienne."
+          },
+          {
+            "title": "Visibilité du Mouvement",
+            "description": "Beaucoup de montres à remontage manuel ont des fonds transparents qui permettent d'apprécier pleinement le mouvement sans obstructions."
+          },
+          {
+            "title": "Tradition Horlogère",
+            "description": "Les collectionneurs apprécient la pureté et la lignée historique des mouvements à remontage manuel."
+          }
+        ]
+      },
+      "famousExamples": {
+        "title": "Mouvements à Remontage Manuel Iconiques",
+        "models": [
+          {
+            "brand": "Unitas/ETA",
+            "model": "6497/6498",
+            "price": "17 rubis, 18 000 vph, 46h de réserve",
+            "highlight": "Mouvement de montre de poche classique adapté aux montres-bracelets, avec finitions personnalisables."
+          },
+          {
+            "brand": "Patek Philippe",
+            "model": "215 PS",
+            "price": "18 rubis, 28 800 vph, 44h de réserve",
+            "highlight": "Mouvement ultra-fin de seulement 2,55 mm d'épaisseur, fini à la main selon les normes du Poinçon de Genève."
+          },
+          {
+            "brand": "A. Lange & Söhne",
+            "model": "L051.1",
+            "price": "45 rubis, 21 600 vph, 72h de réserve",
+            "highlight": "Chef-d'œuvre allemand avec platine trois-quarts et coq de balancier gravé à la main."
+          },
+          {
+            "brand": "Valjoux",
+            "model": "7750",
+            "price": "25 rubis, 28 800 vph, 48h de réserve",
+            "highlight": "Chronographe automatique robuste utilisé dans des milliers de montres de luxe et sportives."
+          }
+        ]
+      },
+      "howToWind": {
+        "title": "Comment Remonter une Montre Manuelle",
+        "instructions": [
+          {
+            "step": "Dévisser la couronne (si applicable)",
+            "detail": "Si votre montre a une couronne vissée pour l étanchéité, dévissez-la doucement dans le sens antihoraire jusqu à ce qu elle sorte légèrement."
+          },
+          {
+            "step": "Tirer la couronne en position 1",
+            "detail": "La couronne a généralement plusieurs positions. La position 1 est la position de remontage, la plus proche du boîtier."
+          },
+          {
+            "step": "Remonter dans le sens horaire",
+            "detail": "Tournez la couronne dans le sens horaire (loin de vous) avec des mouvements doux et réguliers. Vous devriez sentir une légère résistance."
+          },
+          {
+            "step": "Arrêter lorsque vous sentez de la résistance",
+            "detail": "Ne forcez jamais. Arrêtez de remonter lorsque vous sentez une résistance constante. Un sur-remontage peut endommager le ressort moteur."
+          },
+          {
+            "step": "Repousser la couronne",
+            "detail": "Poussez doucement la couronne vers sa position normale. Si c est une couronne vissée, revissez-la dans le sens horaire."
+          },
+          {
+            "step": "Remonter quotidiennement",
+            "detail": "Pour de meilleures performances, remontez votre montre manuelle à la même heure chaque jour, de préférence le matin."
+          }
+        ]
+      },
+      "conclusion": {
+        "title": "La Pureté du Remontage Manuel",
+        "content": "Les montres à remontage manuel offrent l'expérience la plus authentique de l'horlogerie mécanique. Le rituel quotidien du remontage crée une connexion intime avec votre montre qui transcende la simple mesure du temps."
+      }
+    },
+    "quartz": {
+      "hero": {
+        "title": "Montres à Quartz",
+        "description": "Précision inégalée et entretien minimal grâce à la technologie du cristal de quartz"
+      },
+      "intro": "Les montres à quartz ont révolutionné l'industrie horlogère dans les années 1970 avec la 'Crise du Quartz'. Utilisant les propriétés piézoélectriques d'un cristal de quartz, ces montres atteignent une précision extraordinaire que les mouvements mécaniques ne peuvent tout simplement pas égaler. Une montre à quartz typique est précise à 15 secondes près par mois, comparé à 15 secondes par jour pour une montre mécanique de qualité.",
+      "advantages": {
+        "title": "Avantages des Montres à Quartz",
+        "benefits": [
+          {
+            "title": "Précision Supérieure",
+            "description": "Les montres à quartz sont généralement 10 fois plus précises que les mécaniques, perdant seulement des secondes par mois."
+          },
+          {
+            "title": "Faible Entretien",
+            "description": "Ne nécessitent qu'un changement de pile tous les 2-3 ans, sans besoin de révision régulière."
+          },
+          {
+            "title": "Prix Accessible",
+            "description": "La production en masse rend les montres à quartz nettement plus abordables que les mécaniques."
+          },
+          {
+            "title": "Durabilité",
+            "description": "Avec moins de pièces mobiles, les montres à quartz sont plus résistantes aux chocs et vibrations."
+          }
+        ]
+      },
+      "famousExamples": {
+        "title": "Mouvements à Quartz Notables",
+        "models": [
+          {
+            "brand": "Seiko",
+            "model": "9F",
+            "price": "Précision ±10 sec/an, pile 3 ans",
+            "highlight": "Mouvement Grand Seiko avec changement de date instantané et finitions similaires aux mécaniques de luxe."
+          },
+          {
+            "brand": "ETA",
+            "model": "F06.111",
+            "price": "Précision ±15 sec/mois, pile 4 ans",
+            "highlight": "Mouvement suisse standard utilisé dans des marques comme Tissot, Hamilton et Certina."
+          },
+          {
+            "brand": "Citizen",
+            "model": "0100",
+            "price": "Précision ±1 sec/an, technologie AT-Cut",
+            "highlight": "Le mouvement à quartz le plus précis au monde, avec cristal AT-Cut spécial."
+          },
+          {
+            "brand": "Breitling",
+            "model": "SuperQuartz",
+            "price": "Précision ±10 sec/an, Chronomètre COSC",
+            "highlight": "Quartz thermocompensé avec certification COSC, 10 fois plus précis que le quartz standard."
+          }
+        ]
+      },
+      "conclusion": {
+        "title": "Précision Sans Compromis",
+        "content": "Les montres à quartz ont démocratisé la précision chronométrique. Elles offrent une fiabilité exceptionnelle avec un entretien minimal, prouvant que la technologie moderne peut coexister parfaitement avec la tradition horlogère."
+      }
+    },
+    "other": {
+      "hero": {
+        "title": "Mouvements Alternatifs",
+        "description": "Explorez les technologies innovantes : Solaire, Kinetic et Spring Drive"
+      },
+      "intro": "Au-delà des mouvements mécaniques et à quartz traditionnels, il existe des technologies innovantes qui combinent le meilleur des deux mondes. Les mouvements solaires exploitent la lumière pour éliminer les changements de pile, le Kinetic génère de l'électricité à partir du mouvement de votre poignet, et le révolutionnaire Spring Drive de Seiko fusionne la précision du quartz avec l'âme d'un mouvement mécanique.",
+      "technologies": {
+        "solar": {
+          "title": "Technologie Solaire",
+          "howItWorks": "Les montres solaires utilisent des cellules photovoltaïques pour convertir toute source de lumière en énergie électrique, la stockant dans une batterie rechargeable. Une fois complètement chargée, une montre solaire peut fonctionner pendant des mois dans l'obscurité totale. Cette technologie élimine le besoin de changer les piles et offre une solution écologique à faible entretien.",
+          "models": [
+            {
+              "model": "Citizen Eco-Drive Promaster",
+              "price": "300-600 €",
+              "highlight": "Réserve de marche jusqu'à 6 mois, étanchéité 200m"
+            },
+            {
+              "model": "Seiko Solar Diver SNE583",
+              "price": "350-450 €",
+              "highlight": "Mouvement V157, réserve de 10 mois, étanchéité 200m"
+            },
+            {
+              "model": "G-Shock Tough Solar GW-M5610",
+              "price": "150-200 €",
+              "highlight": "Synchronisation atomique, résistance extrême, réserve de 10 mois"
+            }
+          ]
+        },
+        "kinetic": {
+          "title": "Seiko Kinetic",
+          "description": "La technologie Kinetic combine un rotor automatique avec un générateur électrique et un condensateur. Le mouvement de votre poignet génère de l'électricité qui est stockée, alimentant un mouvement à quartz. C'est comme une automatique qui n'a jamais besoin de révision mécanique, offrant la précision du quartz sans pile, avec une durée de vie du condensateur dépassant 15 ans."
+        },
+        "springDrive": {
+          "title": "Seiko Spring Drive",
+          "description": "Le Spring Drive est l'innovation la plus révolutionnaire de l'horlogerie moderne. Il combine un ressort moteur mécanique avec un régulateur électronique à quartz, atteignant la précision du quartz (+/- 1 seconde par jour) avec le mouvement continu et silencieux des aiguilles que seul un mouvement mécanique peut offrir. Le résultat est un balayage parfaitement fluide sans le tic-tac caractéristique.",
+          "models": [
+            {
+              "model": "Grand Seiko SBGA413 Spring",
+              "price": "5 800-6 200 €",
+              "highlight": "Cadran Snowflake, 72 heures de réserve, précision ±1 sec/jour"
+            },
+            {
+              "model": "Grand Seiko SBGJ219 GMT",
+              "price": "6 000-6 500 €",
+              "highlight": "Fonction GMT, calibre 9R66, finitions Zaratsu"
+            }
+          ]
+        }
+      },
+      "conclusion": {
+        "title": "L'Avenir de l'Horlogerie",
+        "content": "Ces technologies alternatives représentent l'avant-garde de l'innovation horlogère. Que vous recherchiez la commodité écologique du solaire, l'ingénieuse génération d'énergie du Kinetic, ou la perfection technique du Spring Drive, chaque technologie offre une proposition unique qui transcende les frontières traditionnelles entre mouvements mécaniques et à quartz."
+      }
+    }
+  },
+  "common": {
+    "readMore": "Lire Plus",
+    "learnMore": "En Savoir Plus",
+    "backTo": "Retour à",
+    "allTypes": "Tous les Types",
+    "overview": "Aperçu",
+    "history": "Histoire",
+    "brands": "Marques",
+    "luxury": "Luxe",
+    "characteristics": "Caractéristiques",
+    "pros": "Avantages",
+    "cons": "Inconvénients",
+    "examples": "Exemples",
+    "perfectFor": "Parfait Pour"
+  },
+  "footer": {
+    "tagline": "Votre Guide Horloger Complet",
+    "rights": "Tous droits réservés",
+    "keepExploring": "Continuez à Explorer...",
+    "subscribe": "S'abonner à la Newsletter",
+    "stayUpdated": "Restez Informé sur le Monde des Montres",
+    "newsletterDesc": "Recevez des critiques exclusives de montres, des conseils de collection, des actualités de l'industrie et des offres spéciales dans votre boîte de réception.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "contact": "Contact",
+    "followUs": "Suivez-nous",
+    "sections": {
+      "shop": "Boutique",
+      "about": "À Propos",
+      "journal": "Journal",
+      "support": "Support"
+    }
+  },
+  "meta": {
+    "home": {
+      "title": "Momento Relojero | La Ressource Ultime pour les Passionnés de Montres",
+      "description": "Votre ressource éducative complète pour la collection de montres. Apprenez sur les mouvements, les marques, les complications, l'entretien et la construction de votre collection du débutant à l'expert."
+    },
+    "watchTypes": {
+      "dive": {
+        "title": "Montres de Plongée | Guide Complet et Avis",
+        "description": "Découvrez tout sur les montres de plongée : caractéristiques, histoire, modèles iconiques et comment choisir la montre de plongée parfaite."
+      },
+      "dress": {
+        "title": "Montres Habillées | Guide d'Élégance et de Style",
+        "description": "Maîtrisez l'art des montres habillées. Apprenez les caractéristiques, les règles et les modèles iconiques pour une élégance parfaite."
+      },
+      "chronograph": {
+        "title": "Montres Chronographes | Guide des Complications",
+        "description": "Tout sur les chronographes : comment ils fonctionnent, modèles légendaires et comment utiliser votre chronographe."
+      },
+      "pilot": {
+        "title": "Montres d'Aviateur | Héritage et Fonctionnalité",
+        "description": "Explorez l'histoire et les caractéristiques des montres d'aviateur, des modèles militaires classiques aux icônes modernes."
+      },
+      "field": {
+        "title": "Montres de Terrain | Montres Militaires Fonctionnelles",
+        "description": "Découvrez les montres de terrain : durabilité, lisibilité et héritage militaire dans les montres les plus fiables."
+      },
+      "gmt": {
+        "title": "Montres GMT | Outils Multi-Fuseaux Horaires",
+        "description": "Guide complet des montres GMT pour les voyageurs : fonctionnalité, modèles iconiques et comment choisir."
+      },
+      "digital": {
+        "title": "Montres Digitales et Smartwatches | Innovation Moderne",
+        "description": "De G-Shock aux smartwatches : découvrez l'évolution des montres digitales et trouvez votre compagnon technologique."
+      }
+    },
+    "movements": {
+      "quartz": {
+        "title": "Mouvements à Quartz | Précision Électronique",
+        "description": "Comprenez les mouvements à quartz : fonctionnement, avantages, entretien et pourquoi le quartz mérite le respect."
+      },
+      "manual": {
+        "title": "Mouvements Manuels | Horlogerie Mécanique Pure",
+        "description": "Découvrez les montres à remontage manuel : tradition, rituel et l'art de l'horlogerie mécanique."
+      },
+      "automatic": {
+        "title": "Mouvements Automatiques | Ingénierie Auto-Remontante",
+        "description": "Guide complet des mouvements automatiques : fonctionnement, calibres célèbres et entretien."
+      },
+      "other": {
+        "title": "Mouvements Alternatifs | Innovation Horlogère",
+        "description": "Explorez Spring Drive, Kinetic, Solaire et autres technologies innovantes au-delà du quartz et du mécanique."
+      }
+    }
+  },
+  "pages": {
+    "watchTypes": {
+      "dive": {
+        "hero": {
+          "title": "Montres de Plongée",
+          "subtitle": "Ingénierie pour les Profondeurs",
+          "description": "Nées de la nécessité des plongeurs professionnels, les montres de plongée combinent résistance à l'eau extrême, lunettes tournantes et luminosité pour la survie sous-marine et le style en surface."
+        },
+        "intro": "La montre de plongée représente l'un des designs horlogers les plus iconiques et polyvalents jamais créés. Conçue à l'origine pour les plongeurs militaires et commerciaux qui avaient besoin de chronométrage fiable sous l'eau, la montre de plongée moderne est devenue un symbole de robustesse, de fonctionnalité et de style intemporel. De la Rolex Submariner légendaire à l'Omega Seamaster, les montres de plongée transcendent leur objectif d'origine pour devenir des compagnons quotidiens pour des millions de personnes qui ne plongeront jamais plus profond qu'une piscine.",
+        "whatMakes": {
+          "title": "Caractéristiques Définissant une Montre de Plongée",
+          "features": [
+            {
+              "title": "Résistance à l'Eau (200m Minimum)",
+              "description": "Les véritables montres de plongée commencent à 200m",
+              "detail": "La norme ISO 6425 exige au minimum 200m, bien que de nombreuses plongées dépassent 300m ou plus"
+            },
+            {
+              "title": "Lunette Tournante Unidirectionnelle",
+              "description": "Tourne uniquement dans le sens antihoraire",
+              "detail": "Empêche la surestimation accidentelle du temps de plongée restant, un problème de sécurité critique"
+            },
+            {
+              "title": "Luminosité Haute Visibilité",
+              "description": "Indices et aiguilles luminescents",
+              "detail": "Doit être lisible à 25cm dans l'obscurité totale selon les normes ISO"
+            },
+            {
+              "title": "Couronne Vissée",
+              "description": "Se visse dans le boîtier pour l'étanchéité",
+              "detail": "Crée un joint hermétique, empêchant l'eau de pénétrer par la couronne"
+            },
+            {
+              "title": "Construction Robuste",
+              "description": "Acier inoxydable ou titane",
+              "detail": "Doit résister aux chocs, à la pression et à l'eau salée corrosive"
+            }
+          ]
+        },
+        "history": {
+          "title": "Histoire des Montres de Plongée",
+          "content": "La première véritable montre de plongée était la Rolex Oyster (1926), avec son boîtier étanche révolutionnaire. Mais le genre a explosé dans les années 1950 avec la Rolex Submariner (1953), Blancpain Fifty Fathoms (1953) et Omega Seamaster 300 (1957). Ces montres sont nées de la demande militaire - les plongeurs de combat français, britanniques et américains avaient besoin d'outils de chronométrage fiables pour les opérations sous-marines. Le capitaine Jacques Cousteau a popularisé les montres de plongée auprès du public grâce à ses documentaires, souvent portant une Submariner ou Fifty Fathoms. Aujourd'hui, les montres de plongée sont devenues des icônes de style portées bien plus souvent au bureau qu'en plongée."
+        },
+        "popular": {
+          "title": "Montres de Plongée Populaires",
+          "models": [
+            {
+              "brand": "Rolex",
+              "model": "Submariner",
+              "price": "$9,000 - $40,000+",
+              "highlight": "La montre de plongée iconique, norme de référence depuis 1953"
+            },
+            {
+              "brand": "Omega",
+              "model": "Seamaster Professional",
+              "price": "$5,000 - $9,000",
+              "highlight": "La montre de James Bond, résistance He-valve"
+            },
+            {
+              "brand": "Seiko",
+              "model": "Prospex Diver (SKX007/SPB)",
+              "price": "$200 - $1,200",
+              "highlight": "Valeur légendaire, mouvement automatique fiable"
+            },
+            {
+              "brand": "Tudor",
+              "model": "Black Bay",
+              "price": "$3,500 - $4,500",
+              "highlight": "Héritage Rolex, meilleur rapport qualité-prix"
+            },
+            {
+              "brand": "Blancpain",
+              "model": "Fifty Fathoms",
+              "price": "$14,000 - $20,000+",
+              "highlight": "L'originale (1953), horlogerie de luxe"
+            },
+            {
+              "brand": "Citizen",
+              "model": "Promaster Diver Eco-Drive",
+              "price": "$250 - $500",
+              "highlight": "Alimenté par énergie solaire, aucune batterie nécessaire"
+            }
+          ]
+        },
+        "choosing": {
+          "title": "Choisir Votre Montre de Plongée",
+          "considerations": [
+            {
+              "factor": "Usage Réel vs. Style",
+              "guidance": "Si vous plongez réellement, privilégiez la fonction : haute résistance à l'eau (300m+), bonne luminosité, couronne vissée fiable. Pour le style quotidien, concentrez-vous sur l'esthétique et le confort."
+            },
+            {
+              "factor": "Taille et Poids",
+              "guidance": "Les montres de plongée ont tendance vers 40-44mm. Essayez avant d'acheter - ce qui semble grand en ligne peut être parfait au poignet, ou vice versa."
+            },
+            {
+              "factor": "Bracelet vs. Caoutchouc",
+              "guidance": "Les bracelets sont polyvalents (bureau et plongée). Le caoutchouc est plus confortable pour la plongée réelle et les sports d'eau. Beaucoup achètent les deux."
+            },
+            {
+              "factor": "Mouvement : Quartz vs. Automatique",
+              "guidance": "Le quartz est plus précis et nécessite moins d'entretien. L'automatique offre romance mécanique et héritage. Les deux sont légitimes dans les montres de plongée."
+            }
+          ]
+        },
+        "proTips": {
+          "title": "Conseils d'Expert pour Propriétaires de Montres de Plongée",
+          "tips": [
+            {
+              "title": "Rincez après l'eau salée",
+              "content": "L'eau salée corrode. Rincez toujours votre montre de plongée à l'eau douce après utilisation en océan."
+            },
+            {
+              "title": "N'opérez jamais la couronne sous l'eau",
+              "content": "Même avec une couronne vissée, la tirer ou la tourner sous l'eau peut compromettre l'étanchéité. Réglez sur terre ferme."
+            },
+            {
+              "title": "Faites tester l'étanchéité annuellement",
+              "content": "Les joints se dégradent. Avant les vacances à la plage, faites tester l'étanchéité chez un horloger (généralement 20-40€)."
+            },
+            {
+              "title": "La lunette est un outil de sécurité",
+              "content": "Si vous plongez vraiment, apprenez à utiliser correctement la lunette. Elle suit le temps de plongée écoulé, pas le temps restant."
+            }
+          ]
+        },
+        "vs": {
+          "title": "Montre de Plongée vs. Montre Habillée : La Question Éternelle",
+          "content": "Les passionnés débattent sans fin. Les montres de plongée sont polyvalentes, durables et peuvent s'habiller. Les montres habillées sont élégantes, fines et vraiment formelles. La vérité : vous avez besoin des deux. Une Submariner avec un smoking est questionnable au mieux. Une Calatrava à la plage est tout aussi inappropriée. La montre de plongée est votre outil quotidien polyvalent. La montre habillée est pour quand les enjeux sont élevés et les premières impressions comptent. Si vous ne pouvez en avoir qu'une, choisissez selon votre style de vie. Si vous portez un costume quotidiennement, prenez une montre habillée. Si votre vie est plus décontractée, la montre de plongée a plus de sens."
+        }
+      },
+      "dress": {
+        "hero": {
+          "title": "Montres Habillées",
+          "subtitle": "L'Apogée de l'Élégance",
+          "description": "Caractérisées par des profils fins, des cadrans simples et des boîtiers en métaux précieux. Conçues pour glisser sous une manchette de chemise, elles privilégient l'esthétique et l'attrait formel à la fonctionnalité."
+        },
+        "intro": "La montre habillée représente le raffinement et l'élégance dans leur forme la plus pure. Pas de lunettes tournantes, pas de chronographes, pas de complications fantaisistes - juste un chronométrage pur dans le design le plus fin possible. Une grande montre habillée murmure richesse et goût. Elle dit 'Je n'ai pas besoin de prouver quoi que ce soit avec ma montre'. La Patek Philippe Calatrava, Jaeger-LeCoultre Master Ultra Thin et Cartier Tank définissent le genre : simple, élégant, intemporel. Les montres habillées brillent lors des événements cravate noire, des mariages et des réunions d'affaires formelles où tout le monde regarde.",
+        "whatMakes": {
+          "title": "Caractéristiques Définissant les Montres Habillées",
+          "features": [
+            {
+              "title": "Profil de Boîtier Fin",
+              "description": "Généralement moins de 10mm d'épaisseur",
+              "detail": "La finesse permet à la montre de glisser sous une manchette de chemise, le test ultime d'une montre habillée"
+            },
+            {
+              "title": "Cadran Simple et Propre",
+              "description": "Minimal de complications",
+              "detail": "Souvent juste heures, minutes, secondes. Parfois une date. Rarement plus. L'élégance vient de la retenue"
+            },
+            {
+              "title": "Petite Taille de Boîtier",
+              "description": "34-40mm typiquement",
+              "detail": "Les montres habillées skippent la tendance au surdimensionnement. Le raffinement, pas l'audace, est l'objectif"
+            },
+            {
+              "title": "Métaux Précieux",
+              "description": "Or, platine ou acier poli",
+              "detail": "L'acier dans les montres habillées est haute polish-mirror. L'or/platine signale status et occasion"
+            },
+            {
+              "title": "Bracelet en Cuir",
+              "description": "Cuir d'alligator ou de veau",
+              "detail": "Les montres habillées portent presque toujours du cuir. Les bracelets métalliques sont plus sportifs"
+            }
+          ]
+        },
+        "history": {
+          "title": "Histoire des Montres Habillées",
+          "content": "Les montres habillées ont évolué des montres de poche au début du 20ème siècle. Lorsque les montres-bracelets ont gagné en acceptation (accélérée par l'usage militaire WWI), les modèles habillés sont rapidement apparus pour le port formel. Cartier a créé la Tank en 1917, Patek Philippe la Calatrava en 1932, et Jaeger-LeCoultre le Reverso en 1931. Ces designs se sont révélés intemporels - ils semblent aussi élégants aujourd'hui qu'à leur lancement. L'âge d'or des montres habillées était les années 1950-60 lorsque les hommes portaient des costumes quotidiennement. Aujourd'hui, le code vestimentaire décontracté a fait des montres habillées plus rares mais plus spéciales - réservées pour quand vous voulez vraiment faire impression."
+        },
+        "icons": {
+          "title": "Montres Habillées Iconiques",
+          "models": [
+            {
+              "brand": "Patek Philippe",
+              "model": "Calatrava",
+              "price": "$20,000 - $50,000+",
+              "highlight": "La montre habillée définitive, intemporelle depuis 1932"
+            },
+            {
+              "brand": "Jaeger-LeCoultre",
+              "model": "Master Ultra Thin",
+              "price": "$7,000 - $15,000",
+              "highlight": "Finesse exquise, mouvement visible"
+            },
+            {
+              "brand": "Cartier",
+              "model": "Tank",
+              "price": "$3,000 - $30,000+",
+              "highlight": "Icône du design, portée par les présidents et célébrités"
+            },
+            {
+              "brand": "Omega",
+              "model": "De Ville Trésor",
+              "price": "$5,000 - $10,000",
+              "highlight": "Élégance classique, meilleure valeur en montres habillées de luxe"
+            },
+            {
+              "brand": "Nomos",
+              "model": "Tangente",
+              "price": "$2,000 - $4,000",
+              "highlight": "Design Bauhaus allemand, ultra-fin, excellent rapport qualité-prix"
+            },
+            {
+              "brand": "Grand Seiko",
+              "model": "Elegance Collection",
+              "price": "$4,000 - $10,000",
+              "highlight": "Précision japonaise, finition exquise, sous-évaluée"
+            }
+          ]
+        },
+        "whenToWear": {
+          "title": "Quand Porter une Montre Habillée",
+          "occasions": [
+            {
+              "event": "Cravate Noire / Événements Formels",
+              "description": "C'est l'heure des montres habillées. Mince, métaux précieux, bracelet cuir. Parfait avec smoking."
+            },
+            {
+              "event": "Mariages",
+              "description": "Pour mariages formels, une montre habillée montre respect. Évitez les montres de plongée volumineuses ou smartwatches."
+            },
+            {
+              "event": "Affaires Formelles",
+              "description": "Présentations clients, réunions conseil d'administration, entretiens dans domaines conservateurs (finance, droit)."
+            },
+            {
+              "event": "Dîners Gastronomiques",
+              "description": "Les restaurants Michelin et occasions spéciales appellent à l'élégance. Les montres habillées complètent le réglage."
+            },
+            {
+              "event": "Théâtre / Opéra",
+              "description": "Événements culturels formels où s'habiller élégamment est partie de l'expérience."
+            }
+          ]
+        },
+        "rules": {
+          "title": "Les Règles Non Écrites des Montres Habillées",
+          "rules": [
+            "Une montre habillée ne devrait jamais être plus épaisse que votre manchette de chemise",
+            "L'or avec costume noir; acier ou platine avec costume gris/bleu",
+            "Pas de lunettes tournantes. Pas de complications sportives. Pas de logos criards",
+            "Le bracelet cuir doit correspondre à vos chaussures en couleur",
+            "Plus petit c'est souvent mieux - visez 36-40mm pour montres habillées",
+            "Mouvement automatique ou manuel > quartz pour montres habillées formelles",
+            "Le cadran blanc est le plus formel, suivi par crème, champagne, puis noir",
+            "Les index chiffres romains sont les plus formels, suivis par indices appliqués"
+          ]
+        },
+        "vs": {
+          "title": "Montre Habillée vs. Montre de Plongée : La Question Éternelle",
+          "content": "Les passionnés débattent sans fin. Les montres de plongée sont polyvalentes, durables et peuvent s'habiller. Les montres habillées sont élégantes, fines et vraiment formelles. La vérité : vous avez besoin des deux. Une Submariner avec un smoking est questionnable au mieux. Une Calatrava à la plage est tout aussi inappropriée. La montre de plongée est votre outil quotidien polyvalent. La montre habillée est pour quand les enjeux sont élevés et les premières impressions comptent. Si vous ne pouvez en avoir qu'une, choisissez selon votre style de vie. Si vous portez un costume quotidiennement, prenez une montre habillée. Si votre vie est plus décontractée, la montre de plongée a plus de sens."
+        }
+      },
+      "chronograph": {
+        "hero": {
+          "title": "Chronographes",
+          "subtitle": "Quand le Temps est Essentiel",
+          "description": "Montres avec fonctionnalité de chronomètre intégrée, dotées de sous-cadrans et de poussoirs pour démarrer, arrêter et réinitialiser le temps. Les chronographes représentent le mélange parfait de fonctionnalité et de complexité mécanique."
+        },
+        "intro": "Le chronographe est là où l'art rencontre l'ingénierie. Ces montres combinent une mesure précise du temps avec une fascinante complexité mécanique, ce qui en fait les favoris des passionnés. Que vous chronométriez des tours de course, mesuriez des temps de cuisson ou simplement admiriez la danse des poussoirs et des sous-cadrans, les chronographes offrent une fonctionnalité pratique enveloppée dans une belle mécanique. Ce sont les couteaux suisses du monde horloger : plus complexes qu'une montre simple, mais significativement plus utiles.",
+        "whatMakes": {
+          "title": "Anatomie d'un Chronographe",
+          "features": [
+            {
+              "title": "Sous-Cadrans",
+              "description": "Deux ou trois compteurs pour le temps",
+              "detail": "Typiquement 30 minutes, 12 heures et secondes continues. Certains ajoutent date et phases lunaires."
+            },
+            {
+              "title": "Poussoirs",
+              "description": "Deux boutons (démarrer/arrêter et réinitialiser)",
+              "detail": "Le poussoir supérieur démarre/arrête. L'inférieur réinitialise. Les mono-poussoirs utilisent un seul bouton pour toutes les fonctions."
+            },
+            {
+              "title": "Aiguille des Secondes du Chronographe",
+              "description": "Aiguille centrale de chronométrage",
+              "detail": "Balaie le cadran lorsque le chronographe est actif. Se réinitialise à zéro lors de la pression du poussoir inférieur."
+            },
+            {
+              "title": "Échelle Tachymétrique",
+              "description": "Souvent sur la lunette ou le cadran",
+              "detail": "Mesure la vitesse basée sur le temps et la distance. Iconique sur les chronographes de course comme la Daytona."
+            },
+            {
+              "title": "Esthétique Sportive",
+              "description": "Cadrans chargés mais lisibles",
+              "detail": "Les chronographes tendent vers des designs plus audacieux que les montres simples, reflétant leurs racines sportives."
+            }
+          ]
+        },
+        "history": {
+          "title": "Histoire des Chronographes",
+          "content": "Le chronographe a été inventé en 1816 par Louis Moinet, mais les chronographes de poignet sont devenus populaires dans les années 1960 avec l'aviation et les sports motorisés. L'Omega Speedmaster est devenu légendaire comme la première montre sur la lune en 1969, gagnant le surnom 'Moonwatch'. La Rolex Daytona est synonyme d'héritage de course, nommée d'après le circuit de Daytona. La Heuer Monaco, portée par Steve McQueen dans Le Mans (1971), a cimenté le chronographe comme icône de style. Aujourd'hui, les chronographes sont aimés par les passionnés d'horlogerie pour leur complexité mécanique et par les personnes pratiques pour leur utilité réelle."
+        },
+        "legends": {
+          "title": "Chronographes Légendaires",
+          "models": [
+            {
+              "brand": "Omega",
+              "model": "Speedmaster Professional",
+              "price": "6 000 € - 10 000 €",
+              "highlight": "La montre lunaire, la seule certifiée NASA pour les sorties spatiales"
+            },
+            {
+              "brand": "Rolex",
+              "model": "Cosmograph Daytona",
+              "price": "14 000 € - 200 000 €+",
+              "highlight": "Le chronographe de course iconique, listes d'attente de plusieurs années"
+            },
+            {
+              "brand": "TAG Heuer",
+              "model": "Carrera",
+              "price": "3 000 € - 8 000 €",
+              "highlight": "Héritage de course, excellent rapport qualité-prix en chronographes suisses"
+            },
+            {
+              "brand": "Zenith",
+              "model": "El Primero",
+              "price": "7 000 € - 15 000 €",
+              "highlight": "Le premier chronographe automatique (1969), cadence de 36 000 vph"
+            },
+            {
+              "brand": "Breitling",
+              "model": "Navitimer",
+              "price": "5 000 € - 12 000 €",
+              "highlight": "Chronographe d'aviation avec règle à calcul, outil de pilote"
+            },
+            {
+              "brand": "Seiko",
+              "model": "Prospex Speedtimer",
+              "price": "1 000 € - 3 000 €",
+              "highlight": "Chronographe mécanique japonais abordable, excellent rapport qualité-prix"
+            }
+          ]
+        },
+        "types": {
+          "title": "Types de Chronographes",
+          "categories": [
+            {
+              "type": "Chronographe de Course",
+              "description": "Conçu pour l'automobile avec échelles tachymétriques pour mesurer la vitesse. Exemples : Rolex Daytona, TAG Heuer Carrera, Omega Speedmaster Racing."
+            },
+            {
+              "type": "Chronographe d'Aviation",
+              "description": "Avec règles à calcul et fonctions de navigation pour pilotes. Exemples : Breitling Navitimer, IWC Pilot's Chronograph."
+            },
+            {
+              "type": "Chronographe de Plongée",
+              "description": "Combine résistance à l'eau de 200m+ avec fonctionnalité de chronographe. Exemples : Omega Seamaster Planet Ocean Chrono, Tudor Black Bay Chrono."
+            },
+            {
+              "type": "Chronographe Habillé",
+              "description": "Profils plus fins avec cadrans élégants pour occasions formelles. Exemples : Zenith Elite Chronograph Classic, Jaeger-LeCoultre Master Chronograph."
+            }
+          ]
+        },
+        "using": {
+          "title": "Comment Utiliser un Chronographe",
+          "steps": [
+            "Appuyez sur le poussoir supérieur pour démarrer le chronographe. L'aiguille centrale commence à balayer.",
+            "Appuyez à nouveau sur le poussoir supérieur pour arrêter le temps. Lisez le temps écoulé.",
+            "Appuyez sur le poussoir inférieur pour réinitialiser toutes les aiguilles du chronographe à zéro.",
+            "Pour le chronométrage fractionné (si disponible), arrêtez et démarrez sans réinitialiser pour capturer les tours.",
+            "Certains chronographes permettent d'additionner les temps (fonction flyback ou rattrapante) - consultez votre manuel."
+          ],
+          "warning": "N'utilisez jamais les poussoirs du chronographe sous l'eau à moins qu'il ne soit spécifiquement classé pour une opération sous-marine. L'eau peut pénétrer par les poussoirs."
+        },
+        "tachymeter": {
+          "title": "Comprendre l'Échelle Tachymétrique",
+          "content": "Cette échelle de chiffres autour du cadran n'est pas juste une décoration. Le tachymètre mesure la vitesse basée sur le temps et la distance. Pour l'utiliser : Démarrez le chronographe en passant un marqueur de mile (ou kilomètre). Arrêtez en passant le marqueur suivant. L'aiguille du chronographe pointe vers votre vitesse en MPH (ou KPH). Fonctionne uniquement pour des temps inférieurs à 60 secondes. Pour des objets plus lents, utilisez des fractions (par ex., 1/10 de mile). Les chronographes de course ont fait du tachymètre une icône, bien que les unités GPS modernes l'aient rendu fonctionnellement obsolète. Mais c'est cool, et c'est ce qui compte."
+        }
+      },
+      "pilot": {
+        "hero": {
+          "title": "Montres d'Aviateur",
+          "subtitle": "Ingénierie pour le Ciel",
+          "description": "Nées des besoins des pilotes militaires, les montres d'aviateur combinent lisibilité exceptionnelle, fonctions de navigation et héritage d'aviation qui en font des icônes autant dans les airs qu'au sol."
+        },
+        "intro": "Les montres d'aviateur représentent l'un des chapitres les plus romantiques de l'histoire horlogère. Conçues à l'origine pour les pilotes militaires ayant besoin d'un chronométrage précis à 30 000 pieds, ces montres devaient être lisibles d'un coup d'œil, résistantes aux champs magnétiques et suffisamment fiables pour la navigation aérienne. Aujourd'hui, les montres d'aviateur maintiennent cet héritage d'outil tout en servant de déclarations de style pour les passionnés qui apprécient leur esthétique audacieuse et leur connexion avec l'âge d'or de l'aviation.",
+        "whatMakes": {
+          "title": "Caractéristiques Définissant les Montres d'Aviateur",
+          "features": [
+            {
+              "title": "Lisibilité Extrême",
+              "description": "Grands chiffres et aiguilles contrastées",
+              "detail": "Souvent avec de grands chiffres arabes et une luminosité abondante pour la lecture dans les cockpits sombres"
+            },
+            {
+              "title": "Grands Boîtiers",
+              "description": "40-46mm typiquement",
+              "detail": "Taille généreuse pour la lisibilité avec des gants et par-dessus les combinaisons de vol"
+            },
+            {
+              "title": "Triangle à 12 Heures",
+              "description": "Marqueur d'orientation",
+              "detail": "Permet aux pilotes de déterminer l'orientation de la montre d'un coup d'œil"
+            },
+            {
+              "title": "Grande Couronne",
+              "description": "Facile à opérer avec des gants",
+              "detail": "Couronnes cannelées ou en oignon pour ajustement facile avec l'équipement de vol"
+            },
+            {
+              "title": "Résistance Magnétique",
+              "description": "Protection contre les champs magnétiques",
+              "detail": "Essentiel dans les cockpits remplis d'instruments électroniques"
+            }
+          ]
+        },
+        "history": {
+          "title": "Histoire des Montres d'Aviateur",
+          "content": "La première véritable montre d'aviateur était la Santos de Cartier (1904), créée pour le pionnier de l'aviation Alberto Santos-Dumont. Cependant, le genre a explosé pendant les guerres mondiales lorsque les pilotes militaires avaient besoin d'un chronométrage fiable. La Breguet Type XX a été utilisée par les pilotes de chasse français. Le IWC Big Pilot (Große Fliegeruhr) a été développé pour la Luftwaffe. L'A-11 américain est devenu standard pour les pilotes alliés. Après la guerre, ces montres militaires ont inspiré des designs civils. La série IWC Mark, la Breitling Navitimer avec sa règle à calcul et la Zenith Pilot Type 20 capturent toutes l'âge d'or des montres d'aviation. Aujourd'hui, les montres d'aviateur sont célébrées par les collectionneurs et les vrais pilotes, bien que l'avionique moderne ait largement remplacé les montres pour la navigation."
+        },
+        "icons": {
+          "title": "Montres d'Aviateur Iconiques",
+          "models": [
+            {
+              "brand": "IWC",
+              "model": "Big Pilot's Watch",
+              "price": "12 000 € - 20 000 €",
+              "highlight": "La montre d'aviateur ultime, lisibilité légendaire"
+            },
+            {
+              "brand": "Breitling",
+              "model": "Navitimer",
+              "price": "5 000 € - 12 000 €",
+              "highlight": "Règle à calcul pour la navigation, icône depuis 1952"
+            },
+            {
+              "brand": "Zenith",
+              "model": "Pilot Type 20 Extra Special",
+              "price": "6 000 € - 10 000 €",
+              "highlight": "Énorme couronne en oignon, esthétique vintage"
+            },
+            {
+              "brand": "IWC",
+              "model": "Mark XVIII",
+              "price": "4 500 € - 6 500 €",
+              "highlight": "Montre d'aviateur classique raffinée, cage en fer doux"
+            },
+            {
+              "brand": "Laco",
+              "model": "Flieger",
+              "price": "400 € - 1 500 €",
+              "highlight": "Designs B-Uhr authentiques, valeur exceptionnelle"
+            },
+            {
+              "brand": "Bell & Ross",
+              "model": "BR 03-92",
+              "price": "3 500 € - 5 000 €",
+              "highlight": "Design d'instrument de cockpit, carré iconique"
+            }
+          ]
+        },
+        "types": {
+          "title": "Types de Montres d'Aviateur",
+          "categories": [
+            {
+              "type": "B-Uhr (Beobachtungsuhr)",
+              "description": "Montres d'observation allemandes de la Seconde Guerre mondiale. Caractéristiques : cadran noir, grands chiffres arabes, triangle à 12 heures, grande couronne. Exemples : Laco Flieger, Stowa Flieger, IWC Big Pilot."
+            },
+            {
+              "type": "Chronographe d'Aviation",
+              "description": "Combine fonctionnalité de chronographe avec caractéristiques d'aviation. Inclut souvent des règles à calcul ou échelles tachymétriques. Exemples : Breitling Navitimer, Zenith El Primero Pilot."
+            },
+            {
+              "type": "Montre d'Instrument",
+              "description": "Conçues pour ressembler aux instruments de cockpit. Cadrans noirs avec marquages blancs, lisibilité maximale. Exemples : Bell & Ross série BR, Sinn 556."
+            },
+            {
+              "type": "Montre GMT d'Aviation",
+              "description": "Fonctionnalité multi-fuseaux horaires pour pilotes internationaux. Exemples : Breitling Aerospace, IWC Pilot's Watch UTC."
+            }
+          ]
+        },
+        "features": {
+          "title": "Caractéristiques Spéciales d'Aviation",
+          "items": [
+            {
+              "feature": "Règle à Calcul",
+              "description": "La Breitling Navitimer présente une règle à calcul circulaire qui permet aux pilotes de calculer la consommation de carburant, les taux de montée/descente, les conversions et plus sans électronique."
+            },
+            {
+              "feature": "Cage en Fer Doux",
+              "description": "Une cage intérieure en fer doux protège le mouvement des champs magnétiques. La série IWC Mark et de nombreuses montres d'aviateur utilisent cela pour la protection contre les instruments de cockpit."
+            },
+            {
+              "feature": "Couronne en Oignon",
+              "description": "Grandes couronnes cannelées (appelées 'couronnes en oignon') permettent une opération facile avec des gants de vol. Classiques sur la Zenith Pilot Type 20."
+            },
+            {
+              "feature": "Triangle de Navigation",
+              "description": "Le triangle à 12 heures est une caractéristique de design militaire qui aide à l'orientation rapide de la montre."
+            }
+          ]
+        },
+        "whenToWear": {
+          "title": "Quand Porter une Montre d'Aviateur",
+          "occasions": [
+            {
+              "event": "Quotidien Décontracté",
+              "description": "Les montres d'aviateur sont d'excellentes montres quotidiennes pour les hommes qui apprécient l'esthétique robuste et utilitaire."
+            },
+            {
+              "event": "Casual d'Affaires",
+              "description": "Fonctionne bien avec des vestes sport et chinos. Trop décontracté pour un costume complet."
+            },
+            {
+              "event": "Weekends et Voyages",
+              "description": "La fonctionnalité GMT et le design robuste les rendent parfaits pour voyager."
+            },
+            {
+              "event": "Activités de Plein Air",
+              "description": "Bien qu'elles ne soient pas des montres de plongée, la plupart ont une résistance à l'eau décente et une construction durable."
+            }
+          ]
+        },
+        "proTips": {
+          "title": "Conseils d'Expert pour Montres d'Aviateur",
+          "tips": [
+            {
+              "title": "La taille est authentique",
+              "content": "Les montres d'aviateur sont destinées à être grandes. Un 42-46mm est historiquement précis car les pilotes avaient besoin de lisibilité par-dessus les combinaisons de vol."
+            },
+            {
+              "title": "Bracelet plutôt que métal",
+              "content": "Historiquement, les montres d'aviateur venaient sur des bracelets en cuir pour être portées par-dessus les vestes de vol. Les bracelets rivetés sont particulièrement authentiques."
+            },
+            {
+              "title": "La fonctionnalité compte",
+              "content": "Si vous êtes attiré par les règles à calcul ou les fonctions GMT, apprenez à les utiliser. Ce ne sont pas juste de la décoration."
+            },
+            {
+              "title": "Comprenez l'héritage",
+              "content": "De nombreuses montres d'aviateur ont des histoires militaires fascinantes. Recherchez l'histoire de votre modèle pour apprécier pleinement sa signification."
+            }
+          ]
+        }
+      },
+      "field": {
+        "hero": {
+          "title": "Montres de Terrain",
+          "subtitle": "Montres Militaires Fonctionnelles",
+          "description": "Nées dans les tranchées de guerre, les montres de terrain privilégient lisibilité, durabilité et fonctionnalité avant tout. Ce sont les outils les plus simples et les plus fiables du monde horloger."
+        },
+        "intro": "La montre de terrain est le cheval de bataille du monde horloger. Sans prétention, sans fioritures, juste un chronométrage fonctionnel pur. Ces montres ont été conçues pour les soldats qui avaient besoin de connaître l'heure dans les pires conditions : boue, pluie, combat. La philosophie est simple : lisible, durable, abordable. Une montre de terrain n'essaie pas d'impressionner avec de l'or ou des complications. Sa beauté réside dans son utilité pure. C'est la montre que vous choisissez lorsque vous avez besoin d'une fiabilité absolue peu importe ce que la vie vous lance.",
+        "whatMakes": {
+          "title": "Caractéristiques Définissant les Montres de Terrain",
+          "features": [
+            {
+              "title": "Cadran Simple et Lisible",
+              "description": "Chiffres arabes clairs sur cadran à haut contraste",
+              "detail": "Habituellement cadran blanc ou crème avec chiffres noirs, ou cadran noir avec marquages blancs"
+            },
+            {
+              "title": "Construction Durable",
+              "description": "Fait pour résister aux abus",
+              "detail": "Boîtiers en acier, cristal résistant aux rayures, construction robuste"
+            },
+            {
+              "title": "Taille Modeste",
+              "description": "36-40mm typiquement",
+              "detail": "Pratique pour utilisation sous les manches et gants sans être encombrant"
+            },
+            {
+              "title": "Bracelet Toile/NATO",
+              "description": "Bracelets textiles pour durabilité",
+              "detail": "Les bracelets NATO permettent à la montre de rester au poignet même si une barrette de ressort casse"
+            },
+            {
+              "title": "Mouvement Fiable",
+              "description": "Quartz ou mécanique simple",
+              "detail": "Facile à entretenir et réparer, fiabilité sur complication"
+            }
+          ]
+        },
+        "history": {
+          "title": "Histoire des Montres de Terrain",
+          "content": "Les montres de terrain ont évolué à partir des montres de tranchée de la Première Guerre mondiale. Lorsque les soldats ont réalisé que les montres de poche étaient peu pratiques en combat, ils ont commencé à souder des montres de poche sur des bracelets en cuir. Les fabricants ont rapidement créé des montres-bracelets spécifiquement conçues pour un usage militaire. Pendant la Seconde Guerre mondiale, l'armée américaine a standardisé les spécifications pour les montres de terrain (connues sous le nom de montres 'ord' pour le département d'artillerie qui les spécifiait). Des marques comme Hamilton, Bulova, Elgin et Waltham en ont produit des millions. La spécification MIL-W-46374 d'après-guerre a établi des normes pour les montres militaires américaines : lisibilité à 12 pouces dans l'obscurité totale, construction durable et résistance à l'eau. Ces montres militaires vintage ont inspiré les designs civils modernes. Aujourd'hui, des marques comme Hamilton continuent la tradition avec des montres de terrain qui honorent cet héritage utilitaire tout en servant d'excellentes montres quotidiennes pour les civils."
+        },
+        "icons": {
+          "title": "Montres de Terrain Iconiques",
+          "models": [
+            {
+              "brand": "Hamilton",
+              "model": "Khaki Field Mechanical",
+              "price": "400 € - 600 €",
+              "highlight": "La montre de terrain moderne ultime, héritage militaire"
+            },
+            {
+              "brand": "Seiko",
+              "model": "SNK809 (Seiko 5 Field)",
+              "price": "80 € - 150 €",
+              "highlight": "Valeur incroyable, automatique fiable"
+            },
+            {
+              "brand": "Marathon",
+              "model": "General Purpose Quartz",
+              "price": "200 € - 300 €",
+              "highlight": "Émis aux troupes américaines, extrêmement durable"
+            },
+            {
+              "brand": "Timex",
+              "model": "Expedition Scout",
+              "price": "40 € - 60 €",
+              "highlight": "Point d'entrée abordable, lisibilité Indiglo"
+            },
+            {
+              "brand": "Vaer",
+              "model": "A5 Field",
+              "price": "300 € - 400 €",
+              "highlight": "Terrain américain moderne, saphir, automatique"
+            },
+            {
+              "brand": "Tudor",
+              "model": "Ranger",
+              "price": "3 000 € - 3 500 €",
+              "highlight": "Terrain de luxe, héritage d'expédition britannique"
+            }
+          ]
+        },
+        "choosing": {
+          "title": "Choisir Votre Montre de Terrain",
+          "sections": [
+            {
+              "title": "Quartz vs. Mécanique",
+              "content": "Les montres de terrain viennent dans les deux. Le quartz offre une précision supérieure et un faible entretien - probablement ce que vous voudriez en combat réel. Les mécaniques (manuels ou automatiques) offrent romance et connexion avec l'histoire - pas de piles à remplacer. Les deux sont des choix légitimes."
+            },
+            {
+              "title": "Couleur du Cadran",
+              "content": "Les cadrans blancs/crème sont classiques et plus lisibles en faible luminosité (avec lume). Les cadrans noirs sont plus tactiques et modernes. Les deux sont historiquement précis."
+            },
+            {
+              "title": "Normes Militaires",
+              "content": "Certaines montres de terrain (comme Marathon) respectent les spécifications militaires réelles et sont émises aux troupes. D'autres sont d'inspiration militaire. Les deux sont excellentes, mais les montres mil-spec ont une authenticité supplémentaire."
+            },
+            {
+              "title": "Options de Bracelet",
+              "content": "Les bracelets NATO sont classiques et pratiques (la montre reste sécurisée même si une barrette de ressort casse). Le cuir est traditionnel et superbe. Expérimentez - les montres de terrain sont belles sur presque n'importe quel bracelet."
+            }
+          ]
+        },
+        "philosophy": {
+          "title": "La Philosophie de la Montre de Terrain",
+          "content": "Les montres de terrain représentent une philosophie anti-luxe dans l'horlogerie. Alors que les montres habillées montrent la richesse et les montres de plongée projettent l'aventure, les montres de terrain fonctionnent simplement. Pas d'or, pas de complications, pas de prétentions. Juste une montre simple et fiable qui donne l'heure. Cette honnêteté attire les personnes qui valorisent la fonction sur la forme, l'outil sur le jouet. Une montre de terrain à 500 € peut vous apporter plus de joie quotidienne qu'une montre de luxe à 5 000 € parce que vous n'avez pas besoin de vous inquiéter à son sujet. Vous la portez, vous la cognez, vous continuez à la porter. Cette liberté est précieuse."
+        },
+        "proTips": {
+          "title": "Conseils d'Expert pour Montres de Terrain",
+          "tips": [
+            {
+              "title": "Embrassez les rayures",
+              "content": "Les montres de terrain sont destinées à être utilisées durement. Les rayures racontent des histoires. Ne les évitez pas ; gagnez-les."
+            },
+            {
+              "title": "Achetez des bracelets NATO supplémentaires",
+              "content": "Les bracelets NATO sont bon marché (10-30 €) et transforment l'apparence de la montre. Ayez-en plusieurs dans différentes couleurs."
+            },
+            {
+              "title": "Les montres de terrain plus petites fonctionnent mieux",
+              "content": "Les tailles vintage de 36-38mm sont authentiques et se portent confortablement. Vous n'avez pas besoin de 44mm sur une montre de terrain."
+            },
+            {
+              "title": "Considérez le vintage",
+              "content": "Les montres de terrain militaires vintage (Hamilton, Bulova des années 40-60) sont abordables et ont une vraie histoire."
+            }
+          ]
+        }
+      },
+      "gmt": {
+        "hero": {
+          "title": "Montres GMT",
+          "subtitle": "Pour le Citoyen du Monde",
+          "description": "Les montres GMT suivent plusieurs fuseaux horaires simultanément, ce qui en fait des outils essentiels pour les voyageurs internationaux, les pilotes et quiconque travaille à travers les fuseaux horaires."
+        },
+        "intro": "Dans un monde de plus en plus connecté, suivre plusieurs fuseaux horaires est devenu essentiel. La montre GMT (Greenwich Mean Time) résout ce problème avec élégance en utilisant une aiguille supplémentaire de 24 heures et une lunette rotative. Conçue à l'origine pour les pilotes de Pan Am volant des routes transatlantiques, la GMT est devenue la montre de choix pour les voyageurs d'affaires, les expatriés et quiconque a besoin de rester connecté à travers les fuseaux horaires. Que vous suiviez l'heure locale en voyageant, coordonniez avec des collègues sur différents continents ou vouliez simplement savoir quand appeler la famille à l'étranger, une montre GMT rend la navigation entre fuseaux horaires sans effort.",
+        "whatMakes": {
+          "title": "Comment Fonctionnent les Montres GMT",
+          "features": [
+            {
+              "title": "Aiguille GMT 24 Heures",
+              "description": "Quatrième aiguille tournant une fois toutes les 24 heures",
+              "detail": "Habituellement en couleur vive (rouge, orange) pour la distinguer des aiguilles heures/minutes"
+            },
+            {
+              "title": "Lunette GMT 24 Heures",
+              "description": "Lunette bidirectionnelle ou fixe avec marquages 24 heures",
+              "detail": "Permet de suivre un deuxième ou troisième fuseau horaire lorsque combinée avec l'aiguille GMT"
+            },
+            {
+              "title": "GMT Vrai vs. Caller",
+              "description": "Deux types de fonctionnalité GMT",
+              "detail": "GMT vrai : l'aiguille des heures saute par incréments de 1 heure. Caller : l'aiguille GMT se règle indépendamment"
+            },
+            {
+              "title": "Indication de Date",
+              "description": "Habituellement incluse",
+              "detail": "Aide à suivre les dates lors du passage de fuseaux horaires et de la ligne de changement de date"
+            }
+          ]
+        },
+        "history": {
+          "title": "Histoire des Montres GMT",
+          "content": "La Rolex GMT-Master a été créée en 1954 en collaboration avec Pan American World Airways. Les pilotes de Pan Am volant la nouvelle route transatlantique avaient besoin de suivre à la fois l'heure locale et GMT (utilisée en navigation aérienne). Rolex a répondu avec la GMT-Master, avec son iconique aiguille GMT rouge et lunette bleu/rouge 'Pepsi' représentant jour et nuit. La montre est devenue l'équipement standard des équipages de Pan Am et d'autres pilotes de ligne. La fonctionnalité GMT s'est rapidement étendue au-delà de l'aviation aux voyageurs d'affaires, diplomates et passionnés. Aujourd'hui, presque chaque grande marque offre une montre GMT, des options d'entrée de gamme comme la Seiko 5 Sports GMT aux pièces de luxe comme la Patek Philippe Aquanaut Travel Time. La GMT reste l'une des complications horlogères les plus pratiques et recherchées."
+        },
+        "icons": {
+          "title": "Montres GMT Iconiques",
+          "models": [
+            {
+              "brand": "Rolex",
+              "model": "GMT-Master II",
+              "price": "10 000 € - 40 000 €+",
+              "highlight": "La GMT originale et ultime, lunette Pepsi iconique"
+            },
+            {
+              "brand": "Tudor",
+              "model": "Black Bay GMT",
+              "price": "4 000 € - 5 000 €",
+              "highlight": "Valeur GMT exceptionnelle, esthétique Pepsi"
+            },
+            {
+              "brand": "Grand Seiko",
+              "model": "Sport GMT",
+              "price": "6 000 € - 8 000 €",
+              "highlight": "Précision supérieure, finition exquise"
+            },
+            {
+              "brand": "Omega",
+              "model": "Seamaster Aqua Terra GMT",
+              "price": "6 000 € - 8 000 €",
+              "highlight": "Polyvalence habillée, résistant à l'eau"
+            },
+            {
+              "brand": "Seiko",
+              "model": "5 Sports GMT",
+              "price": "400 € - 600 €",
+              "highlight": "Point d'entrée GMT abordable, automatique"
+            },
+            {
+              "brand": "Ball",
+              "model": "Engineer Hydrocarbon GMT",
+              "price": "2 000 € - 3 000 €",
+              "highlight": "Tubes de gaz tritium pour lume, excellente valeur"
+            }
+          ]
+        },
+        "types": {
+          "title": "GMT Vrai vs. Caller GMT",
+          "content": "Comprendre la différence est crucial lors du choix d'une GMT :",
+          "comparison": [
+            {
+              "type": "GMT Vrai (Flyer GMT)",
+              "description": "L'aiguille des heures saute indépendamment par incréments de 1 heure. L'aiguille GMT et l'aiguille des minutes restent synchronisées avec votre 'heure locale'. Parfait pour : pilotes et voyageurs fréquents qui changent souvent de fuseaux horaires.",
+              "examples": "Rolex GMT-Master II, Grand Seiko GMT, Tudor Black Bay GMT"
+            },
+            {
+              "type": "Caller GMT (Office GMT)",
+              "description": "L'aiguille GMT se règle indépendamment. Les aiguilles heures/minutes se déplacent ensemble. Parfait pour : personnes restant dans un fuseau horaire mais devant en suivre un autre (bureaux à domicile).",
+              "examples": "Rolex Explorer II, beaucoup de GMT d'entrée de gamme"
+            }
+          ]
+        },
+        "using": {
+          "title": "Comment Utiliser une Montre GMT",
+          "steps": [
+            {
+              "step": "Configuration Initiale",
+              "instruction": "Réglez l'heure locale avec les aiguilles heures/minutes. Réglez l'aiguille GMT sur votre 'heure locale' ou fuseau horaire de référence."
+            },
+            {
+              "step": "Suivi du Deuxième Fuseau Horaire",
+              "instruction": "Lisez l'aiguille GMT contre les marquages 24 heures sur la lunette ou le cadran."
+            },
+            {
+              "step": "Suivi du Troisième Fuseau Horaire",
+              "instruction": "Tournez la lunette GMT pour aligner le fuseau horaire désiré avec l'aiguille GMT. Lisez les aiguilles des heures contre la lunette pour le troisième fuseau horaire."
+            },
+            {
+              "step": "Changement de Fuseaux Horaires (GMT Vrai)",
+              "instruction": "Tirez la couronne d'une position. Faites sauter l'aiguille des heures en avant ou en arrière vers la nouvelle heure locale. L'aiguille GMT reste sur l'heure locale."
+            }
+          ]
+        },
+        "whenToWear": {
+          "title": "Qui Devrait Choisir une GMT",
+          "personas": [
+            {
+              "type": "Voyageurs Internationaux Fréquents",
+              "description": "Si vous traversez régulièrement des fuseaux horaires, une GMT (spécialement GMT vraie) est inestimable."
+            },
+            {
+              "type": "Professionnels des Affaires",
+              "description": "Suivre l'heure du bureau local tout en travaillant avec clients/collègues internationaux."
+            },
+            {
+              "type": "Expatriés",
+              "description": "Vivre dans un pays tout en maintenant une connexion avec l'heure locale/familiale."
+            },
+            {
+              "type": "Pilotes et Équipage de Cabine",
+              "description": "Le but original - suivre l'heure locale et zulu (GMT) pour la navigation."
+            },
+            {
+              "type": "Amateurs de Complications",
+              "description": "Les GMT offrent une fonctionnalité pratique sans la complexité des chronographes."
+            }
+          ]
+        },
+        "proTips": {
+          "title": "Conseils d'Expert pour Utilisateurs GMT",
+          "tips": [
+            {
+              "title": "Réglez l'aiguille GMT sur UTC/GMT",
+              "content": "Beaucoup de professionnels règlent l'aiguille GMT sur Temps Universel Coordonné (UTC/GMT) car c'est la référence standard mondiale."
+            },
+            {
+              "title": "La lunette Pepsi est fonctionnelle",
+              "content": "Les couleurs bleu/rouge ne sont pas juste esthétiques : le bleu représente la nuit (PM), le rouge représente le jour (AM) sur l'échelle 24 heures."
+            },
+            {
+              "title": "Choisissez selon votre modèle de voyage",
+              "content": "Si vous restez principalement à un endroit : Caller GMT. Si vous voyagez constamment : GMT vrai avec aiguille des heures sauteuse."
+            },
+            {
+              "title": "Combinez avec des apps d'horloge mondiale",
+              "content": "Une montre GMT est excellente, mais pour suivre plusieurs fuseaux horaires, complétez-la avec une application smartphone."
+            }
+          ]
+        }
+      },
+      "digital": {
+        "hero": {
+          "title": "Montres Digitales et Smartwatches",
+          "subtitle": "Évolution du Chronométrage",
+          "description": "Du révolutionnaire G-Shock aux smartwatches modernes, les montres digitales représentent l'innovation technologique et la fonctionnalité pratique qui complète et défie l'horlogerie mécanique traditionnelle."
+        },
+        "intro": "Les montres digitales ont parcouru un long chemin depuis les écrans LED rouges des années 70. Aujourd'hui, elles englobent des G-Shocks légendaires pratiquement indestructibles aux smartwatches sophistiquées qui suivent votre santé, paient vos achats et vous gardent connecté. Alors que les puristes horlogers peuvent dédaigner les digitales, elles représentent une vraie innovation et résolvent des problèmes que les montres mécaniques ne peuvent pas. Une smartwatch peut suivre votre rythme cardiaque, vous naviguer à travers des villes inconnues et vous permettre de prendre des appels. Un G-Shock peut survivre à une chute d'un immeuble. Les montres mécaniques sont belles, mais les digitales sont pratiques. Il y a de la place dans chaque collection pour les deux.",
+        "whatMakes": {
+          "title": "Types de Montres Digitales",
+          "categories": [
+            {
+              "type": "Digitales LCD Classiques",
+              "description": "Écrans à cristaux liquides affichant le temps en format numérique",
+              "features": "Économiques, batterie longue durée, multifonctions",
+              "examples": "Casio F-91W, Timex Ironman"
+            },
+            {
+              "type": "Digitales Robustes (G-Shock)",
+              "description": "Ultra-durables avec protection contre les chocs",
+              "features": "Résistance aux chocs, 200m WR, alarmes multiples, chronomètre",
+              "examples": "Casio G-Shock série DW, Mudmaster, Rangeman"
+            },
+            {
+              "type": "Digitales Ana-Digi",
+              "description": "Hybrides combinant aiguilles analogiques avec affichage digital",
+              "features": "Le meilleur des deux mondes : esthétique traditionnelle avec fonctions digitales",
+              "examples": "Casio G-Shock série GA, Seiko Arnie, Breitling Aerospace"
+            },
+            {
+              "type": "Smartwatches",
+              "description": "Ordinateurs portables avec connectivité smartphone",
+              "features": "Suivi fitness, notifications, paiements, applications, surveillance santé",
+              "examples": "Apple Watch, Samsung Galaxy Watch, Garmin Fenix"
+            },
+            {
+              "type": "Digitales de Luxe",
+              "description": "Montres digitales de marques de luxe",
+              "features": "Matériaux premium, technologie innovante, haute horlogerie",
+              "examples": "TAG Heuer Connected, Urwerk EMC, MB&F HM5"
+            }
+          ]
+        },
+        "history": {
+          "title": "Histoire des Montres Digitales",
+          "content": "La première montre digitale était la Hamilton Pulsar (1970), une montre LED qui coûtait 2 100 $ (14 000 $ aujourd'hui). Vous pressiez un bouton et des chiffres rouges brillaient. Les LED ont été remplacées par des écrans LCD dans les années 70, rendant les digitales abordables. La Casio F-91W (1989) est devenue l'une des montres les plus vendues de l'histoire - toujours produite aujourd'hui à 10-20 €. Le vrai changement de jeu est venu en 1983 lorsque Casio a lancé le G-Shock DW-5000C. Le concepteur Kikuo Ibe voulait créer une montre qui ne se casserait jamais. Après avoir testé plus de 200 prototypes, il a atteint la résistance aux chocs en utilisant une construction modulaire et un design à double boîtier. Le G-Shock est devenu légendaire parmi les militaires, le personnel d'urgence et quiconque a besoin de durabilité extrême. En 2015, Apple a redéfini l'espace des montres avec l'Apple Watch, fusionnant la technologie smartphone avec le format poignet. Aujourd'hui, les smartwatches dominent les ventes mondiales de montres, bien que les mécaniques maintiennent prestige et romance."
+        },
+        "gshock": {
+          "title": "Le Phénomène G-Shock",
+          "content": "Aucune discussion sur les montres digitales n'est complète sans G-Shock. Ces montres japonaises pratiquement indestructibles sont devenues des icônes culturelles. La construction de protection contre les chocs signifie que le module flottant est suspendu à l'intérieur du boîtier, protégé des impacts. Elles sont résistantes à l'eau à 200m. Beaucoup de modèles présentent énergie solaire, synchronisation radio atomique et connectivité Bluetooth. Elles sont portées par le personnel militaire, les premiers intervenants, les athlètes extrêmes et les passionnés de mode. Modèles populaires : DW-5600 (le 'carré' classique), GA-2100 (le 'CasiOak' fin), Mudmaster, Rangeman, Frogman. Les G-Shocks vont de 50 € à 5 000 €+ pour les éditions collaboratives limitées. Un G-Shock est sans doute la montre la plus pratique que vous pouvez posséder - vous n'avez jamais besoin de vous inquiéter à son sujet."
+        },
+        "icons": {
+          "title": "Digitales et Smartwatches Iconiques",
+          "models": [
+            {
+              "brand": "Casio",
+              "model": "G-Shock DW-5600",
+              "price": "50 € - 100 €",
+              "highlight": "Le G-Shock original et ultime, pratiquement indestructible"
+            },
+            {
+              "brand": "Casio",
+              "model": "F-91W",
+              "price": "10 € - 20 €",
+              "highlight": "La digitale la plus vendue de l'histoire, icône de fonctionnalité"
+            },
+            {
+              "brand": "Apple",
+              "model": "Apple Watch Ultra",
+              "price": "800 € - 900 €",
+              "highlight": "La smartwatch la plus avancée, suivi santé complet"
+            },
+            {
+              "brand": "Garmin",
+              "model": "Fenix 7",
+              "price": "700 € - 900 €",
+              "highlight": "Smartwatch multi-sport, batterie longue durée"
+            },
+            {
+              "brand": "Casio",
+              "model": "Pro Trek",
+              "price": "200 € - 500 €",
+              "highlight": "Capteurs ABC (altimètre, baromètre, boussole), aventures plein air"
+            },
+            {
+              "brand": "Suunto",
+              "model": "9 Peak Pro",
+              "price": "500 € - 600 €",
+              "highlight": "Performance athlétique, batterie ultra-longue durée"
+            }
+          ]
+        },
+        "smartwatches": {
+          "title": "Montres Mécaniques vs. Smartwatches : Le Débat",
+          "content": "Les passionnés de montres demandent souvent : Devrais-je acheter une smartwatch ou une montre mécanique ? La réponse : les deux servent des objectifs différents. Les smartwatches sont des outils - elles suivent le fitness, les notifications, la navigation. Les mécaniques sont des objets - artisanat, héritage, art. Une Apple Watch vous dira votre rythme cardiaque et vous permettra de répondre aux textos. Une Rolex Submariner vous fera sentir connecté à des décennies d'histoire horlogère. Beaucoup de passionnés portent une smartwatch en semaine pour la fonctionnalité, puis passent à une mécanique le weekend pour le plaisir. Vous n'avez pas besoin de choisir un camp dans cette guerre. Possédez les deux. Utilisez chacune quand elle a du sens."
+        },
+        "choosing": {
+          "title": "Choisir la Bonne Montre Digitale",
+          "sections": [
+            {
+              "title": "Pour Durabilité Extrême",
+              "content": "G-Shock est imbattable. Si vous travaillez dans la construction, militaire, premiers secours ou êtes simplement dur avec les montres, rien d'autre ne peut prendre les coups."
+            },
+            {
+              "title": "Pour Suivi Fitness",
+              "content": "Apple Watch (utilisateurs iPhone) ou Samsung Galaxy Watch (Android) offrent le meilleur suivi santé et écosystème d'applications. Garmin/Suunto pour athlètes sérieux."
+            },
+            {
+              "title": "Pour Activités de Plein Air",
+              "content": "Casio Pro Trek ou Garmin Fenix avec capteurs ABC (altimètre, baromètre, boussole) et GPS."
+            },
+            {
+              "title": "Pour Simplicité",
+              "content": "Casio F-91W. 15 €, fait toutes les bases, la batterie dure des années, pèse rien."
+            }
+          ]
+        },
+        "proTips": {
+          "title": "Conseils d'Expert pour Montres Digitales",
+          "tips": [
+            {
+              "title": "La durée de batterie compte",
+              "content": "Les smartwatches durent typiquement 1-2 jours. Les digitales basiques durent des années. Les G-Shocks solaires n'ont jamais besoin de piles. Considérez votre style de vie."
+            },
+            {
+              "title": "Les digitales sont des montres outils parfaites",
+              "content": "Utilisez une digitale pour les activités où vous vous inquiéteriez d'endommager une montre mécanique : sports, construction, jardinage."
+            },
+            {
+              "title": "Les smartwatches se déprécient rapidement",
+              "content": "Une Apple Watch perd de la valeur rapidement. Les montres mécaniques maintiennent ou apprécient la valeur. Achetez les smartwatches pour la fonctionnalité, pas comme investissement."
+            },
+            {
+              "title": "Les G-Shocks se collectionnent",
+              "content": "Les éditions limitées de G-Shock, collaborations et modèles vintage sont devenus collectionnables. Le marché G-Shock est actif."
+            }
+          ]
+        }
+      }
+    },
+    "movements": {
+      "quartz": {
+        "hero": {
+          "title": "Mouvements à Quartz",
+          "subtitle": "Précision Électronique",
+          "description": "Les mouvements à quartz ont révolutionné l'horlogerie dans les années 70, offrant précision supérieure, faible entretien et accessibilité qui ont démocratisé les montres de qualité."
+        },
+        "intro": "Le mouvement à quartz est souvent dédaigné par les puristes, mais représente l'une des innovations les plus importantes de l'histoire horlogère. Lorsque Seiko a lancé l'Astron en 1969, la première montre à quartz commerciale, tout a changé. Les montres mécaniques qui déviaient de 5-10 secondes par jour sont soudainement devenues moins précises que les quartz économiques qui déviaient de 15 secondes par mois. La 'Crise du Quartz' a presque détruit l'horlogerie suisse dans les années 70-80. Aujourd'hui, le quartz et le mécanique coexistent : le quartz domine la production mondiale, tandis que les mécaniques maintiennent le prestige parmi les collectionneurs. Les deux ont leur place.",
+        "howItWorks": {
+          "title": "Comment Fonctionne un Mouvement à Quartz",
+          "description": "Le quartz utilise l'effet piézoélectrique pour maintenir le temps avec une précision incroyable :",
+          "steps": [
+            {
+              "step": "Source d'Énergie",
+              "detail": "Une pile fournit du courant électrique au circuit de la montre."
+            },
+            {
+              "step": "Oscillateur à Cristal de Quartz",
+              "detail": "L'électricité fait vibrer un cristal de quartz à 32 768 Hz (32 768 fois par seconde) - une fréquence incroyablement stable."
+            },
+            {
+              "step": "Circuit Intégré",
+              "detail": "Une puce informatique compte ces vibrations et convertit 32 768 oscillations en exactement une seconde."
+            },
+            {
+              "step": "Moteur Pas à Pas",
+              "detail": "Le CI envoie une impulsion électrique une fois par seconde à un petit moteur qui déplace les aiguilles."
+            }
+          ]
+        },
+        "advantages": {
+          "title": "Avantages des Mouvements à Quartz",
+          "benefits": [
+            {
+              "title": "Précision Supérieure",
+              "description": "±15 secondes par mois vs. ±5-10 secondes par jour pour les mécaniques. Les montres à quartz haute précision peuvent atteindre ±5 secondes par an."
+            },
+            {
+              "title": "Faible Entretien",
+              "description": "Changement de pile tous les 2-5 ans est typiquement tout l'entretien nécessaire. Pas besoin de service coûteux tous les 5-7 ans."
+            },
+            {
+              "title": "Accessibilité",
+              "description": "Les mouvements à quartz sont économiques à produire, rendant les montres de qualité accessibles. Un quartz à 50 € peut surpasser un mécanique à 500 € en précision."
+            },
+            {
+              "title": "Durabilité",
+              "description": "Moins de pièces mobiles signifie moins de choses à casser. Le quartz gère mieux les chocs que les mécaniques délicats."
+            },
+            {
+              "title": "Finesse",
+              "description": "Les mouvements à quartz peuvent être extrêmement fins. Les montres habillées à quartz peuvent faire 6-7mm d'épaisseur."
+            }
+          ]
+        },
+        "disadvantages": {
+          "title": "Inconvénients des Mouvements à Quartz",
+          "drawbacks": [
+            {
+              "title": "Moins de Prestige",
+              "description": "Les quartz manquent de la romance et de l'artisanat de l'horlogerie mécanique. Les collectionneurs préfèrent typiquement les mécaniques."
+            },
+            {
+              "title": "Dépendance à la Pile",
+              "description": "Les piles nécessitent un remplacement. Les montres mécaniques peuvent durer des générations sans piles."
+            },
+            {
+              "title": "Mouvement Saccadé",
+              "description": "La plupart des quartz 'tic-tac' une fois par seconde vs. le balayage fluide des mécaniques. (Exceptions : quartz haute fréquence)"
+            },
+            {
+              "title": "Déchets Électroniques",
+              "description": "Les circuits électroniques finissent par échouer et sont difficiles à réparer. Les mécaniques peuvent être reconstruites indéfiniment."
+            },
+            {
+              "title": "Moins de Connexion Émotionnelle",
+              "description": "Pas d'artisanat visible, pas de mouvement hypnotisant. C'est fonctionnel, pas romantique."
+            }
+          ]
+        },
+        "types": {
+          "title": "Types de Mouvements à Quartz",
+          "categories": [
+            {
+              "type": "Quartz Standard",
+              "description": "Le mouvement à quartz le plus commun. ±15-30 secondes par mois de précision. Durée de pile de 2-3 ans.",
+              "examples": "La plupart des montres à quartz abordables"
+            },
+            {
+              "type": "Quartz Haute Précision",
+              "description": "Cristaux de quartz régulés thermiquement. ±5-10 secondes par an. Grand Seiko 9F atteint ±10 secondes par an.",
+              "examples": "Grand Seiko 9F, Citizen Chronomaster, Breitling SuperQuartz"
+            },
+            {
+              "type": "Quartz Ana-Digi",
+              "description": "Combine aiguilles analogiques avec affichage digital. Offre fonctionnalité polyvalente.",
+              "examples": "Casio G-Shock série GA, Breitling Aerospace"
+            },
+            {
+              "type": "Quartz Solaire",
+              "description": "Recharge en utilisant la lumière (solaire ou artificielle). Pas de changements de pile nécessaires.",
+              "examples": "Citizen Eco-Drive, Seiko Solar, Casio Tough Solar"
+            },
+            {
+              "type": "Quartz Thermoélectrique",
+              "description": "Alimenté par différence de température (chaleur corporelle). Technologie rare.",
+              "examples": "Citizen Eco-Drive Thermo"
+            }
+          ]
+        },
+        "maintenance": {
+          "title": "Entretien des Montres à Quartz",
+          "tasks": [
+            {
+              "task": "Changement de Pile (Tous les 2-5 Ans)",
+              "description": "Lorsque la montre s'arrête ou l'aiguille des secondes saute (indicateur de pile faible), remplacez la pile. Coût : 10-30 € chez un bijoutier.",
+              "tip": "Faites vérifier les joints lors du remplacement de la pile pour maintenir la résistance à l'eau."
+            },
+            {
+              "task": "Vérification des Joints (À Chaque Changement de Pile)",
+              "description": "Les joints en caoutchouc se détériorent avec le temps. Si votre montre est résistante à l'eau, faites inspecter/remplacer les joints lors du changement de pile."
+            },
+            {
+              "task": "Nettoyage Régulier",
+              "description": "Nettoyez le boîtier et le cristal avec un chiffon microfibre. Pour les bracelets métalliques, utilisez du savon doux et une brosse douce."
+            }
+          ],
+          "warning": "N'ouvrez jamais une montre à quartz vous-même à moins de savoir ce que vous faites. L'humidité et la poussière peuvent ruiner le mouvement."
+        },
+        "famousExamples": {
+          "title": "Montres à Quartz Célèbres",
+          "models": [
+            {
+              "brand": "Grand Seiko",
+              "model": "9F Quartz",
+              "price": "2 500 € - 6 000 €",
+              "highlight": "Le mouvement à quartz le plus prestigieux. ±10 secondes/an, artisanat exquis"
+            },
+            {
+              "brand": "Omega",
+              "model": "Seamaster Quartz",
+              "price": "3 000 € - 5 000 €",
+              "highlight": "Montre de plongée de luxe alimentée par quartz, ultra-précise"
+            },
+            {
+              "brand": "Breitling",
+              "model": "Aerospace Evo",
+              "price": "3 000 € - 4 000 €",
+              "highlight": "SuperQuartz compensé thermiquement, certifié COSC"
+            },
+            {
+              "brand": "Cartier",
+              "model": "Tank Quartz",
+              "price": "2 500 € - 4 000 €",
+              "highlight": "Icône de design, profil fin grâce au quartz"
+            },
+            {
+              "brand": "Citizen",
+              "model": "Eco-Drive",
+              "price": "200 € - 1 000 €",
+              "highlight": "Alimenté par lumière, jamais besoin de pile"
+            },
+            {
+              "brand": "Seiko",
+              "model": "Astron GPS Solar",
+              "price": "1 500 € - 3 000 €",
+              "highlight": "GPS + solaire, ajustement automatique de fuseau horaire"
+            }
+          ]
+        },
+        "conclusion": {
+          "title": "Le Quartz Mérite le Respect",
+          "content": "Les snobs horlogers dédaignent le quartz, mais c'est myope. Le quartz a démocratisé le chronométrage précis. Un Citizen Eco-Drive à 300 € vous donnera des décennies de service parfait sans entretien. Un Grand Seiko 9F rivalise avec n'importe quelle montre mécanique en artisanat tout en les surpassant toutes en précision. Le quartz n'est pas l'ennemi du mécanique - il est complémentaire. Possédez les deux. Utilisez le quartz quand vous avez besoin de fiabilité et précision. Utilisez les mécaniques quand vous voulez de l'art et une connexion avec la tradition."
+        }
+      },
+      "manual": {
+        "hero": {
+          "title": "Mouvements à Remontage Manuel",
+          "subtitle": "Horlogerie Mécanique Pure",
+          "description": "Les montres à remontage manuel représentent l'horlogerie dans sa forme la plus pure : pas de rotors automatiques, pas de piles, juste ressorts, engrenages et artisanat humain remontant le temps."
+        },
+        "intro": "La montre à remontage manuel est là où tout a commencé. Avant que les automatiques ne rendent le remontage obsolète, chaque montre mécanique nécessitait un remontage quotidien. Cette 'corvée' est vue par les passionnés non comme un fardeau, mais comme un rituel : un moment de connexion avec votre montre, une pause dans la journée pour apprécier l'ingénierie mécanique à votre poignet. Les montres à remontage manuel sont typiquement plus fines que les automatiques (pas de rotor volumineux), ce qui les rend idéales pour les montres habillées. Elles permettent aussi aux collectionneurs de voir plus du mouvement à travers le fond transparent, car il n'y a pas de rotor bloquant la vue.",
+        "howItWorks": {
+          "title": "Comment Fonctionne un Mouvement à Remontage Manuel",
+          "description": "Le remontage manuel est merveilleusement simple en concept :",
+          "components": [
+            {
+              "part": "Ressort Moteur",
+              "function": "Un long ressort métallique enroulé dans un barillet. Stocke l'énergie lors du remontage."
+            },
+            {
+              "part": "Train d'Engrenages",
+              "function": "Série d'engrenages connectés qui transmettent l'énergie du ressort moteur au spiral, réduisant la vitesse du barillet à la roue d'échappement."
+            },
+            {
+              "part": "Échappement",
+              "function": "Libère l'énergie en rafales contrôlées, créant le son de 'tic-tac'. La roue d'échappement et l'ancre contrôlent le flux d'énergie."
+            },
+            {
+              "part": "Balancier et Spiral",
+              "function": "Le balancier oscille d'avant en arrière, régulé par le spiral (ressort fin). Cela détermine la précision de la montre."
+            },
+            {
+              "part": "Mécanisme de Remontage",
+              "function": "Tourner la couronne fait tourner le ressort moteur plus serré, stockant l'énergie cinétique comme énergie potentielle."
+            }
+          ]
+        },
+        "advantages": {
+          "title": "Pourquoi les Collectionneurs Aiment le Remontage Manuel",
+          "benefits": [
+            {
+              "title": "Profils Plus Fins",
+              "description": "Sans rotor automatique signifie que les mouvements à remontage manuel peuvent être extrêmement fins. Parfait pour les montres habillées élégantes."
+            },
+            {
+              "title": "Meilleures Vues du Mouvement",
+              "description": "Les fonds transparents montrent le mouvement complet sans rotor bloquant la vue. Vous voyez les ponts, engrenages, échappement danser."
+            },
+            {
+              "title": "Connexion et Rituel",
+              "description": "Remonter votre montre chaque matin crée une relation avec elle. C'est méditatif, intentionnel, satisfaisant."
+            },
+            {
+              "title": "Tradition et Héritage",
+              "description": "Les mouvements à remontage manuel sont comment les montres ont été faites pendant des siècles. C'est l'horlogerie pure et sans compromis."
+            },
+            {
+              "title": "Moins de Complexité",
+              "description": "Moins de pièces que les automatiques (pas de système de remontage automatique) signifie potentiellement moins à casser."
+            }
+          ]
+        },
+        "disadvantages": {
+          "title": "Considérations du Remontage Manuel",
+          "drawbacks": [
+            {
+              "title": "Nécessite Remontage Quotidien",
+              "description": "Vous devez vous rappeler de remonter votre montre quotidiennement (ou tous les 2-3 jours selon la réserve de marche). Oubliez et elle s'arrête."
+            },
+            {
+              "title": "Pas 'Réglez et Oubliez'",
+              "description": "Vous ne pouvez pas simplement porter une manuelle comme vous portez une automatique ou quartz. Elle nécessite une participation active."
+            },
+            {
+              "title": "Sur-Remontage Possible",
+              "description": "Bien que difficile avec les designs modernes, techniquement vous pouvez trop remonter et endommager le ressort moteur si vous forcez la couronne."
+            },
+            {
+              "title": "Pas Idéal pour Usage Quotidien Distrait",
+              "description": "Si vous avez tendance à oublier les choses, une manuelle s'arrêtera. Les automatiques se remontent avec le mouvement ; le quartz fonctionne simplement."
+            }
+          ]
+        },
+        "howToWind": {
+          "title": "Comment Remonter une Montre Manuelle",
+          "instructions": [
+            {
+              "step": "1. Retirez la Montre",
+              "detail": "Enlevez la montre de votre poignet. Remonter en la portant peut exercer une tension sur la couronne et le tube de couronne."
+            },
+            {
+              "step": "2. Dévissez la Couronne (Si Vissée)",
+              "detail": "Si votre montre a une couronne vissée (montres de plongée), tournez-la dans le sens antihoraire jusqu'à ce qu'elle se détache."
+            },
+            {
+              "step": "3. Tournez la Couronne dans le Sens Horaire",
+              "detail": "Tournez doucement la couronne dans le sens horaire. Vous sentirez une résistance - c'est le ressort moteur qui s'enroule."
+            },
+            {
+              "step": "4. Arrêtez Quand Vous Sentez une Résistance",
+              "detail": "Quand la couronne ne tourne plus facilement, la montre est complètement remontée. Ne forcez pas - les montres modernes ont une protection contre le sur-remontage, mais n'abusez pas."
+            },
+            {
+              "step": "5. Revissez (Si Applicable)",
+              "detail": "Si votre montre a une couronne vissée, revissez-la en poussant doucement vers l'intérieur tout en tournant dans le sens horaire."
+            }
+          ],
+          "tips": [
+            "Remontez à la même heure chaque jour pour la routine",
+            "Un remontage complet quotidien est idéal, même avec 48+ heures de réserve de marche",
+            "Ne remontez jamais en portant la montre - vous exercez une tension sur le mécanisme"
+          ]
+        },
+        "famousCalibres": {
+          "title": "Calibres Manuels Légendaires",
+          "movements": [
+            {
+              "brand": "Patek Philippe",
+              "calibre": "Calibre 240",
+              "description": "Ultra-fin (seulement 2,53mm), micro-rotor, chefs-d'œuvre d'ingénierie"
+            },
+            {
+              "brand": "A. Lange & Söhne",
+              "calibre": "Calibres Lange",
+              "description": "Finition allemande exquise, assemblage/démontage double"
+            },
+            {
+              "brand": "Omega",
+              "calibre": "Calibre 321",
+              "description": "Le mouvement Speedmaster original, utilisé sur la lune"
+            },
+            {
+              "brand": "Vacheron Constantin",
+              "calibre": "Calibre 4400",
+              "description": "Fin, magnifiquement fini, manufacture interne"
+            },
+            {
+              "brand": "Seiko",
+              "calibre": "6R15",
+              "description": "Remontage manuel abordable mais fiable dans les modèles Presage"
+            }
+          ]
+        },
+        "whenToChoose": {
+          "title": "Quand Choisir une Montre à Remontage Manuel",
+          "scenarios": [
+            {
+              "situation": "Montres Habillées",
+              "reason": "La finesse des mouvements manuels les rend parfaits pour les montres habillées élégantes qui doivent glisser sous les poignets de chemise."
+            },
+            {
+              "situation": "Appréciation du Mouvement",
+              "reason": "Si vous aimez observer les mouvements à travers les fonds transparents, les manuelles offrent les meilleures vues sans obstruction par les rotors."
+            },
+            {
+              "situation": "Rituel et Connexion",
+              "reason": "Si vous valorisez le rituel quotidien de remonter et de vous connecter avec votre montre, le remontage manuel est profondément satisfaisant."
+            },
+            {
+              "situation": "Collection Vintage",
+              "reason": "Les montres vintage sont principalement manuelles. Si vous collectionnez des pièces anciennes, vous apprendrez à les aimer."
+            }
+          ]
+        }
+      },
+      "automatic": {
+        "hero": {
+          "title": "Mouvements Automatiques",
+          "subtitle": "Ingénierie Auto-Remontante",
+          "description": "Les montres automatiques combinent le meilleur du mécanique et de la commodité : l'artisanat de l'horlogerie traditionnelle avec la magie de ne jamais avoir besoin de remonter manuellement."
+        },
+        "intro": "Le mouvement automatique (aussi appelé 'auto-remontant') est l'expression ultime de l'horlogerie mécanique pratique. Inventé par Abraham-Louis Perrelet en 1770 mais perfectionné au 20ème siècle, le mécanisme automatique utilise le mouvement naturel de votre poignet pour remonter le ressort moteur. Vous portez la montre, le rotor tourne, la montre reste remontée. C'est la solution élégante à 'j'ai oublié de remonter ma montre' tout en maintenant tout l'artisanat mécanique que les collectionneurs aiment. Les automatiques représentent environ 90% des montres mécaniques modernes - des Seiko 5 d'entrée de gamme aux Rolex, Omega et Patek Philippe.",
+        "howItWorks": {
+          "title": "Comment Fonctionne un Mouvement Automatique",
+          "description": "Les automatiques sont essentiellement des mouvements à remontage manuel avec un mécanisme d'auto-remontage ajouté :",
+          "mechanism": [
+            {
+              "component": "Rotor (Masse Oscillante)",
+              "function": "Un poids semi-circulaire monté sur roulements qui tourne librement. Le mouvement de votre poignet fait tourner le rotor."
+            },
+            {
+              "component": "Système de Transfert de Remontage",
+              "function": "Engrenages et embrayages convertissent la rotation du rotor (dans n'importe quelle direction) en remontage unidirectionnel du ressort moteur."
+            },
+            {
+              "component": "Mécanisme Anti-Retour",
+              "function": "Empêche le ressort moteur de se dérouler lorsque le rotor tourne en direction inverse."
+            },
+            {
+              "component": "Ressort Moteur",
+              "function": "Stocke l'énergie du remontage automatique et du remontage manuel (la plupart des automatiques peuvent aussi être remontées manuellement)."
+            },
+            {
+              "component": "Mouvement de Base",
+              "function": "Le même train d'engrenages, échappement et balancier qu'une manuelle. Le système automatique ajoute juste le mécanisme d'auto-remontage."
+            }
+          ]
+        },
+        "powerReserve": {
+          "title": "Comprendre la Réserve de Marche",
+          "explanation": "La réserve de marche est combien de temps une montre automatique fonctionne après avoir été complètement remontée sans mouvement supplémentaire ou remontage manuel :",
+          "ranges": [
+            {
+              "duration": "38-42 Heures",
+              "description": "Standard pour la plupart des automatiques d'entrée à moyenne gamme. Nécessite port quotidien ou remontoir.",
+              "examples": "Seiko 5, nombreux mouvements ETA/Sellita"
+            },
+            {
+              "duration": "48-72 Heures",
+              "description": "Commun dans les automatiques modernes de qualité. Vous pouvez l'enlever pour la nuit et toute la journée suivante sans arrêt.",
+              "examples": "Rolex (70hr), Omega Co-Axial (60hr), Tudor"
+            },
+            {
+              "duration": "80-100+ Heures",
+              "description": "Réserves de marche étendues utilisant barillets doubles ou conception optimisée du ressort moteur.",
+              "examples": "Omega Master Chronometer (60hr), Powermatic 80 (80hr)"
+            },
+            {
+              "duration": "7-10 Jours",
+              "description": "Réserves de marche extra-longues dans les pièces de haute horlogerie utilisant barillets multiples.",
+              "examples": "IWC Big Pilot (7 jours), Panerai 8 Days"
+            }
+          ]
+        },
+        "winding": {
+          "title": "Remonter et Utiliser les Automatiques",
+          "practices": [
+            {
+              "topic": "Remontage Manuel Initial",
+              "advice": "Lors de la configuration d'une automatique arrêtée, donnez 20-30 tours de couronne manuellement pour démarrer le mouvement. Ensuite laissez-la se remonter automatiquement."
+            },
+            {
+              "topic": "Usage Quotidien",
+              "advice": "Portez simplement la montre normalement. 8+ heures de port garderont la plupart des automatiques complètement remontées."
+            },
+            {
+              "topic": "Remontoirs de Montre",
+              "advice": "Si vous avez plusieurs automatiques, un remontoir garde celles non portées remontées et fonctionnant. Utile pour montres avec calendrier perpétuel difficile à réinitialiser."
+            },
+            {
+              "topic": "Laisser S'Arrêter",
+              "advice": "C'est parfaitement acceptable de laisser les automatiques s'arrêter. Redémarrez simplement quand vous voulez la porter à nouveau. Ne nuit pas au mouvement."
+            }
+          ]
+        },
+        "advantages": {
+          "title": "Avantages des Mouvements Automatiques",
+          "benefits": [
+            {
+              "title": "Pas de Remontage Manuel Quotidien",
+              "description": "Portez la montre et elle reste remontée. Réglez et oubliez (tant que vous la portez régulièrement)."
+            },
+            {
+              "title": "Artisanat Mécanique",
+              "description": "Toute la romance et l'artisanat de l'horlogerie mécanique sans la corvée du remontage manuel."
+            },
+            {
+              "title": "Observer le Rotor",
+              "description": "À travers les fonds transparents, voir le rotor tourner avec le mouvement est hypnotisant et beau."
+            },
+            {
+              "title": "Rétention de Valeur",
+              "description": "Les automatiques de marques de qualité maintiennent/apprécient la valeur mieux que le quartz."
+            },
+            {
+              "title": "Jamais de Piles",
+              "description": "Comme tous les mécaniques, les automatiques n'ont jamais besoin de piles. Juste un service tous les 5-7 ans."
+            }
+          ]
+        },
+        "famousMovements": {
+          "title": "Calibres Automatiques Légendaires",
+          "movements": [
+            {
+              "brand": "Rolex",
+              "calibre": "Calibre 3235",
+              "specs": "70 heures de réserve de marche, -2/+2 sec/jour, échappement Chronergy",
+              "highlight": "L'étalon-or des automatiques de production"
+            },
+            {
+              "brand": "Omega",
+              "calibre": "Co-Axial Master Chronometer 8900",
+              "specs": "60 heures, résistant à 15 000 gauss, certifié METAS",
+              "highlight": "Anti-magnétique, précision certifiée extrême"
+            },
+            {
+              "brand": "Seiko",
+              "calibre": "6R35/4R36",
+              "specs": "70 heures de réserve de marche, fiable, abordable",
+              "highlight": "La meilleure valeur en mouvements automatiques maison"
+            },
+            {
+              "brand": "ETA",
+              "calibre": "2824-2",
+              "specs": "38 heures, cheval de bataille de l'industrie",
+              "highlight": "Utilisé dans des milliers de modèles, pièces largement disponibles"
+            },
+            {
+              "brand": "Miyota",
+              "calibre": "9015",
+              "specs": "42 heures, construction de haute qualité",
+              "highlight": "Automatique japonais abordable, remontage doux"
+            }
+          ]
+        },
+        "maintenance": {
+          "title": "Entretien des Automatiques",
+          "schedule": [
+            {
+              "interval": "Quotidien/Hebdomadaire",
+              "tasks": "Portez régulièrement ou utilisez un remontoir. Nettoyez avec chiffon microfibre."
+            },
+            {
+              "interval": "Tous les 5-7 Ans",
+              "tasks": "Service complet : démontage, nettoyage, lubrification, remplacement des joints. Coût : 200-500 € pour marques standard, 500-1500 €+ pour luxe."
+            },
+            {
+              "interval": "Au Besoin",
+              "tasks": "Si la précision dérive >+15 sec/jour, service avant. Si arrêt inattendu, service immédiat."
+            }
+          ]
+        }
+      },
+      "other": {
+        "hero": {
+          "title": "Solaire, Kinetic, Spring Drive et Mouvements Alternatifs",
+          "subtitle": "Innovation Au-Delà du Quartz et du Mécanique",
+          "description": "Au-delà des mouvements traditionnels à quartz et mécaniques, existent des technologies innovantes qui combinent le meilleur des deux mondes ou forgent des chemins complètement nouveaux."
+        },
+        "intro": "L'horlogerie ne se limite pas à quartz vs. mécanique. Plusieurs marques ont développé des technologies hybrides et alternatives qui offrent des avantages uniques. Le Solaire de Citizen élimine les changements de pile. Le Kinetic de Seiko combine mouvement mécanique avec précision quartz. Le Spring Drive de Grand Seiko a réalisé l'impossible : un mouvement qui est mécanique et électronique simultanément. Ces technologies représentent une vraie innovation, montrant que l'horlogerie n'a pas cessé d'évoluer.",
+        "technologies": {
+          "solar": {
+            "title": "Mouvements Alimentés par Énergie Solaire",
+            "brands": "Citizen Eco-Drive, Seiko Solar, Casio Tough Solar",
+            "howItWorks": "Un panneau solaire sous le cadran convertit la lumière (solaire ou artificielle) en électricité, stockée dans une cellule rechargeable. Pas de changements de pile nécessaires - juste exposition à la lumière.",
+            "advantages": [
+              "Pas de changements de pile jamais (la cellule dure 20+ ans)",
+              "Écologique - pas de piles jetables",
+              "Précision quartz avec commodité mécanique",
+              "Fonctionne avec toute source de lumière, pas seulement le soleil"
+            ],
+            "models": [
+              {
+                "model": "Citizen Promaster Diver Eco-Drive",
+                "price": "300-500 €",
+                "highlight": "Montre de plongée alimentée par soleil, 200m WR, sans piles"
+              },
+              {
+                "model": "Seiko Prospex Solar Diver",
+                "price": "400-600 €",
+                "highlight": "Solaire + résistance à l'eau, fonctionne jusqu'à 10 mois dans l'obscurité"
+              },
+              {
+                "model": "Casio G-Shock Solar (GW-M5610)",
+                "price": "150 €",
+                "highlight": "Solaire + radio-pilotage atomique, pratiquement indestructible"
+              }
+            ]
+          },
+          "kinetic": {
+            "title": "Seiko Kinetic - Mouvement Hybride",
+            "description": "Le Kinetic de Seiko (introduit en 1988) est une technologie unique qui combine un rotor automatique avec précision quartz. Au lieu de remonter un ressort moteur, le rotor génère de l'électricité qui charge une cellule et alimente un mouvement quartz.",
+            "howItWorks": "Le mouvement de votre poignet fait tourner un rotor comme dans une automatique. Mais au lieu de remonter un ressort, le rotor actionne un générateur qui produit de l'électricité. Cela charge une cellule qui alimente un mouvement quartz.",
+            "advantages": [
+              "Pas de changements de pile - alimenté par mouvement",
+              "Précision quartz (±15 sec/mois)",
+              "Satisfaction d'auto-remontage",
+              "Réserve de marche de 6 mois lorsque complètement chargé"
+            ],
+            "models": [
+              {
+                "model": "Seiko Kinetic Diver SKA",
+                "price": "300-500 €",
+                "highlight": "Montre de plongée hybride, le meilleur du mécanique + quartz"
+              },
+              {
+                "model": "Seiko Kinetic GMT",
+                "price": "400-600 €",
+                "highlight": "Fonctionnalité GMT avec commodité Kinetic"
+              }
+            ]
+          },
+          "springDrive": {
+            "title": "Spring Drive de Grand Seiko - Le Saint Graal",
+            "description": "Le Spring Drive est peut-être l'innovation la plus importante en horlogerie depuis le quartz. Développé par Seiko pendant 28 ans (1977-2005), il est simultanément mécanique et électronique - une fusion impossible.",
+            "howItWorks": "Alimenté par un ressort moteur traditionnel (mécanique) mais régulé par un cristal de quartz électronique (pas de balancier). Le résultat : précision quartz (±1 sec/jour) avec balayage parfaitement fluide (pas de tic-tac) et sans pile.",
+            "uniqueFeatures": [
+              "Balayage parfaitement fluide - la trotteuse 'coule' sans étapes",
+              "±1 seconde par jour de précision (mieux que la plupart des mécaniques)",
+              "Alimenté complètement par ressort moteur - pas de piles",
+              "Réserve de marche de 72 heures typique",
+              "Son de tic-tac silencieux (pas d'échappement)"
+            ],
+            "philosophy": "Le Spring Drive représente la philosophie de Grand Seiko de perfection : artisanat mécanique traditionnel rencontre technologie moderne pour créer quelque chose de complètement nouveau.",
+            "models": [
+              {
+                "model": "Grand Seiko Spring Drive SBGA211 'Snowflake'",
+                "price": "5 800 €",
+                "highlight": "Cadran texturé iconique, balayage Spring Drive, finition exquise"
+              },
+              {
+                "model": "Grand Seiko Spring Drive GMT",
+                "price": "7 000-10 000 €",
+                "highlight": "Fonctionnalité GMT avec précision Spring Drive"
+              },
+              {
+                "model": "Grand Seiko Spring Drive Diver",
+                "price": "8 000-12 000 €",
+                "highlight": "Montre de plongée 600m avec technologie Spring Drive"
+              }
+            ]
+          },
+          "other": {
+            "title": "Autres Technologies Innovantes",
+            "technologies": [
+              {
+                "name": "Seiko Astron GPS Solar",
+                "description": "Combine GPS avec énergie solaire. S'ajuste automatiquement aux fuseaux horaires utilisant signaux satellites GPS. Jamais besoin d'ajustement manuel en voyage.",
+                "price": "1 500-3 000 €"
+              },
+              {
+                "name": "Citizen Eco-Drive Satellite Wave",
+                "description": "Reçoit signaux horaires de satellites GPS, se synchronise n'importe où. Alimenté par énergie solaire.",
+                "price": "600-1 500 €"
+              },
+              {
+                "name": "Bulova Precisionist",
+                "description": "Mouvement quartz haute fréquence (262 kHz vs. 32 kHz standard). Balayage super-fluide, précision de ±10 sec/an.",
+                "price": "300-600 €"
+              },
+              {
+                "name": "TAG Heuer Connected (Smartwatch de Luxe)",
+                "description": "Smartwatch Swiss-made avec matériaux luxueux, mouvements interchangeables mécanique/digital.",
+                "price": "1 800-2 500 €"
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "title": "L'Innovation Continue",
+          "content": "Ces mouvements alternatifs prouvent que l'horlogerie n'est pas statique. Alors que les puristes peuvent insister sur seulement les mécaniques, des technologies comme Spring Drive, Solaire et Kinetic offrent des avantages réels. Elles démontrent que vous pouvez respecter la tradition tout en embrassant l'innovation. La meilleure approche : appréciez tous les types de mouvements pour ce qu'ils apportent à l'horlogerie."
+        }
+      }
+    }
+  },
+  "watchAnatomy": {
+    "hero": {
+      "badge": "Guide pour Debutants",
+      "title": "Horlogerie 101",
+      "subtitle": "Le Centre du Debutant",
+      "description": "Bienvenue dans le monde de l'horlogerie. Commencez votre voyage ici avec les connaissances essentielles que tout passione de montres doit savoir.",
+      "anatomyLink": "Guide d'Anatomie",
+      "terminologyLink": "Terminologie",
+      "waterResistanceLink": "Etancheite"
+    },
+    "title": "Anatomie d'une Montre",
+    "description": "Comprendre les parties essentielles d'une montre",
+    "parts": [
+      {
+        "name": "Boîtier",
+        "description": "L'enveloppe extérieure qui protège le mouvement et donne sa forme à la montre.",
+        "details": "Les matériaux vont de l'acier inoxydable aux métaux précieux comme l'or et le platine."
+      },
+      {
+        "name": "Verre",
+        "description": "Le couvercle transparent protégeant le cadran.",
+        "details": "Les montres modernes utilisent du verre saphir (résistant aux rayures), du verre minéral ou de l'acrylique."
+      },
+      {
+        "name": "Cadran",
+        "description": "La face de la montre qui affiche l'heure.",
+        "details": "Peut être simple ou complexe, avec divers sous-cadrans, index et décorations."
+      },
+      {
+        "name": "Aiguilles",
+        "description": "Les indicateurs qui pointent l'heure sur le cadran.",
+        "details": "Comprend généralement les aiguilles des heures, minutes et secondes. Les designs varient de simples à ornés."
+      },
+      {
+        "name": "Couronne",
+        "description": "Le bouton utilisé pour régler l'heure et la date, et remonter les montres manuelles.",
+        "details": "Généralement située à 3 heures. Certaines montres ont des couronnes vissées pour l'étanchéité."
+      },
+      {
+        "name": "Lunette",
+        "description": "L'anneau entourant le verre.",
+        "details": "Peut être fixe ou tournante. Les montres de plongée ont des lunettes tournantes pour suivre le temps écoulé."
+      },
+      {
+        "name": "Cornes",
+        "description": "Les projections s'étendant du boîtier pour attacher le bracelet.",
+        "details": "La mesure corne à corne est cruciale pour déterminer si une montre conviendra à votre poignet."
+      },
+      {
+        "name": "Bracelet",
+        "description": "Ce qui fixe la montre à votre poignet.",
+        "details": "Les options incluent le cuir, les bracelets NATO, le caoutchouc et les bracelets métalliques (oyster, jubilee, etc.)."
+      },
+      {
+        "name": "Fond de Boîtier",
+        "description": "L'arrière du boîtier de la montre.",
+        "details": "Peut être plein (fermé) ou à fond transparent pour voir le mouvement."
+      },
+      {
+        "name": "Mouvement",
+        "description": "Le moteur de la montre - le mécanisme qui la fait fonctionner.",
+        "details": "Peut être quartz, mécanique manuel ou mécanique automatique."
+      }
+    ]
+  },
+  "watchTerminology": {
+    "title": "Terminologie Essentielle de l'Horlogerie",
+    "subtitle": "Maitrisez le langage de l'horlogerie avec ces termes fondamentaux",
+    "exampleLabel": "Exemple",
+    "terms": [
+      {
+        "term": "Calibre",
+        "definition": "Le modèle ou design spécifique d'un mouvement de montre.",
+        "example": "Rolex Calibre 3235 ou ETA 2824-2."
+      },
+      {
+        "term": "Luminescence",
+        "definition": "Matériau luminescent appliqué aux aiguilles et index pour la visibilité en faible luminosité.",
+        "example": "Swiss Super-LumiNova est un composé lumineux moderne courant."
+      },
+      {
+        "term": "Étanchéité",
+        "definition": "La capacité d'une montre à résister à la pression de l'eau, mesurée en mètres, ATM ou bar.",
+        "example": "Une étanchéité de 100m signifie convient pour la natation, pas pour la plongée réelle à 100 mètres."
+      },
+      {
+        "term": "Complications",
+        "definition": "Toute fonction au-delà du simple affichage de l'heure (heures, minutes, secondes).",
+        "example": "Affichage de la date, chronographe, phase de lune, calendrier perpétuel."
+      },
+      {
+        "term": "Réserve de Marche",
+        "definition": "Combien de temps une montre mécanique fonctionnera lorsqu'elle est complètement remontée.",
+        "example": "Typiquement 38-72 heures, bien que certains mouvements modernes dépassent 7 jours."
+      },
+      {
+        "term": "Fréquence/BPH",
+        "definition": "Battements par heure - combien de fois le balancier oscille.",
+        "example": "28 800 BPH (4Hz) est standard, résultant en 8 tics par seconde."
+      },
+      {
+        "term": "Guichet",
+        "definition": "Une ouverture dans le cadran montrant des informations comme la date ou le jour.",
+        "example": "Le guichet de date à 3 heures."
+      },
+      {
+        "term": "Poussoirs",
+        "definition": "Boutons sur le boîtier de la montre qui activent des fonctions, typiquement sur les chronographes.",
+        "example": "Boutons de démarrage, arrêt et remise à zéro pour la fonction chronomètre."
+      },
+      {
+        "term": "Rubis",
+        "definition": "Rubis synthétiques utilisés comme roulements pour réduire la friction dans le mouvement.",
+        "example": "Un mouvement automatique typique a 25-31 rubis."
+      },
+      {
+        "term": "Rotor",
+        "definition": "Le poids semi-circulaire dans une montre automatique qui remonte le ressort moteur.",
+        "example": "Visible à travers les fonds transparents, souvent décoré avec des gravures de marque."
+      }
+    ]
+  },
+  "waterResistance": {
+    "title": "Comprendre les indices d'étanchéité",
+    "subtitle": "Ce que les chiffres signifient vraiment",
+    "critical": "Critique: Les indices d'étanchéité ne sont PAS des indices de profondeur!",
+    "realityLabel": "Réalité",
+    "importantNoteTitle": "Note de maintenance critique",
+    "ratings": [
+      {
+        "rating": "30m / 3 ATM",
+        "suitableFor": "Résistant aux éclaboussures uniquement",
+        "notFor": "Nager, se doucher ou tout contact avec l'eau",
+        "reality": "Peut supporter la pluie et le lavage des mains, mais rien de plus. PAS étanche."
+      },
+      {
+        "rating": "50m / 5 ATM",
+        "suitableFor": "Natation légère et douches",
+        "notFor": "Plongée, sports nautiques à fort impact",
+        "reality": "Convient pour une brève immersion dans l'eau, pas pour une natation prolongée."
+      },
+      {
+        "rating": "100m / 10 ATM",
+        "suitableFor": "Natation, snorkeling",
+        "notFor": "Plongée sous-marine",
+        "reality": "Vraie montre de natation. Peut supporter la natation récréative et les sports nautiques."
+      },
+      {
+        "rating": "200m / 20 ATM",
+        "suitableFor": "Plongée sous-marine récréative",
+        "notFor": "Plongée professionnelle au-delà de 200m",
+        "reality": "Vraie montre de plongée avec lunette tournante. Les montres de plongée certifiées ISO 6425 commencent ici."
+      },
+      {
+        "rating": "300m+ / 30 ATM+",
+        "suitableFor": "Plongée professionnelle, plongée en saturation",
+        "notFor": "Rien - ce sont de sérieuses montres de plongée",
+        "reality": "Montres de plongée de qualité professionnelle avec valves d'échappement d'hélium et joints supérieurs."
+      }
+    ],
+    "importantNote": "L'étanchéité peut se dégrader avec le temps. Les joints se dessèchent, les sceaux échouent. Faites tester et entretenir votre montre tous les 2-3 ans si vous l'exposez régulièrement à l'eau."
+  },
+  "movementTypes": {
+    "quartz": {
+      "name": "Mouvement Quartz",
+      "description": "Montres à pile utilisant un oscillateur à cristal de quartz",
+      "howItWorks": "Une pile envoie un courant électrique à travers un cristal de quartz, le faisant vibrer exactement 32 768 fois par seconde. Cette vibration est convertie en impulsions qui entraînent le moteur, déplaçant les aiguilles.",
+      "pros": [
+        "Extrêmement précis (±15 secondes par mois)",
+        "Très abordable",
+        "Faible entretien - seulement des changements de pile",
+        "Boîtiers minces possibles",
+        "Pas besoin de remontage quotidien"
+      ],
+      "cons": [
+        "Moins d'âme pour les collectionneurs - pas de complexité mécanique",
+        "La pile nécessite un remplacement tous les 2-3 ans",
+        "Non considéré comme haute horlogerie",
+        "Tic une fois par seconde (pas de balayage fluide)"
+      ],
+      "famousExamples": [
+        "Grand Seiko 9F Quartz (ultra haute précision)",
+        "Omega Seamaster Quartz",
+        "Citizen Eco-Drive (quartz solaire)",
+        "Série Casio G-Shock"
+      ],
+      "howItWorksTitle": "Comment Ça Marche",
+      "prosTitle": "Avantages",
+      "consTitle": "Inconvénients",
+      "famousExamplesTitle": "Exemples Célèbres",
+      "iconicModelsTitle": "Modèles Iconiques"
+    },
+    "manual": {
+      "name": "Mécanique à Remontage Manuel",
+      "description": "Montres mécaniques traditionnelles nécessitant un remontage quotidien via la couronne",
+      "howItWorks": "Tourner la couronne remonte un ressort moteur, stockant l'énergie. Lorsque le ressort se déroule, il libère de l'énergie à travers une série d'engrenages et l'échappement, régulant la libération de puissance pour déplacer les aiguilles à un rythme constant.",
+      "pros": [
+        "Signification historique - type le plus ancien de mouvement de montre",
+        "Boîtiers plus minces que les automatiques",
+        "Connexion directe avec les traditions horlogères",
+        "Pas de rotor bloquant la vue du mouvement",
+        "Appréciation de l'artisanat mécanique"
+      ],
+      "cons": [
+        "Nécessite un remontage quotidien (ou lorsque la réserve de marche s'épuise)",
+        "Moins précis que le quartz (±5-20 secondes par jour)",
+        "Plus cher que le quartz",
+        "Nécessite un entretien régulier (tous les 3-5 ans)"
+      ],
+      "famousExamples": [
+        "Patek Philippe Calatrava",
+        "A. Lange & Söhne 1815",
+        "Omega Speedmaster Professional (Moonwatch)",
+        "Panerai Luminor Remontage Manuel"
+      ],
+      "howItWorksTitle": "Comment Ça Marche",
+      "prosTitle": "Avantages",
+      "consTitle": "Inconvénients",
+      "famousExamplesTitle": "Exemples Célèbres",
+      "iconicModelsTitle": "Modèles Iconiques"
+    },
+    "automatic": {
+      "name": "Mécanique Automatique (Remontage Automatique)",
+      "description": "Montres mécaniques qui se remontent via un rotor entraîné par le mouvement du poignet",
+      "howItWorks": "Un rotor lesté tourne librement avec les mouvements de votre poignet. Ce rotor est connecté au mécanisme de remontage, remontant automatiquement le ressort moteur. Si portée régulièrement, la montre ne nécessite jamais de remontage manuel.",
+      "pros": [
+        "Commodité - se remonte pendant que portée",
+        "Trotteuse au balayage fluide",
+        "Beauté et artisanat mécaniques",
+        "Pas besoin de pile",
+        "Longue durée de vie avec un entretien approprié"
+      ],
+      "cons": [
+        "Plus épaisse que manuelle (le rotor ajoute de la hauteur)",
+        "S'arrête quand non portée (sauf dans un remontoir)",
+        "Coûteux à entretenir (tous les 3-5 ans, 200-1000€+)",
+        "Moins précis que le quartz",
+        "Coût initial plus élevé"
+      ],
+      "famousExamples": [
+        "Rolex Submariner (Cal. 3235)",
+        "Omega Seamaster 300M (Cal. 8800)",
+        "Seiko SKX007 (Cal. 7S26)",
+        "Tudor Black Bay (Cal. MT5602)"
+      ],
+      "howItWorksTitle": "Comment Ça Marche",
+      "prosTitle": "Avantages",
+      "consTitle": "Inconvénients",
+      "famousExamplesTitle": "Exemples Célèbres",
+      "iconicModelsTitle": "Modèles Iconiques",
+      "legendaryExamplesTitle": "Exemples Légendaires"
+    },
+    "other": {
+      "title": "Autres Technologies de Mouvement",
+      "subtitle": "Types de mouvements hybrides et alternatifs innovants",
+      "exampleLabel": "Exemple",
+      "benefitLabel": "Avantage",
+      "types": {
+        "solar": {
+          "name": "Solaire",
+          "description": "Mouvements quartz alimentés par la lumière au lieu de piles traditionnelles",
+          "example": "Citizen Eco-Drive, Seiko Solar",
+          "benefit": "Ne nécessite jamais de remplacement de pile - la lumière le maintient chargé pendant des mois dans l obscurité"
+        },
+        "kinetic": {
+          "name": "Kinetic/Auto-Quartz",
+          "description": "Hybride utilisant le remontage automatique pour charger un condensateur alimentant un mouvement quartz",
+          "example": "Seiko Kinetic",
+          "benefit": "Précision quartz sans changements de pile, alimenté par le mouvement"
+        },
+        "springDrive": {
+          "name": "Spring Drive",
+          "description": "Mouvement mécanique avec régulation électronique pour une précision de niveau quartz",
+          "example": "Grand Seiko Spring Drive",
+          "benefit": "Trotteuse au balayage parfaitement fluide avec une précision incroyable (±1 sec/jour)"
+        }
+      }
+    },
+    "hero": {
+      "title": "Comment Fonctionnent les Montres",
+      "subtitle": "Le Cœur de Chaque Garde-Temps",
+      "description": "Découvrez les mécanismes fascinants qui alimentent les montres, du quartz à pile aux mouvements mécaniques complexes"
+    },
+    "cta": {
+      "title": "Explorer les Styles de Montres",
+      "description": "Maintenant que vous comprenez comment fonctionnent les montres, explorez différents styles de montres et trouvez votre garde-temps parfait",
+      "button": "Parcourir les Styles de Montres"
+    },
+    "pageHero": {
+      "title": "Comment Fonctionnent les Montres",
+      "subtitle": "Comprendre les Mouvements",
+      "description": "Explorez les coeurs mécaniques et électroniques qui alimentent les garde-temps. Du quartz à pile aux mouvements mécaniques complexes, découvrez comment fonctionne chaque type et lequel convient à vos besoins."
+    },
+    "intro": "Le mouvement (ou calibre) est le moteur d'une montre—le mécanisme qui maintient l'heure et alimente toutes les complications. Comprendre les types de mouvement est essentiel pour choisir la bonne montre et apprécier l'ingénierie à l'intérieur.",
+    "movementTypesTitle": "Types de Mouvement",
+    "movementTypesDescription": "Cliquez sur n'importe quel type de mouvement pour en savoir plus sur son fonctionnement, ses avantages et inconvénients, et quelles montres l'utilisent.",
+    "learnMore": "En savoir plus",
+    "comparisonTitle": "Comparaison Rapide",
+    "comparisonDescription": "Voici comment les trois principaux types de mouvement se comparent sur les facteurs clés:",
+    "choosingTitle": "Choisir le Bon Mouvement",
+    "chooseQuartzTitle": "Choisissez Quartz Si:",
+    "chooseQuartz": [
+      "Vous privilégiez la précision et la commodité",
+      "Le faible entretien est important",
+      "Vous avez un budget serré",
+      "Vous ne portez pas de montres quotidiennement"
+    ],
+    "chooseAutomaticTitle": "Choisissez Automatique Si:",
+    "chooseAutomatic": [
+      "Vous appréciez l'artisanat mécanique",
+      "Vous portez votre montre régulièrement",
+      "La valeur à long terme compte",
+      "Vous aimez la trotteuse au balayage fluide"
+    ],
+    "chooseManualTitle": "Choisissez Manuel Si:",
+    "chooseManual": [
+      "Vous voulez un rituel quotidien",
+      "Vous préférez les montres plus fines",
+      "Vous appréciez la tradition",
+      "Vous aimez l'interaction mécanique"
+    ],
+    "hierarchyTitle": "La Hiérarchie des Mouvements",
+    "hierarchyParagraph1": "Dans le monde horloger, il existe une hiérarchie tacite. Les mouvements mécaniques (manuels et automatiques) sont généralement plus prestigieux que le quartz, malgré une précision moindre. Pourquoi? Parce qu'ils représentent l'artisanat traditionnel, l'ingénierie complexe et l'art humain. Un mouvement mécanique peut avoir plus de 200 composants assemblés à la main, chacun jouant un rôle spécifique dans le chronométrage.",
+    "hierarchyParagraph2": "Cela dit, les mouvements quartz ont révolutionné l'horlogerie et restent le choix le plus pratique pour la plupart des gens. Grand Seiko a même élevé le quartz au statut de haute horlogerie. Le \"meilleur\" mouvement est celui qui correspond à votre style de vie, vos valeurs et votre budget.",
+    "ctaTitle": "Prêt à Approfondir?",
+    "ctaDescription": "Maintenant que vous comprenez les types de mouvement, explorez les pages individuelles des mouvements pour des informations techniques détaillées, des animations et des recommandations.",
+    "automaticButton": "Mouvements Automatiques",
+    "quartzButton": "Mouvements Quartz",
+    "comparison": {
+      "rows": [
+        "Précision",
+        "Entretien",
+        "Source d'Énergie",
+        "Durée de Vie",
+        "Gamme de Prix",
+        "Prestige"
+      ],
+      "columns": [
+        {
+          "header": "Quartz",
+          "items": [
+            "±15 sec/mois",
+            "Pile tous les 2-5 ans",
+            "Pile",
+            "20-30 ans",
+            "Bas-Moyen",
+            "Utilitaire"
+          ]
+        },
+        {
+          "header": "Automatic",
+          "items": [
+            "±5-15 sec/jour",
+            "Révision tous les 5-7 ans",
+            "Mouvement du poignet",
+            "Générations",
+            "Moyen-Très Élevé",
+            "Élevé"
+          ],
+          "highlighted": true
+        },
+        {
+          "header": "Manual",
+          "items": [
+            "±5-15 sec/jour",
+            "Révision tous les 5-7 ans",
+            "Remontage manuel",
+            "Générations",
+            "Moyen-Élevé",
+            "Traditionnel"
+          ]
+        }
+      ]
+    }
+  },
+  "watchStyles": [
+    {
+      "category": "Montres de Plongée",
+      "description": "Construites pour l exploration sous-marine avec une étanchéité exceptionnelle",
+      "keyFeatures": [
+        "Lunette tournante unidirectionnelle pour suivre le temps de plongée",
+        "Haute étanchéité (minimum 200m)",
+        "Excellente lisibilité avec marqueurs lumineux",
+        "Couronne vissée pour protection contre l eau",
+        "Certification ISO 6425 pour vraies montres de plongée"
+      ],
+      "iconicModels": [
+        {
+          "name": "Rolex Submariner",
+          "note": "La référence depuis 1953"
+        },
+        {
+          "name": "Omega Seamaster 300M",
+          "note": "Le choix de James Bond"
+        },
+        {
+          "name": "Seiko SKX007",
+          "note": "Légendaire montre de plongée abordable"
+        },
+        {
+          "name": "Tudor Black Bay",
+          "note": "Plongeuse moderne d inspiration vintage"
+        }
+      ],
+      "priceRange": "200 - 15 000 € +",
+      "idealFor": "Amateurs de sports nautiques, ceux cherchant des montres-outils robustes"
+    }
+  ],
+  "watchComplications": {
+    "simple": [
+      {
+        "name": "Fecha",
+        "description": "Muestra el día actual del mes mediante apertura o subesfera",
+        "utility": "Práctico para uso diario",
+        "note": "Complicación más común; necesita corrección manual en meses cortos"
+      },
+      {
+        "name": "Día-Fecha",
+        "description": "Muestra tanto el día de la semana como la fecha",
+        "utility": "Información diaria mejorada",
+        "note": "Hecho famoso por el Rolex Day-Date 'President'"
+      }
+    ],
+    "popular": [
+      {
+        "name": "Cronógrafo",
+        "description": "Función de cronómetro con medición de tiempo transcurrido",
+        "subdials": "Típicamente contadores de 30 minutos y 12 horas, segundos corriendo",
+        "utility": "Cronometrar eventos, actividades deportivas",
+        "iconic": "Omega Speedmaster - primer reloj en la luna"
+      },
+      {
+        "name": "Fase Lunar",
+        "description": "Indicador visual mostrando la fase actual de la luna",
+        "utility": "Belleza estética, interés astronómico",
+        "note": "Requiere ajuste solo una vez cada 122 años en versiones de alta precisión"
+      },
+      {
+        "name": "GMT / Hora Dual",
+        "description": "Rastrea una segunda zona horaria con manecilla de 24 horas",
+        "utility": "Esencial para viajeros y comunicación internacional",
+        "note": "Originalmente diseñado para pilotos de Pan Am en los años 1950"
+      },
+      {
+        "name": "Indicador de Reserva de Marcha",
+        "description": "Muestra cuánta energía queda en el muelle real",
+        "utility": "Saber cuándo tu reloj necesita cuerda",
+        "note": "Particularmente útil para relojes de cuerda manual"
+      }
+    ],
+    "grand": [
+      {
+        "name": "Calendario Perpetuo",
+        "description": "Ajusta automáticamente para meses de diferentes longitudes y años bisiestos",
+        "complexity": "Increíblemente complejo - no necesitará corrección de fecha hasta 2100",
+        "maintenance": "Nunca debe permitirse detenerse - costoso restablecer",
+        "priceRange": "$20,000 - $500,000+",
+        "example": "Patek Philippe Calendario Perpetuo 5320G"
+      },
+      {
+        "name": "Repetidor de Minutos",
+        "description": "Toca la hora a pedido usando martillos y gongs",
+        "complexity": "Una de las complicaciones más difíciles de fabricar",
+        "utility": "Originalmente para decir la hora en la oscuridad, ahora pura artesanía",
+        "priceRange": "$100,000 - $1,000,000+",
+        "example": "Patek Philippe 5303R Repetidor de Minutos"
+      },
+      {
+        "name": "Tourbillon",
+        "description": "Jaula giratoria que contiene el escape para contrarrestar efectos de gravedad",
+        "complexity": "Inventado por Breguet en 1795",
+        "utility": "Mejora teórica de precisión (debatida), exhibición visual impresionante",
+        "priceRange": "$50,000 - $500,000+",
+        "example": "A. Lange & Söhne 1815 Tourbillon"
+      },
+      {
+        "name": "Ecuación del Tiempo",
+        "description": "Muestra la diferencia entre el tiempo solar y el tiempo medio",
+        "complexity": "Complicación astronómica para puristas",
+        "utility": "Indica cuándo el sol está realmente en su punto más alto",
+        "priceRange": "$100,000+",
+        "example": "Audemars Piguet Royal Oak Ecuación del Tiempo"
+      }
+    ]
+  },
+  "watchBrands": {
+    "holyTrinity": [
+      {
+        "name": "Patek Philippe",
+        "founded": 1839,
+        "country": "Suiza",
+        "specialty": "Grandes complicaciones, calendarios perpetuos",
+        "priceRange": "$20,000 - $5,000,000+",
+        "iconicModel": "Calatrava, Nautilus, Aquanaut",
+        "motto": "Nunca posees realmente un Patek Philippe. Simplemente lo cuidas para la próxima generación.",
+        "notableAchievement": "Tiene el récord del reloj más caro vendido en subasta (Grandmaster Chime - $31 millones)"
+      },
+      {
+        "name": "Audemars Piguet",
+        "founded": 1875,
+        "country": "Suiza",
+        "specialty": "Royal Oak, relojes deportivos de lujo innovadores",
+        "priceRange": "$20,000 - $1,000,000+",
+        "iconicModel": "Royal Oak (diseñado por Gerald Genta, 1972)",
+        "notableAchievement": "Pionero del reloj deportivo de lujo en acero con el Royal Oak",
+        "note": "Todavía propiedad familiar, independiente"
+      },
+      {
+        "name": "Vacheron Constantin",
+        "founded": 1755,
+        "country": "Suiza",
+        "specialty": "Fabricante de relojes en operación continua más antiguo",
+        "priceRange": "$15,000 - $2,000,000+",
+        "iconicModel": "Patrimony, Overseas",
+        "motto": "Hacer mejor si es posible, y eso siempre es posible",
+        "notableAchievement": "Producción ininterrumpida desde 1755 - más de 265 años"
+      }
+    ],
+    "iconicLuxury": [
+      {
+        "name": "Rolex",
+        "founded": 1905,
+        "country": "Suiza",
+        "specialty": "Relojes de herramienta, relojes deportivos, prestigio de marca",
+        "priceRange": "$6,000 - $100,000+",
+        "iconicModels": "Submariner, GMT-Master II, Daytona, Datejust, Day-Date",
+        "achievement": "Marca de relojes más reconocida globalmente",
+        "innovations": "Caja Oyster (primera caja impermeable), rotor Perpetual (automático temprano)",
+        "note": "Extremadamente difícil de obtener modelos nuevos debido a la demanda"
+      },
+      {
+        "name": "Omega",
+        "founded": 1848,
+        "country": "Suiza",
+        "specialty": "Exploración espacial, cronometrador oficial de las Olimpiadas",
+        "priceRange": "$3,000 - $50,000+",
+        "iconicModels": "Speedmaster Professional (Moonwatch), Seamaster 300M",
+        "achievement": "Primer y único reloj usado en la luna (1969)",
+        "note": "El reloj de James Bond desde GoldenEye (1995)"
+      }
+    ],
+    "entrySwiss": [
+      {
+        "name": "Tissot",
+        "parent": "Swatch Group",
+        "priceRange": "$300 - $3,000",
+        "specialty": "Calidad suiza asequible, materiales innovadores",
+        "iconicModel": "PRX (reedición moderna popular)",
+        "note": "Cronometrador oficial de MotoGP, NBA, más"
+      },
+      {
+        "name": "Hamilton",
+        "parent": "Swatch Group",
+        "priceRange": "$400 - $2,500",
+        "specialty": "Herencia americana, relojes militares/aviación",
+        "iconicModel": "Khaki Field, Ventura (reloj de Elvis)",
+        "note": "Fundada en EE.UU. (1892), ahora propiedad suiza"
+      },
+      {
+        "name": "Longines",
+        "parent": "Swatch Group",
+        "priceRange": "$1,000 - $5,000",
+        "specialty": "Reediciones de herencia, relojes de vestir elegantes",
+        "iconicModel": "Legend Diver, Heritage 1945",
+        "note": "Excelente valor en relojería suiza"
+      }
+    ],
+    "japanese": [
+      {
+        "name": "Seiko",
+        "founded": 1881,
+        "country": "Japón",
+        "specialty": "Innovación, integración vertical, valor",
+        "priceRange": "$100 - $50,000+",
+        "achievements": [
+          "Inventó el reloj de cuarzo (1969 - Astron)",
+          "Inventó el movimiento Spring Drive",
+          "La submarca Grand Seiko rivaliza con la alta relojería suiza"
+        ],
+        "iconicModels": "SKX007, serie Seiko 5, Grand Seiko",
+        "note": "Hace todo internamente desde básico hasta ultra lujo"
+      },
+      {
+        "name": "Casio",
+        "founded": 1946,
+        "country": "Japón",
+        "specialty": "Relojes digitales, durabilidad extrema",
+        "priceRange": "$20 - $5,000",
+        "iconicModels": "G-Shock, F-91W, Casio Duro",
+        "achievement": "G-Shock virtualmente indestructible - 200M+ vendidos",
+        "note": "F-91W: el reloj confiable más asequible del planeta (~$15)"
+      },
+      {
+        "name": "Citizen",
+        "founded": 1918,
+        "country": "Japón",
+        "specialty": "Tecnología Eco-Drive solar",
+        "priceRange": "$100 - $3,000",
+        "achievement": "Nunca necesita reemplazo de batería - alimentado por luz",
+        "note": "Excelente valor por relojes solares"
+      }
+    ]
+  },
+  "watchHistory": {
+    "pocketToWrist": {
+      "era": "Principios de 1900",
+      "event": "El Nacimiento del Reloj de Pulsera",
+      "story": "En 1904, el aviador brasileño Alberto Santos-Dumont se quejó a su amigo Louis Cartier de que los relojes de bolsillo eran poco prácticos mientras volaba. Cartier creó el reloj de pulsera 'Santos' - uno de los primeros relojes de pulsera para hombres. Los soldados de la Primera Guerra Mundial también adoptaron relojes de pulsera por practicidad en las trincheras, acelerando su popularidad.",
+      "significance": "Transformó los relojes de joyería a herramientas esenciales"
+    },
+    "quartzCrisis": {
+      "era": "Años 1970-1980",
+      "event": "La Crisis del Cuarzo",
+      "story": "En 1969, Seiko lanzó el Astron - el primer reloj de cuarzo del mundo. Los relojes de cuarzo eran más precisos, más baratos de producir y no requerían dar cuerda. La industria relojera suiza casi colapsa - el empleo cayó de 90,000 a 30,000. Muchas marcas históricas quebraron.",
+      "resolution": "La industria suiza giró hacia el posicionamiento de lujo, enfatizando artesanía sobre pura precisión",
+      "significance": "Separó la industria relojera en dos segmentos: herramienta/commodity (cuarzo) vs. lujo/arte (mecánico)"
+    },
+    "mechanicalResurgence": {
+      "era": "Años 1990-Presente",
+      "event": "El Renacimiento Mecánico",
+      "story": "A pesar de que los smartphones hicieron los relojes funcionalmente obsoletos, los relojes mecánicos experimentaron un resurgimiento. Los coleccionistas los apreciaban como arte, maravillas de ingeniería y símbolos de estatus. Surgieron marcas independientes (F.P. Journe, MB&F, Richard Mille). Los relojes vintage se convirtieron en piezas de inversión.",
+      "drivers": [
+        "Fatiga digital - deseo de objetos analógicos y mecánicos",
+        "Apreciación de la artesanía",
+        "Señalización de estatus en bienes de lujo",
+        "Potencial de inversión de piezas raras"
+      ],
+      "significance": "Los relojes mecánicos redefinidos como bienes de lujo, piezas de arte y reliquias familiares"
+    }
+  },
+  "collectorGuides": {
+    "startingCollection": {
+      "title": "Cómo Comenzar tu Colección de Relojes",
+      "steps": [
+        {
+          "step": "Define tu Estilo",
+          "description": "Antes de comprar, determina qué resuena contigo",
+          "questions": [
+            "¿Prefieres deportivo o elegante?",
+            "¿Relojes grandes o pequeños?",
+            "¿Estética moderna o vintage?",
+            "¿Casos de uso específicos (buceo, eventos formales, uso diario)?"
+          ],
+          "advice": "Visita boutiques de relojes, prueba diferentes estilos en tu muñeca, sigue creadores de contenido de relojes"
+        },
+        {
+          "step": "Establece un Presupuesto Realista",
+          "description": "Existen grandes relojes en cada rango de precio",
+          "tiers": [
+            {
+              "range": "$50-$500",
+              "recommendation": "Seiko 5, Casio, Timex, Orient"
+            },
+            {
+              "range": "$500-$2,000",
+              "recommendation": "Hamilton, Tissot, Seiko Presage, Christopher Ward"
+            },
+            {
+              "range": "$2,000-$5,000",
+              "recommendation": "Longines, Oris, Tudor (usado), Grand Seiko (usado)"
+            },
+            {
+              "range": "$5,000-$10,000",
+              "recommendation": "Omega, Tudor, Zenith, Grand Seiko"
+            },
+            {
+              "range": "$10,000+",
+              "recommendation": "Rolex, Omega, marcas de lujo"
+            }
+          ]
+        },
+        {
+          "step": "Investiga Exhaustivamente",
+          "description": "El conocimiento previene errores costosos",
+          "resources": [
+            "YouTube: Teddy Baldassarre, Hodinkee, WatchFinder & Co.",
+            "Foros: WatchUSeek, r/Watches",
+            "Libros: 'A Man and His Watch' de Matt Hranek",
+            "Sitios web: Hodinkee, Worn & Wound"
+          ]
+        },
+        {
+          "step": "Compra lo que Amas, No el Hype",
+          "description": "Evita pensar en inversión para primeros relojes",
+          "warning": "No compres un reloj solo porque 'mantiene valor' - compra lo que te trae alegría",
+          "note": "El mejor reloj es uno que realmente usarás"
+        },
+        {
+          "step": "Considera la 'Colección de Un Reloj'",
+          "description": "Comienza con un reloj versátil de uso diario",
+          "ideal": "Un reloj que maneje el 80% de las situaciones",
+          "examples": "Rolex Submariner, Omega Seamaster, Grand Seiko SBGA413, Tudor Black Bay"
+        }
+      ]
+    },
+    "buyingGuide": {
+      "title": "Nuevo vs. Usado vs. Vintage",
+      "options": [
+        {
+          "type": "Comprar Nuevo",
+          "pros": [
+            "Garantía completa del fabricante",
+            "Última tecnología y diseños",
+            "Sin historial de abuso o mal servicio",
+            "Satisfacción de ser el primer propietario"
+          ],
+          "cons": [
+            "Precio más alto",
+            "Depreciación inmediata (excepto Rolex, Patek)",
+            "Listas de espera largas para modelos populares",
+            "Selección limitada (lo que está actualmente en producción)"
+          ],
+          "bestFor": "Quienes valoran garantía, últimos modelos y tranquilidad"
+        },
+        {
+          "type": "Comprar Usado",
+          "pros": [
+            "Mejor valor - evita depreciación inicial",
+            "Disponibilidad inmediata (sin listas de espera)",
+            "Acceso a modelos recientemente descontinuados",
+            "A menudo incluye caja y papeles"
+          ],
+          "cons": [
+            "Garantía limitada o nula",
+            "Condición varía - inspección crucial",
+            "Riesgo de falsificaciones (comprar de vendedores reputados)",
+            "Puede necesitar servicio inmediato"
+          ],
+          "bestFor": "Compradores conscientes del valor, quienes evitan listas de espera",
+          "trustedSources": "Chrono24 (con Trusted Checkout), Bob's Watches, Crown & Caliber, WatchBox"
+        },
+        {
+          "type": "Comprar Vintage",
+          "pros": [
+            "Significado histórico",
+            "Pátina y carácter únicos",
+            "Potencial de inversión (modelos raros)",
+            "Modelos ya no en producción"
+          ],
+          "cons": [
+            "Sin garantía",
+            "Mayor riesgo de relojes frankenstein (piezas intercambiadas)",
+            "Costoso dar servicio (piezas escasas)",
+            "Requiere conocimiento experto",
+            "Resistencia al agua comprometida"
+          ],
+          "bestFor": "Coleccionistas experimentados, entusiastas de historia, inversores",
+          "warning": "Edúcate extensivamente o trabaja con vendedores vintage de confianza. Falsificaciones y relojes modificados son comunes."
+        }
+      ]
+    },
+    "spotFakes": {
+      "title": "Cómo Detectar un Reloj Falso",
+      "redFlags": [
+        {
+          "indicator": "Precio Demasiado Bueno para Ser Verdad",
+          "detail": "Si un Rolex Submariner cuesta $2,000 nuevo, es falso. Investiga precios típicos del mercado."
+        },
+        {
+          "indicator": "Errores Ortográficos o de Fuente",
+          "detail": "Las marcas de lujo tienen impresión perfecta. Revisa espaciado inconsistente, fuentes incorrectas, errores."
+        },
+        {
+          "indicator": "Peso",
+          "detail": "Los relojes de lujo genuinos usan materiales de calidad. Las falsificaciones a menudo se sienten más ligeras (metales más baratos)."
+        },
+        {
+          "indicator": "Sonido y Acción del Movimiento",
+          "detail": "La mayoría de falsificaciones usan movimientos de cuarzo baratos. Un Rolex 'mecánico' que hace tic una vez por segundo es falso."
+        },
+        {
+          "indicator": "Magnificación Cyclops",
+          "detail": "El cyclops de Rolex magnifica la fecha 2.5x. Las falsificaciones a menudo tienen magnificación débil o nula."
+        },
+        {
+          "indicator": "Grabados del Fondo de Caja",
+          "detail": "La mayoría de modelos Rolex tienen fondos lisos (sin grabados). Los fondos de exhibición son raros."
+        },
+        {
+          "indicator": "Números de Serie y Modelo",
+          "detail": "Verifica si el número de serie coincide con el año de producción. Verifica con bases de datos del fabricante."
+        }
+      ],
+      "protectionTips": [
+        "Compra de vendedores autorizados o vendedores de mercado gris reputados",
+        "Solicita certificado de autenticidad e historial de servicio",
+        "Haz que un relojero independiente autentique el reloj antes de la compra",
+        "Usa servicios de custodia para ventas privadas",
+        "Confía en tus instintos - si algo se siente mal, aléjate"
+      ]
+    }
+  },
+  "watchCareFull": {
+    "cleaning": {
+      "title": "Cómo Limpiar tu Reloj de Forma Segura",
+      "methods": [
+        {
+          "material": "Brazalete de Acero Inoxidable",
+          "process": [
+            "Retira el brazalete de la caja del reloj si es posible",
+            "Usa agua tibia con jabón suave",
+            "Cepillo de dientes suave para frotar entre eslabones",
+            "Enjuaga completamente",
+            "Seca completamente con paño de microfibra",
+            "Deja secar al aire durante la noche antes de usar"
+          ],
+          "frequency": "Mensualmente o cuando esté visiblemente sucio"
+        },
+        {
+          "material": "Correa de Cuero",
+          "process": [
+            "NO sumergir en agua",
+            "Limpia con paño ligeramente húmedo",
+            "Usa limpiador/acondicionador de cuero ocasionalmente",
+            "Deja secar al aire lejos del calor directo"
+          ],
+          "warning": "El agua daña el cuero - minimiza la exposición",
+          "lifespan": "1-2 años con uso regular"
+        },
+        {
+          "material": "Correa NATO/Tela",
+          "process": [
+            "Retira del reloj",
+            "Lava a mano con detergente suave",
+            "Enjuaga completamente",
+            "Deja secar completamente al aire (12-24 horas)"
+          ],
+          "frequency": "Cada 2-3 semanas con uso regular"
+        },
+        {
+          "material": "Correa de Caucho/Silicona",
+          "process": [
+            "Lava con agua tibia jabonosa",
+            "Frota suavemente",
+            "Enjuaga y seca"
+          ],
+          "note": "Opción más duradera y resistente al agua"
+        }
+      ]
+    },
+    "servicing": {
+      "title": "Servicio de Relojes: Lo que Necesitas Saber",
+      "whyService": [
+        "Los lubricantes se secan con el tiempo (3-5 años)",
+        "Las juntas se deterioran, comprometiendo la resistencia al agua",
+        "El desgaste acumulado puede dañar componentes",
+        "Mantener precisión y funcionalidad",
+        "Preservar valor a largo plazo"
+      ],
+      "frequency": {
+        "quartz": "Reemplazo de batería cada 2-3 años. Servicio completo cada 10 años.",
+        "mechanical": "Servicio completo cada 3-5 años (dependiendo de la recomendación del fabricante)",
+        "vintage": "A menudo se necesita servicio más frecuente (cada 2-3 años)"
+      },
+      "whatHappens": [
+        "Desmontaje completo del movimiento",
+        "Limpieza ultrasónica de todas las piezas",
+        "Inspección de componentes desgastados",
+        "Reemplazo de piezas desgastadas y juntas",
+        "Lubricación con aceites especializados",
+        "Re-ensamblaje y regulación",
+        "Prueba de resistencia al agua",
+        "Verificación de precisión de tiempo"
+      ],
+      "cost": {
+        "basic": "$200-$400 (movimientos simples solo de tiempo)",
+        "standard": "$400-$800 (fecha, relojes deportivos resistentes al agua)",
+        "complex": "$800-$2,000+ (cronógrafos, complicaciones)",
+        "manufacture": "$1,000-$5,000+ (servicio de marca interna - Rolex, Omega, Patek)"
+      },
+      "tip": "Siempre usa centros de servicio autorizados para relojes de lujo para mantener garantía y valor"
+    },
+    "storage": {
+      "title": "Almacenamiento Apropiado de Relojes",
+      "options": [
+        {
+          "solution": "Caja de Relojes",
+          "description": "Cojines individuales protegen relojes cuando no se usan",
+          "bestFor": "Relojes de cuerda manual, relojes de vestir usados ocasionalmente",
+          "priceRange": "$30-$500+",
+          "features": "Busca interior suave, espaciado apropiado, vidrio protegido UV (si es caja de exhibición)"
+        },
+        {
+          "solution": "Enrollador de Relojes",
+          "description": "Dispositivo motorizado que rota relojes automáticos para mantenerlos con cuerda",
+          "bestFor": "Automáticos complicados (calendario perpetuo), relojes usados en rotación",
+          "priceRange": "$50-$1,000+",
+          "settings": "Vueltas Por Día (TPD) - típicamente 650-900 TPD para la mayoría de relojes",
+          "note": "Investiga requisitos específicos de TPD para tu reloj"
+        },
+        {
+          "solution": "Rollo de Relojes",
+          "description": "Almacenamiento portátil de tela para viajes",
+          "bestFor": "Viajar con múltiples relojes",
+          "priceRange": "$20-$200"
+        }
+      ],
+      "tips": [
+        "Almacena lejos de fuentes magnéticas (altavoces, laptops)",
+        "Evita fluctuaciones extremas de temperatura",
+        "Mantén fuera de luz solar directa (previene desvanecimiento de esfera)",
+        "Almacena en ambiente de baja humedad (previene daño por humedad)",
+        "Da cuerda a relojes manuales antes de almacenar (mantiene distribución de lubricación)"
+      ]
+    },
+    "strapChange": {
+      "title": "Cómo Cambiar una Correa de Reloj",
+      "tools": "Herramienta de barras de resorte ($5-$15)",
+      "process": [
+        "Identifica ubicación de barra de resorte (entre asas)",
+        "Usa herramienta de barra de resorte para comprimir barra de resorte",
+        "Desliza correa mientras mantienes barra de resorte comprimida",
+        "Inserta barra de resorte de nueva correa en orificio de asa",
+        "Comprime barra de resorte y alinea con orificio de asa opuesto",
+        "Suelta herramienta - barra de resorte debe hacer clic en su lugar",
+        "Prueba seguridad jalando suavemente la correa"
+      ],
+      "strapTypes": {
+        "quickRelease": "No necesita herramientas - palanca en barra de resorte",
+        "integrated": "No se puede cambiar (Royal Oak, Nautilus) - requiere solo eslabones de brazalete",
+        "standard": "Requiere herramienta de barra de resorte"
+      },
+      "lugWidth": "Mide distancia entre asas (común: 18mm, 20mm, 22mm)",
+      "tip": "Cambiar correas es la forma más fácil de transformar completamente el aspecto de tu reloj por $20-$100"
+    }
+  }
+}
