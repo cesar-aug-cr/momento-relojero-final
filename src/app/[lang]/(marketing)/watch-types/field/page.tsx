@@ -46,7 +46,7 @@ export default async function FieldPage({ params }: { params: Promise<{ lang: Lo
         <div className="container-golden max-w-6xl">
           <h2 className="text-4xl font-bold mb-12">{content.whatMakes.title}</h2>
           <div className="grid md:grid-cols-2 gap-6">
-            {content.whatMakes.features.map((f, i) => (
+            {content.whatMakes.features.map((f: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-xl font-bold mb-2">{f.title}</h3>
                 <p className="text-slate-600 dark:text-slate-300 mb-2">{f.description}</p>
@@ -68,7 +68,7 @@ export default async function FieldPage({ params }: { params: Promise<{ lang: Lo
         <div className="container-golden max-w-4xl">
           <h2 className="text-3xl font-bold mb-8">{content.icons.title}</h2>
           <div className="space-y-4">
-            {content.icons.models.map((w, i) => (
+            {content.icons.models.map((w: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-xl font-bold">{w.brand} {w.model}</h3>
                 <p className="text-blue-600 font-semibold">{w.price}</p>

@@ -46,7 +46,7 @@ export default async function DigitalPage({ params }: { params: Promise<{ lang: 
         <div className="container-golden max-w-6xl">
           <h2 className="text-4xl font-bold mb-12">{content.whatMakes.title}</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {content.whatMakes.categories.map((cat, i) => (
+            {content.whatMakes.categories.map((cat: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-xl font-bold mb-2">{cat.type}</h3>
                 <p className="text-slate-600 dark:text-slate-300 mb-2">{cat.description}</p>
@@ -72,7 +72,7 @@ export default async function DigitalPage({ params }: { params: Promise<{ lang: 
 
           <h3 className="text-2xl font-bold mb-6">{content.gshock.icons.title}</h3>
           <div className="space-y-4">
-            {content.gshock.icons.models.map((w, i) => (
+            {content.gshock.icons.models.map((w: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h4 className="text-xl font-bold">{w.brand} {w.model}</h4>
                 <p className="text-blue-600 font-semibold">{w.price}</p>

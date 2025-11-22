@@ -57,7 +57,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
             <h3 className="font-bold text-lg mb-4">{dict.pages.watchTypes.dive.sidebar?.specsTitle || 'Key Specifications'}</h3>
             {diveWatch && (
               <div className="space-y-4 mb-6">
-                {diveWatch.characteristics.map((char, idx) => (
+                {diveWatch.characteristics.map((char: any, idx: any) => (
                   <div key={idx} className="flex items-start gap-2">
                     <span className="text-blue-600 mt-1">•</span>
                     <span className="text-sm text-slate-700">{char}</span>
@@ -74,7 +74,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
             <div className="p-4 bg-amber-50 rounded-lg border border-amber-200">
               <h4 className="font-bold text-sm text-amber-900 mb-2">{dict.pages.watchTypes.dive.sidebar?.bestForTitle || 'Best For'}</h4>
               <ul className="space-y-1">
-                {diveWatch?.bestFor.map((use, idx) => (
+                {diveWatch?.bestFor.map((use: any, idx: any) => (
                   <li key={idx} className="text-sm text-amber-800">• {use}</li>
                 ))}
               </ul>
@@ -109,7 +109,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
           </p>
 
           <div className="grid md:grid-cols-2 gap-6 my-12">
-            {content.whatMakes.features.map((feature, idx) => {
+            {content.whatMakes.features.map((feature: any, idx: any) => {
               const IconComponent = featureIcons[idx] || Shield;
               return (
                 <div
@@ -139,14 +139,14 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
 
           <h2>{content.history.title}</h2>
 
-          {content.history.content.map((paragraph, idx) => (
+          {content.history.content.map((paragraph: any, idx: any) => (
             <p key={idx}>{paragraph}</p>
           ))}
 
           <h2>{content.popular.title}</h2>
 
           <div className="grid md:grid-cols-2 gap-6 my-12">
-            {content.popular.models.map((watch, idx) => (
+            {content.popular.models.map((watch: any, idx: any) => (
               <div
                 key={idx}
                 className="bg-white p-6 rounded-xl border-2 border-slate-200 hover:border-blue-500 transition-all hover:shadow-xl"
@@ -189,7 +189,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
             {content.choosing.intro}
           </p>
 
-          {content.choosing.sections.map((section, idx) => (
+          {content.choosing.sections.map((section: any, idx: any) => (
             <div key={idx}>
               <h3>{section.title}</h3>
               <p>{section.content}</p>
@@ -198,7 +198,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
 
           <div className="bg-gradient-to-br from-blue-900 to-cyan-900 text-white rounded-xl p-12 my-16">
             <h2 className="text-3xl font-bold mb-6 text-white">{content.paradox.title}</h2>
-            {content.paradox.content.map((paragraph, idx) => (
+            {content.paradox.content.map((paragraph: any, idx: any) => (
               <p key={idx} className="text-blue-100 leading-relaxed mb-6 last:mb-0">
                 {paragraph}
               </p>
@@ -208,7 +208,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
           <div className="bg-amber-50 border-l-4 border-amber-500 p-8 rounded-r-lg my-12">
             <h3 className="text-2xl font-bold text-amber-900 mb-4">{content.proTips.title}</h3>
             <ul className="space-y-3 text-amber-800">
-              {content.proTips.tips.map((tip, idx) => (
+              {content.proTips.tips.map((tip: any, idx: any) => (
                 <li key={idx} className="flex items-start">
                   <span className="text-amber-600 mr-3 mt-1">•</span>
                   <span><strong>{tip.title}:</strong> {tip.content}</span>

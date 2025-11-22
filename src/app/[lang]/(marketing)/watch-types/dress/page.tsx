@@ -58,7 +58,7 @@ export default async function DressWatchesPage({ params }: { params: Promise<{ l
         <div className="container-golden max-w-6xl">
           <h2 className="text-4xl font-bold text-center mb-12">{content.whatMakes.title}</h2>
           <div className="grid md:grid-cols-2 gap-6">
-            {content.whatMakes.features.map((feature, i) => (
+            {content.whatMakes.features.map((feature: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-xl font-bold mb-2">{feature.title}</h3>
                 <p className="text-slate-600 dark:text-slate-300 mb-2">{feature.description}</p>
@@ -73,7 +73,7 @@ export default async function DressWatchesPage({ params }: { params: Promise<{ l
         <div className="container-golden max-w-4xl">
           <h2 className="text-3xl font-bold mb-8">{content.whenToWear.title}</h2>
           <div className="grid md:grid-cols-2 gap-6">
-            {content.whenToWear.occasions.map((occasion, i) => (
+            {content.whenToWear.occasions.map((occasion: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury hover-lift">
                 <h3 className="text-lg font-bold mb-2">{occasion.event}</h3>
                 <p className="text-slate-600 dark:text-slate-300">{occasion.description}</p>
@@ -87,7 +87,7 @@ export default async function DressWatchesPage({ params }: { params: Promise<{ l
         <div className="container-golden max-w-4xl">
           <h2 className="text-3xl font-bold mb-8">{content.icons.title}</h2>
           <div className="space-y-4">
-            {content.icons.models.map((watch, i) => (
+            {content.icons.models.map((watch: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <div className="flex justify-between items-start mb-2">
                   <div>
@@ -107,7 +107,7 @@ export default async function DressWatchesPage({ params }: { params: Promise<{ l
           <div className="bg-amber-50 dark:bg-amber-900/20 p-8 rounded-xl">
             <h2 className="text-3xl font-bold mb-6">{content.rules.title}</h2>
             <ul className="space-y-3">
-              {content.rules.rules.map((rule, i) => (
+              {content.rules.rules.map((rule: any, i: any) => (
                 <li key={i} className="flex items-start gap-3">
                   <span className="text-amber-600 text-xl">•</span>
                   <span className="text-lg">{rule}</span>
