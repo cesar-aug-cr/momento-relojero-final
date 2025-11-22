@@ -11,13 +11,14 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
+  const meta = (dict as any).meta;
 
   return {
-    title: dict.meta.watchTypes.dress.title,
-    description: dict.meta.watchTypes.dress.description,
+    title: meta.watchTypes.dress.title,
+    description: meta.watchTypes.dress.description,
     openGraph: {
-      title: dict.meta.watchTypes.dress.title,
-      description: dict.meta.watchTypes.dress.description,
+      title: meta.watchTypes.dress.title,
+      description: meta.watchTypes.dress.description,
     },
   };
 }
@@ -25,7 +26,7 @@ export async function generateMetadata({
 export default async function DressWatchesPage({ params }: { params: Promise<{ lang: Locale }> }) {
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
-  const content = dict.pages.watchTypes.dress;
+  const content = (dict.pages as any).watchTypes.dress;
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-background to-secondary/20">

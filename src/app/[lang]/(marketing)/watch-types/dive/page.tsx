@@ -12,13 +12,14 @@ import { type Locale } from '@/i18n/config';
 export async function generateMetadata({ params }: { params: Promise<{ lang: Locale }> }): Promise<Metadata> {
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
+  const meta = (dict as any).meta;
 
   return {
-    title: dict.meta.watchTypes.dive.title,
-    description: dict.meta.watchTypes.dive.description,
+    title: meta.watchTypes.dive.title,
+    description: meta.watchTypes.dive.description,
     openGraph: {
-      title: dict.meta.watchTypes.dive.title,
-      description: dict.meta.watchTypes.dive.description,
+      title: meta.watchTypes.dive.title,
+      description: meta.watchTypes.dive.description,
     },
   };
 }
@@ -27,7 +28,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
   const diveWatch = WATCH_TYPES.find(w => w.slug === 'dive');
-  const content = dict.pages.watchTypes.dive;
+  const content = (dict.pages as any).watchTypes.dive;
 
   const featureIcons = [Shield, Clock, Eye, Anchor];
 
