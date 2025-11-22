@@ -57,7 +57,7 @@ export default async function ChronographPage({ params }: { params: Promise<{ la
         <div className="container-golden max-w-6xl">
           <h2 className="text-4xl font-bold text-center mb-12">{content.whatMakes.title}</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {content.whatMakes.features.map((feature, i) => (
+            {content.whatMakes.features.map((feature: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-xl font-bold mb-2">{feature.title}</h3>
                 <p className="text-slate-600 dark:text-slate-300 mb-2">{feature.description}</p>
@@ -79,7 +79,7 @@ export default async function ChronographPage({ params }: { params: Promise<{ la
         <div className="container-golden max-w-4xl">
           <h2 className="text-3xl font-bold mb-8">{content.legends.title}</h2>
           <div className="space-y-4">
-            {content.legends.models.map((watch, i) => (
+            {content.legends.models.map((watch: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <div className="flex justify-between items-start mb-2">
                   <div>
@@ -98,7 +98,7 @@ export default async function ChronographPage({ params }: { params: Promise<{ la
         <div className="container-golden max-w-4xl">
           <h2 className="text-3xl font-bold mb-8">{content.types.title}</h2>
           <div className="grid md:grid-cols-2 gap-6">
-            {content.types.categories.map((type, i) => (
+            {content.types.categories.map((type: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-xl font-bold mb-2">{type.type}</h3>
                 <p className="text-slate-600 dark:text-slate-300">{type.description}</p>
@@ -112,7 +112,7 @@ export default async function ChronographPage({ params }: { params: Promise<{ la
         <div className="container-golden max-w-4xl">
           <h2 className="text-3xl font-bold mb-6">{content.using.title}</h2>
           <ol className="space-y-4">
-            {content.using.steps.map((step, i) => (
+            {content.using.steps.map((step: any, i: any) => (
               <li key={i} className="flex gap-4">
                 <span className="flex-shrink-0 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center font-bold">
                   {i + 1}
