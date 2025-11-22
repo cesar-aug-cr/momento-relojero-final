@@ -282,16 +282,16 @@ export default async function Watch101Page({ params }: { params: Promise<{ lang:
       <section className="py-5xl">
         <div className="container-golden text-center">
           <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-xl">
-            {dict.watchAnatomy.cta?.title || 'Ready to Dive Deeper?'}
+            {(dict.watchAnatomy as any).cta?.title || 'Ready to Dive Deeper?'}
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-400 mb-2xl max-w-2xl mx-auto">
-            {dict.watchAnatomy.cta?.description || 'Now that you know the basics, explore how watches actually work'}
+            {(dict.watchAnatomy as any).cta?.description || 'Now that you know the basics, explore how watches actually work'}
           </p>
           <Link
             href={`/${lang}/how-watches-work`}
             className="inline-flex items-center gap-sm px-xl py-lg bg-accent-gold hover:bg-accent-gold-dark text-gray-900 font-semibold rounded-lg transition-all duration-377 hover:shadow-gold text-lg"
           >
-            {dict.watchAnatomy.cta?.button || 'Learn About Watch Movements'}
+            {(dict.watchAnatomy as any).cta?.button || 'Learn About Watch Movements'}
             <ArrowRight className="w-5 h-5" />
           </Link>
         </div>
