@@ -8,16 +8,16 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: Loc
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
   return {
-    title: dict.meta.movements.automatic.title,
-    description: dict.meta.movements.automatic.description,
-    openGraph: { title: dict.meta.movements.automatic.title, description: dict.meta.movements.automatic.description },
+    title: (dict as any).meta.movements.automatic.title,
+    description: (dict as any).meta.movements.automatic.description,
+    openGraph: { title: (dict as any).meta.movements.automatic.title, description: (dict as any).meta.movements.automatic.description },
   };
 }
 
 export default async function AutomaticPage({ params }: { params: Promise<{ lang: Locale }> }) {
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
-  const content = dict.movements.automatic;
+  const content = (dict as any).pages.movements.automatic;
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-background to-secondary/20">
@@ -45,7 +45,7 @@ export default async function AutomaticPage({ params }: { params: Promise<{ lang
         <div className="container-golden max-w-6xl">
           <h2 className="text-4xl font-bold mb-8">{content.advantages.title}</h2>
           <div className="grid md:grid-cols-2 gap-6">
-            {content.advantages.benefits.map((b, i) => (
+            {content.advantages.benefits.map((b: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-xl font-bold mb-2">{b.title}</h3>
                 <p className="text-slate-600 dark:text-slate-300">{b.description}</p>
@@ -59,7 +59,7 @@ export default async function AutomaticPage({ params }: { params: Promise<{ lang
         <div className="container-golden max-w-4xl">
           <h2 className="text-3xl font-bold mb-8">{content.famousExamples.title}</h2>
           <div className="space-y-4">
-            {content.famousExamples.models.map((m, i) => (
+            {content.famousExamples.models.map((m: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-xl font-bold">{m.brand} {m.model}</h3>
                 <p className="text-green-600 font-semibold">{m.price}</p>

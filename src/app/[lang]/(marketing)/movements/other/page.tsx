@@ -8,16 +8,16 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: Loc
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
   return {
-    title: dict.meta.movements.other.title,
-    description: dict.meta.movements.other.description,
-    openGraph: { title: dict.meta.movements.other.title, description: dict.meta.movements.other.description },
+    title: (dict as any).meta.movements.other.title,
+    description: (dict as any).meta.movements.other.description,
+    openGraph: { title: (dict as any).meta.movements.other.title, description: (dict as any).meta.movements.other.description },
   };
 }
 
 export default async function OtherPage({ params }: { params: Promise<{ lang: Locale }> }) {
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
-  const content = dict.movements.other;
+  const content = (dict as any).pages.movements.other;
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-background to-secondary/20">
@@ -49,7 +49,7 @@ export default async function OtherPage({ params }: { params: Promise<{ lang: Lo
           </div>
           <p className="text-lg leading-relaxed mb-6">{content.technologies.solar.howItWorks}</p>
           <div className="grid md:grid-cols-3 gap-6">
-            {content.technologies.solar.models.map((m, i) => (
+            {content.technologies.solar.models.map((m: any, i: any) => (
               <div key={i} className="bg-white dark:bg-card p-6 rounded-xl shadow-luxury">
                 <h3 className="text-lg font-bold mb-2">{m.model}</h3>
                 <p className="text-blue-600 font-semibold mb-2">{m.price}</p>
@@ -75,7 +75,7 @@ export default async function OtherPage({ params }: { params: Promise<{ lang: Lo
           <h2 className="text-4xl font-bold mb-6">{content.technologies.springDrive.title}</h2>
           <p className="text-lg leading-relaxed mb-6 text-white/90">{content.technologies.springDrive.description}</p>
           <div className="grid md:grid-cols-2 gap-6 mt-8">
-            {content.technologies.springDrive.models.map((m, i) => (
+            {content.technologies.springDrive.models.map((m: any, i: any) => (
               <div key={i} className="bg-white/10 backdrop-blur p-6 rounded-xl">
                 <h3 className="text-xl font-bold mb-2">{m.model}</h3>
                 <p className="text-blue-300 font-semibold mb-2">{m.price}</p>
