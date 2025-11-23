@@ -21,15 +21,17 @@ export async function generateMetadata({
 export default async function WatchTypesPage({ params }: { params: Promise<{ lang: Locale }> }) {
   const { lang = 'es' } = await params;
   const dict = await getDictionary(lang);
+  const styles = Array.isArray((dict as any).watchStyles) ? (dict as any).watchStyles : ((dict as any).watchStyles?.styles || []);
+
   return (
     <div className="bg-white dark:bg-dark-bg">
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-600 to-orange-600 dark:from-amber-900 dark:to-orange-900">
         <div className="container-golden py-5xl text-center">
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-xl">
-            {dict.watchStyles.hero?.title || 'Types & Styles of Watches'}
+            {(dict as any).watchStyles.hero?.title || 'Types & Styles of Watches'}
           </h1>
           <p className="text-xl text-white/90 mb-2xl max-w-3xl mx-auto">
-            {dict.watchStyles.hero?.description || 'Discover your perfect watch style from dive watches to dress watches'}
+            {(dict as any).watchStyles.hero?.description || 'Discover your perfect watch style from dive watches to dress watches'}
           </p>
         </div>
       </section>
@@ -37,14 +39,14 @@ export default async function WatchTypesPage({ params }: { params: Promise<{ lan
       <section className="py-5xl">
         <div className="container-golden">
           <div className="space-y-4xl">
-            {dict.watchStyles.styles.map((style: any, index: number) => (
+            {styles.map((style: any, index: number) => (
               <div key={style.category} id={style.category.toLowerCase().replace(/\s+/g, '-')} className="max-w-5xl mx-auto">
                 <div className="bg-gradient-to-r from-gray-50 to-white dark:from-dark-bg-secondary dark:to-dark-bg-tertiary rounded-2xl p-3xl border border-gray-200 dark:border-dark-border hover:border-accent-gold dark:hover:border-accent-gold transition-all">
                   <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-lg">{style.category}</h2>
                   <p className="text-xl text-gray-600 dark:text-gray-400 mb-2xl">{style.description}</p>
 
                   <div className="mb-2xl">
-                    <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-lg">{dict.watchStyles.keyFeaturesTitle || 'Key Features'}</h3>
+                    <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-lg">{(dict as any).watchStyles.keyFeaturesTitle || 'Key Features'}</h3>
                     <ul className="grid md:grid-cols-2 gap-md">
                       {style.keyFeatures.map((feature: string) => (
                         <li key={feature} className="flex items-start gap-sm">
@@ -56,7 +58,7 @@ export default async function WatchTypesPage({ params }: { params: Promise<{ lan
                   </div>
 
                   <div className="mb-2xl">
-                    <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-lg">{dict.watchStyles.iconicModelsTitle || 'Iconic Models'}</h3>
+                    <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-lg">{(dict as any).watchStyles.iconicModelsTitle || 'Iconic Models'}</h3>
                     <div className="grid md:grid-cols-2 gap-lg">
                       {style.iconicModels.map((model: any) => (
                         <div key={model.name} className="bg-white dark:bg-dark-bg rounded-xl p-lg border border-gray-200 dark:border-dark-border">
@@ -69,10 +71,10 @@ export default async function WatchTypesPage({ params }: { params: Promise<{ lan
 
                   <div className="flex flex-wrap gap-md items-center">
                     <span className="px-lg py-md bg-accent-gold/10 text-accent-gold-dark dark:text-accent-gold rounded-lg font-semibold">
-                      {dict.watchStyles.priceRangeLabel || 'Price Range'}: {style.priceRange}
+                      {(dict as any).watchStyles.priceRangeLabel || 'Price Range'}: {style.priceRange}
                     </span>
                     <span className="px-lg py-md bg-blue-50 dark:bg-blue-950/20 text-blue-700 dark:text-blue-300 rounded-lg">
-                      {dict.watchStyles.idealForLabel || 'Ideal for'}: {style.idealFor}
+                      {(dict as any).watchStyles.idealForLabel || 'Ideal for'}: {style.idealFor}
                     </span>
                   </div>
                 </div>
@@ -85,13 +87,13 @@ export default async function WatchTypesPage({ params }: { params: Promise<{ lan
       <section className="py-5xl bg-gray-50 dark:bg-dark-bg-secondary">
         <div className="container-golden text-center">
           <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-xl">
-            {dict.watchStyles.cta?.title || 'Explore Complications'}
+            {(dict as any).watchStyles.cta?.title || 'Explore Complications'}
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-400 mb-2xl max-w-2xl mx-auto">
-            {dict.watchStyles.cta?.description || 'Learn about watch complications - functions beyond basic timekeeping'}
+            {(dict as any).watchStyles.cta?.description || 'Learn about watch complications - functions beyond basic timekeeping'}
           </p>
           <Link href={`/${lang}/watch-features`} className="inline-flex items-center gap-sm px-xl py-lg bg-accent-gold hover:bg-accent-gold-dark text-gray-900 font-semibold rounded-lg transition-all duration-377 hover:shadow-gold text-lg">
-            {dict.watchStyles.cta?.button || 'Discover Complications'}
+            {(dict as any).watchStyles.cta?.button || 'Discover Complications'}
             <ArrowRight className="w-5 h-5" />
           </Link>
         </div>

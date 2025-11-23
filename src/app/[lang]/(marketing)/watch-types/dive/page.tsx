@@ -54,7 +54,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
       <ContentLayout
         sidebar={
           <div>
-            <h3 className="font-bold text-lg mb-4">{dict.pages.watchTypes.dive.sidebar?.specsTitle || 'Key Specifications'}</h3>
+            <h3 className="font-bold text-lg mb-4">{(dict.pages as any).watchTypes.dive.sidebar?.specsTitle || 'Key Specifications'}</h3>
             {diveWatch && (
               <div className="space-y-4 mb-6">
                 {diveWatch.characteristics.map((char: any, idx: any) => (
@@ -67,12 +67,12 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
             )}
 
             <div className="p-4 bg-blue-50 rounded-lg border border-blue-200 mb-6">
-              <h4 className="font-bold text-sm text-blue-900 mb-2">{dict.pages.watchTypes.dive.sidebar?.priceRangeTitle || 'Price Range'}</h4>
+              <h4 className="font-bold text-sm text-blue-900 mb-2">{(dict.pages as any).watchTypes.dive.sidebar?.priceRangeTitle || 'Price Range'}</h4>
               <p className="text-blue-800">{diveWatch?.priceRange}</p>
             </div>
 
             <div className="p-4 bg-amber-50 rounded-lg border border-amber-200">
-              <h4 className="font-bold text-sm text-amber-900 mb-2">{dict.pages.watchTypes.dive.sidebar?.bestForTitle || 'Best For'}</h4>
+              <h4 className="font-bold text-sm text-amber-900 mb-2">{(dict.pages as any).watchTypes.dive.sidebar?.bestForTitle || 'Best For'}</h4>
               <ul className="space-y-1">
                 {diveWatch?.bestFor.map((use: any, idx: any) => (
                   <li key={idx} className="text-sm text-amber-800">• {use}</li>
@@ -81,16 +81,16 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
             </div>
 
             <div className="mt-6">
-              <h4 className="font-bold text-sm mb-3">{dict.pages.watchTypes.dive.sidebar?.relatedTitle || 'Related Topics'}</h4>
+              <h4 className="font-bold text-sm mb-3">{(dict.pages as any).watchTypes.dive.sidebar?.relatedTitle || 'Related Topics'}</h4>
               <div className="space-y-2">
                 <Link href={`/${lang}/watch-101/water-resistance`} className="block text-sm text-blue-600 hover:text-blue-700">
-                  → {dict.pages.watchTypes.dive.sidebar?.waterResistanceLink || 'Water Resistance Guide'}
+                  → {(dict.pages as any).watchTypes.dive.sidebar?.waterResistanceLink || 'Water Resistance Guide'}
                 </Link>
                 <Link href={`/${lang}/movements/automatic`} className="block text-sm text-blue-600 hover:text-blue-700">
-                  → {dict.pages.watchTypes.dive.sidebar?.movementsLink || 'Automatic Movements'}
+                  → {(dict.pages as any).watchTypes.dive.sidebar?.movementsLink || 'Automatic Movements'}
                 </Link>
                 <Link href={`/${lang}/care`} className="block text-sm text-blue-600 hover:text-blue-700">
-                  → {dict.pages.watchTypes.dive.sidebar?.careLink || 'Watch Care Guide'}
+                  → {(dict.pages as any).watchTypes.dive.sidebar?.careLink || 'Watch Care Guide'}
                 </Link>
               </div>
             </div>
@@ -139,7 +139,7 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
 
           <h2>{content.history.title}</h2>
 
-          {content.history.content.map((paragraph: any, idx: any) => (
+          {(content.history.paragraphs || content.history.content || []).map((paragraph: any, idx: any) => (
             <p key={idx}>{paragraph}</p>
           ))}
 
@@ -177,11 +177,13 @@ export default async function DiveWatchesPage({ params }: { params: Promise<{ la
             {content.choosing.comparisonIntro}
           </p>
 
-          <ComparisonTable
-            rowHeaders={content.choosing.comparison.rows}
-            columns={content.choosing.comparison.columns}
-            className="my-12"
-          />
+          {content.choosing.comparison?.rows && content.choosing.comparison?.columns && (
+            <ComparisonTable
+              rowHeaders={content.choosing.comparison.rows}
+              columns={content.choosing.comparison.columns}
+              className="my-12"
+            />
+          )}
 
           <h2>{content.choosing.title}</h2>
 

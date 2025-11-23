@@ -14,7 +14,7 @@ interface TerminologyClientProps {
 export function TerminologyClient({ lang, dict }: TerminologyClientProps) {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const filteredTerms = dict.watchTerminology.filter(
+  const filteredTerms = ((dict as any).watchTerminology?.terms || []).filter(
     (item: any) =>
       item.term.toLowerCase().includes(searchTerm.toLowerCase()) ||
       item.definition.toLowerCase().includes(searchTerm.toLowerCase())

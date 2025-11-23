@@ -395,274 +395,6 @@
     "gmt": "Relojes GMT",
     "digital": "Digital y Smartwatches"
   },
-  "movements": {
-    "automatic": {
-      "hero": {
-        "title": "Relojes Automáticos",
-        "description": "Descubre la magia de los movimientos mecánicos que se alimentan del movimiento de tu muñeca"
-      },
-      "intro": "Los relojes automáticos, también conocidos como relojes de cuerda automática, representan la culminación de siglos de innovación relojera. Estos fascinantes mecanismos se alimentan del movimiento natural de tu muñeca a través de un rotor oscilante que enrolla el muelle real. Sin necesidad de baterías ni cuerda manual diaria, un reloj automático es un compañero perfecto que late con el ritmo de tu vida.",
-      "advantages": {
-        "title": "Ventajas de los Relojes Automáticos",
-        "benefits": [
-          {
-            "title": "Sin Baterías",
-            "description": "Nunca tendrás que cambiar una batería. El movimiento de tu muñeca mantiene el reloj funcionando continuamente."
-          },
-          {
-            "title": "Artesanía Tradicional",
-            "description": "Cada movimiento automático es una obra maestra de ingeniería mecánica con cientos de componentes trabajando en armonía."
-          },
-          {
-            "title": "Bajo Mantenimiento",
-            "description": "Con uso regular, un reloj automático puede funcionar indefinidamente con servicios de mantenimiento cada 3-5 años."
-          },
-          {
-            "title": "Valor de Inversión",
-            "description": "Los relojes automáticos de calidad mantienen o aumentan su valor con el tiempo, especialmente los de marcas prestigiosas."
-          }
-        ]
-      },
-      "famousExamples": {
-        "title": "Movimientos Automáticos Legendarios",
-        "models": [
-          {
-            "brand": "ETA",
-            "model": "2824-2",
-            "price": "25 rubíes, 28,800 vph, 38h de reserva",
-            "highlight": "El caballo de batalla de la industria, usado por cientos de marcas y conocido por su fiabilidad."
-          },
-          {
-            "brand": "Seiko",
-            "model": "6R35",
-            "price": "23 rubíes, 21,600 vph, 70h de reserva",
-            "highlight": "Movimiento japonés robusto con excelente reserva de marcha y precisión superior."
-          },
-          {
-            "brand": "Rolex",
-            "model": "3235",
-            "price": "31 rubíes, 28,800 vph, 70h de reserva, Cronómetro",
-            "highlight": "Movimiento interno con escape Chronergy patentado y precisión certificada de -2/+2 segundos por día."
-          },
-          {
-            "brand": "Omega",
-            "model": "8800",
-            "price": "35 rubíes, 25,200 vph, 55h de reserva, Co-Axial",
-            "highlight": "Movimiento Master Chronometer resistente a campos magnéticos de hasta 15,000 gauss."
-          }
-        ]
-      },
-      "conclusion": {
-        "title": "El Arte del Movimiento Automático",
-        "content": "Los relojes automáticos representan la perfecta fusión entre tradición e innovación. Son máquinas vivientes que capturan la esencia de siglos de maestría relojera, ofreciendo una experiencia única que ninguna batería puede replicar."
-      }
-    },
-    "manual": {
-      "hero": {
-        "title": "Relojes de Cuerda Manual",
-        "description": "Experimenta la conexión íntima con la relojería tradicional a través del ritual diario de dar cuerda"
-      },
-      "intro": "Los relojes de cuerda manual representan la forma más pura de relojería mecánica. Cada día, te conectas con tu reloj mediante el ritual de dar cuerda, sintiendo la tensión del muelle real mientras lo enrollas. Esta interacción directa con el mecanismo crea un vínculo especial entre el reloj y su dueño, una tradición que se remonta a los orígenes de la relojería.",
-      "advantages": {
-        "title": "Por Qué Elegir Cuerda Manual",
-        "benefits": [
-          {
-            "title": "Diseño Más Delgado",
-            "description": "Sin el rotor automático, los relojes de cuerda manual pueden ser significativamente más delgados y elegantes."
-          },
-          {
-            "title": "Ritual Diario",
-            "description": "El acto de dar cuerda crea una conexión personal con tu reloj, un momento de consciencia en tu rutina diaria."
-          },
-          {
-            "title": "Visibilidad del Movimiento",
-            "description": "Muchos relojes de cuerda manual tienen fondos transparentes que permiten admirar completamente el movimiento sin obstrucciones."
-          },
-          {
-            "title": "Tradición Relojera",
-            "description": "Los coleccionistas aprecian la pureza y el linaje histórico de los movimientos de cuerda manual."
-          }
-        ]
-      },
-      "famousExamples": {
-        "title": "Movimientos de Cuerda Manual Icónicos",
-        "models": [
-          {
-            "brand": "Unitas/ETA",
-            "model": "6497/6498",
-            "price": "17 rubíes, 18,000 vph, 46h de reserva",
-            "highlight": "Movimiento de bolsillo clásico adaptado para relojes de pulsera, con acabados personalizables."
-          },
-          {
-            "brand": "Patek Philippe",
-            "model": "215 PS",
-            "price": "18 rubíes, 28,800 vph, 44h de reserva",
-            "highlight": "Movimiento ultra-delgado de solo 2.55mm de grosor, acabado a mano según los estándares del Sello de Ginebra."
-          },
-          {
-            "brand": "A. Lange & Söhne",
-            "model": "L051.1",
-            "price": "45 rubíes, 21,600 vph, 72h de reserva",
-            "highlight": "Obra maestra alemana con platina de tres cuartos y puente de balance grabado a mano."
-          },
-          {
-            "brand": "Valjoux",
-            "model": "7750",
-            "price": "25 rubíes, 28,800 vph, 48h de reserva",
-            "highlight": "Cronógrafo automático robusto usado en miles de relojes de lujo y deportivos."
-          }
-        ]
-      },
-      "howToWind": {
-        "title": "Cómo Dar Cuerda a un Reloj Manual",
-        "instructions": [
-          {
-            "step": "Desenroscar la corona (si aplica)",
-            "detail": "Si tu reloj tiene una corona atornillada para resistencia al agua, desenróscala suavemente en sentido antihorario hasta que salte ligeramente."
-          },
-          {
-            "step": "Tirar de la corona a la posición 1",
-            "detail": "La corona típicamente tiene múltiples posiciones. La posición 1 es la posición de cuerda, más cercana a la caja."
-          },
-          {
-            "step": "Dar cuerda en sentido horario",
-            "detail": "Gira la corona en sentido horario (alejándola de ti) con movimientos suaves y suaves. Debes sentir una ligera resistencia."
-          },
-          {
-            "step": "Detenerse al sentir resistencia",
-            "detail": "Nunca fuerces. Detén la cuerda cuando sientas resistencia consistente. Dar cuerda en exceso puede dañar el muelle real."
-          },
-          {
-            "step": "Empujar la corona de vuelta",
-            "detail": "Empuja la corona suavemente de vuelta a su posición normal. Si es una corona atornillada, enróscala de vuelta en sentido horario."
-          },
-          {
-            "step": "Dar cuerda diariamente",
-            "detail": "Para un mejor rendimiento, da cuerda a tu reloj manual a la misma hora cada día, preferiblemente por la mañana."
-          }
-        ]
-      },
-      "conclusion": {
-        "title": "La Pureza del Remontaje Manual",
-        "content": "Los relojes de cuerda manual ofrecen la experiencia más auténtica de la relojería mecánica. El ritual diario de dar cuerda crea una conexión íntima con tu reloj que trasciende la simple medición del tiempo."
-      }
-    },
-    "quartz": {
-      "hero": {
-        "title": "Relojes de Cuarzo",
-        "description": "Precisión incomparable y mantenimiento mínimo gracias a la tecnología de cristal de cuarzo"
-      },
-      "intro": "Los relojes de cuarzo revolucionaron la industria relojera en la década de 1970 con la 'Crisis del Cuarzo'. Utilizando las propiedades piezoeléctricas de un cristal de cuarzo, estos relojes logran una precisión extraordinaria que los mecanismos mecánicos simplemente no pueden igualar. Un reloj de cuarzo típico es preciso dentro de 15 segundos por mes, comparado con los 15 segundos por día de un reloj mecánico de calidad.",
-      "advantages": {
-        "title": "Beneficios de los Relojes de Cuarzo",
-        "benefits": [
-          {
-            "title": "Precisión Superior",
-            "description": "Los relojes de cuarzo son típicamente 10 veces más precisos que los mecánicos, perdiendo solo segundos al mes."
-          },
-          {
-            "title": "Bajo Mantenimiento",
-            "description": "Solo requieren un cambio de batería cada 2-3 años, sin necesidad de servicio regular."
-          },
-          {
-            "title": "Precio Accesible",
-            "description": "La producción masiva hace que los relojes de cuarzo sean significativamente más asequibles que los mecánicos."
-          },
-          {
-            "title": "Durabilidad",
-            "description": "Con menos partes móviles, los relojes de cuarzo son más resistentes a golpes y vibraciones."
-          }
-        ]
-      },
-      "famousExamples": {
-        "title": "Movimientos de Cuarzo Notables",
-        "models": [
-          {
-            "brand": "Seiko",
-            "model": "9F",
-            "price": "Precisión ±10 seg/año, batería 3 años",
-            "highlight": "Movimiento Grand Seiko con indicador de fecha instantáneo y acabado similar a mecánicos de lujo."
-          },
-          {
-            "brand": "ETA",
-            "model": "F06.111",
-            "price": "Precisión ±15 seg/mes, batería 4 años",
-            "highlight": "Movimiento suizo estándar usado en marcas como Tissot, Hamilton y Certina."
-          },
-          {
-            "brand": "Citizen",
-            "model": "0100",
-            "price": "Precisión ±1 seg/año, tecnología AT-Cut",
-            "highlight": "El movimiento de cuarzo más preciso del mundo, con cristal AT-Cut especial."
-          },
-          {
-            "brand": "Breitling",
-            "model": "SuperQuartz",
-            "price": "Precisión ±10 seg/año, Cronómetro COSC",
-            "highlight": "Cuarzo termócompensado con certificación COSC, 10 veces más preciso que cuarzo estándar."
-          }
-        ]
-      },
-      "conclusion": {
-        "title": "Precisión Sin Compromisos",
-        "content": "Los relojes de cuarzo democratizaron la precisión cronométrica. Ofrecen fiabilidad excepcional con mínimo mantenimiento, demostrando que la tecnología moderna puede coexistir perfectamente con la tradición relojera."
-      }
-    },
-    "other": {
-      "hero": {
-        "title": "Movimientos Alternativos",
-        "description": "Explora tecnologías innovadoras: Solar, Kinetic y Spring Drive"
-      },
-      "intro": "Más allá de los movimientos tradicionales mecánicos y de cuarzo, existen tecnologías innovadoras que combinan lo mejor de ambos mundos. Los movimientos solares aprovechan la luz para eliminar los cambios de batería, los Kinetic generan electricidad del movimiento de tu muñeca, y el revolucionario Spring Drive de Seiko fusiona la precisión del cuarzo con el alma de un movimiento mecánico.",
-      "technologies": {
-        "solar": {
-          "title": "Tecnología Solar",
-          "howItWorks": "Los relojes solares utilizan células fotovoltaicas para convertir cualquier fuente de luz en energía eléctrica, almacenándola en una batería recargable. Una vez completamente cargado, un reloj solar puede funcionar durante meses en completa oscuridad. Esta tecnología elimina la necesidad de cambios de batería y ofrece una solución ecológica y de bajo mantenimiento.",
-          "models": [
-            {
-              "model": "Citizen Eco-Drive Promaster",
-              "price": "$300-600",
-              "highlight": "Reserva de marcha de hasta 6 meses, resistente al agua 200m"
-            },
-            {
-              "model": "Seiko Solar Diver SNE583",
-              "price": "$350-450",
-              "highlight": "Movimiento V157, reserva de 10 meses, resistente al agua 200m"
-            },
-            {
-              "model": "G-Shock Tough Solar GW-M5610",
-              "price": "$150-200",
-              "highlight": "Sincronización atómica, resistencia extrema, reserva de 10 meses"
-            }
-          ]
-        },
-        "kinetic": {
-          "title": "Seiko Kinetic",
-          "description": "La tecnología Kinetic combina un rotor automático con un generador eléctrico y un capacitor. El movimiento de tu muñeca genera electricidad que se almacena, alimentando un movimiento de cuarzo. Es como un automático que nunca necesita servicio mecánico, ofreciendo precisión de cuarzo sin necesidad de batería, con una duración del capacitor de más de 15 años."
-        },
-        "springDrive": {
-          "title": "Seiko Spring Drive",
-          "description": "El Spring Drive es la innovación más revolucionaria en relojería moderna. Combina un muelle real mecánico con un regulador electrónico de cuarzo, logrando la precisión del cuarzo (+/- 1 segundo por día) con el movimiento continuo y silencioso de las manecillas que solo un movimiento mecánico puede ofrecer. El resultado es un barrido perfectamente suave sin el característico tic-tac.",
-          "models": [
-            {
-              "model": "Grand Seiko SBGA413 Spring",
-              "price": "$5,800-6,200",
-              "highlight": "Esfera Snowflake, 72 horas de reserva, precisión ±1 seg/día"
-            },
-            {
-              "model": "Grand Seiko SBGJ219 GMT",
-              "price": "$6,000-6,500",
-              "highlight": "Función GMT, calibre 9R66, acabados Zaratsu"
-            }
-          ]
-        }
-      },
-      "conclusion": {
-        "title": "El Futuro de la Relojería",
-        "content": "Estas tecnologías alternativas representan la vanguardia de la innovación relojera. Ya sea que busques la conveniencia ecológica del solar, la ingeniosa generación de energía del Kinetic, o la perfección técnica del Spring Drive, cada tecnología ofrece una propuesta única que trasciende los límites tradicionales entre movimientos mecánicos y de cuarzo."
-      }
-    }
-  },
   "common": {
     "readMore": "Leer Más",
     "learnMore": "Aprender Más",
@@ -1133,601 +865,6 @@
         "tachymeter": {
           "title": "Entendiendo la Escala de Taquímetro",
           "content": "Esa escala de números alrededor de la esfera no es solo decoración. El taquímetro mide velocidad basada en tiempo y distancia. Para usar: Inicia el cronógrafo al pasar un marcador de milla (o kilómetro). Detén cuando pases el siguiente marcador. La manecilla del cronógrafo apunta a tu velocidad en MPH (o KPH). Funciona solo para tiempos menores a 60 segundos. Para objetos más lentos, usa fracciones (ej., 1/10 de milla). Los cronógrafos de carreras hicieron del taquímetro un icono, aunque las unidades GPS modernas lo han hecho obsoleto funcionalmente. Pero es genial, y eso es lo que importa."
-        },
-        "pilot": {
-          "hero": {
-            "title": "Relojes Aviador",
-            "subtitle": "Ingeniería para el Cielo",
-            "description": "Nacidos de las necesidades de los pilotos militares, los relojes aviador combinan legibilidad excepcional, funciones de navegación y herencia de aviación que los hacen íconos tanto en el aire como en tierra."
-          },
-          "intro": "Los relojes aviador representan uno de los capítulos más románticos en la historia relojera. Diseñados originalmente para pilotos militares que necesitaban cronometraje preciso a 30,000 pies, estos relojes debían ser legibles de un vistazo, resistentes a campos magnéticos y lo suficientemente confiables para navegación aérea. Hoy, los relojes aviador mantienen esa herencia de herramienta mientras sirven como declaraciones de estilo para entusiastas que aprecian su estética atrevida y conexión con la era dorada de la aviación.",
-          "whatMakes": {
-            "title": "Características Definitorias de los Relojes Aviador",
-            "features": [
-              {
-                "title": "Legibilidad Extrema",
-                "description": "Números grandes y agujas contrastantes",
-                "detail": "A menudo con números arábigos grandes y luminosidad abundante para lectura en cabinas oscuras"
-              },
-              {
-                "title": "Cajas Grandes",
-                "description": "40-46mm típicamente",
-                "detail": "Tamaño generoso para legibilidad con guantes y sobre trajes de vuelo"
-              },
-              {
-                "title": "Triángulo a las 12",
-                "description": "Marcador de orientación",
-                "detail": "Permite a los pilotos determinar orientación del reloj de un vistazo"
-              },
-              {
-                "title": "Corona Grande",
-                "description": "Fácil de operar con guantes",
-                "detail": "Coronas acanaladas o con cebolla para ajuste fácil con equipo de vuelo"
-              },
-              {
-                "title": "Resistencia Magnética",
-                "description": "Protección contra campos magnéticos",
-                "detail": "Esencial en cabinas llenas de instrumentos electrónicos"
-              }
-            ]
-          },
-          "history": {
-            "title": "Historia de los Relojes Aviador",
-            "content": "El primer verdadero reloj aviador fue el Santos de Cartier (1904), creado para el pionero de aviación Alberto Santos-Dumont. Sin embargo, el género explotó durante las guerras mundiales cuando pilotos militares necesitaban cronometraje confiable. El Breguet Type XX fue usado por pilotos de combate franceses. El IWC Big Pilot (Große Fliegeruhr) fue desarrollado para la Luftwaffe. El A-11 americano se convirtió en estándar para pilotos aliados. Después de la guerra, estos relojes militares inspiraron diseños civiles. El IWC Mark series, Breitling Navitimer con su regla de cálculo y el Zenith Pilot Type 20 todos capturan la era dorada de los relojes de aviación. Hoy, los relojes aviador son celebrados tanto por coleccionistas como por pilotos reales, aunque la aviónica moderna ha reemplazado en gran medida a los relojes para navegación."
-          },
-          "icons": {
-            "title": "Relojes Aviador Icónicos",
-            "models": [
-              {
-                "brand": "IWC",
-                "model": "Big Pilot's Watch",
-                "price": "$12,000 - $20,000",
-                "highlight": "El reloj aviador definitivo, legibilidad legendaria"
-              },
-              {
-                "brand": "Breitling",
-                "model": "Navitimer",
-                "price": "$5,000 - $12,000",
-                "highlight": "Regla de cálculo para navegación, icono desde 1952"
-              },
-              {
-                "brand": "Zenith",
-                "model": "Pilot Type 20 Extra Special",
-                "price": "$6,000 - $10,000",
-                "highlight": "Corona de cebolla enorme, estética vintage"
-              },
-              {
-                "brand": "IWC",
-                "model": "Mark XVIII",
-                "price": "$4,500 - $6,500",
-                "highlight": "Reloj aviador clásico refinado, soft-iron cage"
-              },
-              {
-                "brand": "Laco",
-                "model": "Flieger",
-                "price": "$400 - $1,500",
-                "highlight": "Diseños B-Uhr auténticos, valor excepcional"
-              },
-              {
-                "brand": "Bell & Ross",
-                "model": "BR 03-92",
-                "price": "$3,500 - $5,000",
-                "highlight": "Diseño de instrumento de cabina, cuadrado icónico"
-              }
-            ]
-          },
-          "types": {
-            "title": "Tipos de Relojes Aviador",
-            "categories": [
-              {
-                "type": "B-Uhr (Beobachtungsuhr)",
-                "description": "Relojes de observación alemanes de la Segunda Guerra Mundial. Características: esfera negra, grandes números arábigos, triángulo a las 12, corona grande. Ejemplos: Laco Flieger, Stowa Flieger, IWC Big Pilot."
-              },
-              {
-                "type": "Cronógrafo de Aviación",
-                "description": "Combina funcionalidad de cronógrafo con características de aviación. A menudo incluye reglas de cálculo o escalas taquimétricas. Ejemplos: Breitling Navitimer, Zenith El Primero Pilot."
-              },
-              {
-                "type": "Reloj de Instrumento",
-                "description": "Diseñados para parecer instrumentos de cabina. Esferas negras con marcas blancas, máxima legibilidad. Ejemplos: Bell & Ross BR series, Sinn 556."
-              },
-              {
-                "type": "Reloj GMT de Aviación",
-                "description": "Funcionalidad de múltiples zonas horarias para pilotos internacionales. Ejemplos: Breitling Aerospace, IWC Pilot's Watch UTC."
-              }
-            ]
-          },
-          "features": {
-            "title": "Características Especiales de Aviación",
-            "items": [
-              {
-                "feature": "Regla de Cálculo",
-                "description": "El Breitling Navitimer presenta una regla de cálculo circular que permite a los pilotos calcular consumo de combustible, tasas de ascenso/descenso, conversiones y más sin electrónica."
-              },
-              {
-                "feature": "Jaula de Hierro Suave",
-                "description": "Una jaula de hierro suave interior protege el movimiento de campos magnéticos. IWC Mark series y muchos relojes aviador usan esto para protección contra instrumentos de cabina."
-              },
-              {
-                "feature": "Corona de Cebolla",
-                "description": "Coronas grandes acanaladas (llamadas 'coronas de cebolla') permiten operación fácil con guantes de vuelo. Clásicas en el Zenith Pilot Type 20."
-              },
-              {
-                "feature": "Triángulo de Navegación",
-                "description": "El triángulo a las 12 en punto es una característica de diseño militar que ayuda a la orientación rápida del reloj."
-              }
-            ]
-          },
-          "whenToWear": {
-            "title": "Cuándo Usar un Reloj Aviador",
-            "occasions": [
-              {
-                "event": "Diario Casual",
-                "description": "Los relojes aviador son excelentes relojes diarios para hombres que aprecian estética robusta y utilitarian."
-              },
-              {
-                "event": "Casual de Negocios",
-                "description": "Funciona bien con chaquetas deportivas y chinos. Demasiado casual para traje completo."
-              },
-              {
-                "event": "Fines de Semana y Viajes",
-                "description": "Funcionalidad GMT y diseño robusto los hacen perfectos para viajar."
-              },
-              {
-                "event": "Actividades al Aire Libre",
-                "description": "Aunque no son relojes de buceo, la mayoría tienen resistencia al agua decente y construcción durable."
-              }
-            ]
-          },
-          "proTips": {
-            "title": "Consejos de Expertos para Relojes Aviador",
-            "tips": [
-              {
-                "title": "El tamaño es auténtico",
-                "content": "Los relojes aviador están destinados a ser grandes. Un 42-46mm es históricamente preciso ya que los pilotos necesitaban legibilidad sobre trajes de vuelo."
-              },
-              {
-                "title": "Correa sobre brazalete",
-                "content": "Históricamente, los relojes aviador venían en correas de cuero para usar sobre chaquetas de vuelo. Las correas riveted son particularmente auténticas."
-              },
-              {
-                "title": "La funcionalidad importa",
-                "content": "Si te atraen las reglas de cálculo o funciones GMT, aprende a usarlas. Estos no son solo decoración."
-              },
-              {
-                "title": "Comprende la herencia",
-                "content": "Muchos relojes aviador tienen historias militares fascinantes. Investiga la historia de tu modelo para apreciar completamente su significado."
-              }
-            ]
-          }
-        },
-        "field": {
-          "hero": {
-            "title": "Relojes de Campo",
-            "subtitle": "Relojes Militares Funcionales",
-            "description": "Nacidos en las trincheras de guerra, los relojes de campo priorizan legibilidad, durabilidad y funcionalidad sobre todo. Son las herramientas más simples y confiables del mundo relojero."
-          },
-          "intro": "El reloj de campo es el caballo de batalla del mundo relojero. Sin pretensiones, sin lujos, solo puro cronometraje funcional. Estos relojes fueron diseñados para soldados que necesitaban saber la hora en las peores condiciones: barro, lluvia, combate. La filosofía es simple: legible, durable, asequible. Un reloj de campo no intenta impresionar con oro o complicaciones. Su belleza radica en su utilidad pura. Es el reloj que eliges cuando necesitas confiabilidad absoluta sin importar lo que la vida te lance.",
-          "whatMakes": {
-            "title": "Características Definitorias de los Relojes de Campo",
-            "features": [
-              {
-                "title": "Esfera Simple y Legible",
-                "description": "Números arábigos claros en esfera de alto contraste",
-                "detail": "Usualmente esfera blanca o color crema con números negros, o esfera negra con marcas blancas"
-              },
-              {
-                "title": "Construcción Durable",
-                "description": "Hecho para soportar abuso",
-                "detail": "Cajas de acero, cristal resistente a rayones, construcción robusta"
-              },
-              {
-                "title": "Tamaño Modesto",
-                "description": "36-40mm típicamente",
-                "detail": "Práctico para uso bajo mangas de ropa y guantes sin ser voluminoso"
-              },
-              {
-                "title": "Correa de Lona/NATO",
-                "description": "Correas textiles para durabilidad",
-                "detail": "Las correas NATO permiten que el reloj permanezca en la muñeca incluso si una barra de resorte falla"
-              },
-              {
-                "title": "Movimiento Confiable",
-                "description": "Cuarzo o mecánico simple",
-                "detail": "Fácil de mantener y servir, confiabilidad sobre complicación"
-              }
-            ]
-          },
-          "history": {
-            "title": "Historia de los Relojes de Campo",
-            "content": "Los relojes de campo evolucionaron de los relojes de trinchera de la Primera Guerra Mundial. Cuando los soldados se dieron cuenta de que los relojes de bolsillo eran imprácticos en combate, comenzaron a soldar relojes de bolsillo a correas de cuero. Los fabricantes pronto crearon relojes de pulsera diseñados específicamente para uso militar. Durante la Segunda Guerra Mundial, el ejército de EE.UU. estandarizó especificaciones para relojes de campo (conocidos como relojes 'ord' por el Departamento de Artillería que los especificó). Marcas como Hamilton, Bulova, Elgin y Waltham produjeron millones. La especificación MIL-W-46374 de posguerra estableció estándares para relojes militares de EE.UU.: legibilidad a 12 pulgadas en oscuridad total, construcción durable y resistencia al agua. Estos relojes militares vintage inspiraron diseños civiles modernos. Hoy, marcas como Hamilton continúan la tradición con relojes de campo que honran ese patrimonio utilitarian mientras sirven como excelentes relojes diarios para civiles."
-          },
-          "icons": {
-            "title": "Relojes de Campo Icónicos",
-            "models": [
-              {
-                "brand": "Hamilton",
-                "model": "Khaki Field Mechanical",
-                "price": "$400 - $600",
-                "highlight": "El reloj de campo moderno definitivo, herencia militar"
-              },
-              {
-                "brand": "Seiko",
-                "model": "SNK809 (Seiko 5 Field)",
-                "price": "$80 - $150",
-                "highlight": "Valor increíble, automático confiable"
-              },
-              {
-                "brand": "Marathon",
-                "model": "General Purpose Quartz",
-                "price": "$200 - $300",
-                "highlight": "Emitido a tropas de EE.UU., extremadamente durable"
-              },
-              {
-                "brand": "Timex",
-                "model": "Expedition Scout",
-                "price": "$40 - $60",
-                "highlight": "Punto de entrada asequible, legibilidad Indiglo"
-              },
-              {
-                "brand": "Vaer",
-                "model": "A5 Field",
-                "price": "$300 - $400",
-                "highlight": "Campo americano moderno, zafiro, automático"
-              },
-              {
-                "brand": "Tudor",
-                "model": "Ranger",
-                "price": "$3,000 - $3,500",
-                "highlight": "Campo de lujo, herencia de expedición británica"
-              }
-            ]
-          },
-          "choosing": {
-            "title": "Elegir Tu Reloj de Campo",
-            "sections": [
-              {
-                "title": "Cuarzo vs. Mecánico",
-                "content": "Los relojes de campo vienen en ambos. El cuarzo ofrece precisión superior y bajo mantenimiento - probablemente lo que querrías en combate real. Los mecánicos (manuales o automáticos) ofrecen romance y conexión con la historia - sin baterías que reemplazar. Ambos son opciones legítimas."
-              },
-              {
-                "title": "Color de Esfera",
-                "content": "Las esferas blancas/crema son clásicas y más legibles en condiciones de poca luz (con lume). Las esferas negras son más tácticas y modernas. Ambas son históricamente precisas."
-              },
-              {
-                "title": "Estándares Militares",
-                "content": "Algunos relojes de campo (como Marathon) cumplen especificaciones militares reales y son emitidos a tropas. Otros son de inspiración militar. Ambos son grandes, pero los relojes mil-spec tienen autenticidad adicional."
-              },
-              {
-                "title": "Opciones de Correa",
-                "content": "Las correas NATO son clásicas y prácticas (el reloj permanece seguro incluso si una barra de resorte se rompe). El cuero es tradicional y se ve genial. Experimenta - los relojes de campo lucen bien en casi cualquier correa."
-              }
-            ]
-          },
-          "philosophy": {
-            "title": "La Filosofía del Reloj de Campo",
-            "content": "Los relojes de campo representan una filosofía anti-lujo en la relojería. Mientras los relojes de vestir muestran riqueza y los relojes de buceo proyectan aventura, los relojes de campo simplemente funcionan. No hay oro, sin complicaciones, sin pretensiones. Solo un reloj simple y confiable que da la hora. Esta honestidad atrae a personas que valoran la función sobre la forma, la herramienta sobre el juguete. Un reloj de campo a $500 puede traerte más alegría diaria que un reloj de lujo a $5,000 porque no necesitas preocuparte por él. Lo usas, lo golpeas, lo sigues usando. Esa libertad es valiosa."
-          },
-          "proTips": {
-            "title": "Consejos de Expertos para Relojes de Campo",
-            "tips": [
-              {
-                "title": "Abraza los rayones",
-                "content": "Los relojes de campo están destinados a ser usados duro. Los rayones cuentan historias. No los evites; gánatelos."
-              },
-              {
-                "title": "Compra correas NATO extra",
-                "content": "Las correas NATO son baratas ($10-30) y transforman la apariencia del reloj. Ten varias en diferentes colores."
-              },
-              {
-                "title": "Los relojes de campo más pequeños funcionan mejor",
-                "content": "Tamaños vintage de 36-38mm son auténticos y usan cómodamente. No necesitas 44mm en un reloj de campo."
-              },
-              {
-                "title": "Considera el vintage",
-                "content": "Los relojes de campo militares vintage (Hamilton, Bulova de los años 40-60) son asequibles y tienen historia real."
-              }
-            ]
-          }
-        },
-        "gmt": {
-          "hero": {
-            "title": "Relojes GMT",
-            "subtitle": "Para el Ciudadano Global",
-            "description": "Los relojes GMT rastrean múltiples zonas horarias simultáneamente, haciendo que sean herramientas esenciales para viajeros internacionales, pilotos y cualquiera que trabaje a través de zonas horarias."
-          },
-          "intro": "En un mundo cada vez más conectado, rastrear múltiples zonas horarias se ha vuelto esencial. El reloj GMT (Greenwich Mean Time) resuelve este problema con elegancia usando una aguja adicional de 24 horas y un bisel giratorio. Originalmente diseñado para pilotos de Pan Am volando rutas transatlánticas, el GMT se ha convertido en el reloj de elección para viajeros de negocios, expatriados y cualquiera que necesite mantenerse conectado a través de zonas horarias. Ya sea rastreando la hora de casa mientras viajas, coordinando con colegas en continentes diferentes o simplemente queriendo saber cuándo llamar a familia en el extranjero, un reloj GMT hace que la navegación de zona horaria sea sin esfuerzo.",
-          "whatMakes": {
-            "title": "Cómo Funcionan los Relojes GMT",
-            "features": [
-              {
-                "title": "Aguja GMT de 24 Horas",
-                "description": "Cuarta aguja rotando una vez cada 24 horas",
-                "detail": "Usualmente en color brillante (rojo, naranja) para distinguirla de las agujas de hora/minuto"
-              },
-              {
-                "title": "Bisel GMT de 24 Horas",
-                "description": "Bisel bidireccional o fijo con marcas de 24 horas",
-                "detail": "Permite rastrear una segunda o tercera zona horaria cuando se combina con la aguja GMT"
-              },
-              {
-                "title": "Movimiento GMT Verdadero vs. Caller",
-                "description": "Dos tipos de funcionalidad GMT",
-                "detail": "GMT verdadero: la aguja de hora salta en incrementos de 1 hora. Caller: la aguja GMT se establece independientemente"
-              },
-              {
-                "title": "Indicación de Fecha",
-                "description": "Usualmente incluida",
-                "detail": "Ayuda a rastrear fechas al cruzar zonas horarias y la línea de fecha internacional"
-              }
-            ]
-          },
-          "history": {
-            "title": "Historia de los Relojes GMT",
-            "content": "El Rolex GMT-Master fue creado en 1954 en colaboración con Pan American World Airways. Los pilotos de Pan Am volando la nueva ruta transatlántica necesitaban rastrear tanto la hora local como la GMT (usada en navegación aérea). Rolex respondió con el GMT-Master, con su icónica aguja GMT roja y bisel azul/rojo 'Pepsi' representando día y noche. El reloj se convirtió en emitido estándar a tripulaciones de Pan Am y otros pilotos de aerolíneas. La funcionalidad GMT rápidamente se extendió más allá de la aviación a viajeros de negocios, diplomáticos y entusiastas. Hoy, casi cada marca importante ofrece un reloj GMT, desde opciones de nivel de entrada como el Seiko 5 Sports GMT hasta piezas de lujo como el Patek Philippe Aquanaut Travel Time. El GMT permanece como una de las complicaciones de reloj más prácticas y buscadas."
-          },
-          "icons": {
-            "title": "Relojes GMT Icónicos",
-            "models": [
-              {
-                "brand": "Rolex",
-                "model": "GMT-Master II",
-                "price": "$10,000 - $40,000+",
-                "highlight": "El GMT original y definitivo, bisel Pepsi icónico"
-              },
-              {
-                "brand": "Tudor",
-                "model": "Black Bay GMT",
-                "price": "$4,000 - $5,000",
-                "highlight": "Valor GMT excepcional, estética Pepsi"
-              },
-              {
-                "brand": "Grand Seiko",
-                "model": "Sport GMT",
-                "price": "$6,000 - $8,000",
-                "highlight": "Precisión superior, acabado exquisito"
-              },
-              {
-                "brand": "Omega",
-                "model": "Seamaster Aqua Terra GMT",
-                "price": "$6,000 - $8,000",
-                "highlight": "Versatilidad de vestir, resistente al agua"
-              },
-              {
-                "brand": "Seiko",
-                "model": "5 Sports GMT",
-                "price": "$400 - $600",
-                "highlight": "Punto de entrada GMT asequible, automático"
-              },
-              {
-                "brand": "Ball",
-                "model": "Engineer Hydrocarbon GMT",
-                "price": "$2,000 - $3,000",
-                "highlight": "Tubos de gas tritio para lume, gran valor"
-              }
-            ]
-          },
-          "types": {
-            "title": "GMT Verdadero vs. Caller GMT",
-            "content": "Entender la diferencia es crucial al elegir un GMT:",
-            "comparison": [
-              {
-                "type": "GMT Verdadero (Flyer GMT)",
-                "description": "La aguja de hora salta independientemente en incrementos de 1 hora. La aguja GMT y minutero permanecen sincronizados con tu 'hora de casa'. Perfecto para: pilotos y viajeros frecuentes que cambian zonas horarias a menudo.",
-                "examples": "Rolex GMT-Master II, Grand Seiko GMT, Tudor Black Bay GMT"
-              },
-              {
-                "type": "Caller GMT (Office GMT)",
-                "description": "La aguja GMT se establece independientemente. Las agujas de hora/minuto se mueven juntas. Perfecto para: personas que permanecen en una zona horaria pero necesitan rastrear otra (oficinas en casa).",
-                "examples": "Rolex Explorer II, muchos GMTs de nivel de entrada"
-              }
-            ]
-          },
-          "using": {
-            "title": "Cómo Usar un Reloj GMT",
-            "steps": [
-              {
-                "step": "Configuración Inicial",
-                "instruction": "Establece la hora local con agujas de hora/minuto. Establece la aguja GMT a tu 'hora de casa' o zona horaria de referencia."
-              },
-              {
-                "step": "Rastreando Segunda Zona Horaria",
-                "instruction": "Lee la aguja GMT contra las marcas de 24 horas en el bisel o esfera."
-              },
-              {
-                "step": "Rastreando Tercera Zona Horaria",
-                "instruction": "Gira el bisel GMT para alinear la zona horaria deseada con la aguja GMT. Lee las agujas de hora contra el bisel para la tercera zona horaria."
-              },
-              {
-                "step": "Cambiando Zonas Horarias (GMT Verdadero)",
-                "instruction": "Saca la corona una posición. Salta la aguja de hora hacia adelante o atrás a la nueva hora local. La aguja GMT permanece en la hora de casa."
-              }
-            ]
-          },
-          "whenToWear": {
-            "title": "Quién Debería Elegir un GMT",
-            "personas": [
-              {
-                "type": "Viajeros Internacionales Frecuentes",
-                "description": "Si cruzas zonas horarias regularmente, un GMT (especialmente GMT verdadero) es invaluable."
-              },
-              {
-                "type": "Profesionales de Negocios",
-                "description": "Rastrear hora de oficina en casa mientras trabajas con clientes/colegas internacionales."
-              },
-              {
-                "type": "Expatriados",
-                "description": "Vivir en un país mientras mantiene conexión con hora de casa/familia."
-              },
-              {
-                "type": "Pilotos y Tripulación de Cabina",
-                "description": "El propósito original - rastreando hora local y zulu (GMT) para navegación."
-              },
-              {
-                "type": "Amantes de Complicaciones",
-                "description": "GMTs ofrecen funcionalidad práctica sin la complejidad de cronógrafos."
-              }
-            ]
-          },
-          "proTips": {
-            "title": "Consejos de Expertos para Usuarios GMT",
-            "tips": [
-              {
-                "title": "Configura la aguja GMT a UTC/GMT",
-                "content": "Muchos profesionales establecen la aguja GMT a Tiempo Universal Coordinado (UTC/GMT) ya que es la referencia estándar mundial."
-              },
-              {
-                "title": "El bisel Pepsi es funcional",
-                "content": "Los colores azul/rojo no son solo estética: azul representa noche (PM), rojo representa día (AM) en la escala de 24 horas."
-              },
-              {
-                "title": "Elige basado en tu patrón de viaje",
-                "content": "Si permaneces principalmente en un lugar: Caller GMT. Si viajas constantemente: GMT verdadero con aguja de hora que salta."
-              },
-              {
-                "title": "Combínalo con aplicaciones de reloj mundial",
-                "content": "Un reloj GMT es genial, pero para rastrear múltiples zonas horarias, complémentalo con una aplicación de smartphone."
-              }
-            ]
-          }
-        },
-        "digital": {
-          "hero": {
-            "title": "Relojes Digitales y Smartwatches",
-            "subtitle": "Evolución del Cronometraje",
-            "description": "Desde el revolucionario G-Shock hasta smartwatches modernos, los relojes digitales representan innovación tecnológica y funcionalidad práctica que complementa y desafía la relojería mecánica tradicional."
-          },
-          "intro": "Los relojes digitales han recorrido un largo camino desde las pantallas LED rojas de los años 70. Hoy abarcan desde los legendarios G-Shocks prácticamente indestructibles hasta smartwatches sofisticados que rastrean tu salud, pagan tus compras y te mantienen conectado. Mientras los puristas de relojes pueden desdeñar los digitales, representan innovación real y resuelven problemas que los relojes mecánicos no pueden. Un smartwatch puede rastreear tu ritmo cardíaco, navegarte a través de ciudades desconocidas y permitirte tomar llamadas. Un G-Shock puede sobrevivir una caída desde un edificio. Los relojes mecánicos son hermosos, pero los digitales son prácticos. Hay espacio en cada colección para ambos.",
-          "whatMakes": {
-            "title": "Tipos de Relojes Digitales",
-            "categories": [
-              {
-                "type": "LCD Digitales Clásicos",
-                "description": "Pantallas de cristal líquido mostrando tiempo en formato numérico",
-                "features": "Económicos, batería de larga duración, multifuncionales",
-                "examples": "Casio F-91W, Timex Ironman"
-              },
-              {
-                "type": "Digitales Resistentes (G-Shock)",
-                "description": "Ultra-duraderos con protección contra golpes",
-                "features": "Resistencia a golpes, 200m WR, múltiples alarmas, cronómetro",
-                "examples": "Casio G-Shock serie DW, Mudmaster, Rangeman"
-              },
-              {
-                "type": "Digitales Ana-Digi",
-                "description": "Híbridos combinando agujas analógicas con display digital",
-                "features": "Lo mejor de ambos mundos: estética tradicional con características digitales",
-                "examples": "Casio G-Shock serie GA, Seiko Arnie, Breitling Aerospace"
-              },
-              {
-                "type": "Smartwatches",
-                "description": "Computadoras portátiles con conectividad smartphone",
-                "features": "Rastreo de fitness, notificaciones, pagos, aplicaciones, monitoreo de salud",
-                "examples": "Apple Watch, Samsung Galaxy Watch, Garmin Fenix"
-              },
-              {
-                "type": "Digitales de Lujo",
-                "description": "Relojes digitales de marcas de lujo",
-                "features": "Materiales premium, tecnología innovadora, alta relojería",
-                "examples": "TAG Heuer Connected, Urwerk EMC, MB&F HM5"
-              }
-            ]
-          },
-          "history": {
-            "title": "Historia de los Relojes Digitales",
-            "content": "El primer reloj digital fue el Hamilton Pulsar (1970), un reloj LED que costaba $2,100 ($14,000 hoy). Presionabas un botón y números rojos brillaban. Los LEDs fueron reemplazados por pantallas LCD en los años 70, haciendo los digitales asequibles. El Casio F-91W (1989) se convirtió en uno de los relojes más vendidos de la historia - todavía se produce hoy a $10-20. El verdadero cambio de juego vino en 1983 cuando Casio lanzó el G-Shock DW-5000C. El diseñador Kikuo Ibe quería crear un reloj que nunca se rompiera. Después de probar más de 200 prototipos, logró resistencia a golpes usando construcción modular y diseño de doble caja. El G-Shock se convirtió en legendario entre militares, personal de emergencias y cualquiera que necesite durabilidad extrema. En 2015, Apple redefinió el espacio de relojes con el Apple Watch, fusionando tecnología de smartphone con formato de pulsera. Hoy, los smartwatches dominan las ventas de relojes globales, aunque los mecánicos mantienen prestigio y romance."
-          },
-          "gshock": {
-            "title": "El Fenómeno G-Shock",
-            "content": "Ninguna discusión de relojes digitales está completa sin G-Shock. Estos relojes japoneses prácticamente indestructibles se han convertido en íconos culturales. La construcción de protección contra golpes significa que el módulo flotante está suspendido dentro de la caja, protegido de impactos. Son resistentes al agua a 200m. Muchos modelos presentan energía solar, sincronización de radio atómica y conectividad Bluetooth. Están usados por personal militar, primeros respondedores, atletas extremos y entusiastas de la moda por igual. Modelos populares: DW-5600 (el 'cuadrado' clásico), GA-2100 (el 'CasiOak' delgado), Mudmaster, Rangeman, Frogman. Los G-Shocks van desde $50 a $5,000+ para ediciones colaborativas limitadas. Un G-Shock es posiblemente el reloj más práctico que puedes poseer - nunca necesitas preocuparte por él.",
-            "icons": {
-              "title": "Digitales y Smartwatches Icónicos",
-              "models": [
-                {
-                  "brand": "Casio",
-                  "model": "G-Shock DW-5600",
-                  "price": "$50 - $100",
-                  "highlight": "El G-Shock original y definitivo, prácticamente indestructible"
-                },
-                {
-                  "brand": "Casio",
-                  "model": "F-91W",
-                  "price": "$10 - $20",
-                  "highlight": "El digital más vendido en la historia, icono de funcionalidad"
-                },
-                {
-                  "brand": "Apple",
-                  "model": "Apple Watch Ultra",
-                  "price": "$800 - $900",
-                  "highlight": "El smartwatch más avanzado, rastreo de salud integral"
-                },
-                {
-                  "brand": "Garmin",
-                  "model": "Fenix 7",
-                  "price": "$700 - $900",
-                  "highlight": "Smartwatch multi-deporte, batería de larga duración"
-                },
-                {
-                  "brand": "Casio",
-                  "model": "Pro Trek",
-                  "price": "$200 - $500",
-                  "highlight": "Sensores ABC (altímetro, barómetro, brújula), aventuras al aire libre"
-                },
-                {
-                  "brand": "Suunto",
-                  "model": "9 Peak Pro",
-                  "price": "$500 - $600",
-                  "highlight": "Rendimiento atlético, batería de ultra-larga duración"
-                }
-              ]
-            },
-            "smartwatches": {
-              "title": "Relojes Mecánicos vs. Smartwatches: El Debate",
-              "content": "Los entusiastas de relojes a menudo preguntan: ¿Debería comprar un smartwatch o un reloj mecánico? La respuesta: ambos sirven propósitos diferentes. Los smartwatches son herramientas - rastrean fitness, notificaciones, navegación. Los mecánicos son objetos - artesanía, herencia, arte. Un Apple Watch te dirá tu ritmo cardíaco y te permitirá responder textos. Un Rolex Submariner te hará sentir conectado a décadas de historia relojera. Muchos entusiastas usan un smartwatch durante la semana para funcionalidad, luego cambian a un mecánico los fines de semana para disfrute. No necesitas elegir lados en esta guerra. Posee ambos. Usa cada uno cuando tenga sentido."
-            },
-            "choosing": {
-              "title": "Elegir el Reloj Digital Correcto",
-              "sections": [
-                {
-                  "title": "Para Durabilidad Extrema",
-                  "content": "G-Shock es imbatible. Si trabajas en construcción, militares, primeros respondedores o simplemente eres duro con los relojes, nada más puede tomar el castigo."
-                },
-                {
-                  "title": "Para Rastreo de Fitness",
-                  "content": "Apple Watch (usuarios de iPhone) o Samsung Galaxy Watch (Android) ofrecen el mejor rastreo de salud y ecosistema de aplicaciones. Garmin/Suunto para atletas serios."
-                },
-                {
-                  "title": "Para Actividades al Aire Libre",
-                  "content": "Casio Pro Trek o Garmin Fenix con sensores ABC (altímetro, barómetro, brújula) y GPS."
-                },
-                {
-                  "title": "Para Simplicidad",
-                  "content": "Casio F-91W. $15, hace todo lo básico, batería dura años, pesa nada."
-                }
-              ]
-            },
-            "proTips": {
-              "title": "Consejos de Expertos para Relojes Digitales",
-              "tips": [
-                {
-                  "title": "La duración de batería importa",
-                  "content": "Los smartwatches típicamente duran 1-2 días. Los digitales básicos duran años. Los G-Shocks solares nunca necesitan baterías. Considera tu estilo de vida."
-                },
-                {
-                  "title": "Los digitales son relojes de herramienta perfectos",
-                  "content": "Usa un digital para actividades donde te preocuparías por dañar un reloj mecánico: deportes, construcción, jardinería."
-                },
-                {
-                  "title": "Los smartwatches se deprecian rápido",
-                  "content": "Un Apple Watch pierde valor rápidamente. Los relojes mecánicos mantienen o aprecian valor. Compra smartwatches para funcionalidad, no como inversión."
-                },
-                {
-                  "title": "Los G-Shocks se coleccionan",
-                  "content": "Ediciones limitadas de G-Shock, colaboraciones y modelos vintage se han vuelto coleccionables. El mercado de G-Shock es activo."
-                }
-              ]
-            }
-          }
         }
       },
       "movements": {
@@ -2343,6 +1480,869 @@
             "title": "La Innovación Continúa",
             "content": "Estos movimientos alternativos prueban que la relojería no es estática. Mientras los puristas pueden insistir en solo mecánicos, tecnologías como Spring Drive, Solar y Kinetic ofrecen ventajas reales. Demuestran que puedes respetar la tradición mientras abrazas la innovación. El mejor enfoque: aprecia todos los tipos de movimientos por lo que aportan a la relojería."
           }
+        }
+      },
+      "pilot": {
+        "hero": {
+          "title": "Relojes Aviador",
+          "subtitle": "Ingeniería para el Cielo",
+          "description": "Nacidos de las necesidades de los pilotos militares, los relojes aviador combinan legibilidad excepcional, funciones de navegación y herencia de aviación que los hacen íconos tanto en el aire como en tierra."
+        },
+        "intro": "Los relojes aviador representan uno de los capítulos más románticos en la historia relojera. Diseñados originalmente para pilotos militares que necesitaban cronometraje preciso a 30,000 pies, estos relojes debían ser legibles de un vistazo, resistentes a campos magnéticos y lo suficientemente confiables para navegación aérea. Hoy, los relojes aviador mantienen esa herencia de herramienta mientras sirven como declaraciones de estilo para entusiastas que aprecian su estética atrevida y conexión con la era dorada de la aviación.",
+        "whatMakes": {
+          "title": "Características Definitorias de los Relojes Aviador",
+          "features": [
+            {
+              "title": "Legibilidad Extrema",
+              "description": "Números grandes y agujas contrastantes",
+              "detail": "A menudo con números arábigos grandes y luminosidad abundante para lectura en cabinas oscuras"
+            },
+            {
+              "title": "Cajas Grandes",
+              "description": "40-46mm típicamente",
+              "detail": "Tamaño generoso para legibilidad con guantes y sobre trajes de vuelo"
+            },
+            {
+              "title": "Triángulo a las 12",
+              "description": "Marcador de orientación",
+              "detail": "Permite a los pilotos determinar orientación del reloj de un vistazo"
+            },
+            {
+              "title": "Corona Grande",
+              "description": "Fácil de operar con guantes",
+              "detail": "Coronas acanaladas o con cebolla para ajuste fácil con equipo de vuelo"
+            },
+            {
+              "title": "Resistencia Magnética",
+              "description": "Protección contra campos magnéticos",
+              "detail": "Esencial en cabinas llenas de instrumentos electrónicos"
+            }
+          ]
+        },
+        "history": {
+          "title": "Historia de los Relojes Aviador",
+          "content": "El primer verdadero reloj aviador fue el Santos de Cartier (1904), creado para el pionero de aviación Alberto Santos-Dumont. Sin embargo, el género explotó durante las guerras mundiales cuando pilotos militares necesitaban cronometraje confiable. El Breguet Type XX fue usado por pilotos de combate franceses. El IWC Big Pilot (Große Fliegeruhr) fue desarrollado para la Luftwaffe. El A-11 americano se convirtió en estándar para pilotos aliados. Después de la guerra, estos relojes militares inspiraron diseños civiles. El IWC Mark series, Breitling Navitimer con su regla de cálculo y el Zenith Pilot Type 20 todos capturan la era dorada de los relojes de aviación. Hoy, los relojes aviador son celebrados tanto por coleccionistas como por pilotos reales, aunque la aviónica moderna ha reemplazado en gran medida a los relojes para navegación."
+        },
+        "icons": {
+          "title": "Relojes Aviador Icónicos",
+          "models": [
+            {
+              "brand": "IWC",
+              "model": "Big Pilot's Watch",
+              "price": "$12,000 - $20,000",
+              "highlight": "El reloj aviador definitivo, legibilidad legendaria"
+            },
+            {
+              "brand": "Breitling",
+              "model": "Navitimer",
+              "price": "$5,000 - $12,000",
+              "highlight": "Regla de cálculo para navegación, icono desde 1952"
+            },
+            {
+              "brand": "Zenith",
+              "model": "Pilot Type 20 Extra Special",
+              "price": "$6,000 - $10,000",
+              "highlight": "Corona de cebolla enorme, estética vintage"
+            },
+            {
+              "brand": "IWC",
+              "model": "Mark XVIII",
+              "price": "$4,500 - $6,500",
+              "highlight": "Reloj aviador clásico refinado, soft-iron cage"
+            },
+            {
+              "brand": "Laco",
+              "model": "Flieger",
+              "price": "$400 - $1,500",
+              "highlight": "Diseños B-Uhr auténticos, valor excepcional"
+            },
+            {
+              "brand": "Bell & Ross",
+              "model": "BR 03-92",
+              "price": "$3,500 - $5,000",
+              "highlight": "Diseño de instrumento de cabina, cuadrado icónico"
+            }
+          ]
+        },
+        "types": {
+          "title": "Tipos de Relojes Aviador",
+          "categories": [
+            {
+              "type": "B-Uhr (Beobachtungsuhr)",
+              "description": "Relojes de observación alemanes de la Segunda Guerra Mundial. Características: esfera negra, grandes números arábigos, triángulo a las 12, corona grande. Ejemplos: Laco Flieger, Stowa Flieger, IWC Big Pilot."
+            },
+            {
+              "type": "Cronógrafo de Aviación",
+              "description": "Combina funcionalidad de cronógrafo con características de aviación. A menudo incluye reglas de cálculo o escalas taquimétricas. Ejemplos: Breitling Navitimer, Zenith El Primero Pilot."
+            },
+            {
+              "type": "Reloj de Instrumento",
+              "description": "Diseñados para parecer instrumentos de cabina. Esferas negras con marcas blancas, máxima legibilidad. Ejemplos: Bell & Ross BR series, Sinn 556."
+            },
+            {
+              "type": "Reloj GMT de Aviación",
+              "description": "Funcionalidad de múltiples zonas horarias para pilotos internacionales. Ejemplos: Breitling Aerospace, IWC Pilot's Watch UTC."
+            }
+          ]
+        },
+        "features": {
+          "title": "Características Especiales de Aviación",
+          "items": [
+            {
+              "feature": "Regla de Cálculo",
+              "description": "El Breitling Navitimer presenta una regla de cálculo circular que permite a los pilotos calcular consumo de combustible, tasas de ascenso/descenso, conversiones y más sin electrónica."
+            },
+            {
+              "feature": "Jaula de Hierro Suave",
+              "description": "Una jaula de hierro suave interior protege el movimiento de campos magnéticos. IWC Mark series y muchos relojes aviador usan esto para protección contra instrumentos de cabina."
+            },
+            {
+              "feature": "Corona de Cebolla",
+              "description": "Coronas grandes acanaladas (llamadas 'coronas de cebolla') permiten operación fácil con guantes de vuelo. Clásicas en el Zenith Pilot Type 20."
+            },
+            {
+              "feature": "Triángulo de Navegación",
+              "description": "El triángulo a las 12 en punto es una característica de diseño militar que ayuda a la orientación rápida del reloj."
+            }
+          ]
+        },
+        "whenToWear": {
+          "title": "Cuándo Usar un Reloj Aviador",
+          "occasions": [
+            {
+              "event": "Diario Casual",
+              "description": "Los relojes aviador son excelentes relojes diarios para hombres que aprecian estética robusta y utilitarian."
+            },
+            {
+              "event": "Casual de Negocios",
+              "description": "Funciona bien con chaquetas deportivas y chinos. Demasiado casual para traje completo."
+            },
+            {
+              "event": "Fines de Semana y Viajes",
+              "description": "Funcionalidad GMT y diseño robusto los hacen perfectos para viajar."
+            },
+            {
+              "event": "Actividades al Aire Libre",
+              "description": "Aunque no son relojes de buceo, la mayoría tienen resistencia al agua decente y construcción durable."
+            }
+          ]
+        },
+        "proTips": {
+          "title": "Consejos de Expertos para Relojes Aviador",
+          "tips": [
+            {
+              "title": "El tamaño es auténtico",
+              "content": "Los relojes aviador están destinados a ser grandes. Un 42-46mm es históricamente preciso ya que los pilotos necesitaban legibilidad sobre trajes de vuelo."
+            },
+            {
+              "title": "Correa sobre brazalete",
+              "content": "Históricamente, los relojes aviador venían en correas de cuero para usar sobre chaquetas de vuelo. Las correas riveted son particularmente auténticas."
+            },
+            {
+              "title": "La funcionalidad importa",
+              "content": "Si te atraen las reglas de cálculo o funciones GMT, aprende a usarlas. Estos no son solo decoración."
+            },
+            {
+              "title": "Comprende la herencia",
+              "content": "Muchos relojes aviador tienen historias militares fascinantes. Investiga la historia de tu modelo para apreciar completamente su significado."
+            }
+          ]
+        }
+      },
+      "field": {
+        "hero": {
+          "title": "Relojes de Campo",
+          "subtitle": "Relojes Militares Funcionales",
+          "description": "Nacidos en las trincheras de guerra, los relojes de campo priorizan legibilidad, durabilidad y funcionalidad sobre todo. Son las herramientas más simples y confiables del mundo relojero."
+        },
+        "intro": "El reloj de campo es el caballo de batalla del mundo relojero. Sin pretensiones, sin lujos, solo puro cronometraje funcional. Estos relojes fueron diseñados para soldados que necesitaban saber la hora en las peores condiciones: barro, lluvia, combate. La filosofía es simple: legible, durable, asequible. Un reloj de campo no intenta impresionar con oro o complicaciones. Su belleza radica en su utilidad pura. Es el reloj que eliges cuando necesitas confiabilidad absoluta sin importar lo que la vida te lance.",
+        "whatMakes": {
+          "title": "Características Definitorias de los Relojes de Campo",
+          "features": [
+            {
+              "title": "Esfera Simple y Legible",
+              "description": "Números arábigos claros en esfera de alto contraste",
+              "detail": "Usualmente esfera blanca o color crema con números negros, o esfera negra con marcas blancas"
+            },
+            {
+              "title": "Construcción Durable",
+              "description": "Hecho para soportar abuso",
+              "detail": "Cajas de acero, cristal resistente a rayones, construcción robusta"
+            },
+            {
+              "title": "Tamaño Modesto",
+              "description": "36-40mm típicamente",
+              "detail": "Práctico para uso bajo mangas de ropa y guantes sin ser voluminoso"
+            },
+            {
+              "title": "Correa de Lona/NATO",
+              "description": "Correas textiles para durabilidad",
+              "detail": "Las correas NATO permiten que el reloj permanezca en la muñeca incluso si una barra de resorte falla"
+            },
+            {
+              "title": "Movimiento Confiable",
+              "description": "Cuarzo o mecánico simple",
+              "detail": "Fácil de mantener y servir, confiabilidad sobre complicación"
+            }
+          ]
+        },
+        "history": {
+          "title": "Historia de los Relojes de Campo",
+          "content": "Los relojes de campo evolucionaron de los relojes de trinchera de la Primera Guerra Mundial. Cuando los soldados se dieron cuenta de que los relojes de bolsillo eran imprácticos en combate, comenzaron a soldar relojes de bolsillo a correas de cuero. Los fabricantes pronto crearon relojes de pulsera diseñados específicamente para uso militar. Durante la Segunda Guerra Mundial, el ejército de EE.UU. estandarizó especificaciones para relojes de campo (conocidos como relojes 'ord' por el Departamento de Artillería que los especificó). Marcas como Hamilton, Bulova, Elgin y Waltham produjeron millones. La especificación MIL-W-46374 de posguerra estableció estándares para relojes militares de EE.UU.: legibilidad a 12 pulgadas en oscuridad total, construcción durable y resistencia al agua. Estos relojes militares vintage inspiraron diseños civiles modernos. Hoy, marcas como Hamilton continúan la tradición con relojes de campo que honran ese patrimonio utilitarian mientras sirven como excelentes relojes diarios para civiles."
+        },
+        "icons": {
+          "title": "Relojes de Campo Icónicos",
+          "models": [
+            {
+              "brand": "Hamilton",
+              "model": "Khaki Field Mechanical",
+              "price": "$400 - $600",
+              "highlight": "El reloj de campo moderno definitivo, herencia militar"
+            },
+            {
+              "brand": "Seiko",
+              "model": "SNK809 (Seiko 5 Field)",
+              "price": "$80 - $150",
+              "highlight": "Valor increíble, automático confiable"
+            },
+            {
+              "brand": "Marathon",
+              "model": "General Purpose Quartz",
+              "price": "$200 - $300",
+              "highlight": "Emitido a tropas de EE.UU., extremadamente durable"
+            },
+            {
+              "brand": "Timex",
+              "model": "Expedition Scout",
+              "price": "$40 - $60",
+              "highlight": "Punto de entrada asequible, legibilidad Indiglo"
+            },
+            {
+              "brand": "Vaer",
+              "model": "A5 Field",
+              "price": "$300 - $400",
+              "highlight": "Campo americano moderno, zafiro, automático"
+            },
+            {
+              "brand": "Tudor",
+              "model": "Ranger",
+              "price": "$3,000 - $3,500",
+              "highlight": "Campo de lujo, herencia de expedición británica"
+            }
+          ]
+        },
+        "choosing": {
+          "title": "Elegir Tu Reloj de Campo",
+          "sections": [
+            {
+              "title": "Cuarzo vs. Mecánico",
+              "content": "Los relojes de campo vienen en ambos. El cuarzo ofrece precisión superior y bajo mantenimiento - probablemente lo que querrías en combate real. Los mecánicos (manuales o automáticos) ofrecen romance y conexión con la historia - sin baterías que reemplazar. Ambos son opciones legítimas."
+            },
+            {
+              "title": "Color de Esfera",
+              "content": "Las esferas blancas/crema son clásicas y más legibles en condiciones de poca luz (con lume). Las esferas negras son más tácticas y modernas. Ambas son históricamente precisas."
+            },
+            {
+              "title": "Estándares Militares",
+              "content": "Algunos relojes de campo (como Marathon) cumplen especificaciones militares reales y son emitidos a tropas. Otros son de inspiración militar. Ambos son grandes, pero los relojes mil-spec tienen autenticidad adicional."
+            },
+            {
+              "title": "Opciones de Correa",
+              "content": "Las correas NATO son clásicas y prácticas (el reloj permanece seguro incluso si una barra de resorte se rompe). El cuero es tradicional y se ve genial. Experimenta - los relojes de campo lucen bien en casi cualquier correa."
+            }
+          ]
+        },
+        "philosophy": {
+          "title": "La Filosofía del Reloj de Campo",
+          "content": "Los relojes de campo representan una filosofía anti-lujo en la relojería. Mientras los relojes de vestir muestran riqueza y los relojes de buceo proyectan aventura, los relojes de campo simplemente funcionan. No hay oro, sin complicaciones, sin pretensiones. Solo un reloj simple y confiable que da la hora. Esta honestidad atrae a personas que valoran la función sobre la forma, la herramienta sobre el juguete. Un reloj de campo a $500 puede traerte más alegría diaria que un reloj de lujo a $5,000 porque no necesitas preocuparte por él. Lo usas, lo golpeas, lo sigues usando. Esa libertad es valiosa."
+        },
+        "proTips": {
+          "title": "Consejos de Expertos para Relojes de Campo",
+          "tips": [
+            {
+              "title": "Abraza los rayones",
+              "content": "Los relojes de campo están destinados a ser usados duro. Los rayones cuentan historias. No los evites; gánatelos."
+            },
+            {
+              "title": "Compra correas NATO extra",
+              "content": "Las correas NATO son baratas ($10-30) y transforman la apariencia del reloj. Ten varias en diferentes colores."
+            },
+            {
+              "title": "Los relojes de campo más pequeños funcionan mejor",
+              "content": "Tamaños vintage de 36-38mm son auténticos y usan cómodamente. No necesitas 44mm en un reloj de campo."
+            },
+            {
+              "title": "Considera el vintage",
+              "content": "Los relojes de campo militares vintage (Hamilton, Bulova de los años 40-60) son asequibles y tienen historia real."
+            }
+          ]
+        }
+      },
+      "gmt": {
+        "hero": {
+          "title": "Relojes GMT",
+          "subtitle": "Para el Ciudadano Global",
+          "description": "Los relojes GMT rastrean múltiples zonas horarias simultáneamente, haciendo que sean herramientas esenciales para viajeros internacionales, pilotos y cualquiera que trabaje a través de zonas horarias."
+        },
+        "intro": "En un mundo cada vez más conectado, rastrear múltiples zonas horarias se ha vuelto esencial. El reloj GMT (Greenwich Mean Time) resuelve este problema con elegancia usando una aguja adicional de 24 horas y un bisel giratorio. Originalmente diseñado para pilotos de Pan Am volando rutas transatlánticas, el GMT se ha convertido en el reloj de elección para viajeros de negocios, expatriados y cualquiera que necesite mantenerse conectado a través de zonas horarias. Ya sea rastreando la hora de casa mientras viajas, coordinando con colegas en continentes diferentes o simplemente queriendo saber cuándo llamar a familia en el extranjero, un reloj GMT hace que la navegación de zona horaria sea sin esfuerzo.",
+        "whatMakes": {
+          "title": "Cómo Funcionan los Relojes GMT",
+          "features": [
+            {
+              "title": "Aguja GMT de 24 Horas",
+              "description": "Cuarta aguja rotando una vez cada 24 horas",
+              "detail": "Usualmente en color brillante (rojo, naranja) para distinguirla de las agujas de hora/minuto"
+            },
+            {
+              "title": "Bisel GMT de 24 Horas",
+              "description": "Bisel bidireccional o fijo con marcas de 24 horas",
+              "detail": "Permite rastrear una segunda o tercera zona horaria cuando se combina con la aguja GMT"
+            },
+            {
+              "title": "Movimiento GMT Verdadero vs. Caller",
+              "description": "Dos tipos de funcionalidad GMT",
+              "detail": "GMT verdadero: la aguja de hora salta en incrementos de 1 hora. Caller: la aguja GMT se establece independientemente"
+            },
+            {
+              "title": "Indicación de Fecha",
+              "description": "Usualmente incluida",
+              "detail": "Ayuda a rastrear fechas al cruzar zonas horarias y la línea de fecha internacional"
+            }
+          ]
+        },
+        "history": {
+          "title": "Historia de los Relojes GMT",
+          "content": "El Rolex GMT-Master fue creado en 1954 en colaboración con Pan American World Airways. Los pilotos de Pan Am volando la nueva ruta transatlántica necesitaban rastrear tanto la hora local como la GMT (usada en navegación aérea). Rolex respondió con el GMT-Master, con su icónica aguja GMT roja y bisel azul/rojo 'Pepsi' representando día y noche. El reloj se convirtió en emitido estándar a tripulaciones de Pan Am y otros pilotos de aerolíneas. La funcionalidad GMT rápidamente se extendió más allá de la aviación a viajeros de negocios, diplomáticos y entusiastas. Hoy, casi cada marca importante ofrece un reloj GMT, desde opciones de nivel de entrada como el Seiko 5 Sports GMT hasta piezas de lujo como el Patek Philippe Aquanaut Travel Time. El GMT permanece como una de las complicaciones de reloj más prácticas y buscadas."
+        },
+        "icons": {
+          "title": "Relojes GMT Icónicos",
+          "models": [
+            {
+              "brand": "Rolex",
+              "model": "GMT-Master II",
+              "price": "$10,000 - $40,000+",
+              "highlight": "El GMT original y definitivo, bisel Pepsi icónico"
+            },
+            {
+              "brand": "Tudor",
+              "model": "Black Bay GMT",
+              "price": "$4,000 - $5,000",
+              "highlight": "Valor GMT excepcional, estética Pepsi"
+            },
+            {
+              "brand": "Grand Seiko",
+              "model": "Sport GMT",
+              "price": "$6,000 - $8,000",
+              "highlight": "Precisión superior, acabado exquisito"
+            },
+            {
+              "brand": "Omega",
+              "model": "Seamaster Aqua Terra GMT",
+              "price": "$6,000 - $8,000",
+              "highlight": "Versatilidad de vestir, resistente al agua"
+            },
+            {
+              "brand": "Seiko",
+              "model": "5 Sports GMT",
+              "price": "$400 - $600",
+              "highlight": "Punto de entrada GMT asequible, automático"
+            },
+            {
+              "brand": "Ball",
+              "model": "Engineer Hydrocarbon GMT",
+              "price": "$2,000 - $3,000",
+              "highlight": "Tubos de gas tritio para lume, gran valor"
+            }
+          ]
+        },
+        "types": {
+          "title": "GMT Verdadero vs. Caller GMT",
+          "content": "Entender la diferencia es crucial al elegir un GMT:",
+          "comparison": [
+            {
+              "type": "GMT Verdadero (Flyer GMT)",
+              "description": "La aguja de hora salta independientemente en incrementos de 1 hora. La aguja GMT y minutero permanecen sincronizados con tu 'hora de casa'. Perfecto para: pilotos y viajeros frecuentes que cambian zonas horarias a menudo.",
+              "examples": "Rolex GMT-Master II, Grand Seiko GMT, Tudor Black Bay GMT"
+            },
+            {
+              "type": "Caller GMT (Office GMT)",
+              "description": "La aguja GMT se establece independientemente. Las agujas de hora/minuto se mueven juntas. Perfecto para: personas que permanecen en una zona horaria pero necesitan rastrear otra (oficinas en casa).",
+              "examples": "Rolex Explorer II, muchos GMTs de nivel de entrada"
+            }
+          ]
+        },
+        "using": {
+          "title": "Cómo Usar un Reloj GMT",
+          "steps": [
+            {
+              "step": "Configuración Inicial",
+              "instruction": "Establece la hora local con agujas de hora/minuto. Establece la aguja GMT a tu 'hora de casa' o zona horaria de referencia."
+            },
+            {
+              "step": "Rastreando Segunda Zona Horaria",
+              "instruction": "Lee la aguja GMT contra las marcas de 24 horas en el bisel o esfera."
+            },
+            {
+              "step": "Rastreando Tercera Zona Horaria",
+              "instruction": "Gira el bisel GMT para alinear la zona horaria deseada con la aguja GMT. Lee las agujas de hora contra el bisel para la tercera zona horaria."
+            },
+            {
+              "step": "Cambiando Zonas Horarias (GMT Verdadero)",
+              "instruction": "Saca la corona una posición. Salta la aguja de hora hacia adelante o atrás a la nueva hora local. La aguja GMT permanece en la hora de casa."
+            }
+          ]
+        },
+        "whenToWear": {
+          "title": "Quién Debería Elegir un GMT",
+          "personas": [
+            {
+              "type": "Viajeros Internacionales Frecuentes",
+              "description": "Si cruzas zonas horarias regularmente, un GMT (especialmente GMT verdadero) es invaluable."
+            },
+            {
+              "type": "Profesionales de Negocios",
+              "description": "Rastrear hora de oficina en casa mientras trabajas con clientes/colegas internacionales."
+            },
+            {
+              "type": "Expatriados",
+              "description": "Vivir en un país mientras mantiene conexión con hora de casa/familia."
+            },
+            {
+              "type": "Pilotos y Tripulación de Cabina",
+              "description": "El propósito original - rastreando hora local y zulu (GMT) para navegación."
+            },
+            {
+              "type": "Amantes de Complicaciones",
+              "description": "GMTs ofrecen funcionalidad práctica sin la complejidad de cronógrafos."
+            }
+          ]
+        },
+        "proTips": {
+          "title": "Consejos de Expertos para Usuarios GMT",
+          "tips": [
+            {
+              "title": "Configura la aguja GMT a UTC/GMT",
+              "content": "Muchos profesionales establecen la aguja GMT a Tiempo Universal Coordinado (UTC/GMT) ya que es la referencia estándar mundial."
+            },
+            {
+              "title": "El bisel Pepsi es funcional",
+              "content": "Los colores azul/rojo no son solo estética: azul representa noche (PM), rojo representa día (AM) en la escala de 24 horas."
+            },
+            {
+              "title": "Elige basado en tu patrón de viaje",
+              "content": "Si permaneces principalmente en un lugar: Caller GMT. Si viajas constantemente: GMT verdadero con aguja de hora que salta."
+            },
+            {
+              "title": "Combínalo con aplicaciones de reloj mundial",
+              "content": "Un reloj GMT es genial, pero para rastrear múltiples zonas horarias, complémentalo con una aplicación de smartphone."
+            }
+          ]
+        }
+      },
+      "digital": {
+        "hero": {
+          "title": "Relojes Digitales y Smartwatches",
+          "subtitle": "Evolución del Cronometraje",
+          "description": "Desde el revolucionario G-Shock hasta smartwatches modernos, los relojes digitales representan innovación tecnológica y funcionalidad práctica que complementa y desafía la relojería mecánica tradicional."
+        },
+        "intro": "Los relojes digitales han recorrido un largo camino desde las pantallas LED rojas de los años 70. Hoy abarcan desde los legendarios G-Shocks prácticamente indestructibles hasta smartwatches sofisticados que rastrean tu salud, pagan tus compras y te mantienen conectado. Mientras los puristas de relojes pueden desdeñar los digitales, representan innovación real y resuelven problemas que los relojes mecánicos no pueden. Un smartwatch puede rastreear tu ritmo cardíaco, navegarte a través de ciudades desconocidas y permitirte tomar llamadas. Un G-Shock puede sobrevivir una caída desde un edificio. Los relojes mecánicos son hermosos, pero los digitales son prácticos. Hay espacio en cada colección para ambos.",
+        "whatMakes": {
+          "title": "Tipos de Relojes Digitales",
+          "categories": [
+            {
+              "type": "LCD Digitales Clásicos",
+              "description": "Pantallas de cristal líquido mostrando tiempo en formato numérico",
+              "features": "Económicos, batería de larga duración, multifuncionales",
+              "examples": "Casio F-91W, Timex Ironman"
+            },
+            {
+              "type": "Digitales Resistentes (G-Shock)",
+              "description": "Ultra-duraderos con protección contra golpes",
+              "features": "Resistencia a golpes, 200m WR, múltiples alarmas, cronómetro",
+              "examples": "Casio G-Shock serie DW, Mudmaster, Rangeman"
+            },
+            {
+              "type": "Digitales Ana-Digi",
+              "description": "Híbridos combinando agujas analógicas con display digital",
+              "features": "Lo mejor de ambos mundos: estética tradicional con características digitales",
+              "examples": "Casio G-Shock serie GA, Seiko Arnie, Breitling Aerospace"
+            },
+            {
+              "type": "Smartwatches",
+              "description": "Computadoras portátiles con conectividad smartphone",
+              "features": "Rastreo de fitness, notificaciones, pagos, aplicaciones, monitoreo de salud",
+              "examples": "Apple Watch, Samsung Galaxy Watch, Garmin Fenix"
+            },
+            {
+              "type": "Digitales de Lujo",
+              "description": "Relojes digitales de marcas de lujo",
+              "features": "Materiales premium, tecnología innovadora, alta relojería",
+              "examples": "TAG Heuer Connected, Urwerk EMC, MB&F HM5"
+            }
+          ]
+        },
+        "history": {
+          "title": "Historia de los Relojes Digitales",
+          "content": "El primer reloj digital fue el Hamilton Pulsar (1970), un reloj LED que costaba $2,100 ($14,000 hoy). Presionabas un botón y números rojos brillaban. Los LEDs fueron reemplazados por pantallas LCD en los años 70, haciendo los digitales asequibles. El Casio F-91W (1989) se convirtió en uno de los relojes más vendidos de la historia - todavía se produce hoy a $10-20. El verdadero cambio de juego vino en 1983 cuando Casio lanzó el G-Shock DW-5000C. El diseñador Kikuo Ibe quería crear un reloj que nunca se rompiera. Después de probar más de 200 prototipos, logró resistencia a golpes usando construcción modular y diseño de doble caja. El G-Shock se convirtió en legendario entre militares, personal de emergencias y cualquiera que necesite durabilidad extrema. En 2015, Apple redefinió el espacio de relojes con el Apple Watch, fusionando tecnología de smartphone con formato de pulsera. Hoy, los smartwatches dominan las ventas de relojes globales, aunque los mecánicos mantienen prestigio y romance."
+        },
+        "gshock": {
+          "title": "El Fenómeno G-Shock",
+          "content": "Ninguna discusión de relojes digitales está completa sin G-Shock. Estos relojes japoneses prácticamente indestructibles se han convertido en íconos culturales. La construcción de protección contra golpes significa que el módulo flotante está suspendido dentro de la caja, protegido de impactos. Son resistentes al agua a 200m. Muchos modelos presentan energía solar, sincronización de radio atómica y conectividad Bluetooth. Están usados por personal militar, primeros respondedores, atletas extremos y entusiastas de la moda por igual. Modelos populares: DW-5600 (el 'cuadrado' clásico), GA-2100 (el 'CasiOak' delgado), Mudmaster, Rangeman, Frogman. Los G-Shocks van desde $50 a $5,000+ para ediciones colaborativas limitadas. Un G-Shock es posiblemente el reloj más práctico que puedes poseer - nunca necesitas preocuparte por él.",
+          "icons": {
+            "title": "Digitales y Smartwatches Icónicos",
+            "models": [
+              {
+                "brand": "Casio",
+                "model": "G-Shock DW-5600",
+                "price": "$50 - $100",
+                "highlight": "El G-Shock original y definitivo, prácticamente indestructible"
+              },
+              {
+                "brand": "Casio",
+                "model": "F-91W",
+                "price": "$10 - $20",
+                "highlight": "El digital más vendido en la historia, icono de funcionalidad"
+              },
+              {
+                "brand": "Apple",
+                "model": "Apple Watch Ultra",
+                "price": "$800 - $900",
+                "highlight": "El smartwatch más avanzado, rastreo de salud integral"
+              },
+              {
+                "brand": "Garmin",
+                "model": "Fenix 7",
+                "price": "$700 - $900",
+                "highlight": "Smartwatch multi-deporte, batería de larga duración"
+              },
+              {
+                "brand": "Casio",
+                "model": "Pro Trek",
+                "price": "$200 - $500",
+                "highlight": "Sensores ABC (altímetro, barómetro, brújula), aventuras al aire libre"
+              },
+              {
+                "brand": "Suunto",
+                "model": "9 Peak Pro",
+                "price": "$500 - $600",
+                "highlight": "Rendimiento atlético, batería de ultra-larga duración"
+              }
+            ]
+          },
+          "smartwatches": {
+            "title": "Relojes Mecánicos vs. Smartwatches: El Debate",
+            "content": "Los entusiastas de relojes a menudo preguntan: ¿Debería comprar un smartwatch o un reloj mecánico? La respuesta: ambos sirven propósitos diferentes. Los smartwatches son herramientas - rastrean fitness, notificaciones, navegación. Los mecánicos son objetos - artesanía, herencia, arte. Un Apple Watch te dirá tu ritmo cardíaco y te permitirá responder textos. Un Rolex Submariner te hará sentir conectado a décadas de historia relojera. Muchos entusiastas usan un smartwatch durante la semana para funcionalidad, luego cambian a un mecánico los fines de semana para disfrute. No necesitas elegir lados en esta guerra. Posee ambos. Usa cada uno cuando tenga sentido."
+          },
+          "choosing": {
+            "title": "Elegir el Reloj Digital Correcto",
+            "sections": [
+              {
+                "title": "Para Durabilidad Extrema",
+                "content": "G-Shock es imbatible. Si trabajas en construcción, militares, primeros respondedores o simplemente eres duro con los relojes, nada más puede tomar el castigo."
+              },
+              {
+                "title": "Para Rastreo de Fitness",
+                "content": "Apple Watch (usuarios de iPhone) o Samsung Galaxy Watch (Android) ofrecen el mejor rastreo de salud y ecosistema de aplicaciones. Garmin/Suunto para atletas serios."
+              },
+              {
+                "title": "Para Actividades al Aire Libre",
+                "content": "Casio Pro Trek o Garmin Fenix con sensores ABC (altímetro, barómetro, brújula) y GPS."
+              },
+              {
+                "title": "Para Simplicidad",
+                "content": "Casio F-91W. $15, hace todo lo básico, batería dura años, pesa nada."
+              }
+            ]
+          },
+          "proTips": {
+            "title": "Consejos de Expertos para Relojes Digitales",
+            "tips": [
+              {
+                "title": "La duración de batería importa",
+                "content": "Los smartwatches típicamente duran 1-2 días. Los digitales básicos duran años. Los G-Shocks solares nunca necesitan baterías. Considera tu estilo de vida."
+              },
+              {
+                "title": "Los digitales son relojes de herramienta perfectos",
+                "content": "Usa un digital para actividades donde te preocuparías por dañar un reloj mecánico: deportes, construcción, jardinería."
+              },
+              {
+                "title": "Los smartwatches se deprecian rápido",
+                "content": "Un Apple Watch pierde valor rápidamente. Los relojes mecánicos mantienen o aprecian valor. Compra smartwatches para funcionalidad, no como inversión."
+              },
+              {
+                "title": "Los G-Shocks se coleccionan",
+                "content": "Ediciones limitadas de G-Shock, colaboraciones y modelos vintage se han vuelto coleccionables. El mercado de G-Shock es activo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "movements": {
+      "automatic": {
+        "hero": {
+          "title": "Relojes Automáticos",
+          "description": "Descubre la magia de los movimientos mecánicos que se alimentan del movimiento de tu muñeca"
+        },
+        "intro": "Los relojes automáticos, también conocidos como relojes de cuerda automática, representan la culminación de siglos de innovación relojera. Estos fascinantes mecanismos se alimentan del movimiento natural de tu muñeca a través de un rotor oscilante que enrolla el muelle real. Sin necesidad de baterías ni cuerda manual diaria, un reloj automático es un compañero perfecto que late con el ritmo de tu vida.",
+        "advantages": {
+          "title": "Ventajas de los Relojes Automáticos",
+          "benefits": [
+            {
+              "title": "Sin Baterías",
+              "description": "Nunca tendrás que cambiar una batería. El movimiento de tu muñeca mantiene el reloj funcionando continuamente."
+            },
+            {
+              "title": "Artesanía Tradicional",
+              "description": "Cada movimiento automático es una obra maestra de ingeniería mecánica con cientos de componentes trabajando en armonía."
+            },
+            {
+              "title": "Bajo Mantenimiento",
+              "description": "Con uso regular, un reloj automático puede funcionar indefinidamente con servicios de mantenimiento cada 3-5 años."
+            },
+            {
+              "title": "Valor de Inversión",
+              "description": "Los relojes automáticos de calidad mantienen o aumentan su valor con el tiempo, especialmente los de marcas prestigiosas."
+            }
+          ]
+        },
+        "famousExamples": {
+          "title": "Movimientos Automáticos Legendarios",
+          "models": [
+            {
+              "brand": "ETA",
+              "model": "2824-2",
+              "price": "25 rubíes, 28,800 vph, 38h de reserva",
+              "highlight": "El caballo de batalla de la industria, usado por cientos de marcas y conocido por su fiabilidad."
+            },
+            {
+              "brand": "Seiko",
+              "model": "6R35",
+              "price": "23 rubíes, 21,600 vph, 70h de reserva",
+              "highlight": "Movimiento japonés robusto con excelente reserva de marcha y precisión superior."
+            },
+            {
+              "brand": "Rolex",
+              "model": "3235",
+              "price": "31 rubíes, 28,800 vph, 70h de reserva, Cronómetro",
+              "highlight": "Movimiento interno con escape Chronergy patentado y precisión certificada de -2/+2 segundos por día."
+            },
+            {
+              "brand": "Omega",
+              "model": "8800",
+              "price": "35 rubíes, 25,200 vph, 55h de reserva, Co-Axial",
+              "highlight": "Movimiento Master Chronometer resistente a campos magnéticos de hasta 15,000 gauss."
+            }
+          ]
+        },
+        "conclusion": {
+          "title": "El Arte del Movimiento Automático",
+          "content": "Los relojes automáticos representan la perfecta fusión entre tradición e innovación. Son máquinas vivientes que capturan la esencia de siglos de maestría relojera, ofreciendo una experiencia única que ninguna batería puede replicar."
+        }
+      },
+      "manual": {
+        "hero": {
+          "title": "Relojes de Cuerda Manual",
+          "description": "Experimenta la conexión íntima con la relojería tradicional a través del ritual diario de dar cuerda"
+        },
+        "intro": "Los relojes de cuerda manual representan la forma más pura de relojería mecánica. Cada día, te conectas con tu reloj mediante el ritual de dar cuerda, sintiendo la tensión del muelle real mientras lo enrollas. Esta interacción directa con el mecanismo crea un vínculo especial entre el reloj y su dueño, una tradición que se remonta a los orígenes de la relojería.",
+        "advantages": {
+          "title": "Por Qué Elegir Cuerda Manual",
+          "benefits": [
+            {
+              "title": "Diseño Más Delgado",
+              "description": "Sin el rotor automático, los relojes de cuerda manual pueden ser significativamente más delgados y elegantes."
+            },
+            {
+              "title": "Ritual Diario",
+              "description": "El acto de dar cuerda crea una conexión personal con tu reloj, un momento de consciencia en tu rutina diaria."
+            },
+            {
+              "title": "Visibilidad del Movimiento",
+              "description": "Muchos relojes de cuerda manual tienen fondos transparentes que permiten admirar completamente el movimiento sin obstrucciones."
+            },
+            {
+              "title": "Tradición Relojera",
+              "description": "Los coleccionistas aprecian la pureza y el linaje histórico de los movimientos de cuerda manual."
+            }
+          ]
+        },
+        "famousExamples": {
+          "title": "Movimientos de Cuerda Manual Icónicos",
+          "models": [
+            {
+              "brand": "Unitas/ETA",
+              "model": "6497/6498",
+              "price": "17 rubíes, 18,000 vph, 46h de reserva",
+              "highlight": "Movimiento de bolsillo clásico adaptado para relojes de pulsera, con acabados personalizables."
+            },
+            {
+              "brand": "Patek Philippe",
+              "model": "215 PS",
+              "price": "18 rubíes, 28,800 vph, 44h de reserva",
+              "highlight": "Movimiento ultra-delgado de solo 2.55mm de grosor, acabado a mano según los estándares del Sello de Ginebra."
+            },
+            {
+              "brand": "A. Lange & Söhne",
+              "model": "L051.1",
+              "price": "45 rubíes, 21,600 vph, 72h de reserva",
+              "highlight": "Obra maestra alemana con platina de tres cuartos y puente de balance grabado a mano."
+            },
+            {
+              "brand": "Valjoux",
+              "model": "7750",
+              "price": "25 rubíes, 28,800 vph, 48h de reserva",
+              "highlight": "Cronógrafo automático robusto usado en miles de relojes de lujo y deportivos."
+            }
+          ]
+        },
+        "howToWind": {
+          "title": "Cómo Dar Cuerda a un Reloj Manual",
+          "instructions": [
+            {
+              "step": "Desenroscar la corona (si aplica)",
+              "detail": "Si tu reloj tiene una corona atornillada para resistencia al agua, desenróscala suavemente en sentido antihorario hasta que salte ligeramente."
+            },
+            {
+              "step": "Tirar de la corona a la posición 1",
+              "detail": "La corona típicamente tiene múltiples posiciones. La posición 1 es la posición de cuerda, más cercana a la caja."
+            },
+            {
+              "step": "Dar cuerda en sentido horario",
+              "detail": "Gira la corona en sentido horario (alejándola de ti) con movimientos suaves y suaves. Debes sentir una ligera resistencia."
+            },
+            {
+              "step": "Detenerse al sentir resistencia",
+              "detail": "Nunca fuerces. Detén la cuerda cuando sientas resistencia consistente. Dar cuerda en exceso puede dañar el muelle real."
+            },
+            {
+              "step": "Empujar la corona de vuelta",
+              "detail": "Empuja la corona suavemente de vuelta a su posición normal. Si es una corona atornillada, enróscala de vuelta en sentido horario."
+            },
+            {
+              "step": "Dar cuerda diariamente",
+              "detail": "Para un mejor rendimiento, da cuerda a tu reloj manual a la misma hora cada día, preferiblemente por la mañana."
+            }
+          ]
+        },
+        "conclusion": {
+          "title": "La Pureza del Remontaje Manual",
+          "content": "Los relojes de cuerda manual ofrecen la experiencia más auténtica de la relojería mecánica. El ritual diario de dar cuerda crea una conexión íntima con tu reloj que trasciende la simple medición del tiempo."
+        }
+      },
+      "quartz": {
+        "hero": {
+          "title": "Relojes de Cuarzo",
+          "description": "Precisión incomparable y mantenimiento mínimo gracias a la tecnología de cristal de cuarzo"
+        },
+        "intro": "Los relojes de cuarzo revolucionaron la industria relojera en la década de 1970 con la 'Crisis del Cuarzo'. Utilizando las propiedades piezoeléctricas de un cristal de cuarzo, estos relojes logran una precisión extraordinaria que los mecanismos mecánicos simplemente no pueden igualar. Un reloj de cuarzo típico es preciso dentro de 15 segundos por mes, comparado con los 15 segundos por día de un reloj mecánico de calidad.",
+        "advantages": {
+          "title": "Beneficios de los Relojes de Cuarzo",
+          "benefits": [
+            {
+              "title": "Precisión Superior",
+              "description": "Los relojes de cuarzo son típicamente 10 veces más precisos que los mecánicos, perdiendo solo segundos al mes."
+            },
+            {
+              "title": "Bajo Mantenimiento",
+              "description": "Solo requieren un cambio de batería cada 2-3 años, sin necesidad de servicio regular."
+            },
+            {
+              "title": "Precio Accesible",
+              "description": "La producción masiva hace que los relojes de cuarzo sean significativamente más asequibles que los mecánicos."
+            },
+            {
+              "title": "Durabilidad",
+              "description": "Con menos partes móviles, los relojes de cuarzo son más resistentes a golpes y vibraciones."
+            }
+          ]
+        },
+        "famousExamples": {
+          "title": "Movimientos de Cuarzo Notables",
+          "models": [
+            {
+              "brand": "Seiko",
+              "model": "9F",
+              "price": "Precisión ±10 seg/año, batería 3 años",
+              "highlight": "Movimiento Grand Seiko con indicador de fecha instantáneo y acabado similar a mecánicos de lujo."
+            },
+            {
+              "brand": "ETA",
+              "model": "F06.111",
+              "price": "Precisión ±15 seg/mes, batería 4 años",
+              "highlight": "Movimiento suizo estándar usado en marcas como Tissot, Hamilton y Certina."
+            },
+            {
+              "brand": "Citizen",
+              "model": "0100",
+              "price": "Precisión ±1 seg/año, tecnología AT-Cut",
+              "highlight": "El movimiento de cuarzo más preciso del mundo, con cristal AT-Cut especial."
+            },
+            {
+              "brand": "Breitling",
+              "model": "SuperQuartz",
+              "price": "Precisión ±10 seg/año, Cronómetro COSC",
+              "highlight": "Cuarzo termócompensado con certificación COSC, 10 veces más preciso que cuarzo estándar."
+            }
+          ]
+        },
+        "conclusion": {
+          "title": "Precisión Sin Compromisos",
+          "content": "Los relojes de cuarzo democratizaron la precisión cronométrica. Ofrecen fiabilidad excepcional con mínimo mantenimiento, demostrando que la tecnología moderna puede coexistir perfectamente con la tradición relojera."
+        }
+      },
+      "other": {
+        "hero": {
+          "title": "Movimientos Alternativos",
+          "description": "Explora tecnologías innovadoras: Solar, Kinetic y Spring Drive"
+        },
+        "intro": "Más allá de los movimientos tradicionales mecánicos y de cuarzo, existen tecnologías innovadoras que combinan lo mejor de ambos mundos. Los movimientos solares aprovechan la luz para eliminar los cambios de batería, los Kinetic generan electricidad del movimiento de tu muñeca, y el revolucionario Spring Drive de Seiko fusiona la precisión del cuarzo con el alma de un movimiento mecánico.",
+        "technologies": {
+          "solar": {
+            "title": "Tecnología Solar",
+            "howItWorks": "Los relojes solares utilizan células fotovoltaicas para convertir cualquier fuente de luz en energía eléctrica, almacenándola en una batería recargable. Una vez completamente cargado, un reloj solar puede funcionar durante meses en completa oscuridad. Esta tecnología elimina la necesidad de cambios de batería y ofrece una solución ecológica y de bajo mantenimiento.",
+            "models": [
+              {
+                "model": "Citizen Eco-Drive Promaster",
+                "price": "$300-600",
+                "highlight": "Reserva de marcha de hasta 6 meses, resistente al agua 200m"
+              },
+              {
+                "model": "Seiko Solar Diver SNE583",
+                "price": "$350-450",
+                "highlight": "Movimiento V157, reserva de 10 meses, resistente al agua 200m"
+              },
+              {
+                "model": "G-Shock Tough Solar GW-M5610",
+                "price": "$150-200",
+                "highlight": "Sincronización atómica, resistencia extrema, reserva de 10 meses"
+              }
+            ]
+          },
+          "kinetic": {
+            "title": "Seiko Kinetic",
+            "description": "La tecnología Kinetic combina un rotor automático con un generador eléctrico y un capacitor. El movimiento de tu muñeca genera electricidad que se almacena, alimentando un movimiento de cuarzo. Es como un automático que nunca necesita servicio mecánico, ofreciendo precisión de cuarzo sin necesidad de batería, con una duración del capacitor de más de 15 años."
+          },
+          "springDrive": {
+            "title": "Seiko Spring Drive",
+            "description": "El Spring Drive es la innovación más revolucionaria en relojería moderna. Combina un muelle real mecánico con un regulador electrónico de cuarzo, logrando la precisión del cuarzo (+/- 1 segundo por día) con el movimiento continuo y silencioso de las manecillas que solo un movimiento mecánico puede ofrecer. El resultado es un barrido perfectamente suave sin el característico tic-tac.",
+            "models": [
+              {
+                "model": "Grand Seiko SBGA413 Spring",
+                "price": "$5,800-6,200",
+                "highlight": "Esfera Snowflake, 72 horas de reserva, precisión ±1 seg/día"
+              },
+              {
+                "model": "Grand Seiko SBGJ219 GMT",
+                "price": "$6,000-6,500",
+                "highlight": "Función GMT, calibre 9R66, acabados Zaratsu"
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "title": "El Futuro de la Relojería",
+          "content": "Estas tecnologías alternativas representan la vanguardia de la innovación relojera. Ya sea que busques la conveniencia ecológica del solar, la ingeniosa generación de energía del Kinetic, o la perfección técnica del Spring Drive, cada tecnología ofrece una propuesta única que trasciende los límites tradicionales entre movimientos mecánicos y de cuarzo."
         }
       }
     }
