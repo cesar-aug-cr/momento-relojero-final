@@ -1787,6 +1787,39 @@
               "reason": "Les montres vintage sont principalement manuelles. Si vous collectionnez des pièces anciennes, vous apprendrez à les aimer."
             }
           ]
+        },
+        "famousExamples": {
+          "title": "Movimientos de Cuerda Manual Icónicos",
+          "models": [
+            {
+              "brand": "Unitas/ETA",
+              "model": "6497/6498",
+              "price": "17 rubíes, 18,000 vph, 46h de reserva",
+              "highlight": "Movimiento de bolsillo clásico adaptado para relojes de pulsera, con acabados personalizables."
+            },
+            {
+              "brand": "Patek Philippe",
+              "model": "215 PS",
+              "price": "18 rubíes, 28,800 vph, 44h de reserva",
+              "highlight": "Movimiento ultra-delgado de solo 2.55mm de grosor, acabado a mano según los estándares del Sello de Ginebra."
+            },
+            {
+              "brand": "A. Lange & Söhne",
+              "model": "L051.1",
+              "price": "45 rubíes, 21,600 vph, 72h de reserva",
+              "highlight": "Obra maestra alemana con platina de tres cuartos y puente de balance grabado a mano."
+            },
+            {
+              "brand": "Valjoux",
+              "model": "7750",
+              "price": "25 rubíes, 28,800 vph, 48h de reserva",
+              "highlight": "Cronógrafo automático robusto usado en miles de relojes de lujo y deportivos."
+            }
+          ]
+        },
+        "conclusion": {
+          "title": "La Pureza del Remontaje Manual",
+          "content": "Los relojes de cuerda manual ofrecen la experiencia más auténtica de la relojería mecánica. El ritual diario de dar cuerda crea una conexión íntima con tu reloj que trasciende la simple medición del tiempo."
         }
       },
       "automatic": {
@@ -1945,6 +1978,39 @@
               "tasks": "Si la précision dérive >+15 sec/jour, service avant. Si arrêt inattendu, service immédiat."
             }
           ]
+        },
+        "famousExamples": {
+          "title": "Movimientos Automáticos Legendarios",
+          "models": [
+            {
+              "brand": "ETA",
+              "model": "2824-2",
+              "price": "25 rubíes, 28,800 vph, 38h de reserva",
+              "highlight": "El caballo de batalla de la industria, usado por cientos de marcas y conocido por su fiabilidad."
+            },
+            {
+              "brand": "Seiko",
+              "model": "6R35",
+              "price": "23 rubíes, 21,600 vph, 70h de reserva",
+              "highlight": "Movimiento japonés robusto con excelente reserva de marcha y precisión superior."
+            },
+            {
+              "brand": "Rolex",
+              "model": "3235",
+              "price": "31 rubíes, 28,800 vph, 70h de reserva, Cronómetro",
+              "highlight": "Movimiento interno con escape Chronergy patentado y precisión certificada de -2/+2 segundos por día."
+            },
+            {
+              "brand": "Omega",
+              "model": "8800",
+              "price": "35 rubíes, 25,200 vph, 55h de reserva, Co-Axial",
+              "highlight": "Movimiento Master Chronometer resistente a campos magnéticos de hasta 15,000 gauss."
+            }
+          ]
+        },
+        "conclusion": {
+          "title": "El Arte del Movimiento Automático",
+          "content": "Los relojes automáticos representan la perfecta fusión entre tradición e innovación. Son máquinas vivientes que capturan la esencia de siglos de maestría relojera, ofreciendo una experiencia única que ninguna batería puede replicar."
         }
       },
       "other": {
