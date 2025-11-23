@@ -2028,6 +2028,52 @@
                 "highlight": "Athletic performance, ultra-long battery life"
               }
             ]
+          },
+          "smartwatches": {
+            "title": "Relojes Mecánicos vs. Smartwatches: El Debate",
+            "content": "Los entusiastas de relojes a menudo preguntan: ¿Debería comprar un smartwatch o un reloj mecánico? La respuesta: ambos sirven propósitos diferentes. Los smartwatches son herramientas - rastrean fitness, notificaciones, navegación. Los mecánicos son objetos - artesanía, herencia, arte. Un Apple Watch te dirá tu ritmo cardíaco y te permitirá responder textos. Un Rolex Submariner te hará sentir conectado a décadas de historia relojera. Muchos entusiastas usan un smartwatch durante la semana para funcionalidad, luego cambian a un mecánico los fines de semana para disfrute. No necesitas elegir lados en esta guerra. Posee ambos. Usa cada uno cuando tenga sentido."
+          },
+          "choosing": {
+            "title": "Elegir el Reloj Digital Correcto",
+            "sections": [
+              {
+                "title": "Para Durabilidad Extrema",
+                "content": "G-Shock es imbatible. Si trabajas en construcción, militares, primeros respondedores o simplemente eres duro con los relojes, nada más puede tomar el castigo."
+              },
+              {
+                "title": "Para Rastreo de Fitness",
+                "content": "Apple Watch (usuarios de iPhone) o Samsung Galaxy Watch (Android) ofrecen el mejor rastreo de salud y ecosistema de aplicaciones. Garmin/Suunto para atletas serios."
+              },
+              {
+                "title": "Para Actividades al Aire Libre",
+                "content": "Casio Pro Trek o Garmin Fenix con sensores ABC (altímetro, barómetro, brújula) y GPS."
+              },
+              {
+                "title": "Para Simplicidad",
+                "content": "Casio F-91W. $15, hace todo lo básico, batería dura años, pesa nada."
+              }
+            ]
+          },
+          "proTips": {
+            "title": "Consejos de Expertos para Relojes Digitales",
+            "tips": [
+              {
+                "title": "La duración de batería importa",
+                "content": "Los smartwatches típicamente duran 1-2 días. Los digitales básicos duran años. Los G-Shocks solares nunca necesitan baterías. Considera tu estilo de vida."
+              },
+              {
+                "title": "Los digitales son relojes de herramienta perfectos",
+                "content": "Usa un digital para actividades donde te preocuparías por dañar un reloj mecánico: deportes, construcción, jardinería."
+              },
+              {
+                "title": "Los smartwatches se deprecian rápido",
+                "content": "Un Apple Watch pierde valor rápidamente. Los relojes mecánicos mantienen o aprecian valor. Compra smartwatches para funcionalidad, no como inversión."
+              },
+              {
+                "title": "Los G-Shocks se coleccionan",
+                "content": "Ediciones limitadas de G-Shock, colaboraciones y modelos vintage se han vuelto coleccionables. El mercado de G-Shock es activo."
+              }
+            ]
           }
         },
         "smartwatches": {

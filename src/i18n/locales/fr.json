@@ -519,11 +519,15 @@
               "description": "Acier inoxydable ou titane",
               "detail": "Doit résister aux chocs, à la pression et à l'eau salée corrosive"
             }
-          ]
+          ],
+          "intro": "Los verdaderos relojes de buceo deben cumplir con los estándares ISO 6425, que especifican requisitos rigurosos para uso submarino. Sin embargo, muchos relojes adoptan el estilo de buceo sin certificación completa. Aquí están las características esenciales que definen a los relojes de buceo:"
         },
         "history": {
           "title": "Histoire des Montres de Plongée",
-          "content": "La première véritable montre de plongée était la Rolex Oyster (1926), avec son boîtier étanche révolutionnaire. Mais le genre a explosé dans les années 1950 avec la Rolex Submariner (1953), Blancpain Fifty Fathoms (1953) et Omega Seamaster 300 (1957). Ces montres sont nées de la demande militaire - les plongeurs de combat français, britanniques et américains avaient besoin d'outils de chronométrage fiables pour les opérations sous-marines. Le capitaine Jacques Cousteau a popularisé les montres de plongée auprès du public grâce à ses documentaires, souvent portant une Submariner ou Fifty Fathoms. Aujourd'hui, les montres de plongée sont devenues des icônes de style portées bien plus souvent au bureau qu'en plongée."
+          "paragraphs": [
+            "El Rolex Submariner y el Blancpain Fifty Fathoms, ambos lanzados en 1953, son considerados los primeros verdaderos relojes de buceo. Resolvieron un problema real: permitir a los buzos rastrear el tiempo de fondo de manera segura usando el bisel giratorio. Antes de que las computadoras de buceo se volvieran ubicuas en los años 80-90, un reloj de buceo era equipo de seguridad esencial.",
+            "Hoy, las computadoras de buceo han reemplazado en gran medida a los relojes para buceo real, pero los relojes de buceo permanecen inmensamente populares. Su herencia de herramienta, estilo versátil y calidad de construcción robusta los hacen relojes diarios ideales. Un Rolex Submariner está igualmente cómodo en una expedición de buceo, en una reunión de negocios o en una cena formal."
+          ]
         },
         "popular": {
           "title": "Montres de Plongée Populaires",
@@ -585,6 +589,25 @@
               "factor": "Mouvement : Quartz vs. Automatique",
               "guidance": "Le quartz est plus précis et nécessite moins d'entretien. L'automatique offre romance mécanique et héritage. Les deux sont légitimes dans les montres de plongée."
             }
+          ],
+          "intro": "Los relojes de buceo a menudo se recomiendan como primeras compras de relojes de lujo, y con razón. Son versátiles, duraderos y mantienen bien el valor. Aquí está cómo elegir:",
+          "sections": [
+            {
+              "title": "El Tamaño Importa",
+              "content": "Los relojes de buceo modernos varían de 38mm a 45mm. Más grande no siempre es mejor: asegúrate de que las asas no sobresalgan de tu muñeca. La mayoría de los hombres con muñecas de 6.5-7 pulgadas encuentran ideal 40-42mm. Prueba relojes si es posible, ya que la medida de asa a asa importa más que el diámetro."
+            },
+            {
+              "title": "Material del Bisel",
+              "content": "Los insertos de aluminio son tradicionales y desarrollan carácter (rayones) con el tiempo. Los biseles cerámicos son virtualmente a prueba de rayones pero más caros. Ambos son opciones legítimas dependiendo de tu preferencia por pátina versus condición prístina."
+            },
+            {
+              "title": "Elección de Movimiento",
+              "content": "Los movimientos automáticos son tradicionales y preferidos por entusiastas. El cuarzo ofrece precisión superior y menor mantenimiento. Para buceo real, el cuarzo es posiblemente más práctico. Para coleccionar y disfrutar, el automático es más atractivo."
+            },
+            {
+              "title": "Resistencia al Agua: ¿Cuánto Necesitas?",
+              "content": "200m es suficiente para natación recreativa y snorkel. 300m es el estándar profesional para buceo SCUBA. Clasificaciones arriba de 300m son excesivas a menos que seas buzo comercial, pero proporcionan tranquilidad y a menudo indican calidad de construcción superior. No compres un reloj de buceo con menos de 200m de resistencia al agua."
+            }
           ]
         },
         "proTips": {
@@ -611,6 +634,10 @@
         "vs": {
           "title": "Montre de Plongée vs. Montre Habillée : La Question Éternelle",
           "content": "Les passionnés débattent sans fin. Les montres de plongée sont polyvalentes, durables et peuvent s'habiller. Les montres habillées sont élégantes, fines et vraiment formelles. La vérité : vous avez besoin des deux. Une Submariner avec un smoking est questionnable au mieux. Une Calatrava à la plage est tout aussi inappropriée. La montre de plongée est votre outil quotidien polyvalent. La montre habillée est pour quand les enjeux sont élevés et les premières impressions comptent. Si vous ne pouvez en avoir qu'une, choisissez selon votre style de vie. Si vous portez un costume quotidiennement, prenez une montre habillée. Si votre vie est plus décontractée, la montre de plongée a plus de sens."
+        },
+        "paradox": {
+          "title": "La Paradoja del Reloj de Buceo",
+          "content": "Aquí está la verdad divertida: la mayoría de los dueños de relojes de buceo nunca bucean. Estos relojes fueron diseñados para exploración submarina, pero pasan sus vidas en oficinas, campos de golf y cenas. El Rolex Submariner es más probable que vea una sala de conferencias que un arrecife de coral. Pero eso está perfectamente bien. Los relojes de buceo han trascendido sus orígenes utilitarios para convertirse en íconos de estilo. Su construcción robusta, estética deportiva y herencia de herramienta los hacen compañeros diarios perfectos. Ya sea que estés buceando 100 pies bajo el agua o buceando en una hoja de cálculo, un reloj de buceo está listo para la acción."
         }
       },
       "dress": {
@@ -1322,36 +1349,36 @@
         },
         "intro": "Les montres digitales ont parcouru un long chemin depuis les écrans LED rouges des années 70. Aujourd'hui, elles englobent des G-Shocks légendaires pratiquement indestructibles aux smartwatches sophistiquées qui suivent votre santé, paient vos achats et vous gardent connecté. Alors que les puristes horlogers peuvent dédaigner les digitales, elles représentent une vraie innovation et résolvent des problèmes que les montres mécaniques ne peuvent pas. Une smartwatch peut suivre votre rythme cardiaque, vous naviguer à travers des villes inconnues et vous permettre de prendre des appels. Un G-Shock peut survivre à une chute d'un immeuble. Les montres mécaniques sont belles, mais les digitales sont pratiques. Il y a de la place dans chaque collection pour les deux.",
         "whatMakes": {
-          "title": "Types de Montres Digitales",
+          "title": "Tipos de Relojes Digitales",
           "categories": [
             {
-              "type": "Digitales LCD Classiques",
-              "description": "Écrans à cristaux liquides affichant le temps en format numérique",
-              "features": "Économiques, batterie longue durée, multifonctions",
+              "type": "LCD Digitales Clásicos",
+              "description": "Pantallas de cristal líquido mostrando tiempo en formato numérico",
+              "features": "Económicos, batería de larga duración, multifuncionales",
               "examples": "Casio F-91W, Timex Ironman"
             },
             {
-              "type": "Digitales Robustes (G-Shock)",
-              "description": "Ultra-durables avec protection contre les chocs",
-              "features": "Résistance aux chocs, 200m WR, alarmes multiples, chronomètre",
-              "examples": "Casio G-Shock série DW, Mudmaster, Rangeman"
+              "type": "Digitales Resistentes (G-Shock)",
+              "description": "Ultra-duraderos con protección contra golpes",
+              "features": "Resistencia a golpes, 200m WR, múltiples alarmas, cronómetro",
+              "examples": "Casio G-Shock serie DW, Mudmaster, Rangeman"
             },
             {
               "type": "Digitales Ana-Digi",
-              "description": "Hybrides combinant aiguilles analogiques avec affichage digital",
-              "features": "Le meilleur des deux mondes : esthétique traditionnelle avec fonctions digitales",
-              "examples": "Casio G-Shock série GA, Seiko Arnie, Breitling Aerospace"
+              "description": "Híbridos combinando agujas analógicas con display digital",
+              "features": "Lo mejor de ambos mundos: estética tradicional con características digitales",
+              "examples": "Casio G-Shock serie GA, Seiko Arnie, Breitling Aerospace"
             },
             {
               "type": "Smartwatches",
-              "description": "Ordinateurs portables avec connectivité smartphone",
-              "features": "Suivi fitness, notifications, paiements, applications, surveillance santé",
+              "description": "Computadoras portátiles con conectividad smartphone",
+              "features": "Rastreo de fitness, notificaciones, pagos, aplicaciones, monitoreo de salud",
               "examples": "Apple Watch, Samsung Galaxy Watch, Garmin Fenix"
             },
             {
-              "type": "Digitales de Luxe",
-              "description": "Montres digitales de marques de luxe",
-              "features": "Matériaux premium, technologie innovante, haute horlogerie",
+              "type": "Digitales de Lujo",
+              "description": "Relojes digitales de marcas de lujo",
+              "features": "Materiales premium, tecnología innovadora, alta relojería",
               "examples": "TAG Heuer Connected, Urwerk EMC, MB&F HM5"
             }
           ]
@@ -1362,7 +1389,94 @@
         },
         "gshock": {
           "title": "Le Phénomène G-Shock",
-          "content": "Aucune discussion sur les montres digitales n'est complète sans G-Shock. Ces montres japonaises pratiquement indestructibles sont devenues des icônes culturelles. La construction de protection contre les chocs signifie que le module flottant est suspendu à l'intérieur du boîtier, protégé des impacts. Elles sont résistantes à l'eau à 200m. Beaucoup de modèles présentent énergie solaire, synchronisation radio atomique et connectivité Bluetooth. Elles sont portées par le personnel militaire, les premiers intervenants, les athlètes extrêmes et les passionnés de mode. Modèles populaires : DW-5600 (le 'carré' classique), GA-2100 (le 'CasiOak' fin), Mudmaster, Rangeman, Frogman. Les G-Shocks vont de 50 € à 5 000 €+ pour les éditions collaboratives limitées. Un G-Shock est sans doute la montre la plus pratique que vous pouvez posséder - vous n'avez jamais besoin de vous inquiéter à son sujet."
+          "content": "Aucune discussion sur les montres digitales n'est complète sans G-Shock. Ces montres japonaises pratiquement indestructibles sont devenues des icônes culturelles. La construction de protection contre les chocs signifie que le module flottant est suspendu à l'intérieur du boîtier, protégé des impacts. Elles sont résistantes à l'eau à 200m. Beaucoup de modèles présentent énergie solaire, synchronisation radio atomique et connectivité Bluetooth. Elles sont portées par le personnel militaire, les premiers intervenants, les athlètes extrêmes et les passionnés de mode. Modèles populaires : DW-5600 (le 'carré' classique), GA-2100 (le 'CasiOak' fin), Mudmaster, Rangeman, Frogman. Les G-Shocks vont de 50 € à 5 000 €+ pour les éditions collaboratives limitées. Un G-Shock est sans doute la montre la plus pratique que vous pouvez posséder - vous n'avez jamais besoin de vous inquiéter à son sujet.",
+          "icons": {
+            "title": "Digitales y Smartwatches Icónicos",
+            "models": [
+              {
+                "brand": "Casio",
+                "model": "G-Shock DW-5600",
+                "price": "$50 - $100",
+                "highlight": "El G-Shock original y definitivo, prácticamente indestructible"
+              },
+              {
+                "brand": "Casio",
+                "model": "F-91W",
+                "price": "$10 - $20",
+                "highlight": "El digital más vendido en la historia, icono de funcionalidad"
+              },
+              {
+                "brand": "Apple",
+                "model": "Apple Watch Ultra",
+                "price": "$800 - $900",
+                "highlight": "El smartwatch más avanzado, rastreo de salud integral"
+              },
+              {
+                "brand": "Garmin",
+                "model": "Fenix 7",
+                "price": "$700 - $900",
+                "highlight": "Smartwatch multi-deporte, batería de larga duración"
+              },
+              {
+                "brand": "Casio",
+                "model": "Pro Trek",
+                "price": "$200 - $500",
+                "highlight": "Sensores ABC (altímetro, barómetro, brújula), aventuras al aire libre"
+              },
+              {
+                "brand": "Suunto",
+                "model": "9 Peak Pro",
+                "price": "$500 - $600",
+                "highlight": "Rendimiento atlético, batería de ultra-larga duración"
+              }
+            ]
+          },
+          "smartwatches": {
+            "title": "Relojes Mecánicos vs. Smartwatches: El Debate",
+            "content": "Los entusiastas de relojes a menudo preguntan: ¿Debería comprar un smartwatch o un reloj mecánico? La respuesta: ambos sirven propósitos diferentes. Los smartwatches son herramientas - rastrean fitness, notificaciones, navegación. Los mecánicos son objetos - artesanía, herencia, arte. Un Apple Watch te dirá tu ritmo cardíaco y te permitirá responder textos. Un Rolex Submariner te hará sentir conectado a décadas de historia relojera. Muchos entusiastas usan un smartwatch durante la semana para funcionalidad, luego cambian a un mecánico los fines de semana para disfrute. No necesitas elegir lados en esta guerra. Posee ambos. Usa cada uno cuando tenga sentido."
+          },
+          "choosing": {
+            "title": "Elegir el Reloj Digital Correcto",
+            "sections": [
+              {
+                "title": "Para Durabilidad Extrema",
+                "content": "G-Shock es imbatible. Si trabajas en construcción, militares, primeros respondedores o simplemente eres duro con los relojes, nada más puede tomar el castigo."
+              },
+              {
+                "title": "Para Rastreo de Fitness",
+                "content": "Apple Watch (usuarios de iPhone) o Samsung Galaxy Watch (Android) ofrecen el mejor rastreo de salud y ecosistema de aplicaciones. Garmin/Suunto para atletas serios."
+              },
+              {
+                "title": "Para Actividades al Aire Libre",
+                "content": "Casio Pro Trek o Garmin Fenix con sensores ABC (altímetro, barómetro, brújula) y GPS."
+              },
+              {
+                "title": "Para Simplicidad",
+                "content": "Casio F-91W. $15, hace todo lo básico, batería dura años, pesa nada."
+              }
+            ]
+          },
+          "proTips": {
+            "title": "Consejos de Expertos para Relojes Digitales",
+            "tips": [
+              {
+                "title": "La duración de batería importa",
+                "content": "Los smartwatches típicamente duran 1-2 días. Los digitales básicos duran años. Los G-Shocks solares nunca necesitan baterías. Considera tu estilo de vida."
+              },
+              {
+                "title": "Los digitales son relojes de herramienta perfectos",
+                "content": "Usa un digital para actividades donde te preocuparías por dañar un reloj mecánico: deportes, construcción, jardinería."
+              },
+              {
+                "title": "Los smartwatches se deprecian rápido",
+                "content": "Un Apple Watch pierde valor rápidamente. Los relojes mecánicos mantienen o aprecian valor. Compra smartwatches para funcionalidad, no como inversión."
+              },
+              {
+                "title": "Los G-Shocks se coleccionan",
+                "content": "Ediciones limitadas de G-Shock, colaboraciones y modelos vintage se han vuelto coleccionables. El mercado de G-Shock es activo."
+              }
+            ]
+          }
         },
         "icons": {
           "title": "Digitales et Smartwatches Iconiques",
@@ -1450,6 +1564,621 @@
               "content": "Les éditions limitées de G-Shock, collaborations et modèles vintage sont devenus collectionnables. Le marché G-Shock est actif."
             }
           ]
+        }
+      },
+      "movements": {
+        "quartz": {
+          "hero": {
+            "title": "Movimientos de Cuarzo",
+            "subtitle": "Precisión Electrónica",
+            "description": "Los movimientos de cuarzo revolucionaron la relojería en los años 70, ofreciendo precisión superior, bajo mantenimiento y asequibilidad que democratizó los relojes de calidad."
+          },
+          "intro": "El movimiento de cuarzo es a menudo menospreciado por puristas, pero representa una de las innovaciones más importantes en la historia de la relojería. Cuando Seiko lanzó el Astron en 1969, el primer reloj de cuarzo comercial, cambió todo. Los relojes mecánicos que se desviaban 5-10 segundos por día fueron repentinamente menos precisos que los cuarzos económicos que se desviaban 15 segundos por mes. La 'Crisis del Cuarzo' casi destruyó la relojería suiza en los años 70-80. Hoy, el cuarzo y lo mecánico coexisten: el cuarzo domina la producción global, mientras los mecánicos mantienen prestigio entre coleccionistas. Ambos tienen su lugar.",
+          "howItWorks": {
+            "title": "Cómo Funciona un Movimiento de Cuarzo",
+            "description": "El cuarzo utiliza el efecto piezoeléctrico para mantener el tiempo con precisión increíble:",
+            "steps": [
+              {
+                "step": "Fuente de Poder",
+                "detail": "Una batería proporciona corriente eléctrica al circuito del reloj."
+              },
+              {
+                "step": "Oscilador de Cristal de Cuarzo",
+                "detail": "La electricidad hace vibrar un cristal de cuarzo a 32,768 Hz (32,768 veces por segundo) - una frecuencia increíblemente estable."
+              },
+              {
+                "step": "Circuito Integrado",
+                "detail": "Un chip de computadora cuenta estas vibraciones y convierte 32,768 oscilaciones en exactamente un segundo."
+              },
+              {
+                "step": "Motor Paso a Paso",
+                "detail": "El CI envía un pulso eléctrico una vez por segundo a un pequeño motor que mueve las agujas."
+              }
+            ]
+          },
+          "advantages": {
+            "title": "Ventajas de los Movimientos de Cuarzo",
+            "benefits": [
+              {
+                "title": "Precisión Superior",
+                "description": "±15 segundos por mes vs. ±5-10 segundos por día para mecánicos. Relojes de cuarzo de alta precisión pueden lograr ±5 segundos por año."
+              },
+              {
+                "title": "Bajo Mantenimiento",
+                "description": "Cambio de batería cada 2-5 años es típicamente todo el mantenimiento necesario. Sin necesidad de servicio costoso cada 5-7 años."
+              },
+              {
+                "title": "Asequibilidad",
+                "description": "Los movimientos de cuarzo son económicos de producir, haciendo relojes de calidad accesibles. Un cuarzo de $50 puede superar un mecánico de $500 en precisión."
+              },
+              {
+                "title": "Durabilidad",
+                "description": "Menos partes móviles significan menos cosas que se rompan. El cuarzo maneja golpes mejor que los mecánicos delicados."
+              },
+              {
+                "title": "Delgadez",
+                "description": "Los movimientos de cuarzo pueden ser extremadamente delgados. Relojes de vestir de cuarzo pueden ser 6-7mm de grosor."
+              }
+            ]
+          },
+          "disadvantages": {
+            "title": "Desventajas de los Movimientos de Cuarzo",
+            "drawbacks": [
+              {
+                "title": "Menos Prestigio",
+                "description": "Los cuarzos carecen del romance y artesanía de la relojería mecánica. Los coleccionistas típicamente prefieren mecánicos."
+              },
+              {
+                "title": "Dependencia de Batería",
+                "description": "Las baterías necesitan reemplazo. Los relojes mecánicos pueden durar generaciones sin baterías."
+              },
+              {
+                "title": "Movimiento de Tic-Tac",
+                "description": "La mayoría de los cuarzos 'tic-tac' una vez por segundo vs. el barrido suave de los mecánicos. (Excepciones: cuarzo de alta frecuencia)"
+              },
+              {
+                "title": "Desecho Electrónico",
+                "description": "Los circuitos electrónicos eventualmente fallan y son difíciles de reparar. Los mecánicos pueden ser reconstruidos indefinidamente."
+              },
+              {
+                "title": "Menos Conexión Emocional",
+                "description": "No hay artesanía visible, sin movimiento hipnotizante. Es funcional, no romántico."
+              }
+            ]
+          },
+          "types": {
+            "title": "Tipos de Movimientos de Cuarzo",
+            "categories": [
+              {
+                "type": "Cuarzo Estándar",
+                "description": "El movimiento de cuarzo más común. ±15-30 segundos por mes de precisión. Duración de batería de 2-3 años.",
+                "examples": "La mayoría de los relojes de cuarzo asequibles"
+              },
+              {
+                "type": "Cuarzo de Alta Precisión",
+                "description": "Cristales de cuarzo regulados térmicamente. ±5-10 segundos por año. Grand Seiko 9F logra ±10 segundos por año.",
+                "examples": "Grand Seiko 9F, Citizen Chronomaster, Breitling SuperQuartz"
+              },
+              {
+                "type": "Cuarzo Ana-Digi",
+                "description": "Combina agujas analógicas con display digital. Ofrece funcionalidad versátil.",
+                "examples": "Casio G-Shock serie GA, Breitling Aerospace"
+              },
+              {
+                "type": "Cuarzo Solar",
+                "description": "Recarga usando luz (solar o artificial). Sin cambios de batería necesarios.",
+                "examples": "Citizen Eco-Drive, Seiko Solar, Casio Tough Solar"
+              },
+              {
+                "type": "Cuarzo Termoeléctrico",
+                "description": "Impulsado por diferencia de temperatura (calor del cuerpo). Tecnología rara.",
+                "examples": "Citizen Eco-Drive Thermo"
+              }
+            ]
+          },
+          "maintenance": {
+            "title": "Mantenimiento de Relojes de Cuarzo",
+            "tasks": [
+              {
+                "task": "Cambio de Batería (Cada 2-5 Años)",
+                "description": "Cuando el reloj se detiene o la aguja de segundos salta (indicador de batería baja), reemplaza la batería. Costo: $10-30 en joyería.",
+                "tip": "Haz que revisen las juntas al reemplazar la batería para mantener la resistencia al agua."
+              },
+              {
+                "task": "Revisión de Juntas (Cada Cambio de Batería)",
+                "description": "Las juntas de goma se deterioran con el tiempo. Si tu reloj es resistente al agua, haz que las juntas sean inspeccionadas/reemplazadas al cambiar la batería."
+              },
+              {
+                "task": "Limpieza Regular",
+                "description": "Limpia la caja y cristal con paño de microfibra. Para brazaletes de metal, usa jabón suave y cepillo suave."
+              }
+            ],
+            "warning": "Nunca abras un reloj de cuarzo tú mismo a menos que sepas lo que haces. La humedad y polvo pueden arruinar el movimiento."
+          },
+          "famousExamples": {
+            "title": "Relojes de Cuarzo Famosos",
+            "models": [
+              {
+                "brand": "Grand Seiko",
+                "model": "9F Quartz",
+                "price": "$2,500 - $6,000",
+                "highlight": "El movimiento de cuarzo más prestigioso. ±10 segundos/año, artesanía exquisita"
+              },
+              {
+                "brand": "Omega",
+                "model": "Seamaster Quartz",
+                "price": "$3,000 - $5,000",
+                "highlight": "Reloj de buceo de lujo impulsado por cuarzo, ultra-preciso"
+              },
+              {
+                "brand": "Breitling",
+                "model": "Aerospace Evo",
+                "price": "$3,000 - $4,000",
+                "highlight": "SuperQuartz termalmente compensado, certificado COSC"
+              },
+              {
+                "brand": "Cartier",
+                "model": "Tank Quartz",
+                "price": "$2,500 - $4,000",
+                "highlight": "Icono de diseño, perfil delgado gracias al cuarzo"
+              },
+              {
+                "brand": "Citizen",
+                "model": "Eco-Drive",
+                "price": "$200 - $1,000",
+                "highlight": "Impulsado por luz, nunca necesita batería"
+              },
+              {
+                "brand": "Seiko",
+                "model": "Astron GPS Solar",
+                "price": "$1,500 - $3,000",
+                "highlight": "GPS + solar, ajuste de zona horaria automático"
+              }
+            ]
+          },
+          "conclusion": {
+            "title": "El Cuarzo Merece Respeto",
+            "content": "Los snobs de relojes menosprecian el cuarzo, pero es corto de miras. El cuarzo democratizó el cronometraje preciso. Un Citizen Eco-Drive de $300 te dará décadas de servicio perfecto sin mantenimiento. Un Grand Seiko 9F rivaliza con cualquier reloj mecánico en artesanía mientras supera a todos en precisión. El cuarzo no es el enemigo de lo mecánico - es complementario. Posee ambos. Usa cuarzo cuando necesites confiabilidad y precisión. Usa mecánicos cuando quieras arte y conexión con la tradición."
+          }
+        },
+        "manual": {
+          "hero": {
+            "title": "Movimientos de Cuerda Manual",
+            "subtitle": "Relojería Mecánica Pura",
+            "description": "Los relojes de cuerda manual representan la relojería en su forma más pura: sin rotores automáticos, sin baterías, solo resortes, engranajes y artesanía humana dando cuerda al tiempo."
+          },
+          "intro": "El reloj de cuerda manual es donde comenzó todo. Antes de que los automáticos hicieran la cuerda obsoleta, cada reloj mecánico requería cuerda diaria. Esta 'tarea' es vista por los entusiastas no como una carga, sino como un ritual: un momento de conexión con tu reloj, una pausa en el día para apreciar la ingeniería mecánica en tu muñeca. Los relojes de cuerda manual son típicamente más delgados que los automáticos (sin rotor voluminoso), haciendo que sean ideales para relojes de vestir. También permiten a los coleccionistas ver más del movimiento a través del fondo de cristal, ya que no hay rotor bloqueando la vista.",
+          "howItWorks": {
+            "title": "Cómo Funciona un Movimiento de Cuerda Manual",
+            "description": "La cuerda manual es maravillosamente simple en concepto:",
+            "components": [
+              {
+                "part": "Resorte Principal",
+                "function": "Un resorte metálico largo enrollado dentro de un barril. Almacena energía cuando se da cuerda."
+              },
+              {
+                "part": "Tren de Engranajes",
+                "function": "Serie de engranajes conectados que transmiten energía del resorte principal a la espiral, reduciendo velocidad del barril al volante."
+              },
+              {
+                "part": "Escape",
+                "function": "Libera energía en ráfagas controladas, creando el sonido de 'tic-tac'. La rueda de escape y paleta controlan el flujo de energía."
+              },
+              {
+                "part": "Volante y Espiral",
+                "function": "El volante oscila hacia adelante y atrás, regulado por la espiral (resorte delgado). Esto determina la precisión del reloj."
+              },
+              {
+                "part": "Mecanismo de Cuerda",
+                "function": "Girar la corona hace girar el resorte principal más apretado, almacenando energía cinética como energía potencial."
+              }
+            ]
+          },
+          "advantages": {
+            "title": "Por Qué los Coleccionistas Aman la Cuerda Manual",
+            "benefits": [
+              {
+                "title": "Perfiles Más Delgados",
+                "description": "Sin rotor automático significa que los movimientos de cuerda manual pueden ser extremadamente delgados. Perfecto para relojes de vestir elegantes."
+              },
+              {
+                "title": "Vistas de Movimiento Mejores",
+                "description": "Los fondos de cristal muestran el movimiento completo sin un rotor bloqueando la vista. Ves puentes, engranajes, escape bailando."
+              },
+              {
+                "title": "Conexión y Ritual",
+                "description": "Dar cuerda a tu reloj cada mañana crea una relación con él. Es meditativo, intencional, satisfactorio."
+              },
+              {
+                "title": "Tradición y Herencia",
+                "description": "Los movimientos de cuerda manual son cómo los relojes fueron hechos durante siglos. Es relojería pura y sin compromisos."
+              },
+              {
+                "title": "Menos Complejidad",
+                "description": "Menos partes que los automáticos (sin sistema de cuerda automática) significa potencialmente menos que salga mal."
+              }
+            ]
+          },
+          "disadvantages": {
+            "title": "Consideraciones de la Cuerda Manual",
+            "drawbacks": [
+              {
+                "title": "Requiere Cuerda Diaria",
+                "description": "Debes recordar dar cuerda a tu reloj diariamente (o cada 2-3 días dependiendo de la reserva de marcha). Olvídalo y se detiene."
+              },
+              {
+                "title": "No es 'Configura y Olvida'",
+                "description": "No puedes simplemente usar un manual como usas un automático o cuarzo. Requiere participación activa."
+              },
+              {
+                "title": "Posible Sobre-Cuerda",
+                "description": "Aunque difícil con diseños modernos, técnicamente puedes dar demasiada cuerda y dañar el resorte principal si fuerzas la corona."
+              },
+              {
+                "title": "No es Ideal para Uso Diario Olvidadizo",
+                "description": "Si tiendes a olvidar cosas, un manual se detendrá. Los automáticos se dan cuerda con el movimiento; el cuarzo solo funciona."
+              }
+            ]
+          },
+          "howToWind": {
+            "title": "Cómo Dar Cuerda a un Reloj Manual",
+            "instructions": [
+              {
+                "step": "1. Retira el Reloj",
+                "detail": "Quítate el reloj de tu muñeca. Dar cuerda mientras está puesto puede ejercer tensión en la corona y el tubo de la corona."
+              },
+              {
+                "step": "2. Desatornilla la Corona (Si es Atornillada)",
+                "detail": "Si tu reloj tiene corona atornillada (relojes de buceo), gírala en sentido antihorario hasta que se suelte."
+              },
+              {
+                "step": "3. Gira la Corona en Sentido Horario",
+                "detail": "Gira suavemente la corona en sentido horario. Sentirás resistencia - esto es el resorte principal enrollándose."
+              },
+              {
+                "step": "4. Detente Cuando Sientas Resistencia",
+                "detail": "Cuando la corona ya no gira fácilmente, el reloj está completamente enrollado. No fuerces - los relojes modernos tienen protección contra sobre-cuerda, pero no abuses."
+              },
+              {
+                "step": "5. Vuelve a Atornillar (Si Aplica)",
+                "detail": "Si tu reloj tiene corona atornillada, enróscala de nuevo presionando suavemente hacia dentro mientras giras en sentido horario."
+              }
+            ],
+            "tips": [
+              "Dale cuerda a la misma hora cada día para rutina",
+              "Cuerda completa diaria es ideal, incluso si tiene 48+ horas de reserva de marcha",
+              "Nunca des cuerda mientras uses el reloj - ejerces tensión en el mecanismo"
+            ]
+          },
+          "famousCalibres": {
+            "title": "Calibres Manuales Legendarios",
+            "movements": [
+              {
+                "brand": "Patek Philippe",
+                "calibre": "Calibre 240",
+                "description": "Ultra-delgado (solo 2.53mm), micro-rotor, obras maestras de ingeniería"
+              },
+              {
+                "brand": "A. Lange & Söhne",
+                "calibre": "Calibres Lange",
+                "description": "Acabado alemán exquisito, montaje/desmontaje doble"
+              },
+              {
+                "brand": "Omega",
+                "calibre": "Calibre 321",
+                "description": "El movimiento Speedmaster original, usado en la luna"
+              },
+              {
+                "brand": "Vacheron Constantin",
+                "calibre": "Calibre 4400",
+                "description": "Delgado, hermosamente acabado, manufactura interna"
+              },
+              {
+                "brand": "Seiko",
+                "calibre": "6R15",
+                "description": "Cuerda manual asequible pero confiable en modelos Presage"
+              }
+            ]
+          },
+          "whenToChoose": {
+            "title": "Cuándo Elegir un Reloj de Cuerda Manual",
+            "scenarios": [
+              {
+                "situation": "Relojes de Vestir",
+                "reason": "La delgadez de los movimientos manuales los hace perfectos para relojes de vestir elegantes que deben deslizarse bajo puños de camisa."
+              },
+              {
+                "situation": "Apreciación de Movimiento",
+                "reason": "Si te encanta observar movimientos a través de fondos de cristal, los manuales ofrecen las mejores vistas sin obstáculos por rotores."
+              },
+              {
+                "situation": "Ritual y Conexión",
+                "reason": "Si valoras el ritual diario de dar cuerda y conectarte con tu reloj, la cuerda manual es profundamente satisfactoria."
+              },
+              {
+                "situation": "Colección Vintage",
+                "reason": "Los relojes vintage son predominantemente manuales. Si coleccionas piezas antiguas, aprenderás a amarlos."
+              }
+            ]
+          }
+        },
+        "automatic": {
+          "hero": {
+            "title": "Movimientos Automáticos",
+            "subtitle": "Ingeniería de Auto-Cuerda",
+            "description": "Los relojes automáticos combinan lo mejor de lo mecánico y la conveniencia: la artesanía de la relojería tradicional con la magia de nunca necesitar dar cuerda manualmente."
+          },
+          "intro": "El movimiento automático (también llamado 'de auto-cuerda') es la expresión máxima de la relojería mecánica conveniente. Inventado por Abraham-Louis Perrelet en 1770 pero perfeccionado en el siglo XX, el mecanismo automático usa el movimiento natural de tu muñeca para dar cuerda al resorte principal. Usas el reloj, el rotor gira, el reloj se mantiene enrollado. Es la solución elegante a 'olvidé dar cuerda a mi reloj' mientras mantiene toda la artesanía mecánica que los coleccionistas aman. Los automáticos representan aproximadamente 90% de los relojes mecánicos modernos - desde Seiko 5 de nivel de entrada hasta Rolex, Omega y Patek Philippe.",
+          "howItWorks": {
+            "title": "Cómo Funciona un Movimiento Automático",
+            "description": "Los automáticos son esencialmente movimientos de cuerda manual con un mecanismo de auto-cuerda agregado:",
+            "mechanism": [
+              {
+                "component": "Rotor (Masa Oscilante)",
+                "function": "Un peso semi-circular montado en rodamientos que gira libremente. El movimiento de tu muñeca hace girar el rotor."
+              },
+              {
+                "component": "Sistema de Transferencia de Cuerda",
+                "function": "Engranajes y embragues convierten la rotación del rotor (en cualquier dirección) en cuerda unidireccional del resorte principal."
+              },
+              {
+                "component": "Mecanismo Anti-Reversa",
+                "function": "Previene que el resorte principal se desenrolle cuando el rotor gira en dirección inversa."
+              },
+              {
+                "component": "Resorte Principal",
+                "function": "Almacena energía de la cuerda automática y la cuerda manual (la mayoría de los automáticos también pueden ser enrollados manualmente)."
+              },
+              {
+                "component": "Movimiento Base",
+                "function": "El mismo tren de engranajes, escape y volante que un manual. El sistema automático solo agrega el mecanismo de auto-cuerda."
+              }
+            ]
+          },
+          "powerReserve": {
+            "title": "Entendiendo la Reserva de Marcha",
+            "explanation": "La reserva de marcha es cuánto tiempo funciona un reloj automático después de ser completamente enrollado sin movimiento adicional o cuerda manual:",
+            "ranges": [
+              {
+                "duration": "38-42 Horas",
+                "description": "Estándar para la mayoría de los automáticos de nivel de entrada a medio. Requiere uso diario o enrollador de reloj.",
+                "examples": "Seiko 5, muchos movimientos ETA/Sellita"
+              },
+              {
+                "duration": "48-72 Horas",
+                "description": "Común en automáticos modernos de calidad. Puedes quitártelo por la noche y durante todo el día siguiente sin detenerse.",
+                "examples": "Rolex (70hr), Omega Co-Axial (60hr), Tudor"
+              },
+              {
+                "duration": "80-100+ Horas",
+                "description": "Reservas de marcha extendida usando barriles dobles o diseño de resorte principal optimizado.",
+                "examples": "Omega Master Chronometer (60hr), Powermatic 80 (80hr)"
+              },
+              {
+                "duration": "7-10 Días",
+                "description": "Reservas de marcha extra-largas en piezas de alta relojería usando barriles múltiples.",
+                "examples": "IWC Big Pilot (7 días), Panerai 8 Days"
+              }
+            ]
+          },
+          "winding": {
+            "title": "Dar Cuerda y Usar Automáticos",
+            "practices": [
+              {
+                "topic": "Cuerda Manual Inicial",
+                "advice": "Cuando configures un automático detenido, dale 20-30 vueltas de corona manual para iniciar el movimiento. Luego déjalo enrollarse automáticamente."
+              },
+              {
+                "topic": "Uso Diario",
+                "advice": "Simplemente usa el reloj normalmente. 8+ horas de uso mantendrán la mayoría de los automáticos completamente enrollados."
+              },
+              {
+                "topic": "Enrolladores de Reloj",
+                "advice": "Si tienes múltiples automáticos, un enrollador de reloj mantiene los no usados enrollados y funcionando. Útil para relojes con calendario perpetuo que es difícil de resetear."
+              },
+              {
+                "topic": "Dejándolo Detenerse",
+                "advice": "Está perfectamente bien dejar que los automáticos se detengan. Simplemente reinicia cuando quieras usarlo de nuevo. No daña el movimiento."
+              }
+            ]
+          },
+          "advantages": {
+            "title": "Ventajas de los Movimientos Automáticos",
+            "benefits": [
+              {
+                "title": "Sin Cuerda Manual Diaria",
+                "description": "Usa el reloj y permanece enrollado. Configura y olvida (mientras lo uses regularmente)."
+              },
+              {
+                "title": "Artesanía Mecánica",
+                "description": "Todo el romanticismo y artesanía de la relojería mecánica sin la tarea de cuerda manual."
+              },
+              {
+                "title": "Observar el Rotor",
+                "description": "A través de fondos de cristal, ver el rotor girar con el movimiento es hipnotizante y hermoso."
+              },
+              {
+                "title": "Retención de Valor",
+                "description": "Los automáticos de marcas de calidad mantienen/aprecian valor mejor que el cuarzo."
+              },
+              {
+                "title": "Sin Baterías Nunca",
+                "description": "Como todos los mecánicos, los automáticos nunca necesitan baterías. Solo servicio cada 5-7 años."
+              }
+            ]
+          },
+          "famousMovements": {
+            "title": "Calibres Automáticos Legendarios",
+            "movements": [
+              {
+                "brand": "Rolex",
+                "calibre": "Calibre 3235",
+                "specs": "70 horas de reserva de marcha, -2/+2 seg/día, Chronergy escape",
+                "highlight": "El estándar de oro en automáticos de producción"
+              },
+              {
+                "brand": "Omega",
+                "calibre": "Co-Axial Master Chronometer 8900",
+                "specs": "60 horas, resistente a 15,000 gauss, METAS certificado",
+                "highlight": "Anti-magnético, precisión certificada extrema"
+              },
+              {
+                "brand": "Seiko",
+                "calibre": "6R35/4R36",
+                "specs": "70 horas de reserva de marcha, confiable, asequible",
+                "highlight": "El mejor valor en movimientos automáticos internos"
+              },
+              {
+                "brand": "ETA",
+                "calibre": "2824-2",
+                "specs": "38 horas, caballo de batalla de la industria",
+                "highlight": "Usado en miles de modelos, piezas ampliamente disponibles"
+              },
+              {
+                "brand": "Miyota",
+                "calibre": "9015",
+                "specs": "42 horas, construcción de alta calidad",
+                "highlight": "Automático japonés asequible, cuerda suave"
+              }
+            ]
+          },
+          "maintenance": {
+            "title": "Mantenimiento de Automáticos",
+            "schedule": [
+              {
+                "interval": "Diario/Semanal",
+                "tasks": "Usa regularmente o usa enrollador de reloj. Limpia con paño de microfibra."
+              },
+              {
+                "interval": "Cada 5-7 Años",
+                "tasks": "Servicio completo: desmontaje, limpieza, lubricación, reemplazo de juntas. Costo: $200-500 para marcas estándar, $500-1500+ para lujo."
+              },
+              {
+                "interval": "Según sea necesario",
+                "tasks": "Si la precisión deriva >+15 seg/día, servicio antes. Si se detiene inesperadamente, servicio inmediato."
+              }
+            ]
+          }
+        },
+        "other": {
+          "hero": {
+            "title": "Solar, Kinetic, Spring Drive y Movimientos Alternativos",
+            "subtitle": "Innovación Más Allá del Cuarzo y lo Mecánico",
+            "description": "Más allá de los movimientos tradicionales de cuarzo y mecánicos, existen tecnologías innovadoras que combinan lo mejor de ambos mundos o forjan caminos completamente nuevos."
+          },
+          "intro": "La relojería no se limita a cuarzo vs. mecánico. Varias marcas han desarrollado tecnologías híbridas y alternativas que ofrecen ventajas únicas. El Solar de Citizen elimina cambios de batería. El Kinetic de Seiko combina movimiento mecánico con precisión de cuarzo. El Spring Drive de Grand Seiko logró lo imposible: un movimiento que es mecánico y electrónico simultáneamente. Estas tecnologías representan innovación real, mostrando que la relojería no ha dejado de evolucionar.",
+          "technologies": {
+            "solar": {
+              "title": "Movimientos Impulsados por Energía Solar",
+              "brands": "Citizen Eco-Drive, Seiko Solar, Casio Tough Solar",
+              "howItWorks": "Un panel solar bajo la esfera convierte luz (solar o artificial) en electricidad, almacenada en una celda recargable. Sin cambios de batería necesarios - solo exposición a luz.",
+              "advantages": [
+                "Sin cambios de batería nunca (la celda dura 20+ años)",
+                "Ecológico - sin baterías desechables",
+                "Precisión de cuarzo con conveniencia mecánica-como",
+                "Trabaja con cualquier fuente de luz, no solo sol"
+              ],
+              "models": [
+                {
+                  "model": "Citizen Promaster Diver Eco-Drive",
+                  "price": "$300-500",
+                  "highlight": "Reloj de buceo impulsado por sol, 200m WR, sin baterías"
+                },
+                {
+                  "model": "Seiko Prospex Solar Diver",
+                  "price": "$400-600",
+                  "highlight": "Solar + resistencia al agua, funciona hasta 10 meses en oscuridad"
+                },
+                {
+                  "model": "Casio G-Shock Solar (GW-M5610)",
+                  "price": "$150",
+                  "highlight": "Solar + atómico radio-controlado, prácticamente indestructible"
+                }
+              ]
+            },
+            "kinetic": {
+              "title": "Seiko Kinetic - Movimiento Híbrido",
+              "description": "El Kinetic de Seiko (introducido en 1988) es una tecnología única que combina un rotor automático con precisión de cuarzo. En lugar de enrollar un resorte principal, el rotor genera electricidad que carga una celda y alimenta un movimiento de cuarzo.",
+              "howItWorks": "El movimiento de tu muñeca hace girar un rotor como en un automático. Pero en lugar de enrollar un resorte, el rotor impulsa un generador que produce electricidad. Esto carga una celda que alimenta un movimiento de cuarzo.",
+              "advantages": [
+                "Sin cambios de batería - impulsado por movimiento",
+                "Precisión de cuarzo (±15 seg/mes)",
+                "Satisfacción de 'auto-cuerda'",
+                "Reserva de marcha de 6 meses cuando está completamente cargado"
+              ],
+              "models": [
+                {
+                  "model": "Seiko Kinetic Diver SKA",
+                  "price": "$300-500",
+                  "highlight": "Reloj de buceo híbrido, lo mejor de mecánico + cuarzo"
+                },
+                {
+                  "model": "Seiko Kinetic GMT",
+                  "price": "$400-600",
+                  "highlight": "Funcionalidad GMT con conveniencia Kinetic"
+                }
+              ]
+            },
+            "springDrive": {
+              "title": "Spring Drive de Grand Seiko - El Santo Grial",
+              "description": "El Spring Drive es quizás la innovación más importante en la relojería desde el cuarzo. Desarrollado por Seiko durante 28 años (1977-2005), es simultáneamente mecánico y electrónico - una fusión imposible.",
+              "howItWorks": "Impulsado por un resorte principal tradicional (mecánico) pero regulado por un cristal de cuarzo electrónico (no volante). El resultado: precisión de cuarzo (±1 seg/día) con barrido perfectamente suave (sin tic-tac) y sin batería.",
+              "uniqueFeatures": [
+                "Barrido perfectamente suave - el segundero 'fluye' sin pasos",
+                "±1 segundo por día de precisión (mejor que la mayoría de los mecánicos)",
+                "Impulsado completamente por resorte principal - sin baterías",
+                "Reserva de marcha de 72 horas típica",
+                "Sonido de tic-tac silencioso (sin escape)"
+              ],
+              "philosophy": "El Spring Drive representa la filosofía de Grand Seiko de perfección: artesanía mecánica tradicional encuentra tecnología moderna para crear algo completamente nuevo.",
+              "models": [
+                {
+                  "model": "Grand Seiko Spring Drive SBGA211 'Snowflake'",
+                  "price": "$5,800",
+                  "highlight": "Esfera texturizada icónica, barrido Spring Drive, acabado exquisito"
+                },
+                {
+                  "model": "Grand Seiko Spring Drive GMT",
+                  "price": "$7,000-10,000",
+                  "highlight": "Funcionalidad GMT con precisión Spring Drive"
+                },
+                {
+                  "model": "Grand Seiko Spring Drive Diver",
+                  "price": "$8,000-12,000",
+                  "highlight": "Reloj de buceo de 600m con tecnología Spring Drive"
+                }
+              ]
+            },
+            "other": {
+              "title": "Otras Tecnologías Innovadoras",
+              "technologies": [
+                {
+                  "name": "Seiko Astron GPS Solar",
+                  "description": "Combina GPS con energía solar. Se ajusta automáticamente a zonas horarias usando señales satelitales GPS. Nunca necesita ajuste manual en viajes.",
+                  "price": "$1,500-3,000"
+                },
+                {
+                  "name": "Citizen Eco-Drive Satellite Wave",
+                  "description": "Recibe señales de tiempo de satélites GPS, se sincroniza en cualquier lugar. Impulsado por energía solar.",
+                  "price": "$600-1,500"
+                },
+                {
+                  "name": "Bulova Precisionist",
+                  "description": "Movimiento de cuarzo de alta frecuencia (262 kHz vs. 32 kHz estándar). Barrido súper-suave, precisión de ±10 seg/año.",
+                  "price": "$300-600"
+                },
+                {
+                  "name": "TAG Heuer Connected (Smartwatch de Lujo)",
+                  "description": "Smartwatch Swiss-made con materiales de lujo, movimientos intercambiables mecánicos/digitales.",
+                  "price": "$1,800-2,500"
+                }
+              ]
+            }
+          },
+          "conclusion": {
+            "title": "La Innovación Continúa",
+            "content": "Estos movimientos alternativos prueban que la relojería no es estática. Mientras los puristas pueden insistir en solo mecánicos, tecnologías como Spring Drive, Solar y Kinetic ofrecen ventajas reales. Demuestran que puedes respetar la tradición mientras abrazas la innovación. El mejor enfoque: aprecia todos los tipos de movimientos por lo que aportan a la relojería."
+          }
         }
       }
     },
