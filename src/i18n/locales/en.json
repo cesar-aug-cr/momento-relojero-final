@@ -486,1546 +486,1546 @@
     "watchTypes": {
       "dive": {
         "hero": {
-          "title": "Dive Watches",
-          "subtitle": "The Most Versatile Sports Watch",
-          "description": "Originally designed for underwater exploration, dive watches combine robust engineering, tool functionality, and timeless style perfect for daily wear."
+          "title": "Relojes de Buceo",
+          "subtitle": "El Reloj Deportivo Más Versátil",
+          "description": "Originalmente diseñados para exploración submarina, los relojes de buceo combinan ingeniería robusta, funcionalidad de herramienta y estilo atemporal perfecto para uso diario."
         },
-        "intro": "The dive watch is arguably the most popular and versatile watch style that exists. Though originally created for professional SCUBA divers, modern dive watches are worn everywhere from boardrooms to beaches. Their robust construction, high water resistance, and sporty yet elegant design make them perfect companions that can handle whatever life throws at them.",
+        "intro": "El reloj de buceo es posiblemente el estilo de reloj más popular y versátil que existe. Aunque originalmente creado para buzos profesionales de SCUBA, los relojes de buceo modernos se usan en todos lados, desde salas de juntas hasta playas. Su construcción robusta, alta resistencia al agua y diseño deportivo pero elegante los convierte en compañeros perfectos que pueden manejar cualquier cosa que la vida les presente.",
         "whatMakes": {
-          "title": "What Defines a Dive Watch?",
-          "intro": "True dive watches must meet ISO 6425 standards, which specify rigorous requirements for underwater use. However, many watches adopt dive styling without full certification. Here are the essential features that define dive watches:",
+          "title": "¿Qué Define a un Reloj de Buceo?",
+          "intro": "Los verdaderos relojes de buceo deben cumplir con los estándares ISO 6425, que especifican requisitos rigurosos para uso submarino. Sin embargo, muchos relojes adoptan el estilo de buceo sin certificación completa. Aquí están las características esenciales que definen a los relojes de buceo:",
           "features": [
             {
-              "title": "Water Resistance",
-              "description": "Minimum 200m, professional models 300m+",
-              "detail": "ISO 6425 certified dive watches must withstand 25% more than nominal depth"
+              "title": "Resistencia al Agua",
+              "description": "Mínimo 200m, modelos profesionales 300m+",
+              "detail": "Los relojes de buceo certificados ISO 6425 deben soportar 25% más que la profundidad nominal"
             },
             {
-              "title": "Rotating Bezel",
-              "description": "Unidirectional timing bezel",
-              "detail": "Prevents accidentally increasing dive time, a critical safety feature"
+              "title": "Bisel Giratorio",
+              "description": "Bisel de tiempo unidireccional",
+              "detail": "Previene incrementar accidentalmente el tiempo de buceo, una característica de seguridad crítica"
             },
             {
-              "title": "High Legibility",
-              "description": "Clear markers and super-luminova",
-              "detail": "Readable at 25cm in total darkness per ISO standards"
+              "title": "Alta Legibilidad",
+              "description": "Marcas claras y super-luminova",
+              "detail": "Legible a 25cm en oscuridad total según estándares ISO"
             },
             {
-              "title": "Screw-Down Crown",
-              "description": "Enhanced water protection",
-              "detail": "Screws into the case to create a watertight seal"
+              "title": "Corona Atornillada",
+              "description": "Protección mejorada contra agua",
+              "detail": "Se enrosca en la caja para crear un sello hermético"
             }
           ]
         },
         "history": {
-          "title": "History of Dive Watches",
+          "title": "Historia de los Relojes de Buceo",
           "paragraphs": [
-            "The Rolex Submariner and Blancpain Fifty Fathoms, both released in 1953, are considered the first true dive watches. They solved a real problem: allowing divers to safely track bottom time using the rotating bezel. Before dive computers became ubiquitous in the 80s-90s, a dive watch was essential safety equipment.",
-            "Today, dive computers have largely replaced watches for actual diving, but dive watches remain immensely popular. Their tool heritage, versatile styling, and robust build quality make them ideal daily wearers. A Rolex Submariner is equally comfortable on a dive expedition, in a business meeting, or at a formal dinner."
+            "El Rolex Submariner y el Blancpain Fifty Fathoms, ambos lanzados en 1953, son considerados los primeros verdaderos relojes de buceo. Resolvieron un problema real: permitir a los buzos rastrear el tiempo de fondo de manera segura usando el bisel giratorio. Antes de que las computadoras de buceo se volvieran ubicuas en los años 80-90, un reloj de buceo era equipo de seguridad esencial.",
+            "Hoy, las computadoras de buceo han reemplazado en gran medida a los relojes para buceo real, pero los relojes de buceo permanecen inmensamente populares. Su herencia de herramienta, estilo versátil y calidad de construcción robusta los hacen relojes diarios ideales. Un Rolex Submariner está igualmente cómodo en una expedición de buceo, en una reunión de negocios o en una cena formal."
           ]
         },
         "popular": {
-          "title": "Popular Dive Watches by Price Range",
+          "title": "Relojes de Buceo Populares por Rango de Precio",
           "models": [
             {
               "brand": "Rolex",
               "model": "Submariner",
               "price": "$9,000 - $40,000+",
               "wr": "300m",
-              "highlight": "The iconic dive watch that defined the category"
+              "highlight": "El icónico reloj de buceo que definió la categoría"
             },
             {
               "brand": "Omega",
               "model": "Seamaster Professional",
               "price": "$4,000 - $10,000",
               "wr": "300m",
-              "highlight": "James Bond's choice, helium escape valve"
+              "highlight": "La elección de James Bond, válvula de escape de helio"
             },
             {
               "brand": "Tudor",
               "model": "Black Bay",
               "price": "$3,000 - $5,000",
               "wr": "200m",
-              "highlight": "Vintage-inspired, excellent value proposition"
+              "highlight": "Inspirado en vintage, excelente propuesta de valor"
             },
             {
               "brand": "Seiko",
               "model": "Prospex Diver",
               "price": "$300 - $1,500",
               "wr": "200m",
-              "highlight": "Best value in dive watches, legendary reliability"
+              "highlight": "Mejor valor en relojes de buceo, confiabilidad legendaria"
             },
             {
               "brand": "Blancpain",
               "model": "Fifty Fathoms",
               "price": "$15,000 - $100,000+",
               "wr": "300m",
-              "highlight": "The original modern dive watch (1953)"
+              "highlight": "El reloj de buceo moderno original (1953)"
             },
             {
               "brand": "Oris",
               "model": "Aquis",
               "price": "$2,000 - $5,000",
               "wr": "300m",
-              "highlight": "Swiss quality at accessible prices"
+              "highlight": "Calidad suiza a precios accesibles"
             }
           ]
         },
         "choosing": {
-          "title": "Choosing Your First Dive Watch",
-          "intro": "Dive watches are often recommended as first luxury watch purchases, and with good reason. They're versatile, durable, and hold value well. Here's how to choose:",
+          "title": "Elegir Tu Primer Reloj de Buceo",
+          "intro": "Los relojes de buceo a menudo se recomiendan como primeras compras de relojes de lujo, y con razón. Son versátiles, duraderos y mantienen bien el valor. Aquí está cómo elegir:",
           "sections": [
             {
-              "title": "Size Matters",
-              "content": "Modern dive watches range from 38mm to 45mm. Bigger isn't always better—ensure the lugs don't overhang your wrist. Most men with 6.5-7 inch wrists find 40-42mm ideal. Try watches on if possible, as lug-to-lug measurement matters more than diameter."
+              "title": "El Tamaño Importa",
+              "content": "Los relojes de buceo modernos varían de 38mm a 45mm. Más grande no siempre es mejor: asegúrate de que las asas no sobresalgan de tu muñeca. La mayoría de los hombres con muñecas de 6.5-7 pulgadas encuentran ideal 40-42mm. Prueba relojes si es posible, ya que la medida de asa a asa importa más que el diámetro."
             },
             {
-              "title": "Bezel Material",
-              "content": "Aluminum inserts are traditional and develop character (scratches) over time. Ceramic bezels are virtually scratch-proof but more expensive. Both are legitimate choices depending on your preference for patina versus pristine condition."
+              "title": "Material del Bisel",
+              "content": "Los insertos de aluminio son tradicionales y desarrollan carácter (rayones) con el tiempo. Los biseles cerámicos son virtualmente a prueba de rayones pero más caros. Ambos son opciones legítimas dependiendo de tu preferencia por pátina versus condición prístina."
             },
             {
-              "title": "Movement Choice",
-              "content": "Automatic movements are traditional and preferred by enthusiasts. Quartz offers superior accuracy and lower maintenance. For actual diving, quartz is arguably more practical. For collecting and enjoyment, automatic is more engaging."
+              "title": "Elección de Movimiento",
+              "content": "Los movimientos automáticos son tradicionales y preferidos por entusiastas. El cuarzo ofrece precisión superior y menor mantenimiento. Para buceo real, el cuarzo es posiblemente más práctico. Para coleccionar y disfrutar, el automático es más atractivo."
             },
             {
-              "title": "Water Resistance: How Much Do You Need?",
-              "content": "200m is sufficient for recreational swimming and snorkeling. 300m is the professional standard for SCUBA diving. Ratings above 300m are overkill unless you're a commercial diver, but they provide peace of mind and often indicate superior build quality. Don't buy a dive watch with less than 200m water resistance."
+              "title": "Resistencia al Agua: ¿Cuánto Necesitas?",
+              "content": "200m es suficiente para natación recreativa y snorkel. 300m es el estándar profesional para buceo SCUBA. Clasificaciones arriba de 300m son excesivas a menos que seas buzo comercial, pero proporcionan tranquilidad y a menudo indican calidad de construcción superior. No compres un reloj de buceo con menos de 200m de resistencia al agua."
             }
           ]
         },
         "paradox": {
-          "title": "The Dive Watch Paradox",
-          "content": "Here's the funny truth: most dive watch owners never dive. These watches were designed for underwater exploration, but they spend their lives in offices, golf courses, and dinner parties. The Rolex Submariner is more likely to see a boardroom than a coral reef. But that's perfectly fine. Dive watches have transcended their utilitarian origins to become style icons. Their robust construction, sporty aesthetic, and tool heritage make them perfect daily companions. Whether you're diving 100 feet underwater or diving into a spreadsheet, a dive watch is ready for action."
+          "title": "La Paradoja del Reloj de Buceo",
+          "content": "Aquí está la verdad divertida: la mayoría de los dueños de relojes de buceo nunca bucean. Estos relojes fueron diseñados para exploración submarina, pero pasan sus vidas en oficinas, campos de golf y cenas. El Rolex Submariner es más probable que vea una sala de conferencias que un arrecife de coral. Pero eso está perfectamente bien. Los relojes de buceo han trascendido sus orígenes utilitarios para convertirse en íconos de estilo. Su construcción robusta, estética deportiva y herencia de herramienta los hacen compañeros diarios perfectos. Ya sea que estés buceando 100 pies bajo el agua o buceando en una hoja de cálculo, un reloj de buceo está listo para la acción."
         },
         "proTips": {
-          "title": "Pro Tips for Dive Watch Owners",
+          "title": "Consejos Pro para Dueños de Relojes de Buceo",
           "tips": [
             {
-              "title": "Rinse after saltwater",
-              "content": "Always rinse with fresh water after ocean swimming. Salt crystals can corrode gaskets and damage the case."
+              "title": "Enjuaga después de agua salada",
+              "content": "Siempre enjuaga con agua dulce después de nadar en el océano. Los cristales de sal pueden corroer juntas y dañar la caja."
             },
             {
-              "title": "Never operate crown underwater",
-              "content": "Even if your watch is rated for 300m, operating the crown when wet can allow water entry. Always ensure the screw-down crown is fully tightened before swimming."
+              "title": "Nunca operes la corona bajo el agua",
+              "content": "Incluso si tu reloj está clasificado para 300m, operar la corona cuando está mojado puede permitir entrada de agua. Siempre asegura que la corona atornillada esté completamente apretada antes de nadar."
             },
             {
-              "title": "Test water resistance annually",
-              "content": "Gaskets deteriorate over time. Have your watch pressure-tested annually, especially before dive season."
+              "title": "Prueba la resistencia al agua anualmente",
+              "content": "Las juntas se deterioran con el tiempo. Haz que tu reloj sea probado a presión anualmente, especialmente antes de la temporada de buceo."
             },
             {
-              "title": "Rotate the bezel regularly",
-              "content": "This prevents lubricants from drying out and ensures smooth operation when you need it."
+              "title": "Gira el bisel regularmente",
+              "content": "Esto previene que los lubricantes se sequen y asegura operación suave cuando lo necesites."
             },
             {
-              "title": "Switch to rubber for water sports",
-              "content": "Metal bracelets are durable but can pinch when wet. Rubber straps are more comfortable for swimming and diving."
+              "title": "Cambia a caucho para deportes acuáticos",
+              "content": "Los brazaletes de metal son durables pero pueden pellizcar cuando están mojados. Las correas de caucho son más cómodas para nadar y bucear."
             }
           ]
         }
       },
       "dress": {
         "hero": {
-          "title": "Dress Watches",
-          "subtitle": "The Epitome of Elegance",
-          "description": "Characterized by slim profiles, simple dials, and precious metal cases. Designed to slide under a shirt cuff, they prioritize aesthetics and formal appeal over functionality."
+          "title": "Relojes de Vestir",
+          "subtitle": "El Epítome de la Elegancia",
+          "description": "Caracterizados por perfiles delgados, esferas simples y cajas de metal precioso. Diseñados para deslizarse bajo el puño de la camisa, priorizan estética y atractivo formal sobre funcionalidad."
         },
-        "intro": "The dress watch represents refinement and elegance in its purest form. Where other watches shout, the dress watch whispers. These timepieces are masterpieces of minimalist design, rejecting unnecessary complications in favor of perfect proportions and exquisite details. A true dress watch is slim enough to slide under a shirt cuff effortlessly, elegant enough to complement the finest formal wear, and timeless enough to pass from generation to generation.",
+        "intro": "El reloj de vestir representa refinamiento y elegancia en su forma más pura. Donde otros relojes gritan, el reloj de vestir susurra. Estos guardatiempos son obras maestras del diseño minimalista, rechazando complicaciones innecesarias a favor de proporciones perfectas y detalles exquisitos. Un verdadero reloj de vestir es lo suficientemente delgado para deslizarse bajo un puño de camisa sin esfuerzo, lo suficientemente elegante para complementar la ropa formal más fina, y lo suficientemente atemporal para pasar de generación en generación.",
         "whatMakes": {
-          "title": "Defining Features of Dress Watches",
+          "title": "Características Definitorias de los Relojes de Vestir",
           "features": [
             {
-              "title": "Slim Case Profile",
-              "description": "Typically under 10mm thick",
-              "detail": "Slimness allows the watch to slide under a shirt cuff without creating a bulge. The finest dress watches are often 6-8mm thick."
+              "title": "Perfil Delgado de Caja",
+              "description": "Típicamente bajo 10mm de grosor",
+              "detail": "La delgadez permite que el reloj se deslice bajo un puño de camisa sin crear un bulto. Los mejores relojes de vestir son a menudo de 6-8mm de grosor."
             },
             {
-              "title": "Clean, Uncluttered Dial",
-              "description": "Minimalist design",
-              "detail": "Focus on legibility and elegance over complications. Often just hours, minutes, and perhaps small seconds."
+              "title": "Esfera Simple y Sin Desorden",
+              "description": "Diseño limpio y minimalista",
+              "detail": "Enfoque en legibilidad y elegancia sobre complicaciones. A menudo solo horas, minutos y quizás segundos pequeños."
             },
             {
-              "title": "Leather Strap",
-              "description": "Usually black or brown",
-              "detail": "Leather is traditional for formal occasions. Crocodile, lizard, or calfskin are premium options."
+              "title": "Correa de Cuero",
+              "description": "Usualmente negro o marrón",
+              "detail": "El cuero es tradicional para ocasiones formales. El cocodrilo, lagarto o becerro son opciones premium."
             },
             {
-              "title": "Modest Case Size",
-              "description": "36-40mm typically",
-              "detail": "Classic dress watches trend toward smaller sizes. The Patek Philippe Calatrava is 39mm, considered perfect."
+              "title": "Tamaño de Caja Modesto",
+              "description": "36-40mm típicamente",
+              "detail": "Los relojes de vestir clásicos tienden hacia tamaños más pequeños. El Patek Philippe Calatrava es 39mm, considerado perfecto."
             },
             {
-              "title": "Precious Metals or Steel",
-              "description": "Gold, platinum, or fine steel",
-              "detail": "Yellow or white gold is traditional. Steel is acceptable but less formal."
+              "title": "Metales Preciosos o Acero",
+              "description": "Oro, platino o acero fino",
+              "detail": "El oro amarillo o blanco es tradicional. El acero es aceptable pero menos formal."
             }
           ]
         },
         "history": {
-          "title": "History of Dress Watches",
-          "content": "Dress watches evolved from pocket watches in the early 20th century. When wristwatches became acceptable for men (popularized during World War I), elegant timepieces were created specifically for formal use. The Patek Philippe Calatrava (1932) remains the archetype of dress watch design: simple, slim, elegant, and timeless. Its Bauhaus design influenced generations of formal watches. The dress watch philosophy is 'less is more'. Every element must serve a purpose, and nothing should be superfluous."
+          "title": "Historia de los Relojes de Vestir",
+          "content": "Los relojes de vestir evolucionaron de los relojes de bolsillo a principios del siglo XX. Cuando los relojes de pulsera se volvieron aceptables para hombres (popularizados durante la Primera Guerra Mundial), se crearon guardatiempos elegantes específicamente para uso formal. El Patek Philippe Calatrava (1932) permanece como el arquetipo del diseño de reloj de vestir: simple, delgado, elegante y atemporal. Su diseño Bauhaus influenció generaciones de relojes formales. La filosofía del reloj de vestir es 'menos es más'. Cada elemento debe servir a un propósito, y nada debe ser superfluo."
         },
         "icons": {
-          "title": "Iconic Dress Watches",
+          "title": "Relojes de Vestir Icónicos",
           "models": [
             {
               "brand": "Patek Philippe",
               "model": "Calatrava",
               "price": "$20,000 - $50,000+",
-              "highlight": "The definitive dress watch, timeless design since 1932"
+              "highlight": "El reloj de vestir definitivo, diseño atemporal desde 1932"
             },
             {
               "brand": "Jaeger-LeCoultre",
               "model": "Master Ultra Thin",
               "price": "$8,000 - $20,000",
-              "highlight": "Extraordinarily thin, refined elegance"
+              "highlight": "Extraordinariamente delgado, elegancia refinada"
             },
             {
               "brand": "Vacheron Constantin",
               "model": "Patrimony",
               "price": "$18,000 - $100,000+",
-              "highlight": "Haute horlogerie simplicity, finishing perfection"
+              "highlight": "Simplicidad de alta relojería, perfección de acabado"
             },
             {
               "brand": "A. Lange & Söhne",
               "model": "Saxonia Thin",
               "price": "$20,000 - $40,000",
-              "highlight": "German precision, minimalist beauty"
+              "highlight": "Precisión alemana, belleza minimalista"
             },
             {
               "brand": "Cartier",
               "model": "Tank",
               "price": "$3,000 - $50,000+",
-              "highlight": "Design icon, perfect for formal occasions"
+              "highlight": "Icono de diseño, perfecto para ocasiones formales"
             },
             {
               "brand": "Longines",
               "model": "La Grande Classique",
               "price": "$1,000 - $3,000",
-              "highlight": "Accessible elegance, exceptional slimness"
+              "highlight": "Elegancia accesible, delgadez excepcional"
             }
           ]
         },
         "whenToWear": {
-          "title": "When to Wear a Dress Watch",
+          "title": "Cuándo Usar un Reloj de Vestir",
           "occasions": [
             {
-              "event": "Black Tie Events",
-              "description": "The traditional domain of the dress watch. Pair with tuxedo or formal suit."
+              "event": "Eventos de Corbata Negra",
+              "description": "El dominio tradicional del reloj de vestir. Empareja con esmoquin o traje formal."
             },
             {
-              "event": "Formal Weddings",
-              "description": "An elegant dress watch complements formal wedding attire without drawing attention."
+              "event": "Bodas Formales",
+              "description": "Un reloj de vestir elegante complementa la ropa de boda formal sin llamar la atención."
             },
             {
-              "event": "Professional Business Settings",
-              "description": "In finance, law, and senior corporate roles, a dress watch projects sophistication."
+              "event": "Entornos Profesionales de Negocios",
+              "description": "En finanzas, derecho y roles corporativos senior, un reloj de vestir proyecta sofisticación."
             },
             {
-              "event": "Fine Dining",
-              "description": "Elegant restaurants appreciate the discretion of a fine dress watch."
+              "event": "Cenas Finas",
+              "description": "Los restaurantes elegantes aprecian la discreción de un reloj de vestir fino."
             },
             {
-              "event": "Cultural Events",
-              "description": "Opera, ballet, charity galas: occasions where dress code matters."
+              "event": "Eventos Culturales",
+              "description": "Opera, ballet, galas de caridad: ocasiones donde el código de vestimenta importa."
             }
           ]
         },
         "rules": {
-          "title": "The Unwritten Rules of Dress Watches",
+          "title": "Las Reglas No Escritas de los Relojes de Vestir",
           "rules": [
-            "Thinner is better: A dress watch should be invisible under your cuff",
-            "Match metals: Gold watch with gold belt buckle, steel with silver buckle",
-            "Black leather goes with black shoes, brown with brown shoes",
-            "Avoid unnecessary functions: Date is acceptable, chronographs are not",
-            "Size matters: A large dress watch (43mm+) defeats the purpose",
-            "Skip the bling: Polished finishes are appropriate, brushed is too casual",
-            "Roman numeral markers are most formal, followed by applied indices",
-            "Metal bracelets are less formal than leather for black tie occasions"
+            "Más delgado es mejor: Un reloj de vestir debe ser invisible bajo tu puño",
+            "Empareja metales: Reloj de oro con hebilla de cinturón de oro, acero con hebilla de plata",
+            "El cuero negro va con zapatos negros, el marrón con zapatos marrones",
+            "Evita funciones innecesarias: La fecha es aceptable, los cronógrafos no",
+            "El tamaño importa: Un reloj de vestir grande (43mm+) derrota el propósito",
+            "Omite el brillo: Los acabados pulidos son apropiados, el cepillado es demasiado casual",
+            "Las marcas numéricas romanas son las más formales, seguidas por índices aplicados",
+            "Los brazaletes de metal son menos formales que el cuero para ocasiones de corbata negra"
           ]
         },
         "vs": {
-          "title": "Dress Watch vs. Dive Watch: The Eternal Question",
-          "content": "Enthusiasts debate this endlessly. Dive watches are versatile, durable, and can dress up. Dress watches are elegant, slim, and truly formal. The truth: you need both. A Submariner with a tuxedo is questionable at best. A Calatrava at the beach is equally inappropriate. The dive watch is your versatile daily tool. The dress watch is for when stakes are high and first impressions matter. If you can only afford one, choose based on your lifestyle. If you wear a suit daily, get a dress watch. If your life is more casual, the dive watch makes more sense."
+          "title": "Reloj de Vestir vs. Reloj de Buceo: La Pregunta Eterna",
+          "content": "Los entusiastas debaten esto interminablemente. Los relojes de buceo son versátiles, duraderos y pueden vestir hacia arriba. Los relojes de vestir son elegantes, delgados y verdaderamente formales. La verdad: necesitas ambos. Un Submariner con esmoquin es, en el mejor de los casos, cuestionable. Un Calatrava en la playa es igualmente inapropiado. El reloj de buceo es tu herramienta diaria versátil. El reloj de vestir es para cuando las apuestas son altas y las primeras impresiones importan. Si solo puedes permitirte uno, elige según tu estilo de vida. Si usas traje diariamente, obtén un reloj de vestir. Si tu vida es más casual, el reloj de buceo tiene más sentido."
         }
       },
       "chronograph": {
         "hero": {
-          "title": "Chronographs",
-          "subtitle": "When Time is of the Essence",
-          "description": "Watches with integrated stopwatch functionality, featuring sub-dials and pushers to start, stop, and reset time. Chronographs represent the perfect blend of functionality and mechanical complexity."
+          "title": "Cronógrafos",
+          "subtitle": "Cuando el Tiempo es Esencial",
+          "description": "Relojes con funcionalidad integrada de cronómetro, con sub-esferas y pulsadores para iniciar, detener y reiniciar el tiempo. Los cronógrafos representan la mezcla perfecta de funcionalidad y complejidad mecánica."
         },
-        "intro": "The chronograph is where art meets engineering. These watches combine precise timekeeping with fascinating mechanical complexity, making them favorites among enthusiasts. Whether you're timing race laps, measuring cooking times, or simply admiring the dance of pushers and sub-dials, chronographs offer practical functionality wrapped in beautiful machinery. They're the Swiss army knives of the watch world: more complex than a simple watch, but significantly more useful.",
+        "intro": "El cronógrafo es donde el arte encuentra la ingeniería. Estos relojes combinan la medición precisa del tiempo con complejidad mecánica fascinante, haciendo que sean favoritos entre entusiastas. Ya sea que estés cronometrando vueltas de carrera, midiendo tiempos de cocción o simplemente admirando el baile de los pulsadores y sub-esferas, los cronógrafos ofrecen funcionalidad práctica envuelta en hermosa maquinaria. Son los cuchillos suizos del mundo relojero: más complejos que un reloj simple, pero significativamente más útiles.",
         "whatMakes": {
-          "title": "Anatomy of a Chronograph",
+          "title": "Anatomía de un Cronógrafo",
           "features": [
             {
-              "title": "Sub-Dials",
-              "description": "Two or three counters for timing",
-              "detail": "Typically 30 minutes, 12 hours, and continuous seconds. Some add date and moon phases."
+              "title": "Sub-Esferas",
+              "description": "Dos o tres contadores para tiempo",
+              "detail": "Típicamente 30 minutos, 12 horas y segundos continuos. Algunos añaden fecha y fases lunares."
             },
             {
-              "title": "Pushers",
-              "description": "Two buttons (start/stop and reset)",
-              "detail": "The top pusher starts/stops. The bottom resets. Mono-pushers use a single button for all functions."
+              "title": "Pulsadores",
+              "description": "Dos botones (iniciar/detener y reiniciar)",
+              "detail": "El pulsador superior inicia/detiene. El inferior reinicia. Los mono-pulsadores usan un solo botón para todas las funciones."
             },
             {
-              "title": "Chronograph Seconds Hand",
-              "description": "Central timing hand",
-              "detail": "Sweeps around the dial when the chronograph is active. Resets to zero when the bottom pusher is pressed."
+              "title": "Manecilla de Segundos del Cronógrafo",
+              "description": "Manecilla central de tiempo",
+              "detail": "Barre alrededor de la esfera cuando el cronógrafo está activo. Se reinicia a cero al presionar el pulsador inferior."
             },
             {
-              "title": "Tachymeter Scale",
-              "description": "Often on the bezel or dial",
-              "detail": "Measures speed based on time and distance. Iconic on racing chronographs like the Daytona."
+              "title": "Escala de Taquímetro",
+              "description": "A menudo en el bisel o esfera",
+              "detail": "Mide velocidad basada en tiempo y distancia. Icónico en cronógrafos de carreras como el Daytona."
             },
             {
-              "title": "Sporty Aesthetics",
-              "description": "Busy but legible dials",
-              "detail": "Chronographs tend toward bolder designs than simple watches, reflecting their sporting roots."
+              "title": "Estética Deportiva",
+              "description": "Esferas ocupadas pero legibles",
+              "detail": "Los cronógrafos tienden hacia diseños más atrevidos que los relojes simples, reflejando sus raíces deportivas."
             }
           ]
         },
         "history": {
-          "title": "History of Chronographs",
-          "content": "The chronograph was invented in 1816 by Louis Moinet, but wrist chronographs became popular in the 1960s with aviation and motorsports. The Omega Speedmaster became legendary as the first watch on the moon in 1969, earning the nickname 'Moonwatch'. The Rolex Daytona is synonymous with racing heritage, named after the Daytona circuit. The Heuer Monaco, worn by Steve McQueen in Le Mans (1971), cemented the chronograph as a style icon. Today, chronographs are loved by watch enthusiasts for their mechanical complexity and by practical people for their real utility."
+          "title": "Historia de los Cronógrafos",
+          "content": "El cronógrafo fue inventado en 1816 por Louis Moinet, pero los cronógrafos de muñeca se volvieron populares en los años 1960 con aviación y deportes motorizados. El Omega Speedmaster se volvió legendario como el primer reloj en la luna en 1969, ganando el apodo 'Moonwatch'. El Rolex Daytona es sinónimo de herencia de carreras, nombrado por el circuito de Daytona. El Heuer Monaco, usado por Steve McQueen en Le Mans (1971), cimentó el cronógrafo como ícono de estilo. Hoy, los cronógrafos son amados por entusiastas de relojes por su complejidad mecánica y por personas prácticas por su utilidad real."
         },
         "legends": {
-          "title": "Legendary Chronographs",
+          "title": "Cronógrafos Legendarios",
           "models": [
             {
               "brand": "Omega",
               "model": "Speedmaster Professional",
               "price": "$6,000 - $10,000",
-              "highlight": "The moon watch, the only one certified by NASA for spacewalks"
+              "highlight": "El reloj lunar, el único certificado por NASA para paseos espaciales"
             },
             {
               "brand": "Rolex",
               "model": "Cosmograph Daytona",
               "price": "$14,000 - $200,000+",
-              "highlight": "The iconic racing chronograph, years-long waitlists"
+              "highlight": "El cronógrafo de carreras icónico, listas de espera de años"
             },
             {
               "brand": "TAG Heuer",
               "model": "Carrera",
               "price": "$3,000 - $8,000",
-              "highlight": "Racing heritage, excellent value in Swiss chronographs"
+              "highlight": "Herencia de carreras, excelente valor en cronógrafos suizos"
             },
             {
               "brand": "Zenith",
               "model": "El Primero",
               "price": "$7,000 - $15,000",
-              "highlight": "The first automatic chronograph (1969), 36,000 vph beat"
+              "highlight": "El primer cronógrafo automático (1969), beat de 36,000 vph"
             },
             {
               "brand": "Breitling",
               "model": "Navitimer",
               "price": "$5,000 - $12,000",
-              "highlight": "Aviation chronograph with slide rule, pilot's tool"
+              "highlight": "Cronógrafo de aviación con regla de cálculo, herramienta de piloto"
             },
             {
               "brand": "Seiko",
               "model": "Prospex Speedtimer",
               "price": "$1,000 - $3,000",
-              "highlight": "Affordable Japanese mechanical chronograph, great value"
+              "highlight": "Cronógrafo mecánico japonés asequible, gran valor"
             }
           ]
         },
         "types": {
-          "title": "Types of Chronographs",
+          "title": "Tipos de Cronógrafos",
           "categories": [
             {
-              "type": "Racing Chronograph",
-              "description": "Designed for motorsports with tachymeter scales to measure speed. Examples: Rolex Daytona, TAG Heuer Carrera, Omega Speedmaster Racing."
+              "type": "Cronógrafo de Carreras",
+              "description": "Diseñado para automovilismo con escalas de taquímetro para medir velocidad. Ejemplos: Rolex Daytona, TAG Heuer Carrera, Omega Speedmaster Racing."
             },
             {
-              "type": "Aviation Chronograph",
-              "description": "With slide rules and navigation functions for pilots. Examples: Breitling Navitimer, IWC Pilot's Chronograph."
+              "type": "Cronógrafo de Aviación",
+              "description": "Con reglas de cálculo y funciones de navegación para pilotos. Ejemplos: Breitling Navitimer, IWC Pilot's Chronograph."
             },
             {
-              "type": "Dive Chronograph",
-              "description": "Combines 200m+ water resistance with chronograph functionality. Examples: Omega Seamaster Planet Ocean Chrono, Tudor Black Bay Chrono."
+              "type": "Cronógrafo de Buceo",
+              "description": "Combina resistencia al agua de 200m+ con funcionalidad de cronógrafo. Ejemplos: Omega Seamaster Planet Ocean Chrono, Tudor Black Bay Chrono."
             },
             {
-              "type": "Dress Chronograph",
-              "description": "Slimmer profiles with elegant dials for formal occasions. Examples: Zenith Elite Chronograph Classic, Jaeger-LeCoultre Master Chronograph."
+              "type": "Cronógrafo de Vestir",
+              "description": "Perfiles más delgados con esferas elegantes para ocasiones formales. Ejemplos: Zenith Elite Chronograph Classic, Jaeger-LeCoultre Master Chronograph."
             }
           ]
         },
         "using": {
-          "title": "How to Use a Chronograph",
+          "title": "Cómo Usar un Cronógrafo",
           "steps": [
-            "Press the top pusher to start the chronograph. The central hand begins to sweep.",
-            "Press the top pusher again to stop timing. Read the elapsed time.",
-            "Press the bottom pusher to reset all chronograph hands to zero.",
-            "For split timing (if available), stop and start without resetting to capture laps.",
-            "Some chronographs allow adding times (flyback or rattrapante function) - check your manual."
+            "Presiona el pulsador superior para iniciar el cronógrafo. La manecilla central comienza a barrer.",
+            "Presiona el pulsador superior de nuevo para detener el tiempo. Lee el tiempo transcurrido.",
+            "Presiona el pulsador inferior para reiniciar todas las manecillas del cronógrafo a cero.",
+            "Para cronometraje dividido (si está disponible), detén e inicia sin reiniciar para capturar vueltas.",
+            "Algunos cronógrafos permiten agregar tiempos (función flyback o rattrapante) - consulta tu manual."
           ],
-          "warning": "Never operate chronograph pushers underwater unless specifically rated for submarine operation. Water can enter through the pushers."
+          "warning": "Nunca operes los pulsadores del cronógrafo bajo el agua a menos que esté específicamente clasificado para operación submarina. El agua puede ingresar a través de los pulsadores."
         },
         "tachymeter": {
-          "title": "Understanding the Tachymeter Scale",
-          "content": "That scale of numbers around the dial isn't just decoration. The tachymeter measures speed based on time and distance. To use: Start the chronograph when passing a mile marker (or kilometer). Stop when you pass the next marker. The chronograph hand points to your speed in MPH (or KPH). It only works for times under 60 seconds. For slower objects, use fractions (e.g., 1/10 mile). Racing chronographs made the tachymeter iconic, though modern GPS units have made it functionally obsolete. But it's cool, and that's what matters."
+          "title": "Entendiendo la Escala de Taquímetro",
+          "content": "Esa escala de números alrededor de la esfera no es solo decoración. El taquímetro mide velocidad basada en tiempo y distancia. Para usar: Inicia el cronógrafo al pasar un marcador de milla (o kilómetro). Detén cuando pases el siguiente marcador. La manecilla del cronógrafo apunta a tu velocidad en MPH (o KPH). Funciona solo para tiempos menores a 60 segundos. Para objetos más lentos, usa fracciones (ej., 1/10 de milla). Los cronógrafos de carreras hicieron del taquímetro un icono, aunque las unidades GPS modernas lo han hecho obsoleto funcionalmente. Pero es genial, y eso es lo que importa."
         }
       },
       "movements": {
         "quartz": {
           "hero": {
-            "title": "Quartz Movements",
-            "subtitle": "Electronic Precision",
-            "description": "Quartz movements revolutionized watchmaking in the 1970s, offering superior accuracy, low maintenance, and affordability that democratized quality timepieces."
+            "title": "Movimientos de Cuarzo",
+            "subtitle": "Precisión Electrónica",
+            "description": "Los movimientos de cuarzo revolucionaron la relojería en los años 70, ofreciendo precisión superior, bajo mantenimiento y asequibilidad que democratizó los relojes de calidad."
           },
-          "intro": "The quartz movement is often dismissed by purists, but it represents one of the most important innovations in watchmaking history. When Seiko launched the Astron in 1969, the first commercial quartz watch, it changed everything. Mechanical watches that drifted 5-10 seconds per day were suddenly less accurate than inexpensive quartz watches that drifted 15 seconds per month. The 'Quartz Crisis' nearly destroyed Swiss watchmaking in the 70s-80s. Today, quartz and mechanical coexist: quartz dominates global production, while mechanicals maintain prestige among collectors. Both have their place.",
+          "intro": "El movimiento de cuarzo es a menudo menospreciado por puristas, pero representa una de las innovaciones más importantes en la historia de la relojería. Cuando Seiko lanzó el Astron en 1969, el primer reloj de cuarzo comercial, cambió todo. Los relojes mecánicos que se desviaban 5-10 segundos por día fueron repentinamente menos precisos que los cuarzos económicos que se desviaban 15 segundos por mes. La 'Crisis del Cuarzo' casi destruyó la relojería suiza en los años 70-80. Hoy, el cuarzo y lo mecánico coexisten: el cuarzo domina la producción global, mientras los mecánicos mantienen prestigio entre coleccionistas. Ambos tienen su lugar.",
           "howItWorks": {
-            "title": "How a Quartz Movement Works",
-            "description": "Quartz uses the piezoelectric effect to keep time with incredible accuracy:",
+            "title": "Cómo Funciona un Movimiento de Cuarzo",
+            "description": "El cuarzo utiliza el efecto piezoeléctrico para mantener el tiempo con precisión increíble:",
             "steps": [
               {
-                "step": "Power Source",
-                "detail": "A battery provides electrical current to the watch circuit."
+                "step": "Fuente de Poder",
+                "detail": "Una batería proporciona corriente eléctrica al circuito del reloj."
               },
               {
-                "step": "Quartz Crystal Oscillator",
-                "detail": "Electricity makes a quartz crystal vibrate at 32,768 Hz (32,768 times per second) - an incredibly stable frequency."
+                "step": "Oscilador de Cristal de Cuarzo",
+                "detail": "La electricidad hace vibrar un cristal de cuarzo a 32,768 Hz (32,768 veces por segundo) - una frecuencia increíblemente estable."
               },
               {
-                "step": "Integrated Circuit",
-                "detail": "A computer chip counts these vibrations and converts 32,768 oscillations into exactly one second."
+                "step": "Circuito Integrado",
+                "detail": "Un chip de computadora cuenta estas vibraciones y convierte 32,768 oscilaciones en exactamente un segundo."
               },
               {
-                "step": "Stepper Motor",
-                "detail": "The IC sends an electrical pulse once per second to a small motor that moves the hands."
+                "step": "Motor Paso a Paso",
+                "detail": "El CI envía un pulso eléctrico una vez por segundo a un pequeño motor que mueve las agujas."
               }
             ]
           },
           "advantages": {
-            "title": "Advantages of Quartz Movements",
+            "title": "Ventajas de los Movimientos de Cuarzo",
             "benefits": [
               {
-                "title": "Superior Accuracy",
-                "description": "±15 seconds per month vs. ±5-10 seconds per day for mechanicals. High-precision quartz watches can achieve ±5 seconds per year."
+                "title": "Precisión Superior",
+                "description": "±15 segundos por mes vs. ±5-10 segundos por día para mecánicos. Relojes de cuarzo de alta precisión pueden lograr ±5 segundos por año."
               },
               {
-                "title": "Low Maintenance",
-                "description": "Battery change every 2-5 years is typically all the maintenance needed. No expensive servicing every 5-7 years."
+                "title": "Bajo Mantenimiento",
+                "description": "Cambio de batería cada 2-5 años es típicamente todo el mantenimiento necesario. Sin necesidad de servicio costoso cada 5-7 años."
               },
               {
-                "title": "Affordability",
-                "description": "Quartz movements are economical to produce, making quality watches accessible. A $50 quartz can outperform a $500 mechanical in accuracy."
+                "title": "Asequibilidad",
+                "description": "Los movimientos de cuarzo son económicos de producir, haciendo relojes de calidad accesibles. Un cuarzo de $50 puede superar un mecánico de $500 en precisión."
               },
               {
-                "title": "Durability",
-                "description": "Fewer moving parts mean less to break. Quartz handles shocks better than delicate mechanicals."
+                "title": "Durabilidad",
+                "description": "Menos partes móviles significan menos cosas que se rompan. El cuarzo maneja golpes mejor que los mecánicos delicados."
               },
               {
-                "title": "Thinness",
-                "description": "Quartz movements can be extremely thin. Quartz dress watches can be 6-7mm thick."
+                "title": "Delgadez",
+                "description": "Los movimientos de cuarzo pueden ser extremadamente delgados. Relojes de vestir de cuarzo pueden ser 6-7mm de grosor."
               }
             ]
           },
           "disadvantages": {
-            "title": "Disadvantages of Quartz Movements",
+            "title": "Desventajas de los Movimientos de Cuarzo",
             "drawbacks": [
               {
-                "title": "Less Prestige",
-                "description": "Quartz lacks the romance and craftsmanship of mechanical watchmaking. Collectors typically prefer mechanicals."
+                "title": "Menos Prestigio",
+                "description": "Los cuarzos carecen del romance y artesanía de la relojería mecánica. Los coleccionistas típicamente prefieren mecánicos."
               },
               {
-                "title": "Battery Dependency",
-                "description": "Batteries need replacement. Mechanical watches can last generations without batteries."
+                "title": "Dependencia de Batería",
+                "description": "Las baterías necesitan reemplazo. Los relojes mecánicos pueden durar generaciones sin baterías."
               },
               {
-                "title": "Tick Movement",
-                "description": "Most quartz 'tick' once per second vs. the smooth sweep of mechanicals. (Exceptions: high-frequency quartz)"
+                "title": "Movimiento de Tic-Tac",
+                "description": "La mayoría de los cuarzos 'tic-tac' una vez por segundo vs. el barrido suave de los mecánicos. (Excepciones: cuarzo de alta frecuencia)"
               },
               {
-                "title": "Electronic Waste",
-                "description": "Electronic circuits eventually fail and are difficult to repair. Mechanicals can be rebuilt indefinitely."
+                "title": "Desecho Electrónico",
+                "description": "Los circuitos electrónicos eventualmente fallan y son difíciles de reparar. Los mecánicos pueden ser reconstruidos indefinidamente."
               },
               {
-                "title": "Less Emotional Connection",
-                "description": "No visible craftsmanship, no mesmerizing movement. It's functional, not romantic."
+                "title": "Menos Conexión Emocional",
+                "description": "No hay artesanía visible, sin movimiento hipnotizante. Es funcional, no romántico."
               }
             ]
           },
           "types": {
-            "title": "Types of Quartz Movements",
+            "title": "Tipos de Movimientos de Cuarzo",
             "categories": [
               {
-                "type": "Standard Quartz",
-                "description": "The most common quartz movement. ±15-30 seconds per month accuracy. 2-3 year battery life.",
-                "examples": "Most affordable quartz watches"
+                "type": "Cuarzo Estándar",
+                "description": "El movimiento de cuarzo más común. ±15-30 segundos por mes de precisión. Duración de batería de 2-3 años.",
+                "examples": "La mayoría de los relojes de cuarzo asequibles"
               },
               {
-                "type": "High-Precision Quartz",
-                "description": "Thermally-compensated quartz crystals. ±5-10 seconds per year. Grand Seiko 9F achieves ±10 seconds per year.",
+                "type": "Cuarzo de Alta Precisión",
+                "description": "Cristales de cuarzo regulados térmicamente. ±5-10 segundos por año. Grand Seiko 9F logra ±10 segundos por año.",
                 "examples": "Grand Seiko 9F, Citizen Chronomaster, Breitling SuperQuartz"
               },
               {
-                "type": "Ana-Digi Quartz",
-                "description": "Combines analog hands with digital display. Offers versatile functionality.",
-                "examples": "Casio G-Shock GA series, Breitling Aerospace"
+                "type": "Cuarzo Ana-Digi",
+                "description": "Combina agujas analógicas con display digital. Ofrece funcionalidad versátil.",
+                "examples": "Casio G-Shock serie GA, Breitling Aerospace"
               },
               {
-                "type": "Solar Quartz",
-                "description": "Recharges using light (solar or artificial). No battery changes needed.",
+                "type": "Cuarzo Solar",
+                "description": "Recarga usando luz (solar o artificial). Sin cambios de batería necesarios.",
                 "examples": "Citizen Eco-Drive, Seiko Solar, Casio Tough Solar"
               },
               {
-                "type": "Thermoelectric Quartz",
-                "description": "Powered by temperature difference (body heat). Rare technology.",
+                "type": "Cuarzo Termoeléctrico",
+                "description": "Impulsado por diferencia de temperatura (calor del cuerpo). Tecnología rara.",
                 "examples": "Citizen Eco-Drive Thermo"
               }
             ]
           },
           "maintenance": {
-            "title": "Quartz Watch Maintenance",
+            "title": "Mantenimiento de Relojes de Cuarzo",
             "tasks": [
               {
-                "task": "Battery Change (Every 2-5 Years)",
-                "description": "When the watch stops or the second hand jumps (low battery indicator), replace the battery. Cost: $10-30 at jeweler.",
-                "tip": "Have gaskets checked when replacing battery to maintain water resistance."
+                "task": "Cambio de Batería (Cada 2-5 Años)",
+                "description": "Cuando el reloj se detiene o la aguja de segundos salta (indicador de batería baja), reemplaza la batería. Costo: $10-30 en joyería.",
+                "tip": "Haz que revisen las juntas al reemplazar la batería para mantener la resistencia al agua."
               },
               {
-                "task": "Gasket Inspection (Every Battery Change)",
-                "description": "Rubber gaskets deteriorate over time. If your watch is water resistant, have gaskets inspected/replaced when changing battery."
+                "task": "Revisión de Juntas (Cada Cambio de Batería)",
+                "description": "Las juntas de goma se deterioran con el tiempo. Si tu reloj es resistente al agua, haz que las juntas sean inspeccionadas/reemplazadas al cambiar la batería."
               },
               {
-                "task": "Regular Cleaning",
-                "description": "Clean case and crystal with microfiber cloth. For metal bracelets, use mild soap and soft brush."
+                "task": "Limpieza Regular",
+                "description": "Limpia la caja y cristal con paño de microfibra. Para brazaletes de metal, usa jabón suave y cepillo suave."
               }
             ],
-            "warning": "Never open a quartz watch yourself unless you know what you're doing. Moisture and dust can ruin the movement."
+            "warning": "Nunca abras un reloj de cuarzo tú mismo a menos que sepas lo que haces. La humedad y polvo pueden arruinar el movimiento."
           },
           "famousExamples": {
-            "title": "Famous Quartz Watches",
+            "title": "Relojes de Cuarzo Famosos",
             "models": [
               {
                 "brand": "Grand Seiko",
                 "model": "9F Quartz",
                 "price": "$2,500 - $6,000",
-                "highlight": "The most prestigious quartz movement. ±10 seconds/year, exquisite craftsmanship"
+                "highlight": "El movimiento de cuarzo más prestigioso. ±10 segundos/año, artesanía exquisita"
               },
               {
                 "brand": "Omega",
                 "model": "Seamaster Quartz",
                 "price": "$3,000 - $5,000",
-                "highlight": "Luxury dive watch powered by quartz, ultra-accurate"
+                "highlight": "Reloj de buceo de lujo impulsado por cuarzo, ultra-preciso"
               },
               {
                 "brand": "Breitling",
                 "model": "Aerospace Evo",
                 "price": "$3,000 - $4,000",
-                "highlight": "Thermally compensated SuperQuartz, COSC certified"
+                "highlight": "SuperQuartz termalmente compensado, certificado COSC"
               },
               {
                 "brand": "Cartier",
                 "model": "Tank Quartz",
                 "price": "$2,500 - $4,000",
-                "highlight": "Design icon, slim profile thanks to quartz"
+                "highlight": "Icono de diseño, perfil delgado gracias al cuarzo"
               },
               {
                 "brand": "Citizen",
                 "model": "Eco-Drive",
                 "price": "$200 - $1,000",
-                "highlight": "Light-powered, never needs battery"
+                "highlight": "Impulsado por luz, nunca necesita batería"
               },
               {
                 "brand": "Seiko",
                 "model": "Astron GPS Solar",
                 "price": "$1,500 - $3,000",
-                "highlight": "GPS + solar, automatic time zone adjustment"
+                "highlight": "GPS + solar, ajuste de zona horaria automático"
               }
             ]
           },
           "conclusion": {
-            "title": "Quartz Deserves Respect",
-            "content": "Watch snobs dismiss quartz, but it's shortsighted. Quartz democratized accurate timekeeping. A $300 Citizen Eco-Drive will give you decades of perfect service without maintenance. A Grand Seiko 9F rivals any mechanical watch in craftsmanship while surpassing all in accuracy. Quartz isn't the enemy of mechanical - it's complementary. Own both. Use quartz when you need reliability and precision. Use mechanicals when you want art and connection to tradition."
+            "title": "El Cuarzo Merece Respeto",
+            "content": "Los snobs de relojes menosprecian el cuarzo, pero es corto de miras. El cuarzo democratizó el cronometraje preciso. Un Citizen Eco-Drive de $300 te dará décadas de servicio perfecto sin mantenimiento. Un Grand Seiko 9F rivaliza con cualquier reloj mecánico en artesanía mientras supera a todos en precisión. El cuarzo no es el enemigo de lo mecánico - es complementario. Posee ambos. Usa cuarzo cuando necesites confiabilidad y precisión. Usa mecánicos cuando quieras arte y conexión con la tradición."
           }
         },
         "manual": {
           "hero": {
-            "title": "Manual Winding Movements",
-            "subtitle": "Pure Mechanical Watchmaking",
-            "description": "Manual winding watches represent watchmaking in its purest form: no automatic rotors, no batteries, just springs, gears, and human craftsmanship winding time forward."
+            "title": "Movimientos de Cuerda Manual",
+            "subtitle": "Relojería Mecánica Pura",
+            "description": "Los relojes de cuerda manual representan la relojería en su forma más pura: sin rotores automáticos, sin baterías, solo resortes, engranajes y artesanía humana dando cuerda al tiempo."
           },
-          "intro": "The manual winding watch is where it all began. Before automatics made winding obsolete, every mechanical watch required daily winding. This 'chore' is viewed by enthusiasts not as a burden, but as a ritual: a moment of connection with your watch, a pause in the day to appreciate the mechanical engineering on your wrist. Manual watches are typically thinner than automatics (no bulky rotor), making them ideal for dress watches. They also allow collectors to see more of the movement through the caseback, as there's no rotor blocking the view.",
+          "intro": "El reloj de cuerda manual es donde comenzó todo. Antes de que los automáticos hicieran la cuerda obsoleta, cada reloj mecánico requería cuerda diaria. Esta 'tarea' es vista por los entusiastas no como una carga, sino como un ritual: un momento de conexión con tu reloj, una pausa en el día para apreciar la ingeniería mecánica en tu muñeca. Los relojes de cuerda manual son típicamente más delgados que los automáticos (sin rotor voluminoso), haciendo que sean ideales para relojes de vestir. También permiten a los coleccionistas ver más del movimiento a través del fondo de cristal, ya que no hay rotor bloqueando la vista.",
           "howItWorks": {
-            "title": "How a Manual Movement Works",
-            "description": "Manual winding is beautifully simple in concept:",
+            "title": "Cómo Funciona un Movimiento de Cuerda Manual",
+            "description": "La cuerda manual es maravillosamente simple en concepto:",
             "components": [
               {
-                "part": "Mainspring",
-                "function": "A long metal spring coiled inside a barrel. Stores energy when wound."
+                "part": "Resorte Principal",
+                "function": "Un resorte metálico largo enrollado dentro de un barril. Almacena energía cuando se da cuerda."
               },
               {
-                "part": "Gear Train",
-                "function": "Series of connected gears that transmit energy from mainspring to hairspring, reducing speed from barrel to balance wheel."
+                "part": "Tren de Engranajes",
+                "function": "Serie de engranajes conectados que transmiten energía del resorte principal a la espiral, reduciendo velocidad del barril al volante."
               },
               {
-                "part": "Escapement",
-                "function": "Releases energy in controlled bursts, creating the 'tick-tock' sound. The escape wheel and pallet control energy flow."
+                "part": "Escape",
+                "function": "Libera energía en ráfagas controladas, creando el sonido de 'tic-tac'. La rueda de escape y paleta controlan el flujo de energía."
               },
               {
-                "part": "Balance Wheel & Hairspring",
-                "function": "The balance wheel oscillates back and forth, regulated by the hairspring (thin spring). This determines the watch's accuracy."
+                "part": "Volante y Espiral",
+                "function": "El volante oscila hacia adelante y atrás, regulado por la espiral (resorte delgado). Esto determina la precisión del reloj."
               },
               {
-                "part": "Winding Mechanism",
-                "function": "Turning the crown winds the mainspring tighter, storing kinetic energy as potential energy."
+                "part": "Mecanismo de Cuerda",
+                "function": "Girar la corona hace girar el resorte principal más apretado, almacenando energía cinética como energía potencial."
               }
             ]
           },
           "advantages": {
-            "title": "Why Collectors Love Manual Winding",
+            "title": "Por Qué los Coleccionistas Aman la Cuerda Manual",
             "benefits": [
               {
-                "title": "Thinner Profiles",
-                "description": "No automatic rotor means manual movements can be extremely thin. Perfect for elegant dress watches."
+                "title": "Perfiles Más Delgados",
+                "description": "Sin rotor automático significa que los movimientos de cuerda manual pueden ser extremadamente delgados. Perfecto para relojes de vestir elegantes."
               },
               {
-                "title": "Better Movement Views",
-                "description": "Casebacks show the full movement without a rotor blocking the view. You see bridges, gears, escapement dancing."
+                "title": "Vistas de Movimiento Mejores",
+                "description": "Los fondos de cristal muestran el movimiento completo sin un rotor bloqueando la vista. Ves puentes, engranajes, escape bailando."
               },
               {
-                "title": "Connection and Ritual",
-                "description": "Winding your watch each morning creates a relationship with it. It's meditative, intentional, satisfying."
+                "title": "Conexión y Ritual",
+                "description": "Dar cuerda a tu reloj cada mañana crea una relación con él. Es meditativo, intencional, satisfactorio."
               },
               {
-                "title": "Tradition and Heritage",
-                "description": "Manual movements are how watches were made for centuries. It's pure, uncompromising watchmaking."
+                "title": "Tradición y Herencia",
+                "description": "Los movimientos de cuerda manual son cómo los relojes fueron hechos durante siglos. Es relojería pura y sin compromisos."
               },
               {
-                "title": "Less Complexity",
-                "description": "Fewer parts than automatics (no automatic winding system) means potentially less to go wrong."
+                "title": "Menos Complejidad",
+                "description": "Menos partes que los automáticos (sin sistema de cuerda automática) significa potencialmente menos que salga mal."
               }
             ]
           },
           "disadvantages": {
-            "title": "Manual Winding Considerations",
+            "title": "Consideraciones de la Cuerda Manual",
             "drawbacks": [
               {
-                "title": "Requires Daily Winding",
-                "description": "You must remember to wind your watch daily (or every 2-3 days depending on power reserve). Forget and it stops."
+                "title": "Requiere Cuerda Diaria",
+                "description": "Debes recordar dar cuerda a tu reloj diariamente (o cada 2-3 días dependiendo de la reserva de marcha). Olvídalo y se detiene."
               },
               {
-                "title": "Not 'Set and Forget'",
-                "description": "You can't just wear a manual like you wear an automatic or quartz. It requires active participation."
+                "title": "No es 'Configura y Olvida'",
+                "description": "No puedes simplemente usar un manual como usas un automático o cuarzo. Requiere participación activa."
               },
               {
-                "title": "Possible Over-Winding",
-                "description": "Though difficult with modern designs, you can technically over-wind and damage the mainspring if you force the crown."
+                "title": "Posible Sobre-Cuerda",
+                "description": "Aunque difícil con diseños modernos, técnicamente puedes dar demasiada cuerda y dañar el resorte principal si fuerzas la corona."
               },
               {
-                "title": "Not Ideal for Forgetful Daily Wear",
-                "description": "If you tend to forget things, a manual will stop. Automatics wind with movement; quartz just works."
+                "title": "No es Ideal para Uso Diario Olvidadizo",
+                "description": "Si tiendes a olvidar cosas, un manual se detendrá. Los automáticos se dan cuerda con el movimiento; el cuarzo solo funciona."
               }
             ]
           },
           "howToWind": {
-            "title": "How to Wind a Manual Watch",
+            "title": "Cómo Dar Cuerda a un Reloj Manual",
             "instructions": [
               {
-                "step": "1. Remove the Watch",
-                "detail": "Take the watch off your wrist. Winding while worn can put strain on the crown and crown tube."
+                "step": "1. Retira el Reloj",
+                "detail": "Quítate el reloj de tu muñeca. Dar cuerda mientras está puesto puede ejercer tensión en la corona y el tubo de la corona."
               },
               {
-                "step": "2. Unscrew the Crown (If Screw-Down)",
-                "detail": "If your watch has a screw-down crown (dive watches), turn it counter-clockwise until it pops out."
+                "step": "2. Desatornilla la Corona (Si es Atornillada)",
+                "detail": "Si tu reloj tiene corona atornillada (relojes de buceo), gírala en sentido antihorario hasta que se suelte."
               },
               {
-                "step": "3. Turn Crown Clockwise",
-                "detail": "Gently turn the crown clockwise. You'll feel resistance - this is the mainspring coiling."
+                "step": "3. Gira la Corona en Sentido Horario",
+                "detail": "Gira suavemente la corona en sentido horario. Sentirás resistencia - esto es el resorte principal enrollándose."
               },
               {
-                "step": "4. Stop When You Feel Resistance",
-                "detail": "When the crown no longer turns easily, the watch is fully wound. Don't force - modern watches have over-winding protection, but don't abuse it."
+                "step": "4. Detente Cuando Sientas Resistencia",
+                "detail": "Cuando la corona ya no gira fácilmente, el reloj está completamente enrollado. No fuerces - los relojes modernos tienen protección contra sobre-cuerda, pero no abuses."
               },
               {
-                "step": "5. Screw Back Down (If Applicable)",
-                "detail": "If your watch has a screw-down crown, screw it back in by gently pressing inward while turning clockwise."
+                "step": "5. Vuelve a Atornillar (Si Aplica)",
+                "detail": "Si tu reloj tiene corona atornillada, enróscala de nuevo presionando suavemente hacia dentro mientras giras en sentido horario."
               }
             ],
             "tips": [
-              "Wind at the same time each day for routine",
-              "Full daily winding is ideal, even if it has 48+ hour power reserve",
-              "Never wind while wearing the watch - you strain the mechanism"
+              "Dale cuerda a la misma hora cada día para rutina",
+              "Cuerda completa diaria es ideal, incluso si tiene 48+ horas de reserva de marcha",
+              "Nunca des cuerda mientras uses el reloj - ejerces tensión en el mecanismo"
             ]
           },
           "famousCalibres": {
-            "title": "Legendary Manual Calibres",
+            "title": "Calibres Manuales Legendarios",
             "movements": [
               {
                 "brand": "Patek Philippe",
                 "calibre": "Calibre 240",
-                "description": "Ultra-thin (only 2.53mm), micro-rotor, engineering masterpieces"
+                "description": "Ultra-delgado (solo 2.53mm), micro-rotor, obras maestras de ingeniería"
               },
               {
                 "brand": "A. Lange & Söhne",
-                "calibre": "Lange Calibres",
-                "description": "Exquisite German finishing, double assembly/disassembly"
+                "calibre": "Calibres Lange",
+                "description": "Acabado alemán exquisito, montaje/desmontaje doble"
               },
               {
                 "brand": "Omega",
                 "calibre": "Calibre 321",
-                "description": "The original Speedmaster movement, used on the moon"
+                "description": "El movimiento Speedmaster original, usado en la luna"
               },
               {
                 "brand": "Vacheron Constantin",
                 "calibre": "Calibre 4400",
-                "description": "Thin, beautifully finished, in-house manufacture"
+                "description": "Delgado, hermosamente acabado, manufactura interna"
               },
               {
                 "brand": "Seiko",
                 "calibre": "6R15",
-                "description": "Affordable but reliable manual winding in Presage models"
+                "description": "Cuerda manual asequible pero confiable en modelos Presage"
               }
             ]
           },
           "whenToChoose": {
-            "title": "When to Choose a Manual Watch",
+            "title": "Cuándo Elegir un Reloj de Cuerda Manual",
             "scenarios": [
               {
-                "situation": "Dress Watches",
-                "reason": "The thinness of manual movements makes them perfect for elegant dress watches that must slide under shirt cuffs."
+                "situation": "Relojes de Vestir",
+                "reason": "La delgadez de los movimientos manuales los hace perfectos para relojes de vestir elegantes que deben deslizarse bajo puños de camisa."
               },
               {
-                "situation": "Movement Appreciation",
-                "reason": "If you love watching movements through casebacks, manuals offer the best unobstructed views without rotors."
+                "situation": "Apreciación de Movimiento",
+                "reason": "Si te encanta observar movimientos a través de fondos de cristal, los manuales ofrecen las mejores vistas sin obstáculos por rotores."
               },
               {
-                "situation": "Ritual and Connection",
-                "reason": "If you value the daily ritual of winding and connecting with your watch, manual winding is deeply satisfying."
+                "situation": "Ritual y Conexión",
+                "reason": "Si valoras el ritual diario de dar cuerda y conectarte con tu reloj, la cuerda manual es profundamente satisfactoria."
               },
               {
-                "situation": "Vintage Collecting",
-                "reason": "Vintage watches are predominantly manual. If you collect old pieces, you'll learn to love them."
+                "situation": "Colección Vintage",
+                "reason": "Los relojes vintage son predominantemente manuales. Si coleccionas piezas antiguas, aprenderás a amarlos."
               }
             ]
           }
         },
         "automatic": {
           "hero": {
-            "title": "Automatic Movements",
-            "subtitle": "Self-Winding Engineering",
-            "description": "Automatic watches combine the best of mechanical and convenience: the craftsmanship of traditional watchmaking with the magic of never needing to manually wind."
+            "title": "Movimientos Automáticos",
+            "subtitle": "Ingeniería de Auto-Cuerda",
+            "description": "Los relojes automáticos combinan lo mejor de lo mecánico y la conveniencia: la artesanía de la relojería tradicional con la magia de nunca necesitar dar cuerda manualmente."
           },
-          "intro": "The automatic movement (also called 'self-winding') is the ultimate expression of convenient mechanical watchmaking. Invented by Abraham-Louis Perrelet in 1770 but perfected in the 20th century, the automatic mechanism uses your wrist's natural motion to wind the mainspring. You wear the watch, the rotor spins, the watch stays wound. It's the elegant solution to 'I forgot to wind my watch' while maintaining all the mechanical craftsmanship collectors love. Automatics represent approximately 90% of modern mechanical watches - from entry-level Seiko 5 to Rolex, Omega, and Patek Philippe.",
+          "intro": "El movimiento automático (también llamado 'de auto-cuerda') es la expresión máxima de la relojería mecánica conveniente. Inventado por Abraham-Louis Perrelet en 1770 pero perfeccionado en el siglo XX, el mecanismo automático usa el movimiento natural de tu muñeca para dar cuerda al resorte principal. Usas el reloj, el rotor gira, el reloj se mantiene enrollado. Es la solución elegante a 'olvidé dar cuerda a mi reloj' mientras mantiene toda la artesanía mecánica que los coleccionistas aman. Los automáticos representan aproximadamente 90% de los relojes mecánicos modernos - desde Seiko 5 de nivel de entrada hasta Rolex, Omega y Patek Philippe.",
           "howItWorks": {
-            "title": "How an Automatic Movement Works",
-            "description": "Automatics are essentially manual movements with an added self-winding mechanism:",
+            "title": "Cómo Funciona un Movimiento Automático",
+            "description": "Los automáticos son esencialmente movimientos de cuerda manual con un mecanismo de auto-cuerda agregado:",
             "mechanism": [
               {
-                "component": "Rotor (Oscillating Weight)",
-                "function": "A semi-circular weight mounted on bearings that spins freely. Your wrist movement makes the rotor spin."
+                "component": "Rotor (Masa Oscilante)",
+                "function": "Un peso semi-circular montado en rodamientos que gira libremente. El movimiento de tu muñeca hace girar el rotor."
               },
               {
-                "component": "Winding Transfer System",
-                "function": "Gears and clutches convert rotor rotation (in any direction) into unidirectional mainspring winding."
+                "component": "Sistema de Transferencia de Cuerda",
+                "function": "Engranajes y embragues convierten la rotación del rotor (en cualquier dirección) en cuerda unidireccional del resorte principal."
               },
               {
-                "component": "Anti-Reverse Mechanism",
-                "function": "Prevents the mainspring from unwinding when the rotor spins in reverse direction."
+                "component": "Mecanismo Anti-Reversa",
+                "function": "Previene que el resorte principal se desenrolle cuando el rotor gira en dirección inversa."
               },
               {
-                "component": "Mainspring",
-                "function": "Stores energy from automatic winding and manual winding (most automatics can also be wound manually)."
+                "component": "Resorte Principal",
+                "function": "Almacena energía de la cuerda automática y la cuerda manual (la mayoría de los automáticos también pueden ser enrollados manualmente)."
               },
               {
-                "component": "Base Movement",
-                "function": "The same gear train, escapement, and balance wheel as a manual. The automatic system just adds the self-winding mechanism."
+                "component": "Movimiento Base",
+                "function": "El mismo tren de engranajes, escape y volante que un manual. El sistema automático solo agrega el mecanismo de auto-cuerda."
               }
             ]
           },
           "powerReserve": {
-            "title": "Understanding Power Reserve",
-            "explanation": "Power reserve is how long an automatic watch runs after being fully wound without additional movement or manual winding:",
+            "title": "Entendiendo la Reserva de Marcha",
+            "explanation": "La reserva de marcha es cuánto tiempo funciona un reloj automático después de ser completamente enrollado sin movimiento adicional o cuerda manual:",
             "ranges": [
               {
-                "duration": "38-42 Hours",
-                "description": "Standard for most entry to mid-level automatics. Requires daily wear or watch winder.",
-                "examples": "Seiko 5, many ETA/Sellita movements"
+                "duration": "38-42 Horas",
+                "description": "Estándar para la mayoría de los automáticos de nivel de entrada a medio. Requiere uso diario o enrollador de reloj.",
+                "examples": "Seiko 5, muchos movimientos ETA/Sellita"
               },
               {
-                "duration": "48-72 Hours",
-                "description": "Common in modern quality automatics. You can take it off overnight and through the next full day without stopping.",
+                "duration": "48-72 Horas",
+                "description": "Común en automáticos modernos de calidad. Puedes quitártelo por la noche y durante todo el día siguiente sin detenerse.",
                 "examples": "Rolex (70hr), Omega Co-Axial (60hr), Tudor"
               },
               {
-                "duration": "80-100+ Hours",
-                "description": "Extended power reserves using dual barrels or optimized mainspring design.",
+                "duration": "80-100+ Horas",
+                "description": "Reservas de marcha extendida usando barriles dobles o diseño de resorte principal optimizado.",
                 "examples": "Omega Master Chronometer (60hr), Powermatic 80 (80hr)"
               },
               {
-                "duration": "7-10 Days",
-                "description": "Extra-long power reserves in haute horology pieces using multiple barrels.",
-                "examples": "IWC Big Pilot (7 days), Panerai 8 Days"
+                "duration": "7-10 Días",
+                "description": "Reservas de marcha extra-largas en piezas de alta relojería usando barriles múltiples.",
+                "examples": "IWC Big Pilot (7 días), Panerai 8 Days"
               }
             ]
           },
           "winding": {
-            "title": "Winding and Using Automatics",
+            "title": "Dar Cuerda y Usar Automáticos",
             "practices": [
               {
-                "topic": "Initial Manual Winding",
-                "advice": "When setting a stopped automatic, give it 20-30 crown turns manually to start the movement. Then let it self-wind automatically."
+                "topic": "Cuerda Manual Inicial",
+                "advice": "Cuando configures un automático detenido, dale 20-30 vueltas de corona manual para iniciar el movimiento. Luego déjalo enrollarse automáticamente."
               },
               {
-                "topic": "Daily Wear",
-                "advice": "Simply wear the watch normally. 8+ hours of wear will keep most automatics fully wound."
+                "topic": "Uso Diario",
+                "advice": "Simplemente usa el reloj normalmente. 8+ horas de uso mantendrán la mayoría de los automáticos completamente enrollados."
               },
               {
-                "topic": "Watch Winders",
-                "advice": "If you have multiple automatics, a watch winder keeps unworn ones wound and running. Useful for perpetual calendar watches that are difficult to reset."
+                "topic": "Enrolladores de Reloj",
+                "advice": "Si tienes múltiples automáticos, un enrollador de reloj mantiene los no usados enrollados y funcionando. Útil para relojes con calendario perpetuo que es difícil de resetear."
               },
               {
-                "topic": "Letting It Stop",
-                "advice": "It's perfectly fine to let automatics stop. Just restart when you want to wear it again. Doesn't harm the movement."
+                "topic": "Dejándolo Detenerse",
+                "advice": "Está perfectamente bien dejar que los automáticos se detengan. Simplemente reinicia cuando quieras usarlo de nuevo. No daña el movimiento."
               }
             ]
           },
           "advantages": {
-            "title": "Advantages of Automatic Movements",
+            "title": "Ventajas de los Movimientos Automáticos",
             "benefits": [
               {
-                "title": "No Daily Manual Winding",
-                "description": "Wear the watch and it stays wound. Set and forget (as long as you wear it regularly)."
+                "title": "Sin Cuerda Manual Diaria",
+                "description": "Usa el reloj y permanece enrollado. Configura y olvida (mientras lo uses regularmente)."
               },
               {
-                "title": "Mechanical Craftsmanship",
-                "description": "All the romance and craftsmanship of mechanical watchmaking without the manual winding chore."
+                "title": "Artesanía Mecánica",
+                "description": "Todo el romanticismo y artesanía de la relojería mecánica sin la tarea de cuerda manual."
               },
               {
-                "title": "Watching the Rotor",
-                "description": "Through casebacks, seeing the rotor spin with movement is mesmerizing and beautiful."
+                "title": "Observar el Rotor",
+                "description": "A través de fondos de cristal, ver el rotor girar con el movimiento es hipnotizante y hermoso."
               },
               {
-                "title": "Value Retention",
-                "description": "Quality brand automatics hold/appreciate value better than quartz."
+                "title": "Retención de Valor",
+                "description": "Los automáticos de marcas de calidad mantienen/aprecian valor mejor que el cuarzo."
               },
               {
-                "title": "No Batteries Ever",
-                "description": "Like all mechanicals, automatics never need batteries. Just servicing every 5-7 years."
+                "title": "Sin Baterías Nunca",
+                "description": "Como todos los mecánicos, los automáticos nunca necesitan baterías. Solo servicio cada 5-7 años."
               }
             ]
           },
           "famousMovements": {
-            "title": "Legendary Automatic Calibres",
+            "title": "Calibres Automáticos Legendarios",
             "movements": [
               {
                 "brand": "Rolex",
                 "calibre": "Calibre 3235",
-                "specs": "70 hour power reserve, -2/+2 sec/day, Chronergy escapement",
-                "highlight": "The gold standard in production automatics"
+                "specs": "70 horas de reserva de marcha, -2/+2 seg/día, Chronergy escape",
+                "highlight": "El estándar de oro en automáticos de producción"
               },
               {
                 "brand": "Omega",
                 "calibre": "Co-Axial Master Chronometer 8900",
-                "specs": "60 hours, 15,000 gauss resistant, METAS certified",
-                "highlight": "Anti-magnetic, extreme certified accuracy"
+                "specs": "60 horas, resistente a 15,000 gauss, METAS certificado",
+                "highlight": "Anti-magnético, precisión certificada extrema"
               },
               {
                 "brand": "Seiko",
                 "calibre": "6R35/4R36",
-                "specs": "70 hour power reserve, reliable, affordable",
-                "highlight": "Best value in in-house automatic movements"
+                "specs": "70 horas de reserva de marcha, confiable, asequible",
+                "highlight": "El mejor valor en movimientos automáticos internos"
               },
               {
                 "brand": "ETA",
                 "calibre": "2824-2",
-                "specs": "38 hours, industry workhorse",
-                "highlight": "Used in thousands of models, parts widely available"
+                "specs": "38 horas, caballo de batalla de la industria",
+                "highlight": "Usado en miles de modelos, piezas ampliamente disponibles"
               },
               {
                 "brand": "Miyota",
                 "calibre": "9015",
-                "specs": "42 hours, high-quality construction",
-                "highlight": "Affordable Japanese automatic, smooth winding"
+                "specs": "42 horas, construcción de alta calidad",
+                "highlight": "Automático japonés asequible, cuerda suave"
               }
             ]
           },
           "maintenance": {
-            "title": "Automatic Maintenance",
+            "title": "Mantenimiento de Automáticos",
             "schedule": [
               {
-                "interval": "Daily/Weekly",
-                "tasks": "Wear regularly or use watch winder. Clean with microfiber cloth."
+                "interval": "Diario/Semanal",
+                "tasks": "Usa regularmente o usa enrollador de reloj. Limpia con paño de microfibra."
               },
               {
-                "interval": "Every 5-7 Years",
-                "tasks": "Full service: disassembly, cleaning, lubrication, gasket replacement. Cost: $200-500 for standard brands, $500-1500+ for luxury."
+                "interval": "Cada 5-7 Años",
+                "tasks": "Servicio completo: desmontaje, limpieza, lubricación, reemplazo de juntas. Costo: $200-500 para marcas estándar, $500-1500+ para lujo."
               },
               {
-                "interval": "As Needed",
-                "tasks": "If accuracy drifts >+15 sec/day, service early. If stops unexpectedly, immediate service."
+                "interval": "Según sea necesario",
+                "tasks": "Si la precisión deriva >+15 seg/día, servicio antes. Si se detiene inesperadamente, servicio inmediato."
               }
             ]
           }
         },
         "other": {
           "hero": {
-            "title": "Solar, Kinetic, Spring Drive and Alternative Movements",
-            "subtitle": "Innovation Beyond Quartz and Mechanical",
-            "description": "Beyond traditional quartz and mechanical movements, innovative technologies exist that combine the best of both worlds or forge entirely new paths."
+            "title": "Solar, Kinetic, Spring Drive y Movimientos Alternativos",
+            "subtitle": "Innovación Más Allá del Cuarzo y lo Mecánico",
+            "description": "Más allá de los movimientos tradicionales de cuarzo y mecánicos, existen tecnologías innovadoras que combinan lo mejor de ambos mundos o forjan caminos completamente nuevos."
           },
-          "intro": "Watchmaking isn't limited to quartz vs. mechanical. Several brands have developed hybrid and alternative technologies that offer unique advantages. Citizen's Solar eliminates battery changes. Seiko's Kinetic combines mechanical motion with quartz accuracy. Grand Seiko's Spring Drive achieved the impossible: a movement that is both mechanical and electronic simultaneously. These technologies represent real innovation, showing that watchmaking hasn't stopped evolving.",
+          "intro": "La relojería no se limita a cuarzo vs. mecánico. Varias marcas han desarrollado tecnologías híbridas y alternativas que ofrecen ventajas únicas. El Solar de Citizen elimina cambios de batería. El Kinetic de Seiko combina movimiento mecánico con precisión de cuarzo. El Spring Drive de Grand Seiko logró lo imposible: un movimiento que es mecánico y electrónico simultáneamente. Estas tecnologías representan innovación real, mostrando que la relojería no ha dejado de evolucionar.",
           "technologies": {
             "solar": {
-              "title": "Solar-Powered Movements",
+              "title": "Movimientos Impulsados por Energía Solar",
               "brands": "Citizen Eco-Drive, Seiko Solar, Casio Tough Solar",
-              "howItWorks": "A solar panel beneath the dial converts light (solar or artificial) into electricity, stored in a rechargeable cell. No battery changes needed - just exposure to light.",
+              "howItWorks": "Un panel solar bajo la esfera convierte luz (solar o artificial) en electricidad, almacenada en una celda recargable. Sin cambios de batería necesarios - solo exposición a luz.",
               "advantages": [
-                "No battery changes ever (cell lasts 20+ years)",
-                "Eco-friendly - no disposable batteries",
-                "Quartz accuracy with mechanical-like convenience",
-                "Works with any light source, not just sun"
+                "Sin cambios de batería nunca (la celda dura 20+ años)",
+                "Ecológico - sin baterías desechables",
+                "Precisión de cuarzo con conveniencia mecánica-como",
+                "Trabaja con cualquier fuente de luz, no solo sol"
               ],
               "models": [
                 {
                   "model": "Citizen Promaster Diver Eco-Drive",
                   "price": "$300-500",
-                  "highlight": "Solar-powered dive watch, 200m WR, no batteries"
+                  "highlight": "Reloj de buceo impulsado por sol, 200m WR, sin baterías"
                 },
                 {
                   "model": "Seiko Prospex Solar Diver",
                   "price": "$400-600",
-                  "highlight": "Solar + water resistance, runs up to 10 months in darkness"
+                  "highlight": "Solar + resistencia al agua, funciona hasta 10 meses en oscuridad"
                 },
                 {
                   "model": "Casio G-Shock Solar (GW-M5610)",
                   "price": "$150",
-                  "highlight": "Solar + atomic radio-controlled, practically indestructible"
+                  "highlight": "Solar + atómico radio-controlado, prácticamente indestructible"
                 }
               ]
             },
             "kinetic": {
-              "title": "Seiko Kinetic - Hybrid Movement",
-              "description": "Seiko's Kinetic (introduced 1988) is a unique technology combining an automatic rotor with quartz accuracy. Instead of winding a mainspring, the rotor generates electricity that charges a cell and powers a quartz movement.",
-              "howItWorks": "Your wrist movement spins a rotor like in an automatic. But instead of winding a spring, the rotor drives a generator that produces electricity. This charges a cell that powers a quartz movement.",
+              "title": "Seiko Kinetic - Movimiento Híbrido",
+              "description": "El Kinetic de Seiko (introducido en 1988) es una tecnología única que combina un rotor automático con precisión de cuarzo. En lugar de enrollar un resorte principal, el rotor genera electricidad que carga una celda y alimenta un movimiento de cuarzo.",
+              "howItWorks": "El movimiento de tu muñeca hace girar un rotor como en un automático. Pero en lugar de enrollar un resorte, el rotor impulsa un generador que produce electricidad. Esto carga una celda que alimenta un movimiento de cuarzo.",
               "advantages": [
-                "No battery changes - powered by movement",
-                "Quartz accuracy (±15 sec/month)",
-                "Satisfaction of 'self-winding'",
-                "6-month power reserve when fully charged"
+                "Sin cambios de batería - impulsado por movimiento",
+                "Precisión de cuarzo (±15 seg/mes)",
+                "Satisfacción de 'auto-cuerda'",
+                "Reserva de marcha de 6 meses cuando está completamente cargado"
               ],
               "models": [
                 {
                   "model": "Seiko Kinetic Diver SKA",
                   "price": "$300-500",
-                  "highlight": "Hybrid dive watch, best of mechanical + quartz"
+                  "highlight": "Reloj de buceo híbrido, lo mejor de mecánico + cuarzo"
                 },
                 {
                   "model": "Seiko Kinetic GMT",
                   "price": "$400-600",
-                  "highlight": "GMT functionality with Kinetic convenience"
+                  "highlight": "Funcionalidad GMT con conveniencia Kinetic"
                 }
               ]
             },
             "springDrive": {
-              "title": "Grand Seiko Spring Drive - The Holy Grail",
-              "description": "Spring Drive is perhaps the most significant innovation in watchmaking since quartz. Developed by Seiko over 28 years (1977-2005), it's simultaneously mechanical and electronic - an impossible fusion.",
-              "howItWorks": "Powered by a traditional mainspring (mechanical) but regulated by an electronic quartz crystal (no balance wheel). The result: quartz accuracy (±1 sec/day) with perfectly smooth sweep (no tick) and no battery.",
+              "title": "Spring Drive de Grand Seiko - El Santo Grial",
+              "description": "El Spring Drive es quizás la innovación más importante en la relojería desde el cuarzo. Desarrollado por Seiko durante 28 años (1977-2005), es simultáneamente mecánico y electrónico - una fusión imposible.",
+              "howItWorks": "Impulsado por un resorte principal tradicional (mecánico) pero regulado por un cristal de cuarzo electrónico (no volante). El resultado: precisión de cuarzo (±1 seg/día) con barrido perfectamente suave (sin tic-tac) y sin batería.",
               "uniqueFeatures": [
-                "Perfectly smooth sweep - the seconds hand 'flows' without steps",
-                "±1 second per day accuracy (better than most mechanicals)",
-                "Fully mainspring-powered - no batteries",
-                "72-hour power reserve typical",
-                "Silent tick-tock (no escapement)"
+                "Barrido perfectamente suave - el segundero 'fluye' sin pasos",
+                "±1 segundo por día de precisión (mejor que la mayoría de los mecánicos)",
+                "Impulsado completamente por resorte principal - sin baterías",
+                "Reserva de marcha de 72 horas típica",
+                "Sonido de tic-tac silencioso (sin escape)"
               ],
-              "philosophy": "Spring Drive represents Grand Seiko's philosophy of perfection: traditional mechanical craftsmanship meets modern technology to create something entirely new.",
+              "philosophy": "El Spring Drive representa la filosofía de Grand Seiko de perfección: artesanía mecánica tradicional encuentra tecnología moderna para crear algo completamente nuevo.",
               "models": [
                 {
                   "model": "Grand Seiko Spring Drive SBGA211 'Snowflake'",
                   "price": "$5,800",
-                  "highlight": "Iconic textured dial, Spring Drive sweep, exquisite finishing"
+                  "highlight": "Esfera texturizada icónica, barrido Spring Drive, acabado exquisito"
                 },
                 {
                   "model": "Grand Seiko Spring Drive GMT",
                   "price": "$7,000-10,000",
-                  "highlight": "GMT functionality with Spring Drive accuracy"
+                  "highlight": "Funcionalidad GMT con precisión Spring Drive"
                 },
                 {
                   "model": "Grand Seiko Spring Drive Diver",
                   "price": "$8,000-12,000",
-                  "highlight": "600m dive watch with Spring Drive technology"
+                  "highlight": "Reloj de buceo de 600m con tecnología Spring Drive"
                 }
               ]
             },
             "other": {
-              "title": "Other Innovative Technologies",
+              "title": "Otras Tecnologías Innovadoras",
               "technologies": [
                 {
                   "name": "Seiko Astron GPS Solar",
-                  "description": "Combines GPS with solar power. Automatically adjusts to time zones using GPS satellite signals. Never needs manual adjustment when traveling.",
+                  "description": "Combina GPS con energía solar. Se ajusta automáticamente a zonas horarias usando señales satelitales GPS. Nunca necesita ajuste manual en viajes.",
                   "price": "$1,500-3,000"
                 },
                 {
                   "name": "Citizen Eco-Drive Satellite Wave",
-                  "description": "Receives time signals from GPS satellites, synchronizes anywhere. Solar-powered.",
+                  "description": "Recibe señales de tiempo de satélites GPS, se sincroniza en cualquier lugar. Impulsado por energía solar.",
                   "price": "$600-1,500"
                 },
                 {
                   "name": "Bulova Precisionist",
-                  "description": "High-frequency quartz movement (262 kHz vs. 32 kHz standard). Super-smooth sweep, ±10 sec/year accuracy.",
+                  "description": "Movimiento de cuarzo de alta frecuencia (262 kHz vs. 32 kHz estándar). Barrido súper-suave, precisión de ±10 seg/año.",
                   "price": "$300-600"
                 },
                 {
-                  "name": "TAG Heuer Connected (Luxury Smartwatch)",
-                  "description": "Swiss-made smartwatch with luxury materials, interchangeable mechanical/digital movements.",
+                  "name": "TAG Heuer Connected (Smartwatch de Lujo)",
+                  "description": "Smartwatch Swiss-made con materiales de lujo, movimientos intercambiables mecánicos/digitales.",
                   "price": "$1,800-2,500"
                 }
               ]
             }
           },
           "conclusion": {
-            "title": "Innovation Continues",
-            "content": "These alternative movements prove that watchmaking isn't static. While purists may insist on mechanicals only, technologies like Spring Drive, Solar, and Kinetic offer real advantages. They demonstrate that you can respect tradition while embracing innovation. The best approach: appreciate all movement types for what they bring to watchmaking."
+            "title": "La Innovación Continúa",
+            "content": "Estos movimientos alternativos prueban que la relojería no es estática. Mientras los puristas pueden insistir en solo mecánicos, tecnologías como Spring Drive, Solar y Kinetic ofrecen ventajas reales. Demuestran que puedes respetar la tradición mientras abrazas la innovación. El mejor enfoque: aprecia todos los tipos de movimientos por lo que aportan a la relojería."
           }
         }
       },
       "pilot": {
         "hero": {
-          "title": "Pilot Watches",
-          "subtitle": "Engineering for the Sky",
-          "description": "Born from the needs of military pilots, pilot watches combine exceptional legibility, navigation functions, and aviation heritage that make them icons both in the air and on the ground."
+          "title": "Relojes Aviador",
+          "subtitle": "Ingeniería para el Cielo",
+          "description": "Nacidos de las necesidades de los pilotos militares, los relojes aviador combinan legibilidad excepcional, funciones de navegación y herencia de aviación que los hacen íconos tanto en el aire como en tierra."
         },
-        "intro": "Pilot watches represent one of the most romantic chapters in watchmaking history. Originally designed for military pilots who needed precise timekeeping at 30,000 feet, these watches had to be legible at a glance, resistant to magnetic fields, and reliable enough for aerial navigation. Today, pilot watches maintain that tool heritage while serving as style statements for enthusiasts who appreciate their bold aesthetics and connection to the golden age of aviation.",
+        "intro": "Los relojes aviador representan uno de los capítulos más románticos en la historia relojera. Diseñados originalmente para pilotos militares que necesitaban cronometraje preciso a 30,000 pies, estos relojes debían ser legibles de un vistazo, resistentes a campos magnéticos y lo suficientemente confiables para navegación aérea. Hoy, los relojes aviador mantienen esa herencia de herramienta mientras sirven como declaraciones de estilo para entusiastas que aprecian su estética atrevida y conexión con la era dorada de la aviación.",
         "whatMakes": {
-          "title": "Defining Features of Pilot Watches",
+          "title": "Características Definitorias de los Relojes Aviador",
           "features": [
             {
-              "title": "Extreme Legibility",
-              "description": "Large numbers and contrasting hands",
-              "detail": "Often with large Arabic numerals and abundant luminosity for reading in dark cockpits"
+              "title": "Legibilidad Extrema",
+              "description": "Números grandes y agujas contrastantes",
+              "detail": "A menudo con números arábigos grandes y luminosidad abundante para lectura en cabinas oscuras"
             },
             {
-              "title": "Large Cases",
-              "description": "40-46mm typically",
-              "detail": "Generous sizing for legibility with gloves and over flight suits"
+              "title": "Cajas Grandes",
+              "description": "40-46mm típicamente",
+              "detail": "Tamaño generoso para legibilidad con guantes y sobre trajes de vuelo"
             },
             {
-              "title": "Triangle at 12",
-              "description": "Orientation marker",
-              "detail": "Allows pilots to determine watch orientation at a glance"
+              "title": "Triángulo a las 12",
+              "description": "Marcador de orientación",
+              "detail": "Permite a los pilotos determinar orientación del reloj de un vistazo"
             },
             {
-              "title": "Large Crown",
-              "description": "Easy to operate with gloves",
-              "detail": "Fluted or onion crowns for easy adjustment with flight gear"
+              "title": "Corona Grande",
+              "description": "Fácil de operar con guantes",
+              "detail": "Coronas acanaladas o con cebolla para ajuste fácil con equipo de vuelo"
             },
             {
-              "title": "Magnetic Resistance",
-              "description": "Protection against magnetic fields",
-              "detail": "Essential in cockpits filled with electronic instruments"
+              "title": "Resistencia Magnética",
+              "description": "Protección contra campos magnéticos",
+              "detail": "Esencial en cabinas llenas de instrumentos electrónicos"
             }
           ]
         },
         "history": {
-          "title": "History of Pilot Watches",
-          "content": "The first true pilot watch was the Cartier Santos (1904), created for aviation pioneer Alberto Santos-Dumont. However, the genre exploded during the world wars when military pilots needed reliable timekeeping. The Breguet Type XX was used by French combat pilots. The IWC Big Pilot (Große Fliegeruhr) was developed for the Luftwaffe. The American A-11 became standard for Allied pilots. After the war, these military watches inspired civilian designs. The IWC Mark series, Breitling Navitimer with its slide rule, and the Zenith Pilot Type 20 all capture the golden age of aviation watches. Today, pilot watches are celebrated by both collectors and actual pilots, though modern avionics have largely replaced watches for navigation."
+          "title": "Historia de los Relojes Aviador",
+          "content": "El primer verdadero reloj aviador fue el Santos de Cartier (1904), creado para el pionero de aviación Alberto Santos-Dumont. Sin embargo, el género explotó durante las guerras mundiales cuando pilotos militares necesitaban cronometraje confiable. El Breguet Type XX fue usado por pilotos de combate franceses. El IWC Big Pilot (Große Fliegeruhr) fue desarrollado para la Luftwaffe. El A-11 americano se convirtió en estándar para pilotos aliados. Después de la guerra, estos relojes militares inspiraron diseños civiles. El IWC Mark series, Breitling Navitimer con su regla de cálculo y el Zenith Pilot Type 20 todos capturan la era dorada de los relojes de aviación. Hoy, los relojes aviador son celebrados tanto por coleccionistas como por pilotos reales, aunque la aviónica moderna ha reemplazado en gran medida a los relojes para navegación."
         },
         "icons": {
-          "title": "Iconic Pilot Watches",
+          "title": "Relojes Aviador Icónicos",
           "models": [
             {
               "brand": "IWC",
               "model": "Big Pilot's Watch",
               "price": "$12,000 - $20,000",
-              "highlight": "The definitive pilot watch, legendary legibility"
+              "highlight": "El reloj aviador definitivo, legibilidad legendaria"
             },
             {
               "brand": "Breitling",
               "model": "Navitimer",
               "price": "$5,000 - $12,000",
-              "highlight": "Slide rule for navigation, icon since 1952"
+              "highlight": "Regla de cálculo para navegación, icono desde 1952"
             },
             {
               "brand": "Zenith",
               "model": "Pilot Type 20 Extra Special",
               "price": "$6,000 - $10,000",
-              "highlight": "Huge onion crown, vintage aesthetics"
+              "highlight": "Corona de cebolla enorme, estética vintage"
             },
             {
               "brand": "IWC",
               "model": "Mark XVIII",
               "price": "$4,500 - $6,500",
-              "highlight": "Refined classic pilot watch, soft-iron cage"
+              "highlight": "Reloj aviador clásico refinado, soft-iron cage"
             },
             {
               "brand": "Laco",
               "model": "Flieger",
               "price": "$400 - $1,500",
-              "highlight": "Authentic B-Uhr designs, exceptional value"
+              "highlight": "Diseños B-Uhr auténticos, valor excepcional"
             },
             {
               "brand": "Bell & Ross",
               "model": "BR 03-92",
               "price": "$3,500 - $5,000",
-              "highlight": "Cockpit instrument design, iconic square case"
+              "highlight": "Diseño de instrumento de cabina, cuadrado icónico"
             }
           ]
         },
         "types": {
-          "title": "Types of Pilot Watches",
+          "title": "Tipos de Relojes Aviador",
           "categories": [
             {
               "type": "B-Uhr (Beobachtungsuhr)",
-              "description": "German WWII observation watches. Features: black dial, large Arabic numerals, triangle at 12, large crown. Examples: Laco Flieger, Stowa Flieger, IWC Big Pilot."
+              "description": "Relojes de observación alemanes de la Segunda Guerra Mundial. Características: esfera negra, grandes números arábigos, triángulo a las 12, corona grande. Ejemplos: Laco Flieger, Stowa Flieger, IWC Big Pilot."
             },
             {
-              "type": "Aviation Chronograph",
-              "description": "Combines chronograph functionality with aviation features. Often includes slide rules or tachymeter scales. Examples: Breitling Navitimer, Zenith El Primero Pilot."
+              "type": "Cronógrafo de Aviación",
+              "description": "Combina funcionalidad de cronógrafo con características de aviación. A menudo incluye reglas de cálculo o escalas taquimétricas. Ejemplos: Breitling Navitimer, Zenith El Primero Pilot."
             },
             {
-              "type": "Instrument Watch",
-              "description": "Designed to resemble cockpit instruments. Black dials with white markings, maximum legibility. Examples: Bell & Ross BR series, Sinn 556."
+              "type": "Reloj de Instrumento",
+              "description": "Diseñados para parecer instrumentos de cabina. Esferas negras con marcas blancas, máxima legibilidad. Ejemplos: Bell & Ross BR series, Sinn 556."
             },
             {
-              "type": "Aviation GMT Watch",
-              "description": "Multiple time zone functionality for international pilots. Examples: Breitling Aerospace, IWC Pilot's Watch UTC."
+              "type": "Reloj GMT de Aviación",
+              "description": "Funcionalidad de múltiples zonas horarias para pilotos internacionales. Ejemplos: Breitling Aerospace, IWC Pilot's Watch UTC."
             }
           ]
         },
         "features": {
-          "title": "Special Aviation Features",
+          "title": "Características Especiales de Aviación",
           "items": [
             {
-              "feature": "Slide Rule",
-              "description": "The Breitling Navitimer features a circular slide rule that allows pilots to calculate fuel consumption, climb/descent rates, conversions, and more without electronics."
+              "feature": "Regla de Cálculo",
+              "description": "El Breitling Navitimer presenta una regla de cálculo circular que permite a los pilotos calcular consumo de combustible, tasas de ascenso/descenso, conversiones y más sin electrónica."
             },
             {
-              "feature": "Soft-Iron Cage",
-              "description": "An inner soft-iron cage protects the movement from magnetic fields. IWC Mark series and many pilot watches use this for protection against cockpit instruments."
+              "feature": "Jaula de Hierro Suave",
+              "description": "Una jaula de hierro suave interior protege el movimiento de campos magnéticos. IWC Mark series y muchos relojes aviador usan esto para protección contra instrumentos de cabina."
             },
             {
-              "feature": "Onion Crown",
-              "description": "Large fluted crowns (called 'onion crowns') allow easy operation with flight gloves. Classic on the Zenith Pilot Type 20."
+              "feature": "Corona de Cebolla",
+              "description": "Coronas grandes acanaladas (llamadas 'coronas de cebolla') permiten operación fácil con guantes de vuelo. Clásicas en el Zenith Pilot Type 20."
             },
             {
-              "feature": "Navigation Triangle",
-              "description": "The triangle at 12 o'clock is a military design feature that aids in quick watch orientation."
+              "feature": "Triángulo de Navegación",
+              "description": "El triángulo a las 12 en punto es una característica de diseño militar que ayuda a la orientación rápida del reloj."
             }
           ]
         },
         "whenToWear": {
-          "title": "When to Wear a Pilot Watch",
+          "title": "Cuándo Usar un Reloj Aviador",
           "occasions": [
             {
-              "event": "Daily Casual",
-              "description": "Pilot watches are excellent daily watches for men who appreciate robust and utilitarian aesthetics."
+              "event": "Diario Casual",
+              "description": "Los relojes aviador son excelentes relojes diarios para hombres que aprecian estética robusta y utilitarian."
             },
             {
-              "event": "Business Casual",
-              "description": "Works well with sport coats and chinos. Too casual for full suit."
+              "event": "Casual de Negocios",
+              "description": "Funciona bien con chaquetas deportivas y chinos. Demasiado casual para traje completo."
             },
             {
-              "event": "Weekends and Travel",
-              "description": "GMT functionality and robust design make them perfect for traveling."
+              "event": "Fines de Semana y Viajes",
+              "description": "Funcionalidad GMT y diseño robusto los hacen perfectos para viajar."
             },
             {
-              "event": "Outdoor Activities",
-              "description": "While not dive watches, most have decent water resistance and durable construction."
+              "event": "Actividades al Aire Libre",
+              "description": "Aunque no son relojes de buceo, la mayoría tienen resistencia al agua decente y construcción durable."
             }
           ]
         },
         "proTips": {
-          "title": "Expert Tips for Pilot Watches",
+          "title": "Consejos de Expertos para Relojes Aviador",
           "tips": [
             {
-              "title": "Size is authentic",
-              "content": "Pilot watches are meant to be large. A 42-46mm is historically accurate as pilots needed legibility over flight suits."
+              "title": "El tamaño es auténtico",
+              "content": "Los relojes aviador están destinados a ser grandes. Un 42-46mm es históricamente preciso ya que los pilotos necesitaban legibilidad sobre trajes de vuelo."
             },
             {
-              "title": "Strap over bracelet",
-              "content": "Historically, pilot watches came on leather straps for wear over flight jackets. Riveted straps are particularly authentic."
+              "title": "Correa sobre brazalete",
+              "content": "Históricamente, los relojes aviador venían en correas de cuero para usar sobre chaquetas de vuelo. Las correas riveted son particularmente auténticas."
             },
             {
-              "title": "Functionality matters",
-              "content": "If you're drawn to slide rules or GMT functions, learn to use them. These aren't just decoration."
+              "title": "La funcionalidad importa",
+              "content": "Si te atraen las reglas de cálculo o funciones GMT, aprende a usarlas. Estos no son solo decoración."
             },
             {
-              "title": "Understand the heritage",
-              "content": "Many pilot watches have fascinating military histories. Research your model's history to fully appreciate its significance."
+              "title": "Comprende la herencia",
+              "content": "Muchos relojes aviador tienen historias militares fascinantes. Investiga la historia de tu modelo para apreciar completamente su significado."
             }
           ]
         }
       },
       "field": {
         "hero": {
-          "title": "Field Watches",
-          "subtitle": "Functional Military Timepieces",
-          "description": "Born in the trenches of war, field watches prioritize legibility, durability, and functionality above all. They are the simplest and most reliable tools in the watch world."
+          "title": "Relojes de Campo",
+          "subtitle": "Relojes Militares Funcionales",
+          "description": "Nacidos en las trincheras de guerra, los relojes de campo priorizan legibilidad, durabilidad y funcionalidad sobre todo. Son las herramientas más simples y confiables del mundo relojero."
         },
-        "intro": "The field watch is the workhorse of the watch world. No pretensions, no frills, just pure functional timekeeping. These watches were designed for soldiers who needed to know the time in the worst conditions: mud, rain, combat. The philosophy is simple: legible, durable, affordable. A field watch doesn't try to impress with gold or complications. Its beauty lies in its pure utility. It's the watch you choose when you need absolute reliability no matter what life throws at you.",
+        "intro": "El reloj de campo es el caballo de batalla del mundo relojero. Sin pretensiones, sin lujos, solo puro cronometraje funcional. Estos relojes fueron diseñados para soldados que necesitaban saber la hora en las peores condiciones: barro, lluvia, combate. La filosofía es simple: legible, durable, asequible. Un reloj de campo no intenta impresionar con oro o complicaciones. Su belleza radica en su utilidad pura. Es el reloj que eliges cuando necesitas confiabilidad absoluta sin importar lo que la vida te lance.",
         "whatMakes": {
-          "title": "Defining Features of Field Watches",
+          "title": "Características Definitorias de los Relojes de Campo",
           "features": [
             {
-              "title": "Simple, Legible Dial",
-              "description": "Clear Arabic numerals on high-contrast dial",
-              "detail": "Usually white or cream dial with black numbers, or black dial with white markings"
+              "title": "Esfera Simple y Legible",
+              "description": "Números arábigos claros en esfera de alto contraste",
+              "detail": "Usualmente esfera blanca o color crema con números negros, o esfera negra con marcas blancas"
             },
             {
-              "title": "Durable Construction",
-              "description": "Made to withstand abuse",
-              "detail": "Steel cases, scratch-resistant crystal, robust construction"
+              "title": "Construcción Durable",
+              "description": "Hecho para soportar abuso",
+              "detail": "Cajas de acero, cristal resistente a rayones, construcción robusta"
             },
             {
-              "title": "Modest Size",
-              "description": "36-40mm typically",
-              "detail": "Practical for wear under clothing sleeves and gloves without being bulky"
+              "title": "Tamaño Modesto",
+              "description": "36-40mm típicamente",
+              "detail": "Práctico para uso bajo mangas de ropa y guantes sin ser voluminoso"
             },
             {
-              "title": "Canvas/NATO Strap",
-              "description": "Textile straps for durability",
-              "detail": "NATO straps allow the watch to remain on the wrist even if a spring bar fails"
+              "title": "Correa de Lona/NATO",
+              "description": "Correas textiles para durabilidad",
+              "detail": "Las correas NATO permiten que el reloj permanezca en la muñeca incluso si una barra de resorte falla"
             },
             {
-              "title": "Reliable Movement",
-              "description": "Quartz or simple mechanical",
-              "detail": "Easy to maintain and service, reliability over complication"
+              "title": "Movimiento Confiable",
+              "description": "Cuarzo o mecánico simple",
+              "detail": "Fácil de mantener y servir, confiabilidad sobre complicación"
             }
           ]
         },
         "history": {
-          "title": "History of Field Watches",
-          "content": "Field watches evolved from WWI trench watches. When soldiers realized pocket watches were impractical in combat, they began soldering pocket watches to leather straps. Manufacturers soon created wristwatches designed specifically for military use. During WWII, the U.S. military standardized specifications for field watches (known as 'ord' watches after the Ordnance Department that specified them). Brands like Hamilton, Bulova, Elgin, and Waltham produced millions. The postwar MIL-W-46374 specification established standards for U.S. military watches: legibility at 12 inches in total darkness, durable construction, and water resistance. These vintage military watches inspired modern civilian designs. Today, brands like Hamilton continue the tradition with field watches that honor that utilitarian heritage while serving as excellent daily watches for civilians."
+          "title": "Historia de los Relojes de Campo",
+          "content": "Los relojes de campo evolucionaron de los relojes de trinchera de la Primera Guerra Mundial. Cuando los soldados se dieron cuenta de que los relojes de bolsillo eran imprácticos en combate, comenzaron a soldar relojes de bolsillo a correas de cuero. Los fabricantes pronto crearon relojes de pulsera diseñados específicamente para uso militar. Durante la Segunda Guerra Mundial, el ejército de EE.UU. estandarizó especificaciones para relojes de campo (conocidos como relojes 'ord' por el Departamento de Artillería que los especificó). Marcas como Hamilton, Bulova, Elgin y Waltham produjeron millones. La especificación MIL-W-46374 de posguerra estableció estándares para relojes militares de EE.UU.: legibilidad a 12 pulgadas en oscuridad total, construcción durable y resistencia al agua. Estos relojes militares vintage inspiraron diseños civiles modernos. Hoy, marcas como Hamilton continúan la tradición con relojes de campo que honran ese patrimonio utilitarian mientras sirven como excelentes relojes diarios para civiles."
         },
         "icons": {
-          "title": "Iconic Field Watches",
+          "title": "Relojes de Campo Icónicos",
           "models": [
             {
               "brand": "Hamilton",
               "model": "Khaki Field Mechanical",
               "price": "$400 - $600",
-              "highlight": "The definitive modern field watch, military heritage"
+              "highlight": "El reloj de campo moderno definitivo, herencia militar"
             },
             {
               "brand": "Seiko",
               "model": "SNK809 (Seiko 5 Field)",
               "price": "$80 - $150",
-              "highlight": "Incredible value, reliable automatic"
+              "highlight": "Valor increíble, automático confiable"
             },
             {
               "brand": "Marathon",
               "model": "General Purpose Quartz",
               "price": "$200 - $300",
-              "highlight": "Issued to U.S. troops, extremely durable"
+              "highlight": "Emitido a tropas de EE.UU., extremadamente durable"
             },
             {
               "brand": "Timex",
               "model": "Expedition Scout",
               "price": "$40 - $60",
-              "highlight": "Affordable entry point, Indiglo legibility"
+              "highlight": "Punto de entrada asequible, legibilidad Indiglo"
             },
             {
               "brand": "Vaer",
               "model": "A5 Field",
               "price": "$300 - $400",
-              "highlight": "Modern American field, sapphire, automatic"
+              "highlight": "Campo americano moderno, zafiro, automático"
             },
             {
               "brand": "Tudor",
               "model": "Ranger",
               "price": "$3,000 - $3,500",
-              "highlight": "Luxury field, British expedition heritage"
+              "highlight": "Campo de lujo, herencia de expedición británica"
             }
           ]
         },
         "choosing": {
-          "title": "Choosing Your Field Watch",
+          "title": "Elegir Tu Reloj de Campo",
           "sections": [
             {
-              "title": "Quartz vs. Mechanical",
-              "content": "Field watches come in both. Quartz offers superior accuracy and low maintenance - probably what you'd want in actual combat. Mechanical (manual or automatic) offers romance and connection to history - no batteries to replace. Both are legitimate choices."
+              "title": "Cuarzo vs. Mecánico",
+              "content": "Los relojes de campo vienen en ambos. El cuarzo ofrece precisión superior y bajo mantenimiento - probablemente lo que querrías en combate real. Los mecánicos (manuales o automáticos) ofrecen romance y conexión con la historia - sin baterías que reemplazar. Ambos son opciones legítimas."
             },
             {
-              "title": "Dial Color",
-              "content": "White/cream dials are classic and more legible in low light (with lume). Black dials are more tactical and modern. Both are historically accurate."
+              "title": "Color de Esfera",
+              "content": "Las esferas blancas/crema son clásicas y más legibles en condiciones de poca luz (con lume). Las esferas negras son más tácticas y modernas. Ambas son históricamente precisas."
             },
             {
-              "title": "Military Standards",
-              "content": "Some field watches (like Marathon) meet actual military specifications and are issued to troops. Others are military-inspired. Both are great, but mil-spec watches have added authenticity."
+              "title": "Estándares Militares",
+              "content": "Algunos relojes de campo (como Marathon) cumplen especificaciones militares reales y son emitidos a tropas. Otros son de inspiración militar. Ambos son grandes, pero los relojes mil-spec tienen autenticidad adicional."
             },
             {
-              "title": "Strap Options",
-              "content": "NATO straps are classic and practical (the watch stays secure even if a spring bar breaks). Leather is traditional and looks great. Experiment - field watches look good on almost any strap."
+              "title": "Opciones de Correa",
+              "content": "Las correas NATO son clásicas y prácticas (el reloj permanece seguro incluso si una barra de resorte se rompe). El cuero es tradicional y se ve genial. Experimenta - los relojes de campo lucen bien en casi cualquier correa."
             }
           ]
         },
         "philosophy": {
-          "title": "The Field Watch Philosophy",
-          "content": "Field watches represent an anti-luxury philosophy in watchmaking. While dress watches show wealth and dive watches project adventure, field watches simply work. No gold, no complications, no pretensions. Just a simple, reliable watch that tells the time. This honesty appeals to people who value function over form, tool over toy. A $500 field watch can bring you more daily joy than a $5,000 luxury watch because you don't need to worry about it. You wear it, you bang it up, you keep wearing it. That freedom is valuable."
+          "title": "La Filosofía del Reloj de Campo",
+          "content": "Los relojes de campo representan una filosofía anti-lujo en la relojería. Mientras los relojes de vestir muestran riqueza y los relojes de buceo proyectan aventura, los relojes de campo simplemente funcionan. No hay oro, sin complicaciones, sin pretensiones. Solo un reloj simple y confiable que da la hora. Esta honestidad atrae a personas que valoran la función sobre la forma, la herramienta sobre el juguete. Un reloj de campo a $500 puede traerte más alegría diaria que un reloj de lujo a $5,000 porque no necesitas preocuparte por él. Lo usas, lo golpeas, lo sigues usando. Esa libertad es valiosa."
         },
         "proTips": {
-          "title": "Expert Tips for Field Watches",
+          "title": "Consejos de Expertos para Relojes de Campo",
           "tips": [
             {
-              "title": "Embrace scratches",
-              "content": "Field watches are meant to be worn hard. Scratches tell stories. Don't avoid them; earn them."
+              "title": "Abraza los rayones",
+              "content": "Los relojes de campo están destinados a ser usados duro. Los rayones cuentan historias. No los evites; gánatelos."
             },
             {
-              "title": "Buy extra NATO straps",
-              "content": "NATO straps are cheap ($10-30) and transform the watch's look. Have several in different colors."
+              "title": "Compra correas NATO extra",
+              "content": "Las correas NATO son baratas ($10-30) y transforman la apariencia del reloj. Ten varias en diferentes colores."
             },
             {
-              "title": "Smaller field watches work better",
-              "content": "Vintage 36-38mm sizes are authentic and wear comfortably. You don't need 44mm on a field watch."
+              "title": "Los relojes de campo más pequeños funcionan mejor",
+              "content": "Tamaños vintage de 36-38mm son auténticos y usan cómodamente. No necesitas 44mm en un reloj de campo."
             },
             {
-              "title": "Consider vintage",
-              "content": "Vintage military field watches (Hamilton, Bulova from the 40s-60s) are affordable and have real history."
+              "title": "Considera el vintage",
+              "content": "Los relojes de campo militares vintage (Hamilton, Bulova de los años 40-60) son asequibles y tienen historia real."
             }
           ]
         }
       },
       "gmt": {
         "hero": {
-          "title": "GMT Watches",
-          "subtitle": "For the Global Citizen",
-          "description": "GMT watches track multiple time zones simultaneously, making them essential tools for international travelers, pilots, and anyone working across time zones."
+          "title": "Relojes GMT",
+          "subtitle": "Para el Ciudadano Global",
+          "description": "Los relojes GMT rastrean múltiples zonas horarias simultáneamente, haciendo que sean herramientas esenciales para viajeros internacionales, pilotos y cualquiera que trabaje a través de zonas horarias."
         },
-        "intro": "In an increasingly connected world, tracking multiple time zones has become essential. The GMT (Greenwich Mean Time) watch solves this problem elegantly using an additional 24-hour hand and a rotating bezel. Originally designed for Pan Am pilots flying transatlantic routes, the GMT has become the watch of choice for business travelers, expats, and anyone needing to stay connected across time zones. Whether tracking home time while traveling, coordinating with colleagues on different continents, or simply wanting to know when to call family abroad, a GMT watch makes time zone navigation effortless.",
+        "intro": "En un mundo cada vez más conectado, rastrear múltiples zonas horarias se ha vuelto esencial. El reloj GMT (Greenwich Mean Time) resuelve este problema con elegancia usando una aguja adicional de 24 horas y un bisel giratorio. Originalmente diseñado para pilotos de Pan Am volando rutas transatlánticas, el GMT se ha convertido en el reloj de elección para viajeros de negocios, expatriados y cualquiera que necesite mantenerse conectado a través de zonas horarias. Ya sea rastreando la hora de casa mientras viajas, coordinando con colegas en continentes diferentes o simplemente queriendo saber cuándo llamar a familia en el extranjero, un reloj GMT hace que la navegación de zona horaria sea sin esfuerzo.",
         "whatMakes": {
-          "title": "How GMT Watches Work",
+          "title": "Cómo Funcionan los Relojes GMT",
           "features": [
             {
-              "title": "24-Hour GMT Hand",
-              "description": "Fourth hand rotating once every 24 hours",
-              "detail": "Usually in bright color (red, orange) to distinguish it from hour/minute hands"
+              "title": "Aguja GMT de 24 Horas",
+              "description": "Cuarta aguja rotando una vez cada 24 horas",
+              "detail": "Usualmente en color brillante (rojo, naranja) para distinguirla de las agujas de hora/minuto"
             },
             {
-              "title": "24-Hour GMT Bezel",
-              "description": "Bidirectional or fixed bezel with 24-hour markings",
-              "detail": "Allows tracking a second or third time zone when combined with GMT hand"
+              "title": "Bisel GMT de 24 Horas",
+              "description": "Bisel bidireccional o fijo con marcas de 24 horas",
+              "detail": "Permite rastrear una segunda o tercera zona horaria cuando se combina con la aguja GMT"
             },
             {
-              "title": "True GMT vs. Caller Movement",
-              "description": "Two types of GMT functionality",
-              "detail": "True GMT: hour hand jumps in 1-hour increments. Caller: GMT hand is set independently"
+              "title": "Movimiento GMT Verdadero vs. Caller",
+              "description": "Dos tipos de funcionalidad GMT",
+              "detail": "GMT verdadero: la aguja de hora salta en incrementos de 1 hora. Caller: la aguja GMT se establece independientemente"
             },
             {
-              "title": "Date Indication",
-              "description": "Usually included",
-              "detail": "Helps track dates when crossing time zones and the international date line"
+              "title": "Indicación de Fecha",
+              "description": "Usualmente incluida",
+              "detail": "Ayuda a rastrear fechas al cruzar zonas horarias y la línea de fecha internacional"
             }
           ]
         },
         "history": {
-          "title": "History of GMT Watches",
-          "content": "The Rolex GMT-Master was created in 1954 in collaboration with Pan American World Airways. Pan Am pilots flying the new transatlantic route needed to track both local time and GMT (used in air navigation). Rolex responded with the GMT-Master, featuring its iconic red GMT hand and blue/red 'Pepsi' bezel representing day and night. The watch became standard issue to Pan Am crews and other airline pilots. GMT functionality quickly spread beyond aviation to business travelers, diplomats, and enthusiasts. Today, almost every major brand offers a GMT watch, from entry-level options like the Seiko 5 Sports GMT to luxury pieces like the Patek Philippe Aquanaut Travel Time. The GMT remains one of the most practical and sought-after watch complications."
+          "title": "Historia de los Relojes GMT",
+          "content": "El Rolex GMT-Master fue creado en 1954 en colaboración con Pan American World Airways. Los pilotos de Pan Am volando la nueva ruta transatlántica necesitaban rastrear tanto la hora local como la GMT (usada en navegación aérea). Rolex respondió con el GMT-Master, con su icónica aguja GMT roja y bisel azul/rojo 'Pepsi' representando día y noche. El reloj se convirtió en emitido estándar a tripulaciones de Pan Am y otros pilotos de aerolíneas. La funcionalidad GMT rápidamente se extendió más allá de la aviación a viajeros de negocios, diplomáticos y entusiastas. Hoy, casi cada marca importante ofrece un reloj GMT, desde opciones de nivel de entrada como el Seiko 5 Sports GMT hasta piezas de lujo como el Patek Philippe Aquanaut Travel Time. El GMT permanece como una de las complicaciones de reloj más prácticas y buscadas."
         },
         "icons": {
-          "title": "Iconic GMT Watches",
+          "title": "Relojes GMT Icónicos",
           "models": [
             {
               "brand": "Rolex",
               "model": "GMT-Master II",
               "price": "$10,000 - $40,000+",
-              "highlight": "The original and definitive GMT, iconic Pepsi bezel"
+              "highlight": "El GMT original y definitivo, bisel Pepsi icónico"
             },
             {
               "brand": "Tudor",
               "model": "Black Bay GMT",
               "price": "$4,000 - $5,000",
-              "highlight": "Exceptional GMT value, Pepsi aesthetics"
+              "highlight": "Valor GMT excepcional, estética Pepsi"
             },
             {
               "brand": "Grand Seiko",
               "model": "Sport GMT",
               "price": "$6,000 - $8,000",
-              "highlight": "Superior accuracy, exquisite finishing"
+              "highlight": "Precisión superior, acabado exquisito"
             },
             {
               "brand": "Omega",
               "model": "Seamaster Aqua Terra GMT",
               "price": "$6,000 - $8,000",
-              "highlight": "Dress versatility, water resistant"
+              "highlight": "Versatilidad de vestir, resistente al agua"
             },
             {
               "brand": "Seiko",
               "model": "5 Sports GMT",
               "price": "$400 - $600",
-              "highlight": "Affordable GMT entry point, automatic"
+              "highlight": "Punto de entrada GMT asequible, automático"
             },
             {
               "brand": "Ball",
               "model": "Engineer Hydrocarbon GMT",
               "price": "$2,000 - $3,000",
-              "highlight": "Tritium gas tubes for lume, great value"
+              "highlight": "Tubos de gas tritio para lume, gran valor"
             }
           ]
         },
         "types": {
-          "title": "True GMT vs. Caller GMT",
-          "content": "Understanding the difference is crucial when choosing a GMT:",
+          "title": "GMT Verdadero vs. Caller GMT",
+          "content": "Entender la diferencia es crucial al elegir un GMT:",
           "comparison": [
             {
-              "type": "True GMT (Flyer GMT)",
-              "description": "The hour hand jumps independently in 1-hour increments. The GMT hand and minute hand stay synchronized to your 'home time'. Perfect for: pilots and frequent travelers who change time zones often.",
+              "type": "GMT Verdadero (Flyer GMT)",
+              "description": "La aguja de hora salta independientemente en incrementos de 1 hora. La aguja GMT y minutero permanecen sincronizados con tu 'hora de casa'. Perfecto para: pilotos y viajeros frecuentes que cambian zonas horarias a menudo.",
               "examples": "Rolex GMT-Master II, Grand Seiko GMT, Tudor Black Bay GMT"
             },
             {
               "type": "Caller GMT (Office GMT)",
-              "description": "The GMT hand is set independently. Hour/minute hands move together. Perfect for: people staying in one time zone but needing to track another (home offices).",
-              "examples": "Rolex Explorer II, many entry-level GMTs"
+              "description": "La aguja GMT se establece independientemente. Las agujas de hora/minuto se mueven juntas. Perfecto para: personas que permanecen en una zona horaria pero necesitan rastrear otra (oficinas en casa).",
+              "examples": "Rolex Explorer II, muchos GMTs de nivel de entrada"
             }
           ]
         },
         "using": {
-          "title": "How to Use a GMT Watch",
+          "title": "Cómo Usar un Reloj GMT",
           "steps": [
             {
-              "step": "Initial Setup",
-              "instruction": "Set local time with hour/minute hands. Set GMT hand to your 'home time' or reference time zone."
+              "step": "Configuración Inicial",
+              "instruction": "Establece la hora local con agujas de hora/minuto. Establece la aguja GMT a tu 'hora de casa' o zona horaria de referencia."
             },
             {
-              "step": "Tracking Second Time Zone",
-              "instruction": "Read the GMT hand against the 24-hour markings on the bezel or dial."
+              "step": "Rastreando Segunda Zona Horaria",
+              "instruction": "Lee la aguja GMT contra las marcas de 24 horas en el bisel o esfera."
             },
             {
-              "step": "Tracking Third Time Zone",
-              "instruction": "Rotate the GMT bezel to align the desired time zone with the GMT hand. Read hour hands against the bezel for the third time zone."
+              "step": "Rastreando Tercera Zona Horaria",
+              "instruction": "Gira el bisel GMT para alinear la zona horaria deseada con la aguja GMT. Lee las agujas de hora contra el bisel para la tercera zona horaria."
             },
             {
-              "step": "Changing Time Zones (True GMT)",
-              "instruction": "Pull crown out one position. Jump the hour hand forward or backward to the new local time. GMT hand stays on home time."
+              "step": "Cambiando Zonas Horarias (GMT Verdadero)",
+              "instruction": "Saca la corona una posición. Salta la aguja de hora hacia adelante o atrás a la nueva hora local. La aguja GMT permanece en la hora de casa."
             }
           ]
         },
         "whenToWear": {
-          "title": "Who Should Choose a GMT",
+          "title": "Quién Debería Elegir un GMT",
           "personas": [
             {
-              "type": "Frequent International Travelers",
-              "description": "If you cross time zones regularly, a GMT (especially true GMT) is invaluable."
+              "type": "Viajeros Internacionales Frecuentes",
+              "description": "Si cruzas zonas horarias regularmente, un GMT (especialmente GMT verdadero) es invaluable."
             },
             {
-              "type": "Business Professionals",
-              "description": "Track home office time while working with international clients/colleagues."
+              "type": "Profesionales de Negocios",
+              "description": "Rastrear hora de oficina en casa mientras trabajas con clientes/colegas internacionales."
             },
             {
-              "type": "Expats",
-              "description": "Living in one country while maintaining connection to home/family time."
+              "type": "Expatriados",
+              "description": "Vivir en un país mientras mantiene conexión con hora de casa/familia."
             },
             {
-              "type": "Pilots and Flight Crew",
-              "description": "The original purpose - tracking local and zulu (GMT) time for navigation."
+              "type": "Pilotos y Tripulación de Cabina",
+              "description": "El propósito original - rastreando hora local y zulu (GMT) para navegación."
             },
             {
-              "type": "Complication Lovers",
-              "description": "GMTs offer practical functionality without chronograph complexity."
+              "type": "Amantes de Complicaciones",
+              "description": "GMTs ofrecen funcionalidad práctica sin la complejidad de cronógrafos."
             }
           ]
         },
         "proTips": {
-          "title": "Expert Tips for GMT Users",
+          "title": "Consejos de Expertos para Usuarios GMT",
           "tips": [
             {
-              "title": "Set GMT hand to UTC/GMT",
-              "content": "Many professionals set the GMT hand to Coordinated Universal Time (UTC/GMT) as it's the world's standard reference."
+              "title": "Configura la aguja GMT a UTC/GMT",
+              "content": "Muchos profesionales establecen la aguja GMT a Tiempo Universal Coordinado (UTC/GMT) ya que es la referencia estándar mundial."
             },
             {
-              "title": "Pepsi bezel is functional",
-              "content": "Blue/red colors aren't just aesthetics: blue represents night (PM), red represents day (AM) on the 24-hour scale."
+              "title": "El bisel Pepsi es funcional",
+              "content": "Los colores azul/rojo no son solo estética: azul representa noche (PM), rojo representa día (AM) en la escala de 24 horas."
             },
             {
-              "title": "Choose based on your travel pattern",
-              "content": "If you stay mainly in one place: Caller GMT. If you travel constantly: True GMT with jumping hour hand."
+              "title": "Elige basado en tu patrón de viaje",
+              "content": "Si permaneces principalmente en un lugar: Caller GMT. Si viajas constantemente: GMT verdadero con aguja de hora que salta."
             },
             {
-              "title": "Pair it with world clock apps",
-              "content": "A GMT watch is great, but for tracking multiple time zones, complement it with a smartphone app."
+              "title": "Combínalo con aplicaciones de reloj mundial",
+              "content": "Un reloj GMT es genial, pero para rastrear múltiples zonas horarias, complémentalo con una aplicación de smartphone."
             }
           ]
         }
       },
       "digital": {
         "hero": {
-          "title": "Digital Watches & Smartwatches",
-          "subtitle": "Evolution of Timekeeping",
-          "description": "From the revolutionary G-Shock to modern smartwatches, digital watches represent technological innovation and practical functionality that complements and challenges traditional mechanical watchmaking."
+          "title": "Relojes Digitales y Smartwatches",
+          "subtitle": "Evolución del Cronometraje",
+          "description": "Desde el revolucionario G-Shock hasta smartwatches modernos, los relojes digitales representan innovación tecnológica y funcionalidad práctica que complementa y desafía la relojería mecánica tradicional."
         },
-        "intro": "Digital watches have come a long way since the red LED displays of the 1970s. Today they span from the legendary practically-indestructible G-Shocks to sophisticated smartwatches that track your health, pay for your purchases, and keep you connected. While watch purists may scoff at digitals, they represent real innovation and solve problems mechanical watches can't. A smartwatch can track your heart rate, navigate you through unfamiliar cities, and let you take calls. A G-Shock can survive a fall from a building. Mechanical watches are beautiful, but digitals are practical. There's room in every collection for both.",
+        "intro": "Los relojes digitales han recorrido un largo camino desde las pantallas LED rojas de los años 70. Hoy abarcan desde los legendarios G-Shocks prácticamente indestructibles hasta smartwatches sofisticados que rastrean tu salud, pagan tus compras y te mantienen conectado. Mientras los puristas de relojes pueden desdeñar los digitales, representan innovación real y resuelven problemas que los relojes mecánicos no pueden. Un smartwatch puede rastreear tu ritmo cardíaco, navegarte a través de ciudades desconocidas y permitirte tomar llamadas. Un G-Shock puede sobrevivir una caída desde un edificio. Los relojes mecánicos son hermosos, pero los digitales son prácticos. Hay espacio en cada colección para ambos.",
         "whatMakes": {
-          "title": "Types of Digital Watches",
+          "title": "Tipos de Relojes Digitales",
           "categories": [
             {
-              "type": "Classic LCD Digitals",
-              "description": "Liquid crystal displays showing time in numeric format",
-              "features": "Inexpensive, long battery life, multifunctional",
+              "type": "LCD Digitales Clásicos",
+              "description": "Pantallas de cristal líquido mostrando tiempo en formato numérico",
+              "features": "Económicos, batería de larga duración, multifuncionales",
               "examples": "Casio F-91W, Timex Ironman"
             },
             {
-              "type": "Rugged Digitals (G-Shock)",
-              "description": "Ultra-durable with shock protection",
-              "features": "Shock resistance, 200m WR, multiple alarms, stopwatch",
-              "examples": "Casio G-Shock DW series, Mudmaster, Rangeman"
+              "type": "Digitales Resistentes (G-Shock)",
+              "description": "Ultra-duraderos con protección contra golpes",
+              "features": "Resistencia a golpes, 200m WR, múltiples alarmas, cronómetro",
+              "examples": "Casio G-Shock serie DW, Mudmaster, Rangeman"
             },
             {
-              "type": "Ana-Digi Digitals",
-              "description": "Hybrids combining analog hands with digital display",
-              "features": "Best of both worlds: traditional aesthetics with digital features",
-              "examples": "Casio G-Shock GA series, Seiko Arnie, Breitling Aerospace"
+              "type": "Digitales Ana-Digi",
+              "description": "Híbridos combinando agujas analógicas con display digital",
+              "features": "Lo mejor de ambos mundos: estética tradicional con características digitales",
+              "examples": "Casio G-Shock serie GA, Seiko Arnie, Breitling Aerospace"
             },
             {
               "type": "Smartwatches",
-              "description": "Wearable computers with smartphone connectivity",
-              "features": "Fitness tracking, notifications, payments, apps, health monitoring",
+              "description": "Computadoras portátiles con conectividad smartphone",
+              "features": "Rastreo de fitness, notificaciones, pagos, aplicaciones, monitoreo de salud",
               "examples": "Apple Watch, Samsung Galaxy Watch, Garmin Fenix"
             },
             {
-              "type": "Luxury Digitals",
-              "description": "Digital watches from luxury brands",
-              "features": "Premium materials, innovative technology, haute horology",
+              "type": "Digitales de Lujo",
+              "description": "Relojes digitales de marcas de lujo",
+              "features": "Materiales premium, tecnología innovadora, alta relojería",
               "examples": "TAG Heuer Connected, Urwerk EMC, MB&F HM5"
             }
           ]
         },
         "history": {
-          "title": "History of Digital Watches",
-          "content": "The first digital watch was the Hamilton Pulsar (1970), an LED watch that cost $2,100 ($14,000 today). You pressed a button and red numbers glowed. LEDs were replaced by LCD displays in the 70s, making digitals affordable. The Casio F-91W (1989) became one of the best-selling watches in history - still produced today at $10-20. The real game-changer came in 1983 when Casio launched the G-Shock DW-5000C. Designer Kikuo Ibe wanted to create a watch that would never break. After testing over 200 prototypes, he achieved shock resistance using modular construction and dual-layer case design. The G-Shock became legendary among military, emergency personnel, and anyone needing extreme durability. In 2015, Apple redefined the watch space with the Apple Watch, merging smartphone technology with wrist format. Today, smartwatches dominate global watch sales, though mechanicals maintain prestige and romance."
+          "title": "Historia de los Relojes Digitales",
+          "content": "El primer reloj digital fue el Hamilton Pulsar (1970), un reloj LED que costaba $2,100 ($14,000 hoy). Presionabas un botón y números rojos brillaban. Los LEDs fueron reemplazados por pantallas LCD en los años 70, haciendo los digitales asequibles. El Casio F-91W (1989) se convirtió en uno de los relojes más vendidos de la historia - todavía se produce hoy a $10-20. El verdadero cambio de juego vino en 1983 cuando Casio lanzó el G-Shock DW-5000C. El diseñador Kikuo Ibe quería crear un reloj que nunca se rompiera. Después de probar más de 200 prototipos, logró resistencia a golpes usando construcción modular y diseño de doble caja. El G-Shock se convirtió en legendario entre militares, personal de emergencias y cualquiera que necesite durabilidad extrema. En 2015, Apple redefinió el espacio de relojes con el Apple Watch, fusionando tecnología de smartphone con formato de pulsera. Hoy, los smartwatches dominan las ventas de relojes globales, aunque los mecánicos mantienen prestigio y romance."
         },
         "gshock": {
-          "title": "The G-Shock Phenomenon",
-          "content": "No discussion of digital watches is complete without G-Shock. These practically indestructible Japanese watches have become cultural icons. The shock-protection construction means the floating module is suspended inside the case, protected from impacts. They're water resistant to 200m. Many models feature solar power, atomic radio synchronization, and Bluetooth connectivity. They're worn by military personnel, first responders, extreme athletes, and fashion enthusiasts alike. Popular models: DW-5600 (the classic 'square'), GA-2100 (the slim 'CasiOak'), Mudmaster, Rangeman, Frogman. G-Shocks range from $50 to $5,000+ for limited edition collaborations. A G-Shock is arguably the most practical watch you can own - you never need to worry about it.",
+          "title": "El Fenómeno G-Shock",
+          "content": "Ninguna discusión de relojes digitales está completa sin G-Shock. Estos relojes japoneses prácticamente indestructibles se han convertido en íconos culturales. La construcción de protección contra golpes significa que el módulo flotante está suspendido dentro de la caja, protegido de impactos. Son resistentes al agua a 200m. Muchos modelos presentan energía solar, sincronización de radio atómica y conectividad Bluetooth. Están usados por personal militar, primeros respondedores, atletas extremos y entusiastas de la moda por igual. Modelos populares: DW-5600 (el 'cuadrado' clásico), GA-2100 (el 'CasiOak' delgado), Mudmaster, Rangeman, Frogman. Los G-Shocks van desde $50 a $5,000+ para ediciones colaborativas limitadas. Un G-Shock es posiblemente el reloj más práctico que puedes poseer - nunca necesitas preocuparte por él.",
           "icons": {
-            "title": "Iconic Digitals & Smartwatches",
+            "title": "Digitales y Smartwatches Icónicos",
             "models": [
               {
                 "brand": "Casio",
                 "model": "G-Shock DW-5600",
                 "price": "$50 - $100",
-                "highlight": "The original and definitive G-Shock, practically indestructible"
+                "highlight": "El G-Shock original y definitivo, prácticamente indestructible"
               },
               {
                 "brand": "Casio",
                 "model": "F-91W",
                 "price": "$10 - $20",
-                "highlight": "The best-selling digital in history, icon of functionality"
+                "highlight": "El digital más vendido en la historia, icono de funcionalidad"
               },
               {
                 "brand": "Apple",
                 "model": "Apple Watch Ultra",
                 "price": "$800 - $900",
-                "highlight": "The most advanced smartwatch, comprehensive health tracking"
+                "highlight": "El smartwatch más avanzado, rastreo de salud integral"
               },
               {
                 "brand": "Garmin",
                 "model": "Fenix 7",
                 "price": "$700 - $900",
-                "highlight": "Multi-sport smartwatch, long battery life"
+                "highlight": "Smartwatch multi-deporte, batería de larga duración"
               },
               {
                 "brand": "Casio",
                 "model": "Pro Trek",
                 "price": "$200 - $500",
-                "highlight": "ABC sensors (altimeter, barometer, compass), outdoor adventures"
+                "highlight": "Sensores ABC (altímetro, barómetro, brújula), aventuras al aire libre"
               },
               {
                 "brand": "Suunto",
                 "model": "9 Peak Pro",
                 "price": "$500 - $600",
-                "highlight": "Athletic performance, ultra-long battery life"
+                "highlight": "Rendimiento atlético, batería de ultra-larga duración"
               }
             ]
           },
@@ -2075,52 +2075,6 @@
               }
             ]
           }
-        },
-        "smartwatches": {
-          "title": "Mechanical vs. Smartwatches: The Debate",
-          "content": "Watch enthusiasts often ask: should I buy a smartwatch or a mechanical watch? The answer: both serve different purposes. Smartwatches are tools - they track fitness, notifications, navigation. Mechanicals are objects - craftsmanship, heritage, art. An Apple Watch will tell you your heart rate and let you respond to texts. A Rolex Submariner will make you feel connected to decades of watchmaking history. Many enthusiasts wear a smartwatch during the week for functionality, then switch to a mechanical on weekends for enjoyment. You don't need to pick sides in this war. Own both. Use each when it makes sense."
-        },
-        "choosing": {
-          "title": "Choosing the Right Digital Watch",
-          "sections": [
-            {
-              "title": "For Extreme Durability",
-              "content": "G-Shock is unbeatable. If you work construction, military, first response, or are just hard on watches, nothing else can take the punishment."
-            },
-            {
-              "title": "For Fitness Tracking",
-              "content": "Apple Watch (iPhone users) or Samsung Galaxy Watch (Android) offer the best health tracking and app ecosystem. Garmin/Suunto for serious athletes."
-            },
-            {
-              "title": "For Outdoor Activities",
-              "content": "Casio Pro Trek or Garmin Fenix with ABC sensors (altimeter, barometer, compass) and GPS."
-            },
-            {
-              "title": "For Simplicity",
-              "content": "Casio F-91W. $15, does all the basics, battery lasts years, weighs nothing."
-            }
-          ]
-        },
-        "proTips": {
-          "title": "Expert Tips for Digital Watches",
-          "tips": [
-            {
-              "title": "Battery life matters",
-              "content": "Smartwatches typically last 1-2 days. Basic digitals last years. Solar G-Shocks never need batteries. Consider your lifestyle."
-            },
-            {
-              "title": "Digitals are perfect tool watches",
-              "content": "Use a digital for activities where you'd worry about damaging a mechanical watch: sports, construction, gardening."
-            },
-            {
-              "title": "Smartwatches depreciate fast",
-              "content": "An Apple Watch loses value quickly. Mechanical watches hold or appreciate in value. Buy smartwatches for functionality, not as an investment."
-            },
-            {
-              "title": "G-Shocks are collectible",
-              "content": "Limited edition G-Shock collaborations and vintage models have become collectible. The G-Shock market is active."
-            }
-          ]
         }
       }
     },

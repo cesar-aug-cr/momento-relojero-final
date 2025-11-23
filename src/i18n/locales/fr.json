@@ -486,110 +486,93 @@
     "watchTypes": {
       "dive": {
         "hero": {
-          "title": "Montres de Plongée",
-          "subtitle": "Ingénierie pour les Profondeurs",
-          "description": "Nées de la nécessité des plongeurs professionnels, les montres de plongée combinent résistance à l'eau extrême, lunettes tournantes et luminosité pour la survie sous-marine et le style en surface."
+          "title": "Relojes de Buceo",
+          "subtitle": "El Reloj Deportivo Más Versátil",
+          "description": "Originalmente diseñados para exploración submarina, los relojes de buceo combinan ingeniería robusta, funcionalidad de herramienta y estilo atemporal perfecto para uso diario."
         },
-        "intro": "La montre de plongée représente l'un des designs horlogers les plus iconiques et polyvalents jamais créés. Conçue à l'origine pour les plongeurs militaires et commerciaux qui avaient besoin de chronométrage fiable sous l'eau, la montre de plongée moderne est devenue un symbole de robustesse, de fonctionnalité et de style intemporel. De la Rolex Submariner légendaire à l'Omega Seamaster, les montres de plongée transcendent leur objectif d'origine pour devenir des compagnons quotidiens pour des millions de personnes qui ne plongeront jamais plus profond qu'une piscine.",
+        "intro": "El reloj de buceo es posiblemente el estilo de reloj más popular y versátil que existe. Aunque originalmente creado para buzos profesionales de SCUBA, los relojes de buceo modernos se usan en todos lados, desde salas de juntas hasta playas. Su construcción robusta, alta resistencia al agua y diseño deportivo pero elegante los convierte en compañeros perfectos que pueden manejar cualquier cosa que la vida les presente.",
         "whatMakes": {
-          "title": "Caractéristiques Définissant une Montre de Plongée",
+          "title": "¿Qué Define a un Reloj de Buceo?",
+          "intro": "Los verdaderos relojes de buceo deben cumplir con los estándares ISO 6425, que especifican requisitos rigurosos para uso submarino. Sin embargo, muchos relojes adoptan el estilo de buceo sin certificación completa. Aquí están las características esenciales que definen a los relojes de buceo:",
           "features": [
             {
-              "title": "Résistance à l'Eau (200m Minimum)",
-              "description": "Les véritables montres de plongée commencent à 200m",
-              "detail": "La norme ISO 6425 exige au minimum 200m, bien que de nombreuses plongées dépassent 300m ou plus"
+              "title": "Resistencia al Agua",
+              "description": "Mínimo 200m, modelos profesionales 300m+",
+              "detail": "Los relojes de buceo certificados ISO 6425 deben soportar 25% más que la profundidad nominal"
             },
             {
-              "title": "Lunette Tournante Unidirectionnelle",
-              "description": "Tourne uniquement dans le sens antihoraire",
-              "detail": "Empêche la surestimation accidentelle du temps de plongée restant, un problème de sécurité critique"
+              "title": "Bisel Giratorio",
+              "description": "Bisel de tiempo unidireccional",
+              "detail": "Previene incrementar accidentalmente el tiempo de buceo, una característica de seguridad crítica"
             },
             {
-              "title": "Luminosité Haute Visibilité",
-              "description": "Indices et aiguilles luminescents",
-              "detail": "Doit être lisible à 25cm dans l'obscurité totale selon les normes ISO"
+              "title": "Alta Legibilidad",
+              "description": "Marcas claras y super-luminova",
+              "detail": "Legible a 25cm en oscuridad total según estándares ISO"
             },
             {
-              "title": "Couronne Vissée",
-              "description": "Se visse dans le boîtier pour l'étanchéité",
-              "detail": "Crée un joint hermétique, empêchant l'eau de pénétrer par la couronne"
-            },
-            {
-              "title": "Construction Robuste",
-              "description": "Acier inoxydable ou titane",
-              "detail": "Doit résister aux chocs, à la pression et à l'eau salée corrosive"
+              "title": "Corona Atornillada",
+              "description": "Protección mejorada contra agua",
+              "detail": "Se enrosca en la caja para crear un sello hermético"
             }
-          ],
-          "intro": "Los verdaderos relojes de buceo deben cumplir con los estándares ISO 6425, que especifican requisitos rigurosos para uso submarino. Sin embargo, muchos relojes adoptan el estilo de buceo sin certificación completa. Aquí están las características esenciales que definen a los relojes de buceo:"
+          ]
         },
         "history": {
-          "title": "Histoire des Montres de Plongée",
+          "title": "Historia de los Relojes de Buceo",
           "paragraphs": [
             "El Rolex Submariner y el Blancpain Fifty Fathoms, ambos lanzados en 1953, son considerados los primeros verdaderos relojes de buceo. Resolvieron un problema real: permitir a los buzos rastrear el tiempo de fondo de manera segura usando el bisel giratorio. Antes de que las computadoras de buceo se volvieran ubicuas en los años 80-90, un reloj de buceo era equipo de seguridad esencial.",
             "Hoy, las computadoras de buceo han reemplazado en gran medida a los relojes para buceo real, pero los relojes de buceo permanecen inmensamente populares. Su herencia de herramienta, estilo versátil y calidad de construcción robusta los hacen relojes diarios ideales. Un Rolex Submariner está igualmente cómodo en una expedición de buceo, en una reunión de negocios o en una cena formal."
           ]
         },
         "popular": {
-          "title": "Montres de Plongée Populaires",
+          "title": "Relojes de Buceo Populares por Rango de Precio",
           "models": [
             {
               "brand": "Rolex",
               "model": "Submariner",
               "price": "$9,000 - $40,000+",
-              "highlight": "La montre de plongée iconique, norme de référence depuis 1953"
+              "wr": "300m",
+              "highlight": "El icónico reloj de buceo que definió la categoría"
             },
             {
               "brand": "Omega",
               "model": "Seamaster Professional",
-              "price": "$5,000 - $9,000",
-              "highlight": "La montre de James Bond, résistance He-valve"
-            },
-            {
-              "brand": "Seiko",
-              "model": "Prospex Diver (SKX007/SPB)",
-              "price": "$200 - $1,200",
-              "highlight": "Valeur légendaire, mouvement automatique fiable"
+              "price": "$4,000 - $10,000",
+              "wr": "300m",
+              "highlight": "La elección de James Bond, válvula de escape de helio"
             },
             {
               "brand": "Tudor",
               "model": "Black Bay",
-              "price": "$3,500 - $4,500",
-              "highlight": "Héritage Rolex, meilleur rapport qualité-prix"
+              "price": "$3,000 - $5,000",
+              "wr": "200m",
+              "highlight": "Inspirado en vintage, excelente propuesta de valor"
+            },
+            {
+              "brand": "Seiko",
+              "model": "Prospex Diver",
+              "price": "$300 - $1,500",
+              "wr": "200m",
+              "highlight": "Mejor valor en relojes de buceo, confiabilidad legendaria"
             },
             {
               "brand": "Blancpain",
               "model": "Fifty Fathoms",
-              "price": "$14,000 - $20,000+",
-              "highlight": "L'originale (1953), horlogerie de luxe"
+              "price": "$15,000 - $100,000+",
+              "wr": "300m",
+              "highlight": "El reloj de buceo moderno original (1953)"
             },
             {
-              "brand": "Citizen",
-              "model": "Promaster Diver Eco-Drive",
-              "price": "$250 - $500",
-              "highlight": "Alimenté par énergie solaire, aucune batterie nécessaire"
+              "brand": "Oris",
+              "model": "Aquis",
+              "price": "$2,000 - $5,000",
+              "wr": "300m",
+              "highlight": "Calidad suiza a precios accesibles"
             }
           ]
         },
         "choosing": {
-          "title": "Choisir Votre Montre de Plongée",
-          "considerations": [
-            {
-              "factor": "Usage Réel vs. Style",
-              "guidance": "Si vous plongez réellement, privilégiez la fonction : haute résistance à l'eau (300m+), bonne luminosité, couronne vissée fiable. Pour le style quotidien, concentrez-vous sur l'esthétique et le confort."
-            },
-            {
-              "factor": "Taille et Poids",
-              "guidance": "Les montres de plongée ont tendance vers 40-44mm. Essayez avant d'acheter - ce qui semble grand en ligne peut être parfait au poignet, ou vice versa."
-            },
-            {
-              "factor": "Bracelet vs. Caoutchouc",
-              "guidance": "Les bracelets sont polyvalents (bureau et plongée). Le caoutchouc est plus confortable pour la plongée réelle et les sports d'eau. Beaucoup achètent les deux."
-            },
-            {
-              "factor": "Mouvement : Quartz vs. Automatique",
-              "guidance": "Le quartz est plus précis et nécessite moins d'entretien. L'automatique offre romance mécanique et héritage. Les deux sont légitimes dans les montres de plongée."
-            }
-          ],
+          "title": "Elegir Tu Primer Reloj de Buceo",
           "intro": "Los relojes de buceo a menudo se recomiendan como primeras compras de relojes de lujo, y con razón. Son versátiles, duraderos y mantienen bien el valor. Aquí está cómo elegir:",
           "sections": [
             {
@@ -610,960 +593,278 @@
             }
           ]
         },
-        "proTips": {
-          "title": "Conseils d'Expert pour Propriétaires de Montres de Plongée",
-          "tips": [
-            {
-              "title": "Rincez après l'eau salée",
-              "content": "L'eau salée corrode. Rincez toujours votre montre de plongée à l'eau douce après utilisation en océan."
-            },
-            {
-              "title": "N'opérez jamais la couronne sous l'eau",
-              "content": "Même avec une couronne vissée, la tirer ou la tourner sous l'eau peut compromettre l'étanchéité. Réglez sur terre ferme."
-            },
-            {
-              "title": "Faites tester l'étanchéité annuellement",
-              "content": "Les joints se dégradent. Avant les vacances à la plage, faites tester l'étanchéité chez un horloger (généralement 20-40€)."
-            },
-            {
-              "title": "La lunette est un outil de sécurité",
-              "content": "Si vous plongez vraiment, apprenez à utiliser correctement la lunette. Elle suit le temps de plongée écoulé, pas le temps restant."
-            }
-          ]
-        },
-        "vs": {
-          "title": "Montre de Plongée vs. Montre Habillée : La Question Éternelle",
-          "content": "Les passionnés débattent sans fin. Les montres de plongée sont polyvalentes, durables et peuvent s'habiller. Les montres habillées sont élégantes, fines et vraiment formelles. La vérité : vous avez besoin des deux. Une Submariner avec un smoking est questionnable au mieux. Une Calatrava à la plage est tout aussi inappropriée. La montre de plongée est votre outil quotidien polyvalent. La montre habillée est pour quand les enjeux sont élevés et les premières impressions comptent. Si vous ne pouvez en avoir qu'une, choisissez selon votre style de vie. Si vous portez un costume quotidiennement, prenez une montre habillée. Si votre vie est plus décontractée, la montre de plongée a plus de sens."
-        },
         "paradox": {
           "title": "La Paradoja del Reloj de Buceo",
           "content": "Aquí está la verdad divertida: la mayoría de los dueños de relojes de buceo nunca bucean. Estos relojes fueron diseñados para exploración submarina, pero pasan sus vidas en oficinas, campos de golf y cenas. El Rolex Submariner es más probable que vea una sala de conferencias que un arrecife de coral. Pero eso está perfectamente bien. Los relojes de buceo han trascendido sus orígenes utilitarios para convertirse en íconos de estilo. Su construcción robusta, estética deportiva y herencia de herramienta los hacen compañeros diarios perfectos. Ya sea que estés buceando 100 pies bajo el agua o buceando en una hoja de cálculo, un reloj de buceo está listo para la acción."
+        },
+        "proTips": {
+          "title": "Consejos Pro para Dueños de Relojes de Buceo",
+          "tips": [
+            {
+              "title": "Enjuaga después de agua salada",
+              "content": "Siempre enjuaga con agua dulce después de nadar en el océano. Los cristales de sal pueden corroer juntas y dañar la caja."
+            },
+            {
+              "title": "Nunca operes la corona bajo el agua",
+              "content": "Incluso si tu reloj está clasificado para 300m, operar la corona cuando está mojado puede permitir entrada de agua. Siempre asegura que la corona atornillada esté completamente apretada antes de nadar."
+            },
+            {
+              "title": "Prueba la resistencia al agua anualmente",
+              "content": "Las juntas se deterioran con el tiempo. Haz que tu reloj sea probado a presión anualmente, especialmente antes de la temporada de buceo."
+            },
+            {
+              "title": "Gira el bisel regularmente",
+              "content": "Esto previene que los lubricantes se sequen y asegura operación suave cuando lo necesites."
+            },
+            {
+              "title": "Cambia a caucho para deportes acuáticos",
+              "content": "Los brazaletes de metal son durables pero pueden pellizcar cuando están mojados. Las correas de caucho son más cómodas para nadar y bucear."
+            }
+          ]
         }
       },
       "dress": {
         "hero": {
-          "title": "Montres Habillées",
-          "subtitle": "L'Apogée de l'Élégance",
-          "description": "Caractérisées par des profils fins, des cadrans simples et des boîtiers en métaux précieux. Conçues pour glisser sous une manchette de chemise, elles privilégient l'esthétique et l'attrait formel à la fonctionnalité."
+          "title": "Relojes de Vestir",
+          "subtitle": "El Epítome de la Elegancia",
+          "description": "Caracterizados por perfiles delgados, esferas simples y cajas de metal precioso. Diseñados para deslizarse bajo el puño de la camisa, priorizan estética y atractivo formal sobre funcionalidad."
         },
-        "intro": "La montre habillée représente le raffinement et l'élégance dans leur forme la plus pure. Pas de lunettes tournantes, pas de chronographes, pas de complications fantaisistes - juste un chronométrage pur dans le design le plus fin possible. Une grande montre habillée murmure richesse et goût. Elle dit 'Je n'ai pas besoin de prouver quoi que ce soit avec ma montre'. La Patek Philippe Calatrava, Jaeger-LeCoultre Master Ultra Thin et Cartier Tank définissent le genre : simple, élégant, intemporel. Les montres habillées brillent lors des événements cravate noire, des mariages et des réunions d'affaires formelles où tout le monde regarde.",
+        "intro": "El reloj de vestir representa refinamiento y elegancia en su forma más pura. Donde otros relojes gritan, el reloj de vestir susurra. Estos guardatiempos son obras maestras del diseño minimalista, rechazando complicaciones innecesarias a favor de proporciones perfectas y detalles exquisitos. Un verdadero reloj de vestir es lo suficientemente delgado para deslizarse bajo un puño de camisa sin esfuerzo, lo suficientemente elegante para complementar la ropa formal más fina, y lo suficientemente atemporal para pasar de generación en generación.",
         "whatMakes": {
-          "title": "Caractéristiques Définissant les Montres Habillées",
+          "title": "Características Definitorias de los Relojes de Vestir",
           "features": [
             {
-              "title": "Profil de Boîtier Fin",
-              "description": "Généralement moins de 10mm d'épaisseur",
-              "detail": "La finesse permet à la montre de glisser sous une manchette de chemise, le test ultime d'une montre habillée"
+              "title": "Perfil Delgado de Caja",
+              "description": "Típicamente bajo 10mm de grosor",
+              "detail": "La delgadez permite que el reloj se deslice bajo un puño de camisa sin crear un bulto. Los mejores relojes de vestir son a menudo de 6-8mm de grosor."
             },
             {
-              "title": "Cadran Simple et Propre",
-              "description": "Minimal de complications",
-              "detail": "Souvent juste heures, minutes, secondes. Parfois une date. Rarement plus. L'élégance vient de la retenue"
+              "title": "Esfera Simple y Sin Desorden",
+              "description": "Diseño limpio y minimalista",
+              "detail": "Enfoque en legibilidad y elegancia sobre complicaciones. A menudo solo horas, minutos y quizás segundos pequeños."
             },
             {
-              "title": "Petite Taille de Boîtier",
-              "description": "34-40mm typiquement",
-              "detail": "Les montres habillées skippent la tendance au surdimensionnement. Le raffinement, pas l'audace, est l'objectif"
+              "title": "Correa de Cuero",
+              "description": "Usualmente negro o marrón",
+              "detail": "El cuero es tradicional para ocasiones formales. El cocodrilo, lagarto o becerro son opciones premium."
             },
             {
-              "title": "Métaux Précieux",
-              "description": "Or, platine ou acier poli",
-              "detail": "L'acier dans les montres habillées est haute polish-mirror. L'or/platine signale status et occasion"
+              "title": "Tamaño de Caja Modesto",
+              "description": "36-40mm típicamente",
+              "detail": "Los relojes de vestir clásicos tienden hacia tamaños más pequeños. El Patek Philippe Calatrava es 39mm, considerado perfecto."
             },
             {
-              "title": "Bracelet en Cuir",
-              "description": "Cuir d'alligator ou de veau",
-              "detail": "Les montres habillées portent presque toujours du cuir. Les bracelets métalliques sont plus sportifs"
+              "title": "Metales Preciosos o Acero",
+              "description": "Oro, platino o acero fino",
+              "detail": "El oro amarillo o blanco es tradicional. El acero es aceptable pero menos formal."
             }
           ]
         },
         "history": {
-          "title": "Histoire des Montres Habillées",
-          "content": "Les montres habillées ont évolué des montres de poche au début du 20ème siècle. Lorsque les montres-bracelets ont gagné en acceptation (accélérée par l'usage militaire WWI), les modèles habillés sont rapidement apparus pour le port formel. Cartier a créé la Tank en 1917, Patek Philippe la Calatrava en 1932, et Jaeger-LeCoultre le Reverso en 1931. Ces designs se sont révélés intemporels - ils semblent aussi élégants aujourd'hui qu'à leur lancement. L'âge d'or des montres habillées était les années 1950-60 lorsque les hommes portaient des costumes quotidiennement. Aujourd'hui, le code vestimentaire décontracté a fait des montres habillées plus rares mais plus spéciales - réservées pour quand vous voulez vraiment faire impression."
+          "title": "Historia de los Relojes de Vestir",
+          "content": "Los relojes de vestir evolucionaron de los relojes de bolsillo a principios del siglo XX. Cuando los relojes de pulsera se volvieron aceptables para hombres (popularizados durante la Primera Guerra Mundial), se crearon guardatiempos elegantes específicamente para uso formal. El Patek Philippe Calatrava (1932) permanece como el arquetipo del diseño de reloj de vestir: simple, delgado, elegante y atemporal. Su diseño Bauhaus influenció generaciones de relojes formales. La filosofía del reloj de vestir es 'menos es más'. Cada elemento debe servir a un propósito, y nada debe ser superfluo."
         },
         "icons": {
-          "title": "Montres Habillées Iconiques",
+          "title": "Relojes de Vestir Icónicos",
           "models": [
             {
               "brand": "Patek Philippe",
               "model": "Calatrava",
               "price": "$20,000 - $50,000+",
-              "highlight": "La montre habillée définitive, intemporelle depuis 1932"
+              "highlight": "El reloj de vestir definitivo, diseño atemporal desde 1932"
             },
             {
               "brand": "Jaeger-LeCoultre",
               "model": "Master Ultra Thin",
-              "price": "$7,000 - $15,000",
-              "highlight": "Finesse exquise, mouvement visible"
+              "price": "$8,000 - $20,000",
+              "highlight": "Extraordinariamente delgado, elegancia refinada"
+            },
+            {
+              "brand": "Vacheron Constantin",
+              "model": "Patrimony",
+              "price": "$18,000 - $100,000+",
+              "highlight": "Simplicidad de alta relojería, perfección de acabado"
+            },
+            {
+              "brand": "A. Lange & Söhne",
+              "model": "Saxonia Thin",
+              "price": "$20,000 - $40,000",
+              "highlight": "Precisión alemana, belleza minimalista"
             },
             {
               "brand": "Cartier",
               "model": "Tank",
-              "price": "$3,000 - $30,000+",
-              "highlight": "Icône du design, portée par les présidents et célébrités"
+              "price": "$3,000 - $50,000+",
+              "highlight": "Icono de diseño, perfecto para ocasiones formales"
             },
             {
-              "brand": "Omega",
-              "model": "De Ville Trésor",
-              "price": "$5,000 - $10,000",
-              "highlight": "Élégance classique, meilleure valeur en montres habillées de luxe"
-            },
-            {
-              "brand": "Nomos",
-              "model": "Tangente",
-              "price": "$2,000 - $4,000",
-              "highlight": "Design Bauhaus allemand, ultra-fin, excellent rapport qualité-prix"
-            },
-            {
-              "brand": "Grand Seiko",
-              "model": "Elegance Collection",
-              "price": "$4,000 - $10,000",
-              "highlight": "Précision japonaise, finition exquise, sous-évaluée"
+              "brand": "Longines",
+              "model": "La Grande Classique",
+              "price": "$1,000 - $3,000",
+              "highlight": "Elegancia accesible, delgadez excepcional"
             }
           ]
         },
         "whenToWear": {
-          "title": "Quand Porter une Montre Habillée",
+          "title": "Cuándo Usar un Reloj de Vestir",
           "occasions": [
             {
-              "event": "Cravate Noire / Événements Formels",
-              "description": "C'est l'heure des montres habillées. Mince, métaux précieux, bracelet cuir. Parfait avec smoking."
+              "event": "Eventos de Corbata Negra",
+              "description": "El dominio tradicional del reloj de vestir. Empareja con esmoquin o traje formal."
             },
             {
-              "event": "Mariages",
-              "description": "Pour mariages formels, une montre habillée montre respect. Évitez les montres de plongée volumineuses ou smartwatches."
+              "event": "Bodas Formales",
+              "description": "Un reloj de vestir elegante complementa la ropa de boda formal sin llamar la atención."
             },
             {
-              "event": "Affaires Formelles",
-              "description": "Présentations clients, réunions conseil d'administration, entretiens dans domaines conservateurs (finance, droit)."
+              "event": "Entornos Profesionales de Negocios",
+              "description": "En finanzas, derecho y roles corporativos senior, un reloj de vestir proyecta sofisticación."
             },
             {
-              "event": "Dîners Gastronomiques",
-              "description": "Les restaurants Michelin et occasions spéciales appellent à l'élégance. Les montres habillées complètent le réglage."
+              "event": "Cenas Finas",
+              "description": "Los restaurantes elegantes aprecian la discreción de un reloj de vestir fino."
             },
             {
-              "event": "Théâtre / Opéra",
-              "description": "Événements culturels formels où s'habiller élégamment est partie de l'expérience."
+              "event": "Eventos Culturales",
+              "description": "Opera, ballet, galas de caridad: ocasiones donde el código de vestimenta importa."
             }
           ]
         },
         "rules": {
-          "title": "Les Règles Non Écrites des Montres Habillées",
+          "title": "Las Reglas No Escritas de los Relojes de Vestir",
           "rules": [
-            "Une montre habillée ne devrait jamais être plus épaisse que votre manchette de chemise",
-            "L'or avec costume noir; acier ou platine avec costume gris/bleu",
-            "Pas de lunettes tournantes. Pas de complications sportives. Pas de logos criards",
-            "Le bracelet cuir doit correspondre à vos chaussures en couleur",
-            "Plus petit c'est souvent mieux - visez 36-40mm pour montres habillées",
-            "Mouvement automatique ou manuel > quartz pour montres habillées formelles",
-            "Le cadran blanc est le plus formel, suivi par crème, champagne, puis noir",
-            "Les index chiffres romains sont les plus formels, suivis par indices appliqués"
+            "Más delgado es mejor: Un reloj de vestir debe ser invisible bajo tu puño",
+            "Empareja metales: Reloj de oro con hebilla de cinturón de oro, acero con hebilla de plata",
+            "El cuero negro va con zapatos negros, el marrón con zapatos marrones",
+            "Evita funciones innecesarias: La fecha es aceptable, los cronógrafos no",
+            "El tamaño importa: Un reloj de vestir grande (43mm+) derrota el propósito",
+            "Omite el brillo: Los acabados pulidos son apropiados, el cepillado es demasiado casual",
+            "Las marcas numéricas romanas son las más formales, seguidas por índices aplicados",
+            "Los brazaletes de metal son menos formales que el cuero para ocasiones de corbata negra"
           ]
         },
         "vs": {
-          "title": "Montre Habillée vs. Montre de Plongée : La Question Éternelle",
-          "content": "Les passionnés débattent sans fin. Les montres de plongée sont polyvalentes, durables et peuvent s'habiller. Les montres habillées sont élégantes, fines et vraiment formelles. La vérité : vous avez besoin des deux. Une Submariner avec un smoking est questionnable au mieux. Une Calatrava à la plage est tout aussi inappropriée. La montre de plongée est votre outil quotidien polyvalent. La montre habillée est pour quand les enjeux sont élevés et les premières impressions comptent. Si vous ne pouvez en avoir qu'une, choisissez selon votre style de vie. Si vous portez un costume quotidiennement, prenez une montre habillée. Si votre vie est plus décontractée, la montre de plongée a plus de sens."
+          "title": "Reloj de Vestir vs. Reloj de Buceo: La Pregunta Eterna",
+          "content": "Los entusiastas debaten esto interminablemente. Los relojes de buceo son versátiles, duraderos y pueden vestir hacia arriba. Los relojes de vestir son elegantes, delgados y verdaderamente formales. La verdad: necesitas ambos. Un Submariner con esmoquin es, en el mejor de los casos, cuestionable. Un Calatrava en la playa es igualmente inapropiado. El reloj de buceo es tu herramienta diaria versátil. El reloj de vestir es para cuando las apuestas son altas y las primeras impresiones importan. Si solo puedes permitirte uno, elige según tu estilo de vida. Si usas traje diariamente, obtén un reloj de vestir. Si tu vida es más casual, el reloj de buceo tiene más sentido."
         }
       },
       "chronograph": {
         "hero": {
-          "title": "Chronographes",
-          "subtitle": "Quand le Temps est Essentiel",
-          "description": "Montres avec fonctionnalité de chronomètre intégrée, dotées de sous-cadrans et de poussoirs pour démarrer, arrêter et réinitialiser le temps. Les chronographes représentent le mélange parfait de fonctionnalité et de complexité mécanique."
+          "title": "Cronógrafos",
+          "subtitle": "Cuando el Tiempo es Esencial",
+          "description": "Relojes con funcionalidad integrada de cronómetro, con sub-esferas y pulsadores para iniciar, detener y reiniciar el tiempo. Los cronógrafos representan la mezcla perfecta de funcionalidad y complejidad mecánica."
         },
-        "intro": "Le chronographe est là où l'art rencontre l'ingénierie. Ces montres combinent une mesure précise du temps avec une fascinante complexité mécanique, ce qui en fait les favoris des passionnés. Que vous chronométriez des tours de course, mesuriez des temps de cuisson ou simplement admiriez la danse des poussoirs et des sous-cadrans, les chronographes offrent une fonctionnalité pratique enveloppée dans une belle mécanique. Ce sont les couteaux suisses du monde horloger : plus complexes qu'une montre simple, mais significativement plus utiles.",
+        "intro": "El cronógrafo es donde el arte encuentra la ingeniería. Estos relojes combinan la medición precisa del tiempo con complejidad mecánica fascinante, haciendo que sean favoritos entre entusiastas. Ya sea que estés cronometrando vueltas de carrera, midiendo tiempos de cocción o simplemente admirando el baile de los pulsadores y sub-esferas, los cronógrafos ofrecen funcionalidad práctica envuelta en hermosa maquinaria. Son los cuchillos suizos del mundo relojero: más complejos que un reloj simple, pero significativamente más útiles.",
         "whatMakes": {
-          "title": "Anatomie d'un Chronographe",
+          "title": "Anatomía de un Cronógrafo",
           "features": [
             {
-              "title": "Sous-Cadrans",
-              "description": "Deux ou trois compteurs pour le temps",
-              "detail": "Typiquement 30 minutes, 12 heures et secondes continues. Certains ajoutent date et phases lunaires."
+              "title": "Sub-Esferas",
+              "description": "Dos o tres contadores para tiempo",
+              "detail": "Típicamente 30 minutos, 12 horas y segundos continuos. Algunos añaden fecha y fases lunares."
             },
             {
-              "title": "Poussoirs",
-              "description": "Deux boutons (démarrer/arrêter et réinitialiser)",
-              "detail": "Le poussoir supérieur démarre/arrête. L'inférieur réinitialise. Les mono-poussoirs utilisent un seul bouton pour toutes les fonctions."
+              "title": "Pulsadores",
+              "description": "Dos botones (iniciar/detener y reiniciar)",
+              "detail": "El pulsador superior inicia/detiene. El inferior reinicia. Los mono-pulsadores usan un solo botón para todas las funciones."
             },
             {
-              "title": "Aiguille des Secondes du Chronographe",
-              "description": "Aiguille centrale de chronométrage",
-              "detail": "Balaie le cadran lorsque le chronographe est actif. Se réinitialise à zéro lors de la pression du poussoir inférieur."
+              "title": "Manecilla de Segundos del Cronógrafo",
+              "description": "Manecilla central de tiempo",
+              "detail": "Barre alrededor de la esfera cuando el cronógrafo está activo. Se reinicia a cero al presionar el pulsador inferior."
             },
             {
-              "title": "Échelle Tachymétrique",
-              "description": "Souvent sur la lunette ou le cadran",
-              "detail": "Mesure la vitesse basée sur le temps et la distance. Iconique sur les chronographes de course comme la Daytona."
+              "title": "Escala de Taquímetro",
+              "description": "A menudo en el bisel o esfera",
+              "detail": "Mide velocidad basada en tiempo y distancia. Icónico en cronógrafos de carreras como el Daytona."
             },
             {
-              "title": "Esthétique Sportive",
-              "description": "Cadrans chargés mais lisibles",
-              "detail": "Les chronographes tendent vers des designs plus audacieux que les montres simples, reflétant leurs racines sportives."
+              "title": "Estética Deportiva",
+              "description": "Esferas ocupadas pero legibles",
+              "detail": "Los cronógrafos tienden hacia diseños más atrevidos que los relojes simples, reflejando sus raíces deportivas."
             }
           ]
         },
         "history": {
-          "title": "Histoire des Chronographes",
-          "content": "Le chronographe a été inventé en 1816 par Louis Moinet, mais les chronographes de poignet sont devenus populaires dans les années 1960 avec l'aviation et les sports motorisés. L'Omega Speedmaster est devenu légendaire comme la première montre sur la lune en 1969, gagnant le surnom 'Moonwatch'. La Rolex Daytona est synonyme d'héritage de course, nommée d'après le circuit de Daytona. La Heuer Monaco, portée par Steve McQueen dans Le Mans (1971), a cimenté le chronographe comme icône de style. Aujourd'hui, les chronographes sont aimés par les passionnés d'horlogerie pour leur complexité mécanique et par les personnes pratiques pour leur utilité réelle."
+          "title": "Historia de los Cronógrafos",
+          "content": "El cronógrafo fue inventado en 1816 por Louis Moinet, pero los cronógrafos de muñeca se volvieron populares en los años 1960 con aviación y deportes motorizados. El Omega Speedmaster se volvió legendario como el primer reloj en la luna en 1969, ganando el apodo 'Moonwatch'. El Rolex Daytona es sinónimo de herencia de carreras, nombrado por el circuito de Daytona. El Heuer Monaco, usado por Steve McQueen en Le Mans (1971), cimentó el cronógrafo como ícono de estilo. Hoy, los cronógrafos son amados por entusiastas de relojes por su complejidad mecánica y por personas prácticas por su utilidad real."
         },
         "legends": {
-          "title": "Chronographes Légendaires",
+          "title": "Cronógrafos Legendarios",
           "models": [
             {
               "brand": "Omega",
               "model": "Speedmaster Professional",
-              "price": "6 000 € - 10 000 €",
-              "highlight": "La montre lunaire, la seule certifiée NASA pour les sorties spatiales"
+              "price": "$6,000 - $10,000",
+              "highlight": "El reloj lunar, el único certificado por NASA para paseos espaciales"
             },
             {
               "brand": "Rolex",
               "model": "Cosmograph Daytona",
-              "price": "14 000 € - 200 000 €+",
-              "highlight": "Le chronographe de course iconique, listes d'attente de plusieurs années"
+              "price": "$14,000 - $200,000+",
+              "highlight": "El cronógrafo de carreras icónico, listas de espera de años"
             },
             {
               "brand": "TAG Heuer",
               "model": "Carrera",
-              "price": "3 000 € - 8 000 €",
-              "highlight": "Héritage de course, excellent rapport qualité-prix en chronographes suisses"
+              "price": "$3,000 - $8,000",
+              "highlight": "Herencia de carreras, excelente valor en cronógrafos suizos"
             },
             {
               "brand": "Zenith",
               "model": "El Primero",
-              "price": "7 000 € - 15 000 €",
-              "highlight": "Le premier chronographe automatique (1969), cadence de 36 000 vph"
+              "price": "$7,000 - $15,000",
+              "highlight": "El primer cronógrafo automático (1969), beat de 36,000 vph"
             },
             {
               "brand": "Breitling",
               "model": "Navitimer",
-              "price": "5 000 € - 12 000 €",
-              "highlight": "Chronographe d'aviation avec règle à calcul, outil de pilote"
+              "price": "$5,000 - $12,000",
+              "highlight": "Cronógrafo de aviación con regla de cálculo, herramienta de piloto"
             },
             {
               "brand": "Seiko",
               "model": "Prospex Speedtimer",
-              "price": "1 000 € - 3 000 €",
-              "highlight": "Chronographe mécanique japonais abordable, excellent rapport qualité-prix"
+              "price": "$1,000 - $3,000",
+              "highlight": "Cronógrafo mecánico japonés asequible, gran valor"
             }
           ]
         },
         "types": {
-          "title": "Types de Chronographes",
+          "title": "Tipos de Cronógrafos",
           "categories": [
             {
-              "type": "Chronographe de Course",
-              "description": "Conçu pour l'automobile avec échelles tachymétriques pour mesurer la vitesse. Exemples : Rolex Daytona, TAG Heuer Carrera, Omega Speedmaster Racing."
+              "type": "Cronógrafo de Carreras",
+              "description": "Diseñado para automovilismo con escalas de taquímetro para medir velocidad. Ejemplos: Rolex Daytona, TAG Heuer Carrera, Omega Speedmaster Racing."
             },
             {
-              "type": "Chronographe d'Aviation",
-              "description": "Avec règles à calcul et fonctions de navigation pour pilotes. Exemples : Breitling Navitimer, IWC Pilot's Chronograph."
+              "type": "Cronógrafo de Aviación",
+              "description": "Con reglas de cálculo y funciones de navegación para pilotos. Ejemplos: Breitling Navitimer, IWC Pilot's Chronograph."
             },
             {
-              "type": "Chronographe de Plongée",
-              "description": "Combine résistance à l'eau de 200m+ avec fonctionnalité de chronographe. Exemples : Omega Seamaster Planet Ocean Chrono, Tudor Black Bay Chrono."
+              "type": "Cronógrafo de Buceo",
+              "description": "Combina resistencia al agua de 200m+ con funcionalidad de cronógrafo. Ejemplos: Omega Seamaster Planet Ocean Chrono, Tudor Black Bay Chrono."
             },
             {
-              "type": "Chronographe Habillé",
-              "description": "Profils plus fins avec cadrans élégants pour occasions formelles. Exemples : Zenith Elite Chronograph Classic, Jaeger-LeCoultre Master Chronograph."
+              "type": "Cronógrafo de Vestir",
+              "description": "Perfiles más delgados con esferas elegantes para ocasiones formales. Ejemplos: Zenith Elite Chronograph Classic, Jaeger-LeCoultre Master Chronograph."
             }
           ]
         },
         "using": {
-          "title": "Comment Utiliser un Chronographe",
+          "title": "Cómo Usar un Cronógrafo",
           "steps": [
-            "Appuyez sur le poussoir supérieur pour démarrer le chronographe. L'aiguille centrale commence à balayer.",
-            "Appuyez à nouveau sur le poussoir supérieur pour arrêter le temps. Lisez le temps écoulé.",
-            "Appuyez sur le poussoir inférieur pour réinitialiser toutes les aiguilles du chronographe à zéro.",
-            "Pour le chronométrage fractionné (si disponible), arrêtez et démarrez sans réinitialiser pour capturer les tours.",
-            "Certains chronographes permettent d'additionner les temps (fonction flyback ou rattrapante) - consultez votre manuel."
+            "Presiona el pulsador superior para iniciar el cronógrafo. La manecilla central comienza a barrer.",
+            "Presiona el pulsador superior de nuevo para detener el tiempo. Lee el tiempo transcurrido.",
+            "Presiona el pulsador inferior para reiniciar todas las manecillas del cronógrafo a cero.",
+            "Para cronometraje dividido (si está disponible), detén e inicia sin reiniciar para capturar vueltas.",
+            "Algunos cronógrafos permiten agregar tiempos (función flyback o rattrapante) - consulta tu manual."
           ],
-          "warning": "N'utilisez jamais les poussoirs du chronographe sous l'eau à moins qu'il ne soit spécifiquement classé pour une opération sous-marine. L'eau peut pénétrer par les poussoirs."
+          "warning": "Nunca operes los pulsadores del cronógrafo bajo el agua a menos que esté específicamente clasificado para operación submarina. El agua puede ingresar a través de los pulsadores."
         },
         "tachymeter": {
-          "title": "Comprendre l'Échelle Tachymétrique",
-          "content": "Cette échelle de chiffres autour du cadran n'est pas juste une décoration. Le tachymètre mesure la vitesse basée sur le temps et la distance. Pour l'utiliser : Démarrez le chronographe en passant un marqueur de mile (ou kilomètre). Arrêtez en passant le marqueur suivant. L'aiguille du chronographe pointe vers votre vitesse en MPH (ou KPH). Fonctionne uniquement pour des temps inférieurs à 60 secondes. Pour des objets plus lents, utilisez des fractions (par ex., 1/10 de mile). Les chronographes de course ont fait du tachymètre une icône, bien que les unités GPS modernes l'aient rendu fonctionnellement obsolète. Mais c'est cool, et c'est ce qui compte."
-        }
-      },
-      "pilot": {
-        "hero": {
-          "title": "Montres d'Aviateur",
-          "subtitle": "Ingénierie pour le Ciel",
-          "description": "Nées des besoins des pilotes militaires, les montres d'aviateur combinent lisibilité exceptionnelle, fonctions de navigation et héritage d'aviation qui en font des icônes autant dans les airs qu'au sol."
-        },
-        "intro": "Les montres d'aviateur représentent l'un des chapitres les plus romantiques de l'histoire horlogère. Conçues à l'origine pour les pilotes militaires ayant besoin d'un chronométrage précis à 30 000 pieds, ces montres devaient être lisibles d'un coup d'œil, résistantes aux champs magnétiques et suffisamment fiables pour la navigation aérienne. Aujourd'hui, les montres d'aviateur maintiennent cet héritage d'outil tout en servant de déclarations de style pour les passionnés qui apprécient leur esthétique audacieuse et leur connexion avec l'âge d'or de l'aviation.",
-        "whatMakes": {
-          "title": "Caractéristiques Définissant les Montres d'Aviateur",
-          "features": [
-            {
-              "title": "Lisibilité Extrême",
-              "description": "Grands chiffres et aiguilles contrastées",
-              "detail": "Souvent avec de grands chiffres arabes et une luminosité abondante pour la lecture dans les cockpits sombres"
-            },
-            {
-              "title": "Grands Boîtiers",
-              "description": "40-46mm typiquement",
-              "detail": "Taille généreuse pour la lisibilité avec des gants et par-dessus les combinaisons de vol"
-            },
-            {
-              "title": "Triangle à 12 Heures",
-              "description": "Marqueur d'orientation",
-              "detail": "Permet aux pilotes de déterminer l'orientation de la montre d'un coup d'œil"
-            },
-            {
-              "title": "Grande Couronne",
-              "description": "Facile à opérer avec des gants",
-              "detail": "Couronnes cannelées ou en oignon pour ajustement facile avec l'équipement de vol"
-            },
-            {
-              "title": "Résistance Magnétique",
-              "description": "Protection contre les champs magnétiques",
-              "detail": "Essentiel dans les cockpits remplis d'instruments électroniques"
-            }
-          ]
-        },
-        "history": {
-          "title": "Histoire des Montres d'Aviateur",
-          "content": "La première véritable montre d'aviateur était la Santos de Cartier (1904), créée pour le pionnier de l'aviation Alberto Santos-Dumont. Cependant, le genre a explosé pendant les guerres mondiales lorsque les pilotes militaires avaient besoin d'un chronométrage fiable. La Breguet Type XX a été utilisée par les pilotes de chasse français. Le IWC Big Pilot (Große Fliegeruhr) a été développé pour la Luftwaffe. L'A-11 américain est devenu standard pour les pilotes alliés. Après la guerre, ces montres militaires ont inspiré des designs civils. La série IWC Mark, la Breitling Navitimer avec sa règle à calcul et la Zenith Pilot Type 20 capturent toutes l'âge d'or des montres d'aviation. Aujourd'hui, les montres d'aviateur sont célébrées par les collectionneurs et les vrais pilotes, bien que l'avionique moderne ait largement remplacé les montres pour la navigation."
-        },
-        "icons": {
-          "title": "Montres d'Aviateur Iconiques",
-          "models": [
-            {
-              "brand": "IWC",
-              "model": "Big Pilot's Watch",
-              "price": "12 000 € - 20 000 €",
-              "highlight": "La montre d'aviateur ultime, lisibilité légendaire"
-            },
-            {
-              "brand": "Breitling",
-              "model": "Navitimer",
-              "price": "5 000 € - 12 000 €",
-              "highlight": "Règle à calcul pour la navigation, icône depuis 1952"
-            },
-            {
-              "brand": "Zenith",
-              "model": "Pilot Type 20 Extra Special",
-              "price": "6 000 € - 10 000 €",
-              "highlight": "Énorme couronne en oignon, esthétique vintage"
-            },
-            {
-              "brand": "IWC",
-              "model": "Mark XVIII",
-              "price": "4 500 € - 6 500 €",
-              "highlight": "Montre d'aviateur classique raffinée, cage en fer doux"
-            },
-            {
-              "brand": "Laco",
-              "model": "Flieger",
-              "price": "400 € - 1 500 €",
-              "highlight": "Designs B-Uhr authentiques, valeur exceptionnelle"
-            },
-            {
-              "brand": "Bell & Ross",
-              "model": "BR 03-92",
-              "price": "3 500 € - 5 000 €",
-              "highlight": "Design d'instrument de cockpit, carré iconique"
-            }
-          ]
-        },
-        "types": {
-          "title": "Types de Montres d'Aviateur",
-          "categories": [
-            {
-              "type": "B-Uhr (Beobachtungsuhr)",
-              "description": "Montres d'observation allemandes de la Seconde Guerre mondiale. Caractéristiques : cadran noir, grands chiffres arabes, triangle à 12 heures, grande couronne. Exemples : Laco Flieger, Stowa Flieger, IWC Big Pilot."
-            },
-            {
-              "type": "Chronographe d'Aviation",
-              "description": "Combine fonctionnalité de chronographe avec caractéristiques d'aviation. Inclut souvent des règles à calcul ou échelles tachymétriques. Exemples : Breitling Navitimer, Zenith El Primero Pilot."
-            },
-            {
-              "type": "Montre d'Instrument",
-              "description": "Conçues pour ressembler aux instruments de cockpit. Cadrans noirs avec marquages blancs, lisibilité maximale. Exemples : Bell & Ross série BR, Sinn 556."
-            },
-            {
-              "type": "Montre GMT d'Aviation",
-              "description": "Fonctionnalité multi-fuseaux horaires pour pilotes internationaux. Exemples : Breitling Aerospace, IWC Pilot's Watch UTC."
-            }
-          ]
-        },
-        "features": {
-          "title": "Caractéristiques Spéciales d'Aviation",
-          "items": [
-            {
-              "feature": "Règle à Calcul",
-              "description": "La Breitling Navitimer présente une règle à calcul circulaire qui permet aux pilotes de calculer la consommation de carburant, les taux de montée/descente, les conversions et plus sans électronique."
-            },
-            {
-              "feature": "Cage en Fer Doux",
-              "description": "Une cage intérieure en fer doux protège le mouvement des champs magnétiques. La série IWC Mark et de nombreuses montres d'aviateur utilisent cela pour la protection contre les instruments de cockpit."
-            },
-            {
-              "feature": "Couronne en Oignon",
-              "description": "Grandes couronnes cannelées (appelées 'couronnes en oignon') permettent une opération facile avec des gants de vol. Classiques sur la Zenith Pilot Type 20."
-            },
-            {
-              "feature": "Triangle de Navigation",
-              "description": "Le triangle à 12 heures est une caractéristique de design militaire qui aide à l'orientation rapide de la montre."
-            }
-          ]
-        },
-        "whenToWear": {
-          "title": "Quand Porter une Montre d'Aviateur",
-          "occasions": [
-            {
-              "event": "Quotidien Décontracté",
-              "description": "Les montres d'aviateur sont d'excellentes montres quotidiennes pour les hommes qui apprécient l'esthétique robuste et utilitaire."
-            },
-            {
-              "event": "Casual d'Affaires",
-              "description": "Fonctionne bien avec des vestes sport et chinos. Trop décontracté pour un costume complet."
-            },
-            {
-              "event": "Weekends et Voyages",
-              "description": "La fonctionnalité GMT et le design robuste les rendent parfaits pour voyager."
-            },
-            {
-              "event": "Activités de Plein Air",
-              "description": "Bien qu'elles ne soient pas des montres de plongée, la plupart ont une résistance à l'eau décente et une construction durable."
-            }
-          ]
-        },
-        "proTips": {
-          "title": "Conseils d'Expert pour Montres d'Aviateur",
-          "tips": [
-            {
-              "title": "La taille est authentique",
-              "content": "Les montres d'aviateur sont destinées à être grandes. Un 42-46mm est historiquement précis car les pilotes avaient besoin de lisibilité par-dessus les combinaisons de vol."
-            },
-            {
-              "title": "Bracelet plutôt que métal",
-              "content": "Historiquement, les montres d'aviateur venaient sur des bracelets en cuir pour être portées par-dessus les vestes de vol. Les bracelets rivetés sont particulièrement authentiques."
-            },
-            {
-              "title": "La fonctionnalité compte",
-              "content": "Si vous êtes attiré par les règles à calcul ou les fonctions GMT, apprenez à les utiliser. Ce ne sont pas juste de la décoration."
-            },
-            {
-              "title": "Comprenez l'héritage",
-              "content": "De nombreuses montres d'aviateur ont des histoires militaires fascinantes. Recherchez l'histoire de votre modèle pour apprécier pleinement sa signification."
-            }
-          ]
-        }
-      },
-      "field": {
-        "hero": {
-          "title": "Montres de Terrain",
-          "subtitle": "Montres Militaires Fonctionnelles",
-          "description": "Nées dans les tranchées de guerre, les montres de terrain privilégient lisibilité, durabilité et fonctionnalité avant tout. Ce sont les outils les plus simples et les plus fiables du monde horloger."
-        },
-        "intro": "La montre de terrain est le cheval de bataille du monde horloger. Sans prétention, sans fioritures, juste un chronométrage fonctionnel pur. Ces montres ont été conçues pour les soldats qui avaient besoin de connaître l'heure dans les pires conditions : boue, pluie, combat. La philosophie est simple : lisible, durable, abordable. Une montre de terrain n'essaie pas d'impressionner avec de l'or ou des complications. Sa beauté réside dans son utilité pure. C'est la montre que vous choisissez lorsque vous avez besoin d'une fiabilité absolue peu importe ce que la vie vous lance.",
-        "whatMakes": {
-          "title": "Caractéristiques Définissant les Montres de Terrain",
-          "features": [
-            {
-              "title": "Cadran Simple et Lisible",
-              "description": "Chiffres arabes clairs sur cadran à haut contraste",
-              "detail": "Habituellement cadran blanc ou crème avec chiffres noirs, ou cadran noir avec marquages blancs"
-            },
-            {
-              "title": "Construction Durable",
-              "description": "Fait pour résister aux abus",
-              "detail": "Boîtiers en acier, cristal résistant aux rayures, construction robuste"
-            },
-            {
-              "title": "Taille Modeste",
-              "description": "36-40mm typiquement",
-              "detail": "Pratique pour utilisation sous les manches et gants sans être encombrant"
-            },
-            {
-              "title": "Bracelet Toile/NATO",
-              "description": "Bracelets textiles pour durabilité",
-              "detail": "Les bracelets NATO permettent à la montre de rester au poignet même si une barrette de ressort casse"
-            },
-            {
-              "title": "Mouvement Fiable",
-              "description": "Quartz ou mécanique simple",
-              "detail": "Facile à entretenir et réparer, fiabilité sur complication"
-            }
-          ]
-        },
-        "history": {
-          "title": "Histoire des Montres de Terrain",
-          "content": "Les montres de terrain ont évolué à partir des montres de tranchée de la Première Guerre mondiale. Lorsque les soldats ont réalisé que les montres de poche étaient peu pratiques en combat, ils ont commencé à souder des montres de poche sur des bracelets en cuir. Les fabricants ont rapidement créé des montres-bracelets spécifiquement conçues pour un usage militaire. Pendant la Seconde Guerre mondiale, l'armée américaine a standardisé les spécifications pour les montres de terrain (connues sous le nom de montres 'ord' pour le département d'artillerie qui les spécifiait). Des marques comme Hamilton, Bulova, Elgin et Waltham en ont produit des millions. La spécification MIL-W-46374 d'après-guerre a établi des normes pour les montres militaires américaines : lisibilité à 12 pouces dans l'obscurité totale, construction durable et résistance à l'eau. Ces montres militaires vintage ont inspiré les designs civils modernes. Aujourd'hui, des marques comme Hamilton continuent la tradition avec des montres de terrain qui honorent cet héritage utilitaire tout en servant d'excellentes montres quotidiennes pour les civils."
-        },
-        "icons": {
-          "title": "Montres de Terrain Iconiques",
-          "models": [
-            {
-              "brand": "Hamilton",
-              "model": "Khaki Field Mechanical",
-              "price": "400 € - 600 €",
-              "highlight": "La montre de terrain moderne ultime, héritage militaire"
-            },
-            {
-              "brand": "Seiko",
-              "model": "SNK809 (Seiko 5 Field)",
-              "price": "80 € - 150 €",
-              "highlight": "Valeur incroyable, automatique fiable"
-            },
-            {
-              "brand": "Marathon",
-              "model": "General Purpose Quartz",
-              "price": "200 € - 300 €",
-              "highlight": "Émis aux troupes américaines, extrêmement durable"
-            },
-            {
-              "brand": "Timex",
-              "model": "Expedition Scout",
-              "price": "40 € - 60 €",
-              "highlight": "Point d'entrée abordable, lisibilité Indiglo"
-            },
-            {
-              "brand": "Vaer",
-              "model": "A5 Field",
-              "price": "300 € - 400 €",
-              "highlight": "Terrain américain moderne, saphir, automatique"
-            },
-            {
-              "brand": "Tudor",
-              "model": "Ranger",
-              "price": "3 000 € - 3 500 €",
-              "highlight": "Terrain de luxe, héritage d'expédition britannique"
-            }
-          ]
-        },
-        "choosing": {
-          "title": "Choisir Votre Montre de Terrain",
-          "sections": [
-            {
-              "title": "Quartz vs. Mécanique",
-              "content": "Les montres de terrain viennent dans les deux. Le quartz offre une précision supérieure et un faible entretien - probablement ce que vous voudriez en combat réel. Les mécaniques (manuels ou automatiques) offrent romance et connexion avec l'histoire - pas de piles à remplacer. Les deux sont des choix légitimes."
-            },
-            {
-              "title": "Couleur du Cadran",
-              "content": "Les cadrans blancs/crème sont classiques et plus lisibles en faible luminosité (avec lume). Les cadrans noirs sont plus tactiques et modernes. Les deux sont historiquement précis."
-            },
-            {
-              "title": "Normes Militaires",
-              "content": "Certaines montres de terrain (comme Marathon) respectent les spécifications militaires réelles et sont émises aux troupes. D'autres sont d'inspiration militaire. Les deux sont excellentes, mais les montres mil-spec ont une authenticité supplémentaire."
-            },
-            {
-              "title": "Options de Bracelet",
-              "content": "Les bracelets NATO sont classiques et pratiques (la montre reste sécurisée même si une barrette de ressort casse). Le cuir est traditionnel et superbe. Expérimentez - les montres de terrain sont belles sur presque n'importe quel bracelet."
-            }
-          ]
-        },
-        "philosophy": {
-          "title": "La Philosophie de la Montre de Terrain",
-          "content": "Les montres de terrain représentent une philosophie anti-luxe dans l'horlogerie. Alors que les montres habillées montrent la richesse et les montres de plongée projettent l'aventure, les montres de terrain fonctionnent simplement. Pas d'or, pas de complications, pas de prétentions. Juste une montre simple et fiable qui donne l'heure. Cette honnêteté attire les personnes qui valorisent la fonction sur la forme, l'outil sur le jouet. Une montre de terrain à 500 € peut vous apporter plus de joie quotidienne qu'une montre de luxe à 5 000 € parce que vous n'avez pas besoin de vous inquiéter à son sujet. Vous la portez, vous la cognez, vous continuez à la porter. Cette liberté est précieuse."
-        },
-        "proTips": {
-          "title": "Conseils d'Expert pour Montres de Terrain",
-          "tips": [
-            {
-              "title": "Embrassez les rayures",
-              "content": "Les montres de terrain sont destinées à être utilisées durement. Les rayures racontent des histoires. Ne les évitez pas ; gagnez-les."
-            },
-            {
-              "title": "Achetez des bracelets NATO supplémentaires",
-              "content": "Les bracelets NATO sont bon marché (10-30 €) et transforment l'apparence de la montre. Ayez-en plusieurs dans différentes couleurs."
-            },
-            {
-              "title": "Les montres de terrain plus petites fonctionnent mieux",
-              "content": "Les tailles vintage de 36-38mm sont authentiques et se portent confortablement. Vous n'avez pas besoin de 44mm sur une montre de terrain."
-            },
-            {
-              "title": "Considérez le vintage",
-              "content": "Les montres de terrain militaires vintage (Hamilton, Bulova des années 40-60) sont abordables et ont une vraie histoire."
-            }
-          ]
-        }
-      },
-      "gmt": {
-        "hero": {
-          "title": "Montres GMT",
-          "subtitle": "Pour le Citoyen du Monde",
-          "description": "Les montres GMT suivent plusieurs fuseaux horaires simultanément, ce qui en fait des outils essentiels pour les voyageurs internationaux, les pilotes et quiconque travaille à travers les fuseaux horaires."
-        },
-        "intro": "Dans un monde de plus en plus connecté, suivre plusieurs fuseaux horaires est devenu essentiel. La montre GMT (Greenwich Mean Time) résout ce problème avec élégance en utilisant une aiguille supplémentaire de 24 heures et une lunette rotative. Conçue à l'origine pour les pilotes de Pan Am volant des routes transatlantiques, la GMT est devenue la montre de choix pour les voyageurs d'affaires, les expatriés et quiconque a besoin de rester connecté à travers les fuseaux horaires. Que vous suiviez l'heure locale en voyageant, coordonniez avec des collègues sur différents continents ou vouliez simplement savoir quand appeler la famille à l'étranger, une montre GMT rend la navigation entre fuseaux horaires sans effort.",
-        "whatMakes": {
-          "title": "Comment Fonctionnent les Montres GMT",
-          "features": [
-            {
-              "title": "Aiguille GMT 24 Heures",
-              "description": "Quatrième aiguille tournant une fois toutes les 24 heures",
-              "detail": "Habituellement en couleur vive (rouge, orange) pour la distinguer des aiguilles heures/minutes"
-            },
-            {
-              "title": "Lunette GMT 24 Heures",
-              "description": "Lunette bidirectionnelle ou fixe avec marquages 24 heures",
-              "detail": "Permet de suivre un deuxième ou troisième fuseau horaire lorsque combinée avec l'aiguille GMT"
-            },
-            {
-              "title": "GMT Vrai vs. Caller",
-              "description": "Deux types de fonctionnalité GMT",
-              "detail": "GMT vrai : l'aiguille des heures saute par incréments de 1 heure. Caller : l'aiguille GMT se règle indépendamment"
-            },
-            {
-              "title": "Indication de Date",
-              "description": "Habituellement incluse",
-              "detail": "Aide à suivre les dates lors du passage de fuseaux horaires et de la ligne de changement de date"
-            }
-          ]
-        },
-        "history": {
-          "title": "Histoire des Montres GMT",
-          "content": "La Rolex GMT-Master a été créée en 1954 en collaboration avec Pan American World Airways. Les pilotes de Pan Am volant la nouvelle route transatlantique avaient besoin de suivre à la fois l'heure locale et GMT (utilisée en navigation aérienne). Rolex a répondu avec la GMT-Master, avec son iconique aiguille GMT rouge et lunette bleu/rouge 'Pepsi' représentant jour et nuit. La montre est devenue l'équipement standard des équipages de Pan Am et d'autres pilotes de ligne. La fonctionnalité GMT s'est rapidement étendue au-delà de l'aviation aux voyageurs d'affaires, diplomates et passionnés. Aujourd'hui, presque chaque grande marque offre une montre GMT, des options d'entrée de gamme comme la Seiko 5 Sports GMT aux pièces de luxe comme la Patek Philippe Aquanaut Travel Time. La GMT reste l'une des complications horlogères les plus pratiques et recherchées."
-        },
-        "icons": {
-          "title": "Montres GMT Iconiques",
-          "models": [
-            {
-              "brand": "Rolex",
-              "model": "GMT-Master II",
-              "price": "10 000 € - 40 000 €+",
-              "highlight": "La GMT originale et ultime, lunette Pepsi iconique"
-            },
-            {
-              "brand": "Tudor",
-              "model": "Black Bay GMT",
-              "price": "4 000 € - 5 000 €",
-              "highlight": "Valeur GMT exceptionnelle, esthétique Pepsi"
-            },
-            {
-              "brand": "Grand Seiko",
-              "model": "Sport GMT",
-              "price": "6 000 € - 8 000 €",
-              "highlight": "Précision supérieure, finition exquise"
-            },
-            {
-              "brand": "Omega",
-              "model": "Seamaster Aqua Terra GMT",
-              "price": "6 000 € - 8 000 €",
-              "highlight": "Polyvalence habillée, résistant à l'eau"
-            },
-            {
-              "brand": "Seiko",
-              "model": "5 Sports GMT",
-              "price": "400 € - 600 €",
-              "highlight": "Point d'entrée GMT abordable, automatique"
-            },
-            {
-              "brand": "Ball",
-              "model": "Engineer Hydrocarbon GMT",
-              "price": "2 000 € - 3 000 €",
-              "highlight": "Tubes de gaz tritium pour lume, excellente valeur"
-            }
-          ]
-        },
-        "types": {
-          "title": "GMT Vrai vs. Caller GMT",
-          "content": "Comprendre la différence est crucial lors du choix d'une GMT :",
-          "comparison": [
-            {
-              "type": "GMT Vrai (Flyer GMT)",
-              "description": "L'aiguille des heures saute indépendamment par incréments de 1 heure. L'aiguille GMT et l'aiguille des minutes restent synchronisées avec votre 'heure locale'. Parfait pour : pilotes et voyageurs fréquents qui changent souvent de fuseaux horaires.",
-              "examples": "Rolex GMT-Master II, Grand Seiko GMT, Tudor Black Bay GMT"
-            },
-            {
-              "type": "Caller GMT (Office GMT)",
-              "description": "L'aiguille GMT se règle indépendamment. Les aiguilles heures/minutes se déplacent ensemble. Parfait pour : personnes restant dans un fuseau horaire mais devant en suivre un autre (bureaux à domicile).",
-              "examples": "Rolex Explorer II, beaucoup de GMT d'entrée de gamme"
-            }
-          ]
-        },
-        "using": {
-          "title": "Comment Utiliser une Montre GMT",
-          "steps": [
-            {
-              "step": "Configuration Initiale",
-              "instruction": "Réglez l'heure locale avec les aiguilles heures/minutes. Réglez l'aiguille GMT sur votre 'heure locale' ou fuseau horaire de référence."
-            },
-            {
-              "step": "Suivi du Deuxième Fuseau Horaire",
-              "instruction": "Lisez l'aiguille GMT contre les marquages 24 heures sur la lunette ou le cadran."
-            },
-            {
-              "step": "Suivi du Troisième Fuseau Horaire",
-              "instruction": "Tournez la lunette GMT pour aligner le fuseau horaire désiré avec l'aiguille GMT. Lisez les aiguilles des heures contre la lunette pour le troisième fuseau horaire."
-            },
-            {
-              "step": "Changement de Fuseaux Horaires (GMT Vrai)",
-              "instruction": "Tirez la couronne d'une position. Faites sauter l'aiguille des heures en avant ou en arrière vers la nouvelle heure locale. L'aiguille GMT reste sur l'heure locale."
-            }
-          ]
-        },
-        "whenToWear": {
-          "title": "Qui Devrait Choisir une GMT",
-          "personas": [
-            {
-              "type": "Voyageurs Internationaux Fréquents",
-              "description": "Si vous traversez régulièrement des fuseaux horaires, une GMT (spécialement GMT vraie) est inestimable."
-            },
-            {
-              "type": "Professionnels des Affaires",
-              "description": "Suivre l'heure du bureau local tout en travaillant avec clients/collègues internationaux."
-            },
-            {
-              "type": "Expatriés",
-              "description": "Vivre dans un pays tout en maintenant une connexion avec l'heure locale/familiale."
-            },
-            {
-              "type": "Pilotes et Équipage de Cabine",
-              "description": "Le but original - suivre l'heure locale et zulu (GMT) pour la navigation."
-            },
-            {
-              "type": "Amateurs de Complications",
-              "description": "Les GMT offrent une fonctionnalité pratique sans la complexité des chronographes."
-            }
-          ]
-        },
-        "proTips": {
-          "title": "Conseils d'Expert pour Utilisateurs GMT",
-          "tips": [
-            {
-              "title": "Réglez l'aiguille GMT sur UTC/GMT",
-              "content": "Beaucoup de professionnels règlent l'aiguille GMT sur Temps Universel Coordonné (UTC/GMT) car c'est la référence standard mondiale."
-            },
-            {
-              "title": "La lunette Pepsi est fonctionnelle",
-              "content": "Les couleurs bleu/rouge ne sont pas juste esthétiques : le bleu représente la nuit (PM), le rouge représente le jour (AM) sur l'échelle 24 heures."
-            },
-            {
-              "title": "Choisissez selon votre modèle de voyage",
-              "content": "Si vous restez principalement à un endroit : Caller GMT. Si vous voyagez constamment : GMT vrai avec aiguille des heures sauteuse."
-            },
-            {
-              "title": "Combinez avec des apps d'horloge mondiale",
-              "content": "Une montre GMT est excellente, mais pour suivre plusieurs fuseaux horaires, complétez-la avec une application smartphone."
-            }
-          ]
-        }
-      },
-      "digital": {
-        "hero": {
-          "title": "Montres Digitales et Smartwatches",
-          "subtitle": "Évolution du Chronométrage",
-          "description": "Du révolutionnaire G-Shock aux smartwatches modernes, les montres digitales représentent l'innovation technologique et la fonctionnalité pratique qui complète et défie l'horlogerie mécanique traditionnelle."
-        },
-        "intro": "Les montres digitales ont parcouru un long chemin depuis les écrans LED rouges des années 70. Aujourd'hui, elles englobent des G-Shocks légendaires pratiquement indestructibles aux smartwatches sophistiquées qui suivent votre santé, paient vos achats et vous gardent connecté. Alors que les puristes horlogers peuvent dédaigner les digitales, elles représentent une vraie innovation et résolvent des problèmes que les montres mécaniques ne peuvent pas. Une smartwatch peut suivre votre rythme cardiaque, vous naviguer à travers des villes inconnues et vous permettre de prendre des appels. Un G-Shock peut survivre à une chute d'un immeuble. Les montres mécaniques sont belles, mais les digitales sont pratiques. Il y a de la place dans chaque collection pour les deux.",
-        "whatMakes": {
-          "title": "Tipos de Relojes Digitales",
-          "categories": [
-            {
-              "type": "LCD Digitales Clásicos",
-              "description": "Pantallas de cristal líquido mostrando tiempo en formato numérico",
-              "features": "Económicos, batería de larga duración, multifuncionales",
-              "examples": "Casio F-91W, Timex Ironman"
-            },
-            {
-              "type": "Digitales Resistentes (G-Shock)",
-              "description": "Ultra-duraderos con protección contra golpes",
-              "features": "Resistencia a golpes, 200m WR, múltiples alarmas, cronómetro",
-              "examples": "Casio G-Shock serie DW, Mudmaster, Rangeman"
-            },
-            {
-              "type": "Digitales Ana-Digi",
-              "description": "Híbridos combinando agujas analógicas con display digital",
-              "features": "Lo mejor de ambos mundos: estética tradicional con características digitales",
-              "examples": "Casio G-Shock serie GA, Seiko Arnie, Breitling Aerospace"
-            },
-            {
-              "type": "Smartwatches",
-              "description": "Computadoras portátiles con conectividad smartphone",
-              "features": "Rastreo de fitness, notificaciones, pagos, aplicaciones, monitoreo de salud",
-              "examples": "Apple Watch, Samsung Galaxy Watch, Garmin Fenix"
-            },
-            {
-              "type": "Digitales de Lujo",
-              "description": "Relojes digitales de marcas de lujo",
-              "features": "Materiales premium, tecnología innovadora, alta relojería",
-              "examples": "TAG Heuer Connected, Urwerk EMC, MB&F HM5"
-            }
-          ]
-        },
-        "history": {
-          "title": "Histoire des Montres Digitales",
-          "content": "La première montre digitale était la Hamilton Pulsar (1970), une montre LED qui coûtait 2 100 $ (14 000 $ aujourd'hui). Vous pressiez un bouton et des chiffres rouges brillaient. Les LED ont été remplacées par des écrans LCD dans les années 70, rendant les digitales abordables. La Casio F-91W (1989) est devenue l'une des montres les plus vendues de l'histoire - toujours produite aujourd'hui à 10-20 €. Le vrai changement de jeu est venu en 1983 lorsque Casio a lancé le G-Shock DW-5000C. Le concepteur Kikuo Ibe voulait créer une montre qui ne se casserait jamais. Après avoir testé plus de 200 prototypes, il a atteint la résistance aux chocs en utilisant une construction modulaire et un design à double boîtier. Le G-Shock est devenu légendaire parmi les militaires, le personnel d'urgence et quiconque a besoin de durabilité extrême. En 2015, Apple a redéfini l'espace des montres avec l'Apple Watch, fusionnant la technologie smartphone avec le format poignet. Aujourd'hui, les smartwatches dominent les ventes mondiales de montres, bien que les mécaniques maintiennent prestige et romance."
-        },
-        "gshock": {
-          "title": "Le Phénomène G-Shock",
-          "content": "Aucune discussion sur les montres digitales n'est complète sans G-Shock. Ces montres japonaises pratiquement indestructibles sont devenues des icônes culturelles. La construction de protection contre les chocs signifie que le module flottant est suspendu à l'intérieur du boîtier, protégé des impacts. Elles sont résistantes à l'eau à 200m. Beaucoup de modèles présentent énergie solaire, synchronisation radio atomique et connectivité Bluetooth. Elles sont portées par le personnel militaire, les premiers intervenants, les athlètes extrêmes et les passionnés de mode. Modèles populaires : DW-5600 (le 'carré' classique), GA-2100 (le 'CasiOak' fin), Mudmaster, Rangeman, Frogman. Les G-Shocks vont de 50 € à 5 000 €+ pour les éditions collaboratives limitées. Un G-Shock est sans doute la montre la plus pratique que vous pouvez posséder - vous n'avez jamais besoin de vous inquiéter à son sujet.",
-          "icons": {
-            "title": "Digitales y Smartwatches Icónicos",
-            "models": [
-              {
-                "brand": "Casio",
-                "model": "G-Shock DW-5600",
-                "price": "$50 - $100",
-                "highlight": "El G-Shock original y definitivo, prácticamente indestructible"
-              },
-              {
-                "brand": "Casio",
-                "model": "F-91W",
-                "price": "$10 - $20",
-                "highlight": "El digital más vendido en la historia, icono de funcionalidad"
-              },
-              {
-                "brand": "Apple",
-                "model": "Apple Watch Ultra",
-                "price": "$800 - $900",
-                "highlight": "El smartwatch más avanzado, rastreo de salud integral"
-              },
-              {
-                "brand": "Garmin",
-                "model": "Fenix 7",
-                "price": "$700 - $900",
-                "highlight": "Smartwatch multi-deporte, batería de larga duración"
-              },
-              {
-                "brand": "Casio",
-                "model": "Pro Trek",
-                "price": "$200 - $500",
-                "highlight": "Sensores ABC (altímetro, barómetro, brújula), aventuras al aire libre"
-              },
-              {
-                "brand": "Suunto",
-                "model": "9 Peak Pro",
-                "price": "$500 - $600",
-                "highlight": "Rendimiento atlético, batería de ultra-larga duración"
-              }
-            ]
-          },
-          "smartwatches": {
-            "title": "Relojes Mecánicos vs. Smartwatches: El Debate",
-            "content": "Los entusiastas de relojes a menudo preguntan: ¿Debería comprar un smartwatch o un reloj mecánico? La respuesta: ambos sirven propósitos diferentes. Los smartwatches son herramientas - rastrean fitness, notificaciones, navegación. Los mecánicos son objetos - artesanía, herencia, arte. Un Apple Watch te dirá tu ritmo cardíaco y te permitirá responder textos. Un Rolex Submariner te hará sentir conectado a décadas de historia relojera. Muchos entusiastas usan un smartwatch durante la semana para funcionalidad, luego cambian a un mecánico los fines de semana para disfrute. No necesitas elegir lados en esta guerra. Posee ambos. Usa cada uno cuando tenga sentido."
-          },
-          "choosing": {
-            "title": "Elegir el Reloj Digital Correcto",
-            "sections": [
-              {
-                "title": "Para Durabilidad Extrema",
-                "content": "G-Shock es imbatible. Si trabajas en construcción, militares, primeros respondedores o simplemente eres duro con los relojes, nada más puede tomar el castigo."
-              },
-              {
-                "title": "Para Rastreo de Fitness",
-                "content": "Apple Watch (usuarios de iPhone) o Samsung Galaxy Watch (Android) ofrecen el mejor rastreo de salud y ecosistema de aplicaciones. Garmin/Suunto para atletas serios."
-              },
-              {
-                "title": "Para Actividades al Aire Libre",
-                "content": "Casio Pro Trek o Garmin Fenix con sensores ABC (altímetro, barómetro, brújula) y GPS."
-              },
-              {
-                "title": "Para Simplicidad",
-                "content": "Casio F-91W. $15, hace todo lo básico, batería dura años, pesa nada."
-              }
-            ]
-          },
-          "proTips": {
-            "title": "Consejos de Expertos para Relojes Digitales",
-            "tips": [
-              {
-                "title": "La duración de batería importa",
-                "content": "Los smartwatches típicamente duran 1-2 días. Los digitales básicos duran años. Los G-Shocks solares nunca necesitan baterías. Considera tu estilo de vida."
-              },
-              {
-                "title": "Los digitales son relojes de herramienta perfectos",
-                "content": "Usa un digital para actividades donde te preocuparías por dañar un reloj mecánico: deportes, construcción, jardinería."
-              },
-              {
-                "title": "Los smartwatches se deprecian rápido",
-                "content": "Un Apple Watch pierde valor rápidamente. Los relojes mecánicos mantienen o aprecian valor. Compra smartwatches para funcionalidad, no como inversión."
-              },
-              {
-                "title": "Los G-Shocks se coleccionan",
-                "content": "Ediciones limitadas de G-Shock, colaboraciones y modelos vintage se han vuelto coleccionables. El mercado de G-Shock es activo."
-              }
-            ]
-          }
-        },
-        "icons": {
-          "title": "Digitales et Smartwatches Iconiques",
-          "models": [
-            {
-              "brand": "Casio",
-              "model": "G-Shock DW-5600",
-              "price": "50 € - 100 €",
-              "highlight": "Le G-Shock original et ultime, pratiquement indestructible"
-            },
-            {
-              "brand": "Casio",
-              "model": "F-91W",
-              "price": "10 € - 20 €",
-              "highlight": "La digitale la plus vendue de l'histoire, icône de fonctionnalité"
-            },
-            {
-              "brand": "Apple",
-              "model": "Apple Watch Ultra",
-              "price": "800 € - 900 €",
-              "highlight": "La smartwatch la plus avancée, suivi santé complet"
-            },
-            {
-              "brand": "Garmin",
-              "model": "Fenix 7",
-              "price": "700 € - 900 €",
-              "highlight": "Smartwatch multi-sport, batterie longue durée"
-            },
-            {
-              "brand": "Casio",
-              "model": "Pro Trek",
-              "price": "200 € - 500 €",
-              "highlight": "Capteurs ABC (altimètre, baromètre, boussole), aventures plein air"
-            },
-            {
-              "brand": "Suunto",
-              "model": "9 Peak Pro",
-              "price": "500 € - 600 €",
-              "highlight": "Performance athlétique, batterie ultra-longue durée"
-            }
-          ]
-        },
-        "smartwatches": {
-          "title": "Montres Mécaniques vs. Smartwatches : Le Débat",
-          "content": "Les passionnés de montres demandent souvent : Devrais-je acheter une smartwatch ou une montre mécanique ? La réponse : les deux servent des objectifs différents. Les smartwatches sont des outils - elles suivent le fitness, les notifications, la navigation. Les mécaniques sont des objets - artisanat, héritage, art. Une Apple Watch vous dira votre rythme cardiaque et vous permettra de répondre aux textos. Une Rolex Submariner vous fera sentir connecté à des décennies d'histoire horlogère. Beaucoup de passionnés portent une smartwatch en semaine pour la fonctionnalité, puis passent à une mécanique le weekend pour le plaisir. Vous n'avez pas besoin de choisir un camp dans cette guerre. Possédez les deux. Utilisez chacune quand elle a du sens."
-        },
-        "choosing": {
-          "title": "Choisir la Bonne Montre Digitale",
-          "sections": [
-            {
-              "title": "Pour Durabilité Extrême",
-              "content": "G-Shock est imbattable. Si vous travaillez dans la construction, militaire, premiers secours ou êtes simplement dur avec les montres, rien d'autre ne peut prendre les coups."
-            },
-            {
-              "title": "Pour Suivi Fitness",
-              "content": "Apple Watch (utilisateurs iPhone) ou Samsung Galaxy Watch (Android) offrent le meilleur suivi santé et écosystème d'applications. Garmin/Suunto pour athlètes sérieux."
-            },
-            {
-              "title": "Pour Activités de Plein Air",
-              "content": "Casio Pro Trek ou Garmin Fenix avec capteurs ABC (altimètre, baromètre, boussole) et GPS."
-            },
-            {
-              "title": "Pour Simplicité",
-              "content": "Casio F-91W. 15 €, fait toutes les bases, la batterie dure des années, pèse rien."
-            }
-          ]
-        },
-        "proTips": {
-          "title": "Conseils d'Expert pour Montres Digitales",
-          "tips": [
-            {
-              "title": "La durée de batterie compte",
-              "content": "Les smartwatches durent typiquement 1-2 jours. Les digitales basiques durent des années. Les G-Shocks solaires n'ont jamais besoin de piles. Considérez votre style de vie."
-            },
-            {
-              "title": "Les digitales sont des montres outils parfaites",
-              "content": "Utilisez une digitale pour les activités où vous vous inquiéteriez d'endommager une montre mécanique : sports, construction, jardinage."
-            },
-            {
-              "title": "Les smartwatches se déprécient rapidement",
-              "content": "Une Apple Watch perd de la valeur rapidement. Les montres mécaniques maintiennent ou apprécient la valeur. Achetez les smartwatches pour la fonctionnalité, pas comme investissement."
-            },
-            {
-              "title": "Les G-Shocks se collectionnent",
-              "content": "Les éditions limitées de G-Shock, collaborations et modèles vintage sont devenus collectionnables. Le marché G-Shock est actif."
-            }
-          ]
+          "title": "Entendiendo la Escala de Taquímetro",
+          "content": "Esa escala de números alrededor de la esfera no es solo decoración. El taquímetro mide velocidad basada en tiempo y distancia. Para usar: Inicia el cronógrafo al pasar un marcador de milla (o kilómetro). Detén cuando pases el siguiente marcador. La manecilla del cronógrafo apunta a tu velocidad en MPH (o KPH). Funciona solo para tiempos menores a 60 segundos. Para objetos más lentos, usa fracciones (ej., 1/10 de milla). Los cronógrafos de carreras hicieron del taquímetro un icono, aunque las unidades GPS modernas lo han hecho obsoleto funcionalmente. Pero es genial, y eso es lo que importa."
         }
       },
       "movements": {
@@ -2178,6 +1479,601 @@
           "conclusion": {
             "title": "La Innovación Continúa",
             "content": "Estos movimientos alternativos prueban que la relojería no es estática. Mientras los puristas pueden insistir en solo mecánicos, tecnologías como Spring Drive, Solar y Kinetic ofrecen ventajas reales. Demuestran que puedes respetar la tradición mientras abrazas la innovación. El mejor enfoque: aprecia todos los tipos de movimientos por lo que aportan a la relojería."
+          }
+        }
+      },
+      "pilot": {
+        "hero": {
+          "title": "Relojes Aviador",
+          "subtitle": "Ingeniería para el Cielo",
+          "description": "Nacidos de las necesidades de los pilotos militares, los relojes aviador combinan legibilidad excepcional, funciones de navegación y herencia de aviación que los hacen íconos tanto en el aire como en tierra."
+        },
+        "intro": "Los relojes aviador representan uno de los capítulos más románticos en la historia relojera. Diseñados originalmente para pilotos militares que necesitaban cronometraje preciso a 30,000 pies, estos relojes debían ser legibles de un vistazo, resistentes a campos magnéticos y lo suficientemente confiables para navegación aérea. Hoy, los relojes aviador mantienen esa herencia de herramienta mientras sirven como declaraciones de estilo para entusiastas que aprecian su estética atrevida y conexión con la era dorada de la aviación.",
+        "whatMakes": {
+          "title": "Características Definitorias de los Relojes Aviador",
+          "features": [
+            {
+              "title": "Legibilidad Extrema",
+              "description": "Números grandes y agujas contrastantes",
+              "detail": "A menudo con números arábigos grandes y luminosidad abundante para lectura en cabinas oscuras"
+            },
+            {
+              "title": "Cajas Grandes",
+              "description": "40-46mm típicamente",
+              "detail": "Tamaño generoso para legibilidad con guantes y sobre trajes de vuelo"
+            },
+            {
+              "title": "Triángulo a las 12",
+              "description": "Marcador de orientación",
+              "detail": "Permite a los pilotos determinar orientación del reloj de un vistazo"
+            },
+            {
+              "title": "Corona Grande",
+              "description": "Fácil de operar con guantes",
+              "detail": "Coronas acanaladas o con cebolla para ajuste fácil con equipo de vuelo"
+            },
+            {
+              "title": "Resistencia Magnética",
+              "description": "Protección contra campos magnéticos",
+              "detail": "Esencial en cabinas llenas de instrumentos electrónicos"
+            }
+          ]
+        },
+        "history": {
+          "title": "Historia de los Relojes Aviador",
+          "content": "El primer verdadero reloj aviador fue el Santos de Cartier (1904), creado para el pionero de aviación Alberto Santos-Dumont. Sin embargo, el género explotó durante las guerras mundiales cuando pilotos militares necesitaban cronometraje confiable. El Breguet Type XX fue usado por pilotos de combate franceses. El IWC Big Pilot (Große Fliegeruhr) fue desarrollado para la Luftwaffe. El A-11 americano se convirtió en estándar para pilotos aliados. Después de la guerra, estos relojes militares inspiraron diseños civiles. El IWC Mark series, Breitling Navitimer con su regla de cálculo y el Zenith Pilot Type 20 todos capturan la era dorada de los relojes de aviación. Hoy, los relojes aviador son celebrados tanto por coleccionistas como por pilotos reales, aunque la aviónica moderna ha reemplazado en gran medida a los relojes para navegación."
+        },
+        "icons": {
+          "title": "Relojes Aviador Icónicos",
+          "models": [
+            {
+              "brand": "IWC",
+              "model": "Big Pilot's Watch",
+              "price": "$12,000 - $20,000",
+              "highlight": "El reloj aviador definitivo, legibilidad legendaria"
+            },
+            {
+              "brand": "Breitling",
+              "model": "Navitimer",
+              "price": "$5,000 - $12,000",
+              "highlight": "Regla de cálculo para navegación, icono desde 1952"
+            },
+            {
+              "brand": "Zenith",
+              "model": "Pilot Type 20 Extra Special",
+              "price": "$6,000 - $10,000",
+              "highlight": "Corona de cebolla enorme, estética vintage"
+            },
+            {
+              "brand": "IWC",
+              "model": "Mark XVIII",
+              "price": "$4,500 - $6,500",
+              "highlight": "Reloj aviador clásico refinado, soft-iron cage"
+            },
+            {
+              "brand": "Laco",
+              "model": "Flieger",
+              "price": "$400 - $1,500",
+              "highlight": "Diseños B-Uhr auténticos, valor excepcional"
+            },
+            {
+              "brand": "Bell & Ross",
+              "model": "BR 03-92",
+              "price": "$3,500 - $5,000",
+              "highlight": "Diseño de instrumento de cabina, cuadrado icónico"
+            }
+          ]
+        },
+        "types": {
+          "title": "Tipos de Relojes Aviador",
+          "categories": [
+            {
+              "type": "B-Uhr (Beobachtungsuhr)",
+              "description": "Relojes de observación alemanes de la Segunda Guerra Mundial. Características: esfera negra, grandes números arábigos, triángulo a las 12, corona grande. Ejemplos: Laco Flieger, Stowa Flieger, IWC Big Pilot."
+            },
+            {
+              "type": "Cronógrafo de Aviación",
+              "description": "Combina funcionalidad de cronógrafo con características de aviación. A menudo incluye reglas de cálculo o escalas taquimétricas. Ejemplos: Breitling Navitimer, Zenith El Primero Pilot."
+            },
+            {
+              "type": "Reloj de Instrumento",
+              "description": "Diseñados para parecer instrumentos de cabina. Esferas negras con marcas blancas, máxima legibilidad. Ejemplos: Bell & Ross BR series, Sinn 556."
+            },
+            {
+              "type": "Reloj GMT de Aviación",
+              "description": "Funcionalidad de múltiples zonas horarias para pilotos internacionales. Ejemplos: Breitling Aerospace, IWC Pilot's Watch UTC."
+            }
+          ]
+        },
+        "features": {
+          "title": "Características Especiales de Aviación",
+          "items": [
+            {
+              "feature": "Regla de Cálculo",
+              "description": "El Breitling Navitimer presenta una regla de cálculo circular que permite a los pilotos calcular consumo de combustible, tasas de ascenso/descenso, conversiones y más sin electrónica."
+            },
+            {
+              "feature": "Jaula de Hierro Suave",
+              "description": "Una jaula de hierro suave interior protege el movimiento de campos magnéticos. IWC Mark series y muchos relojes aviador usan esto para protección contra instrumentos de cabina."
+            },
+            {
+              "feature": "Corona de Cebolla",
+              "description": "Coronas grandes acanaladas (llamadas 'coronas de cebolla') permiten operación fácil con guantes de vuelo. Clásicas en el Zenith Pilot Type 20."
+            },
+            {
+              "feature": "Triángulo de Navegación",
+              "description": "El triángulo a las 12 en punto es una característica de diseño militar que ayuda a la orientación rápida del reloj."
+            }
+          ]
+        },
+        "whenToWear": {
+          "title": "Cuándo Usar un Reloj Aviador",
+          "occasions": [
+            {
+              "event": "Diario Casual",
+              "description": "Los relojes aviador son excelentes relojes diarios para hombres que aprecian estética robusta y utilitarian."
+            },
+            {
+              "event": "Casual de Negocios",
+              "description": "Funciona bien con chaquetas deportivas y chinos. Demasiado casual para traje completo."
+            },
+            {
+              "event": "Fines de Semana y Viajes",
+              "description": "Funcionalidad GMT y diseño robusto los hacen perfectos para viajar."
+            },
+            {
+              "event": "Actividades al Aire Libre",
+              "description": "Aunque no son relojes de buceo, la mayoría tienen resistencia al agua decente y construcción durable."
+            }
+          ]
+        },
+        "proTips": {
+          "title": "Consejos de Expertos para Relojes Aviador",
+          "tips": [
+            {
+              "title": "El tamaño es auténtico",
+              "content": "Los relojes aviador están destinados a ser grandes. Un 42-46mm es históricamente preciso ya que los pilotos necesitaban legibilidad sobre trajes de vuelo."
+            },
+            {
+              "title": "Correa sobre brazalete",
+              "content": "Históricamente, los relojes aviador venían en correas de cuero para usar sobre chaquetas de vuelo. Las correas riveted son particularmente auténticas."
+            },
+            {
+              "title": "La funcionalidad importa",
+              "content": "Si te atraen las reglas de cálculo o funciones GMT, aprende a usarlas. Estos no son solo decoración."
+            },
+            {
+              "title": "Comprende la herencia",
+              "content": "Muchos relojes aviador tienen historias militares fascinantes. Investiga la historia de tu modelo para apreciar completamente su significado."
+            }
+          ]
+        }
+      },
+      "field": {
+        "hero": {
+          "title": "Relojes de Campo",
+          "subtitle": "Relojes Militares Funcionales",
+          "description": "Nacidos en las trincheras de guerra, los relojes de campo priorizan legibilidad, durabilidad y funcionalidad sobre todo. Son las herramientas más simples y confiables del mundo relojero."
+        },
+        "intro": "El reloj de campo es el caballo de batalla del mundo relojero. Sin pretensiones, sin lujos, solo puro cronometraje funcional. Estos relojes fueron diseñados para soldados que necesitaban saber la hora en las peores condiciones: barro, lluvia, combate. La filosofía es simple: legible, durable, asequible. Un reloj de campo no intenta impresionar con oro o complicaciones. Su belleza radica en su utilidad pura. Es el reloj que eliges cuando necesitas confiabilidad absoluta sin importar lo que la vida te lance.",
+        "whatMakes": {
+          "title": "Características Definitorias de los Relojes de Campo",
+          "features": [
+            {
+              "title": "Esfera Simple y Legible",
+              "description": "Números arábigos claros en esfera de alto contraste",
+              "detail": "Usualmente esfera blanca o color crema con números negros, o esfera negra con marcas blancas"
+            },
+            {
+              "title": "Construcción Durable",
+              "description": "Hecho para soportar abuso",
+              "detail": "Cajas de acero, cristal resistente a rayones, construcción robusta"
+            },
+            {
+              "title": "Tamaño Modesto",
+              "description": "36-40mm típicamente",
+              "detail": "Práctico para uso bajo mangas de ropa y guantes sin ser voluminoso"
+            },
+            {
+              "title": "Correa de Lona/NATO",
+              "description": "Correas textiles para durabilidad",
+              "detail": "Las correas NATO permiten que el reloj permanezca en la muñeca incluso si una barra de resorte falla"
+            },
+            {
+              "title": "Movimiento Confiable",
+              "description": "Cuarzo o mecánico simple",
+              "detail": "Fácil de mantener y servir, confiabilidad sobre complicación"
+            }
+          ]
+        },
+        "history": {
+          "title": "Historia de los Relojes de Campo",
+          "content": "Los relojes de campo evolucionaron de los relojes de trinchera de la Primera Guerra Mundial. Cuando los soldados se dieron cuenta de que los relojes de bolsillo eran imprácticos en combate, comenzaron a soldar relojes de bolsillo a correas de cuero. Los fabricantes pronto crearon relojes de pulsera diseñados específicamente para uso militar. Durante la Segunda Guerra Mundial, el ejército de EE.UU. estandarizó especificaciones para relojes de campo (conocidos como relojes 'ord' por el Departamento de Artillería que los especificó). Marcas como Hamilton, Bulova, Elgin y Waltham produjeron millones. La especificación MIL-W-46374 de posguerra estableció estándares para relojes militares de EE.UU.: legibilidad a 12 pulgadas en oscuridad total, construcción durable y resistencia al agua. Estos relojes militares vintage inspiraron diseños civiles modernos. Hoy, marcas como Hamilton continúan la tradición con relojes de campo que honran ese patrimonio utilitarian mientras sirven como excelentes relojes diarios para civiles."
+        },
+        "icons": {
+          "title": "Relojes de Campo Icónicos",
+          "models": [
+            {
+              "brand": "Hamilton",
+              "model": "Khaki Field Mechanical",
+              "price": "$400 - $600",
+              "highlight": "El reloj de campo moderno definitivo, herencia militar"
+            },
+            {
+              "brand": "Seiko",
+              "model": "SNK809 (Seiko 5 Field)",
+              "price": "$80 - $150",
+              "highlight": "Valor increíble, automático confiable"
+            },
+            {
+              "brand": "Marathon",
+              "model": "General Purpose Quartz",
+              "price": "$200 - $300",
+              "highlight": "Emitido a tropas de EE.UU., extremadamente durable"
+            },
+            {
+              "brand": "Timex",
+              "model": "Expedition Scout",
+              "price": "$40 - $60",
+              "highlight": "Punto de entrada asequible, legibilidad Indiglo"
+            },
+            {
+              "brand": "Vaer",
+              "model": "A5 Field",
+              "price": "$300 - $400",
+              "highlight": "Campo americano moderno, zafiro, automático"
+            },
+            {
+              "brand": "Tudor",
+              "model": "Ranger",
+              "price": "$3,000 - $3,500",
+              "highlight": "Campo de lujo, herencia de expedición británica"
+            }
+          ]
+        },
+        "choosing": {
+          "title": "Elegir Tu Reloj de Campo",
+          "sections": [
+            {
+              "title": "Cuarzo vs. Mecánico",
+              "content": "Los relojes de campo vienen en ambos. El cuarzo ofrece precisión superior y bajo mantenimiento - probablemente lo que querrías en combate real. Los mecánicos (manuales o automáticos) ofrecen romance y conexión con la historia - sin baterías que reemplazar. Ambos son opciones legítimas."
+            },
+            {
+              "title": "Color de Esfera",
+              "content": "Las esferas blancas/crema son clásicas y más legibles en condiciones de poca luz (con lume). Las esferas negras son más tácticas y modernas. Ambas son históricamente precisas."
+            },
+            {
+              "title": "Estándares Militares",
+              "content": "Algunos relojes de campo (como Marathon) cumplen especificaciones militares reales y son emitidos a tropas. Otros son de inspiración militar. Ambos son grandes, pero los relojes mil-spec tienen autenticidad adicional."
+            },
+            {
+              "title": "Opciones de Correa",
+              "content": "Las correas NATO son clásicas y prácticas (el reloj permanece seguro incluso si una barra de resorte se rompe). El cuero es tradicional y se ve genial. Experimenta - los relojes de campo lucen bien en casi cualquier correa."
+            }
+          ]
+        },
+        "philosophy": {
+          "title": "La Filosofía del Reloj de Campo",
+          "content": "Los relojes de campo representan una filosofía anti-lujo en la relojería. Mientras los relojes de vestir muestran riqueza y los relojes de buceo proyectan aventura, los relojes de campo simplemente funcionan. No hay oro, sin complicaciones, sin pretensiones. Solo un reloj simple y confiable que da la hora. Esta honestidad atrae a personas que valoran la función sobre la forma, la herramienta sobre el juguete. Un reloj de campo a $500 puede traerte más alegría diaria que un reloj de lujo a $5,000 porque no necesitas preocuparte por él. Lo usas, lo golpeas, lo sigues usando. Esa libertad es valiosa."
+        },
+        "proTips": {
+          "title": "Consejos de Expertos para Relojes de Campo",
+          "tips": [
+            {
+              "title": "Abraza los rayones",
+              "content": "Los relojes de campo están destinados a ser usados duro. Los rayones cuentan historias. No los evites; gánatelos."
+            },
+            {
+              "title": "Compra correas NATO extra",
+              "content": "Las correas NATO son baratas ($10-30) y transforman la apariencia del reloj. Ten varias en diferentes colores."
+            },
+            {
+              "title": "Los relojes de campo más pequeños funcionan mejor",
+              "content": "Tamaños vintage de 36-38mm son auténticos y usan cómodamente. No necesitas 44mm en un reloj de campo."
+            },
+            {
+              "title": "Considera el vintage",
+              "content": "Los relojes de campo militares vintage (Hamilton, Bulova de los años 40-60) son asequibles y tienen historia real."
+            }
+          ]
+        }
+      },
+      "gmt": {
+        "hero": {
+          "title": "Relojes GMT",
+          "subtitle": "Para el Ciudadano Global",
+          "description": "Los relojes GMT rastrean múltiples zonas horarias simultáneamente, haciendo que sean herramientas esenciales para viajeros internacionales, pilotos y cualquiera que trabaje a través de zonas horarias."
+        },
+        "intro": "En un mundo cada vez más conectado, rastrear múltiples zonas horarias se ha vuelto esencial. El reloj GMT (Greenwich Mean Time) resuelve este problema con elegancia usando una aguja adicional de 24 horas y un bisel giratorio. Originalmente diseñado para pilotos de Pan Am volando rutas transatlánticas, el GMT se ha convertido en el reloj de elección para viajeros de negocios, expatriados y cualquiera que necesite mantenerse conectado a través de zonas horarias. Ya sea rastreando la hora de casa mientras viajas, coordinando con colegas en continentes diferentes o simplemente queriendo saber cuándo llamar a familia en el extranjero, un reloj GMT hace que la navegación de zona horaria sea sin esfuerzo.",
+        "whatMakes": {
+          "title": "Cómo Funcionan los Relojes GMT",
+          "features": [
+            {
+              "title": "Aguja GMT de 24 Horas",
+              "description": "Cuarta aguja rotando una vez cada 24 horas",
+              "detail": "Usualmente en color brillante (rojo, naranja) para distinguirla de las agujas de hora/minuto"
+            },
+            {
+              "title": "Bisel GMT de 24 Horas",
+              "description": "Bisel bidireccional o fijo con marcas de 24 horas",
+              "detail": "Permite rastrear una segunda o tercera zona horaria cuando se combina con la aguja GMT"
+            },
+            {
+              "title": "Movimiento GMT Verdadero vs. Caller",
+              "description": "Dos tipos de funcionalidad GMT",
+              "detail": "GMT verdadero: la aguja de hora salta en incrementos de 1 hora. Caller: la aguja GMT se establece independientemente"
+            },
+            {
+              "title": "Indicación de Fecha",
+              "description": "Usualmente incluida",
+              "detail": "Ayuda a rastrear fechas al cruzar zonas horarias y la línea de fecha internacional"
+            }
+          ]
+        },
+        "history": {
+          "title": "Historia de los Relojes GMT",
+          "content": "El Rolex GMT-Master fue creado en 1954 en colaboración con Pan American World Airways. Los pilotos de Pan Am volando la nueva ruta transatlántica necesitaban rastrear tanto la hora local como la GMT (usada en navegación aérea). Rolex respondió con el GMT-Master, con su icónica aguja GMT roja y bisel azul/rojo 'Pepsi' representando día y noche. El reloj se convirtió en emitido estándar a tripulaciones de Pan Am y otros pilotos de aerolíneas. La funcionalidad GMT rápidamente se extendió más allá de la aviación a viajeros de negocios, diplomáticos y entusiastas. Hoy, casi cada marca importante ofrece un reloj GMT, desde opciones de nivel de entrada como el Seiko 5 Sports GMT hasta piezas de lujo como el Patek Philippe Aquanaut Travel Time. El GMT permanece como una de las complicaciones de reloj más prácticas y buscadas."
+        },
+        "icons": {
+          "title": "Relojes GMT Icónicos",
+          "models": [
+            {
+              "brand": "Rolex",
+              "model": "GMT-Master II",
+              "price": "$10,000 - $40,000+",
+              "highlight": "El GMT original y definitivo, bisel Pepsi icónico"
+            },
+            {
+              "brand": "Tudor",
+              "model": "Black Bay GMT",
+              "price": "$4,000 - $5,000",
+              "highlight": "Valor GMT excepcional, estética Pepsi"
+            },
+            {
+              "brand": "Grand Seiko",
+              "model": "Sport GMT",
+              "price": "$6,000 - $8,000",
+              "highlight": "Precisión superior, acabado exquisito"
+            },
+            {
+              "brand": "Omega",
+              "model": "Seamaster Aqua Terra GMT",
+              "price": "$6,000 - $8,000",
+              "highlight": "Versatilidad de vestir, resistente al agua"
+            },
+            {
+              "brand": "Seiko",
+              "model": "5 Sports GMT",
+              "price": "$400 - $600",
+              "highlight": "Punto de entrada GMT asequible, automático"
+            },
+            {
+              "brand": "Ball",
+              "model": "Engineer Hydrocarbon GMT",
+              "price": "$2,000 - $3,000",
+              "highlight": "Tubos de gas tritio para lume, gran valor"
+            }
+          ]
+        },
+        "types": {
+          "title": "GMT Verdadero vs. Caller GMT",
+          "content": "Entender la diferencia es crucial al elegir un GMT:",
+          "comparison": [
+            {
+              "type": "GMT Verdadero (Flyer GMT)",
+              "description": "La aguja de hora salta independientemente en incrementos de 1 hora. La aguja GMT y minutero permanecen sincronizados con tu 'hora de casa'. Perfecto para: pilotos y viajeros frecuentes que cambian zonas horarias a menudo.",
+              "examples": "Rolex GMT-Master II, Grand Seiko GMT, Tudor Black Bay GMT"
+            },
+            {
+              "type": "Caller GMT (Office GMT)",
+              "description": "La aguja GMT se establece independientemente. Las agujas de hora/minuto se mueven juntas. Perfecto para: personas que permanecen en una zona horaria pero necesitan rastrear otra (oficinas en casa).",
+              "examples": "Rolex Explorer II, muchos GMTs de nivel de entrada"
+            }
+          ]
+        },
+        "using": {
+          "title": "Cómo Usar un Reloj GMT",
+          "steps": [
+            {
+              "step": "Configuración Inicial",
+              "instruction": "Establece la hora local con agujas de hora/minuto. Establece la aguja GMT a tu 'hora de casa' o zona horaria de referencia."
+            },
+            {
+              "step": "Rastreando Segunda Zona Horaria",
+              "instruction": "Lee la aguja GMT contra las marcas de 24 horas en el bisel o esfera."
+            },
+            {
+              "step": "Rastreando Tercera Zona Horaria",
+              "instruction": "Gira el bisel GMT para alinear la zona horaria deseada con la aguja GMT. Lee las agujas de hora contra el bisel para la tercera zona horaria."
+            },
+            {
+              "step": "Cambiando Zonas Horarias (GMT Verdadero)",
+              "instruction": "Saca la corona una posición. Salta la aguja de hora hacia adelante o atrás a la nueva hora local. La aguja GMT permanece en la hora de casa."
+            }
+          ]
+        },
+        "whenToWear": {
+          "title": "Quién Debería Elegir un GMT",
+          "personas": [
+            {
+              "type": "Viajeros Internacionales Frecuentes",
+              "description": "Si cruzas zonas horarias regularmente, un GMT (especialmente GMT verdadero) es invaluable."
+            },
+            {
+              "type": "Profesionales de Negocios",
+              "description": "Rastrear hora de oficina en casa mientras trabajas con clientes/colegas internacionales."
+            },
+            {
+              "type": "Expatriados",
+              "description": "Vivir en un país mientras mantiene conexión con hora de casa/familia."
+            },
+            {
+              "type": "Pilotos y Tripulación de Cabina",
+              "description": "El propósito original - rastreando hora local y zulu (GMT) para navegación."
+            },
+            {
+              "type": "Amantes de Complicaciones",
+              "description": "GMTs ofrecen funcionalidad práctica sin la complejidad de cronógrafos."
+            }
+          ]
+        },
+        "proTips": {
+          "title": "Consejos de Expertos para Usuarios GMT",
+          "tips": [
+            {
+              "title": "Configura la aguja GMT a UTC/GMT",
+              "content": "Muchos profesionales establecen la aguja GMT a Tiempo Universal Coordinado (UTC/GMT) ya que es la referencia estándar mundial."
+            },
+            {
+              "title": "El bisel Pepsi es funcional",
+              "content": "Los colores azul/rojo no son solo estética: azul representa noche (PM), rojo representa día (AM) en la escala de 24 horas."
+            },
+            {
+              "title": "Elige basado en tu patrón de viaje",
+              "content": "Si permaneces principalmente en un lugar: Caller GMT. Si viajas constantemente: GMT verdadero con aguja de hora que salta."
+            },
+            {
+              "title": "Combínalo con aplicaciones de reloj mundial",
+              "content": "Un reloj GMT es genial, pero para rastrear múltiples zonas horarias, complémentalo con una aplicación de smartphone."
+            }
+          ]
+        }
+      },
+      "digital": {
+        "hero": {
+          "title": "Relojes Digitales y Smartwatches",
+          "subtitle": "Evolución del Cronometraje",
+          "description": "Desde el revolucionario G-Shock hasta smartwatches modernos, los relojes digitales representan innovación tecnológica y funcionalidad práctica que complementa y desafía la relojería mecánica tradicional."
+        },
+        "intro": "Los relojes digitales han recorrido un largo camino desde las pantallas LED rojas de los años 70. Hoy abarcan desde los legendarios G-Shocks prácticamente indestructibles hasta smartwatches sofisticados que rastrean tu salud, pagan tus compras y te mantienen conectado. Mientras los puristas de relojes pueden desdeñar los digitales, representan innovación real y resuelven problemas que los relojes mecánicos no pueden. Un smartwatch puede rastreear tu ritmo cardíaco, navegarte a través de ciudades desconocidas y permitirte tomar llamadas. Un G-Shock puede sobrevivir una caída desde un edificio. Los relojes mecánicos son hermosos, pero los digitales son prácticos. Hay espacio en cada colección para ambos.",
+        "whatMakes": {
+          "title": "Tipos de Relojes Digitales",
+          "categories": [
+            {
+              "type": "LCD Digitales Clásicos",
+              "description": "Pantallas de cristal líquido mostrando tiempo en formato numérico",
+              "features": "Económicos, batería de larga duración, multifuncionales",
+              "examples": "Casio F-91W, Timex Ironman"
+            },
+            {
+              "type": "Digitales Resistentes (G-Shock)",
+              "description": "Ultra-duraderos con protección contra golpes",
+              "features": "Resistencia a golpes, 200m WR, múltiples alarmas, cronómetro",
+              "examples": "Casio G-Shock serie DW, Mudmaster, Rangeman"
+            },
+            {
+              "type": "Digitales Ana-Digi",
+              "description": "Híbridos combinando agujas analógicas con display digital",
+              "features": "Lo mejor de ambos mundos: estética tradicional con características digitales",
+              "examples": "Casio G-Shock serie GA, Seiko Arnie, Breitling Aerospace"
+            },
+            {
+              "type": "Smartwatches",
+              "description": "Computadoras portátiles con conectividad smartphone",
+              "features": "Rastreo de fitness, notificaciones, pagos, aplicaciones, monitoreo de salud",
+              "examples": "Apple Watch, Samsung Galaxy Watch, Garmin Fenix"
+            },
+            {
+              "type": "Digitales de Lujo",
+              "description": "Relojes digitales de marcas de lujo",
+              "features": "Materiales premium, tecnología innovadora, alta relojería",
+              "examples": "TAG Heuer Connected, Urwerk EMC, MB&F HM5"
+            }
+          ]
+        },
+        "history": {
+          "title": "Historia de los Relojes Digitales",
+          "content": "El primer reloj digital fue el Hamilton Pulsar (1970), un reloj LED que costaba $2,100 ($14,000 hoy). Presionabas un botón y números rojos brillaban. Los LEDs fueron reemplazados por pantallas LCD en los años 70, haciendo los digitales asequibles. El Casio F-91W (1989) se convirtió en uno de los relojes más vendidos de la historia - todavía se produce hoy a $10-20. El verdadero cambio de juego vino en 1983 cuando Casio lanzó el G-Shock DW-5000C. El diseñador Kikuo Ibe quería crear un reloj que nunca se rompiera. Después de probar más de 200 prototipos, logró resistencia a golpes usando construcción modular y diseño de doble caja. El G-Shock se convirtió en legendario entre militares, personal de emergencias y cualquiera que necesite durabilidad extrema. En 2015, Apple redefinió el espacio de relojes con el Apple Watch, fusionando tecnología de smartphone con formato de pulsera. Hoy, los smartwatches dominan las ventas de relojes globales, aunque los mecánicos mantienen prestigio y romance."
+        },
+        "gshock": {
+          "title": "El Fenómeno G-Shock",
+          "content": "Ninguna discusión de relojes digitales está completa sin G-Shock. Estos relojes japoneses prácticamente indestructibles se han convertido en íconos culturales. La construcción de protección contra golpes significa que el módulo flotante está suspendido dentro de la caja, protegido de impactos. Son resistentes al agua a 200m. Muchos modelos presentan energía solar, sincronización de radio atómica y conectividad Bluetooth. Están usados por personal militar, primeros respondedores, atletas extremos y entusiastas de la moda por igual. Modelos populares: DW-5600 (el 'cuadrado' clásico), GA-2100 (el 'CasiOak' delgado), Mudmaster, Rangeman, Frogman. Los G-Shocks van desde $50 a $5,000+ para ediciones colaborativas limitadas. Un G-Shock es posiblemente el reloj más práctico que puedes poseer - nunca necesitas preocuparte por él.",
+          "icons": {
+            "title": "Digitales y Smartwatches Icónicos",
+            "models": [
+              {
+                "brand": "Casio",
+                "model": "G-Shock DW-5600",
+                "price": "$50 - $100",
+                "highlight": "El G-Shock original y definitivo, prácticamente indestructible"
+              },
+              {
+                "brand": "Casio",
+                "model": "F-91W",
+                "price": "$10 - $20",
+                "highlight": "El digital más vendido en la historia, icono de funcionalidad"
+              },
+              {
+                "brand": "Apple",
+                "model": "Apple Watch Ultra",
+                "price": "$800 - $900",
+                "highlight": "El smartwatch más avanzado, rastreo de salud integral"
+              },
+              {
+                "brand": "Garmin",
+                "model": "Fenix 7",
+                "price": "$700 - $900",
+                "highlight": "Smartwatch multi-deporte, batería de larga duración"
+              },
+              {
+                "brand": "Casio",
+                "model": "Pro Trek",
+                "price": "$200 - $500",
+                "highlight": "Sensores ABC (altímetro, barómetro, brújula), aventuras al aire libre"
+              },
+              {
+                "brand": "Suunto",
+                "model": "9 Peak Pro",
+                "price": "$500 - $600",
+                "highlight": "Rendimiento atlético, batería de ultra-larga duración"
+              }
+            ]
+          },
+          "smartwatches": {
+            "title": "Relojes Mecánicos vs. Smartwatches: El Debate",
+            "content": "Los entusiastas de relojes a menudo preguntan: ¿Debería comprar un smartwatch o un reloj mecánico? La respuesta: ambos sirven propósitos diferentes. Los smartwatches son herramientas - rastrean fitness, notificaciones, navegación. Los mecánicos son objetos - artesanía, herencia, arte. Un Apple Watch te dirá tu ritmo cardíaco y te permitirá responder textos. Un Rolex Submariner te hará sentir conectado a décadas de historia relojera. Muchos entusiastas usan un smartwatch durante la semana para funcionalidad, luego cambian a un mecánico los fines de semana para disfrute. No necesitas elegir lados en esta guerra. Posee ambos. Usa cada uno cuando tenga sentido."
+          },
+          "choosing": {
+            "title": "Elegir el Reloj Digital Correcto",
+            "sections": [
+              {
+                "title": "Para Durabilidad Extrema",
+                "content": "G-Shock es imbatible. Si trabajas en construcción, militares, primeros respondedores o simplemente eres duro con los relojes, nada más puede tomar el castigo."
+              },
+              {
+                "title": "Para Rastreo de Fitness",
+                "content": "Apple Watch (usuarios de iPhone) o Samsung Galaxy Watch (Android) ofrecen el mejor rastreo de salud y ecosistema de aplicaciones. Garmin/Suunto para atletas serios."
+              },
+              {
+                "title": "Para Actividades al Aire Libre",
+                "content": "Casio Pro Trek o Garmin Fenix con sensores ABC (altímetro, barómetro, brújula) y GPS."
+              },
+              {
+                "title": "Para Simplicidad",
+                "content": "Casio F-91W. $15, hace todo lo básico, batería dura años, pesa nada."
+              }
+            ]
+          },
+          "proTips": {
+            "title": "Consejos de Expertos para Relojes Digitales",
+            "tips": [
+              {
+                "title": "La duración de batería importa",
+                "content": "Los smartwatches típicamente duran 1-2 días. Los digitales básicos duran años. Los G-Shocks solares nunca necesitan baterías. Considera tu estilo de vida."
+              },
+              {
+                "title": "Los digitales son relojes de herramienta perfectos",
+                "content": "Usa un digital para actividades donde te preocuparías por dañar un reloj mecánico: deportes, construcción, jardinería."
+              },
+              {
+                "title": "Los smartwatches se deprecian rápido",
+                "content": "Un Apple Watch pierde valor rápidamente. Los relojes mecánicos mantienen o aprecian valor. Compra smartwatches para funcionalidad, no como inversión."
+              },
+              {
+                "title": "Los G-Shocks se coleccionan",
+                "content": "Ediciones limitadas de G-Shock, colaboraciones y modelos vintage se han vuelto coleccionables. El mercado de G-Shock es activo."
+              }
+            ]
           }
         }
       }
